@@ -12,4 +12,19 @@
 		 "icono": "https://e00-mx-marca.uecdn.es/mx/assets/multimedia/imagenes/2023/07/26/16903226790564.png"
       }
     ]
+  },
+	 {
+    "name": "MLS SOLO EVENTOS",
+    "samples": [
+         {  
+        "name": "LAFC vs. Miami",
+        "uri": "https://archive.org/download/Videomessi/Videomessi.mp4",
+		 "icono": "https://e00-mx-marca.uecdn.es/mx/assets/multimedia/imagenes/2023/07/26/16903226790564.png"
+      }, {  
+        "name": "LAFC vs. Miami",
+        "uri": "https://archive.org/download/Videomessi/Videomessi.mp4",
+		 "icono": "https://e00-mx-marca.uecdn.es/mx/assets/multimedia/imagenes/2023/07/26/16903226790564.png"
+      }
+    ]
+  }
 ]
