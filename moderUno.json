@@ -1902,46 +1902,60 @@
     "name": "STAR+ EVENTOS",
     "samples": [
       {
-        "name": "Stuttgart vs. Darmstadt 98",
-        "uri": "https://live-ftc-na-south-2.media.starott.com/clt2/va01/starplus/event/2023/09/22/Stuttgart_vs_Darmstadt_98_20230922_1695401452037/ctr-all-complete.m3u8",
-        "drm_scheme": "widevine",
-        "icono": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/star/CE221DC26A3D4DFFC0CD2CD5EB0C62E20E085CFDF0B5EA8441D4B65ACB9F4AF8/scale?width=320",
-        "drm_license_uri": "http://pedorro.duckdns.org/star/index.php"
-      },
-      {
-        "name": "Lecce vs. Genoa",
-        "uri": "https://live-ftc-na-south-2.media.starott.com/clt2/va01/starplus/event/2023/09/22/Lecce_vs_Genoa_20230922_1695402005053/ctr-all-complete.m3u8",
-        "drm_scheme": "widevine",
-        "icono": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/star/FF6B034F3B6E3CAE4F6EF4AEB154F34BF457160022F7D62A8EF4E64574F84807/scale?width=320",
-        "drm_license_uri": "http://pedorro.duckdns.org/star/index.php"
-      },
-      {
-        "name": "Standard Liege vs. KVC Westerlo",
-        "uri": "https://live-ftc-na-south-2.media.starott.com/clt2/va01/starplus/event/2023/09/22/Standard_Liege_vs_KVC_Wes_20230922_1695402613022/ctr-all-complete.m3u8",
-        "drm_scheme": "widevine",
-        "icono": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/star/3A0F80C2C2ACBFED0074F470EF1A552E372B111464A39BBE9B3E179263E36EC0/scale?width=320",
-        "drm_license_uri": "http://pedorro.duckdns.org/star/index.php"
-      },
-      {
-        "name": "Monaco vs. Nice",
-        "uri": "https://live-ftc-na-south-2.media.starott.com/clt2/va01/starplus/event/2023/09/22/Monaco_vs_Nice_20230922_1695403202074/ctr-all-complete.m3u8",
-        "drm_scheme": "widevine",
-        "icono": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/star/4C024A08D339219FA41A5405974A1FF6593E89C363D1D972A778D8F937B5836E/scale?width=320",
-        "drm_license_uri": "http://pedorro.duckdns.org/star/index.php"
-      },
-      {
-        "name": "Birmingham City vs. Queens Park Rangers",
-        "uri": "https://live-ftc-na-south-2.media.starott.com/clt2/va01/starplus/event/2023/09/22/Birmingham_City_vs_Queens_20230922_1695403243039/ctr-all-complete.m3u8",
-        "drm_scheme": "widevine",
-        "icono": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/star/4906A27FE951BA9901F05C0A3907206D49B250AA8EB21F1AA8B0FEF365E82D05/scale?width=320",
-        "drm_license_uri": "http://pedorro.duckdns.org/star/index.php"
-      },
-      {
-        "name": "Italia vs. Estados Unidos (Grupo C)",
-        "uri": "https://live-ftc-na-south-2.media.starott.com/clt2/va01/starplus/event/2023/09/22/Italy_vs_United_States_Po_20230922_1695402957037/ctr-all-complete.m3u8",
-        "drm_scheme": "widevine",
-        "icono": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/star/F5FCB05DF056439A40F3E0921225DADDEA991263C5841AEEDB7F8D35454EC5AE/scale?width=320",
-        "drm_license_uri": "http://pedorro.duckdns.org/star/index.php"
+                "name": "Coviran Granada vs. UCAM Murcia (Fecha #1)",
+                "uri": "https://live-ftc-na-south-2.media.starott.com/clt2/va01/starplus/event/2023/09/23/Coviran_Granada_vs_UCAM_M_20230923_1695479450028/ctr-all-complete.m3u8",
+                "drm_scheme": "widevine",
+                "icono": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/star/345634008C708783B4DC56DBDFACA402AF5791F64C77631EDF6F4F3753FCF52C/scale?width=320",
+                "drm_license_uri": "http://pedorro.duckdns.org/star/index.php"
+            },
+            {
+                "name": "Brentford vs. Everton",
+                "uri": "https://live-ftc-na-south-2.media.starott.com/clt2/va01/starplus/event/2023/09/23/Brentford_vs_Everton_20230923_1695479412042/ctr-all-complete.m3u8",
+                "drm_scheme": "widevine",
+                "icono": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/star/F8E71AC75F2B37270007917818938486CF4EC40D9B975E4B050696D134988279/scale?width=320",
+                "drm_license_uri": "http://pedorro.duckdns.org/star/index.php"
+            },
+            {
+                "name": "Werder Bremen vs. Koln",
+                "uri": "https://live-ftc-na-south-2.media.starott.com/clt2/va01/starplus/event/2023/09/23/Werder_Bremen_vs_Koln_20230923_1695480650035/ctr-all-complete.m3u8",
+                "drm_scheme": "widevine",
+                "icono": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/star/4E6BBB3FA978881DD0D141E1D1DD2A8F312CD557FB1AB5381A85BAA3D9FE54B3/scale?width=320",
+                "drm_license_uri": "http://pedorro.duckdns.org/star/index.php"
+            },
+            {
+                "name": "Istanbul Basaksehir vs. Galatasaray",
+                "uri": "https://live-ftc-na-south-2.media.starott.com/clt2/va01/starplus/event/2023/09/23/Istanbul_Basaksehir_vs_Ga_20230923_1695482731036/ctr-all-complete.m3u8",
+                "drm_scheme": "widevine",
+                "icono": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/star/01567854A463402644E941A9805CF57E87C1A44CD71A2FF2BAD628C5A0B4415F/scale?width=320",
+                "drm_license_uri": "http://pedorro.duckdns.org/star/index.php"
+            },
+            {
+                "name": "Almere City FC vs. PSV",
+                "uri": "https://live-ftc-na-south-2.media.starott.com/clt2/va01/starplus/event/2023/09/23/Almere_City_FC_vs_PSV_20230923_1695486049036/ctr-all-complete.m3u8",
+                "drm_scheme": "widevine",
+                "icono": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/star/9998032F56FEFF5E7B8FC7BD91EF36977C0AEC07923821E9C91E640C8B1B28B2/scale?width=320",
+                "drm_license_uri": "http://pedorro.duckdns.org/star/index.php"
+            },
+            {
+                "name": "Lazio vs. Monza",
+                "uri": "https://live-ftc-na-south-2.media.starott.com/clt2/va01/starplus/event/2023/09/23/Lazio_vs_Monza_20230923_1695489012023/ctr-all-complete.m3u8",
+                "drm_scheme": "widevine",
+                "icono": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/star/8BF4D4EF1C60C4131121BE26AC2EB21389AA481CE7F49BD3E5274EE4E9942472/scale?width=320",
+                "drm_license_uri": "http://pedorro.duckdns.org/star/index.php"
+            },
+            {
+                "name": "Burnley vs. Manchester United",
+                "uri": "https://live-ftc-na-south-2.media.starott.com/clt2/va01/starplus/event/2023/09/23/Burnley_vs_Manchester_Uni_20230923_1695488429039/ctr-all-complete.m3u8",
+                "drm_scheme": "widevine",
+                "icono": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/star/3FFA87421A0F12B4096653CDB00F721ADA04289C4C245FE39CCDC61A66898F04/scale?width=320",
+                "drm_license_uri": "http://pedorro.duckdns.org/star/index.php"
+            },
+            {
+                "name": "Brest vs. Lyon",
+                "uri": "https://live-ftc-na-south-2.media.starott.com/clt2/va01/starplus/event/2023/09/23/Brest_vs_Lyon_20230923_1695489654032/ctr-all-complete.m3u8",
+                "drm_scheme": "widevine",
+                "icono": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/star/F690AC0C1A5D1C840D541031B6727956C377AF9999D16E2DBC890B4855AAB784/scale?width=320",
+                "drm_license_uri": "http://pedorro.duckdns.org/star/index.php"
       }
     ]
   }
