@@ -38,65 +38,105 @@
         "icono": "https://i.ibb.co/gwP3gYy/k-Jzdzpsx-JCk-Lsw-IZr-C09f-WZaen5cn-Gue-Dt4rt-I5qbg-dcudz0-bd5s-Terqh-Gvme-Kvg.png"
       }
     ]
-  },
+ },
   {
-    "name": "MUNDIAL ELIMINATORIAS SUDAMERICANAS 2026",
+    "name": "MUSICA",
     "samples": [
       {
-        "name": "TV PUBLICA",
-        "uri": "https://chromecast.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc/Canal7.mpd",
+        "icon": "https://static.flow.com.ar/images/715/CH_LOGO/350/500/0/0/80393273073281.png",
+        "name": "QUIERO TV",
+        "uri": "https://chromecast.cvattv.com.ar/live/c6eds/Quiero_HD/SA_Live_dash_enc/Quiero_HD.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=cc8c82ac2ec7e9799527c29db7354e81&key=cc4aae173dd2ef17ae26be3f7ae87662",
-        "icono": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fcms%2Fid%2F37133279"
+        "drm_license_url": "http://51.161.34.23/k/results.php?keyid=a354b0c82a3a720c4a6f52ed5a1190f4&key=45a76dcc84f058cfabc8b958d7303b28"
       },
       {
-        "name": "GEN TV ",
-        "uri": "http://edge-live16-sl.cvattv.com.ar/live/c7eds/GEN_TV/SA_Live_dash_enc/GEN_TV.mpd",
+        "icon": "https://static.flow.com.ar/images/699/CH_LOGO/350/500/0/0/1116039107115.png",
+        "name": "HTV",
+        "uri": "https://chromecast.cvattv.com.ar/live/c6eds/HTV/SA_Live_dash_enc_2A/HTV.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://dl.dropbox.com/s/1w2rvmtzxk1447m/KEY.GENTV.json",
-        "icono": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fcms%2Fid%2F37133279"
+        "drm_license_url": "http://51.161.34.23/k/results.php?keyid=daecef5fe32f4ce083c6a0c692755d6a&key=d4227f24389a9ba77293214b93eb0d7d"
       },
       {
-        "name": "DIRECTV",
-        "uri": "https://dtvott-bpk-bpk.akamaized.net/dash_live_1060/manifest.mpd",
+        "icon": "https://static.flow.com.ar/images/707/CH_LOGO/350/500/0/0/14664562073858.png",
+        "name": "MTV",
+        "uri": "https://chromecast.cvattv.com.ar/live/c6eds/MTV_HD/SA_Live_dash_enc/MTV_HD.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e9bc6a1c64e05c35aa72e12b16d35247&key=07c1735adac15de877df3f81b4fc4731",
-        "icono": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fcms%2Fid%2F37133279"
+        "drm_license_url": "http://51.161.34.23/k/results.php?keyid=0c9eb3ead38a122ac460ad96a8ebfd2e&key=66bfbfa4449eb8bc1bcf7577d5bffaad"
       },
       {
-        "name": "DIRECTV +",
-        "uri": "https://dtvott-abc.akamaized.net/dash_live_1071/manifest.mpd",
+        "icon": "https://static.flow.com.ar/images/1022/CH_LOGO/350/500/0/0/3867624707727.png",
+        "name": "MTV HITS",
+        "uri": "https://chromecast.cvattv.com.ar/live/c6eds/MTV_Hits/SA_Live_dash_enc/MTV_Hits.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/dtv+.json",
-        "icono": "https://i.postimg.cc/jS23T437/directvplus.jpg"
+        "drm_license_url": "http://51.161.34.23/k/results.php?keyid=61008dfc867544cd872de99b1f2b82cf&key=716449756316b91c54803aaa22a2fbf0"
       },
       {
-        "name": "tv caracol",
-        "uri": "https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1035",
+        "icon": "https://static.flow.com.ar/images/708/CH_LOGO/350/500/0/0/987873140728.png",
+        "name": "MUCH MUSIC",
+        "uri": "https://chromecast.cvattv.com.ar/live/c6eds/Much_Music/SA_Live_dash_enc/Much_Music.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=590eab6833d435ff94cc9a5af93a4319&key=5e73fb08358db634dfb919d853cec46f",
-        "icono": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fcms%2Fid%2F37133279"
+        "drm_license_url": "http://51.161.34.23/k/results.php?keyid=1cb0558f9ddd4820bc9982ce483e5888&key=c2845f4c554fcaf96a13da4a373868c4"
       },
       {
-        "name": "TV CHILEVISION",
-        "uri": "https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1040",
+        "name": "VORTERIX",
+        "icon": "https://static.flow.com.ar/images/7018/CH_LOGO/350/500/0/0/25297928074330.png",
+        "uri": "https://chromecast.cvattv.com.ar/live/c6eds/Vorterix/SA_Live_dash_enc_2A/Vorterix.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b9870e2924a93afba14c1bcd2f02c6b2&key=f98bda8234d3f2397cc1e5ca35c2c34c",
-        "icono": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fcms%2Fid%2F37133279"
+        "drm_license_uri": "http://167.114.129.223/web/vorterix.json"
       },
       {
-        "name": "TYC SPORT",
-        "uri": "https://chromecast.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd",
+        "name": "CM",
+        "icon": "https://static.flow.com.ar/images/674/CH_LOGO/350/500/0/0/3383758507230.png",
+        "uri": "https://chromecast.cvattv.com.ar/live/c6eds/CM/SA_Live_dash_enc_2A/CM.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2b21c8fa9a329cce311a4c4a4aa996a1&key=cc23ea1fb32629f9e1f48c8deeae3e5b",
-        "icono": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fcms%2Fid%2F37133279"
+        "drm_license_url": "http://51.161.34.23/k/results.php?keyid=682f36b5736f4560951ca14b80d29524&key=3accb729067a39b3b8143f1b447b9d25"
       },
       {
-        "name": "ECDF",
-        "uri": "https://dtvott-abc.akamaized.net/dash_live_1038/manifest.mpd",
+        "name": "ALLEGRO HD",
+        "icon": "https://static.flow.com.ar/images/7277/CH_LOGO/350/500/0/0/75476816073439.png",
+        "uri": "https://chromecast.cvattv.com.ar/live/c7eds/AllegroHD/SA_Live_dash_enc_2A/AllegroHD.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6575e2cb849b581480ab260b70ccfab6&key=0b6b8622989104f69b2db91630ed0eaf",
-        "icono": "https://www.televisiongratis.tv/components/com_televisiongratis/images/el-canal-del-ftbol-2289.png"
+        "drm_license_url": "http://51.161.34.23/k/results.php?keyid=c089a275016e1bd525d698bca0995445&key=fcf6e10f9c01396005d2731e8db6cab9"
+      },
+      {
+        "name": "NUEVOS CLASICOS",
+        "icon": "",
+        "uri": "https://musicsrc.cvattv.com.ar/RM03"
+      },
+      {
+        "name": "ELECTRONICA",
+        "icon": "",
+        "uri": "https://musicsrc.cvattv.com.ar/RM41"
+      },
+      {
+        "name": "GRANDES DEL ROCK",
+        "icon": "",
+        "uri": "https://musicsrc.cvattv.com.ar/RM18"
+      },
+      {
+        "name": "REGGAETON ROMANTICO",
+        "icon": "",
+        "uri": "https://musicsrc.cvattv.com.ar/RM30"
+      },
+      {
+        "name": "MUSICA LATINA",
+        "icon": "",
+        "uri": "https://musicsrc.cvattv.com.ar/RM31"
+      },
+      {
+        "name": "REGGAETON",
+        "icon": "",
+        "uri": "https://musicsrc.cvattv.com.ar/RM29"
+      },
+      {
+        "name": "ROCK NACIONAL",
+        "icon": "",
+        "uri": "https://musicsrc.cvattv.com.ar/RM17"
+      },
+      {
+        "name": "TOP 40 MEJORES",
+        "icon": "",
+        "uri": "https://musicsrc.cvattv.com.ar/RM01"
       }
     ]
   },
