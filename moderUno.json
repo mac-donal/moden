@@ -310,9 +310,9 @@
     "samples": [
       {
         "name": "TELEFE",
-        "uri": "http://edge-live16-sl.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc_2A/TelefeHD.mpd",
+        "uri": "LX46EnLWmPsTQWzzE5C2pN8578AuYU8BaXP63OyHIHVz1ZzaOmfr58dAcdKDqlXD3zxFnUQ5EMFlCpCx0p3If1EDbCJGcjGg6FnFCLaeBCl+UEZ3heEI6NEm/9rw8LsY",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/pndw7j4les9ipwv2igj75/KEY.TELEFE.json?rlkey=glk8cggb1vdusado5sfnko1v9&dl=0",
+        "drm_license_uri": "TQSPBT5fFAmrHLJIeXbfeRot4VwoQvZzOHVoVQxwL9ZcDOl7ej8In/WRXaFNiQCgrwBbZjNdaeZzcK51rUzk2hKUoZ/MJnEX9rOtrbtqEkgVIkbkJnzUyHewqNTIcQhT2NWwQyXiwm9aUy2k223IFg==",
         "icono": "https://i.ibb.co/JHHx4HH/e1dc8733904ec35e5d081ebbf0eb2d64-750x400.gif"
       },
       {
