@@ -1649,7 +1649,7 @@
       },
       {
         "name": "FOX SPORTS 2",
-        "uri": "iC9tpukw7a8ViVTMaV/6sbH/GdRe8YCWaoPUkZ2suYFtsvW7f3otGuwpH5X43EpkkWyEfxmZVQBKnsdHB/EZgCVnDDHag0KvsHd6B5C4NOsJHa4/UFKeqyySb7vfNHcQM/2Cw3I6qEGBldS0SL91fA==",
+        "uri": "KusJ5ShfomSLrFIJxHev/qO9585W8+vgOl/77FW3gEJ6mJt29B/oqSANh0rphCn6kA1UepUlxRzxpIU3OTwRt+Jtqx7A3vUxYcbP+61Ty277ERSdbA4wy+wAUhmxcNtp5FLgOLdmyJMRa8FcrSEHdg==",
         "drm_scheme": "clearkey",
         "drm_license_uri": "TQSPBT5fFAmrHLJIeXbfef3V34QEuYXLXSSJpHnvValpL93GOqk1FFMWQKlyGGK2qhkmNjFF5OQd9nB7na/XfQ3ZDW3JJqjxxq/KfWccWkX3YtpWJur108lDBcRTJ/6ogPf5M+JJHMuSH7I2d6OFXw==",
         "icono": "https://i.ibb.co/b1TmtjS/ar-fox-sports-2-m.png"
@@ -1952,5 +1952,6 @@
         "icono": "https://i.ibb.co/wsFdGGn/dazn2.png"
       }
     ]
-  }
+  },
+  {}
 ]
