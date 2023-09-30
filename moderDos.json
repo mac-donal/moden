@@ -1,77 +1,7 @@
 [
   {
-    "name": "El regreso de sombras en la nochee",
+    "name": "PELICULAS RECIEN AGREGADAS ",
     "samples": [
-      {
-        "name": "Pláta Yvy Guýpe",
-        "uri": "Bxiz1sRKa8YTnDJ4REA2XCD+sP+iym+P4yudNAkKuug97vVem4fSy+Ag5eN1iYHtGQP5jz7Bd+m4cMpCmyTb3wqvY04boVua5uiD8u80R38=",
-        "icono": "https://i.ibb.co/x3PpTnT/sonbreas-en-la-noche.jpg"
-      },
-      {
-        "name": "La Casa Del Horror",
-        "uri": "Bxiz1sRKa8YTnDJ4REA2XOIqWEy0rW26SUb6ismSe6536NlcFMe5Rv9Xm0VM8x9v4BgQpE46GVPRwB6uK3498nU4BgLBu2bRzWwvrnt8Trw=",
-        "icono": "https://i.ibb.co/x3PpTnT/sonbreas-en-la-noche.jpg"
-      },
-      {
-        "name": "Post Mortem",
-        "uri": "Bxiz1sRKa8YTnDJ4REA2XKG9BvUH0DaH7a64mU1xp/oARXW3juCUGnynkmwNYziD1ySohMqPcvzoWb3YFJbaJmELEyaZiPGsBk+yV1hwCSc=",
-        "icono": "https://i.ibb.co/x3PpTnT/sonbreas-en-la-noche.jpg"
-      },
-      {
-        "name": "Jasy Jatere",
-        "uri": "Bxiz1sRKa8YTnDJ4REA2XOYITX2xFa4DsWjn4GIbH5f8pJgP6NrMPu2Pe4z7CpY0aw+YpD50liB31fFVjrS24w==",
-        "icono": "https://i.ibb.co/x3PpTnT/sonbreas-en-la-noche.jpg"
-      },
-      {
-        "name": "Kurundu",
-        "uri": "Bxiz1sRKa8YTnDJ4REA2XPZKz+aTQifvimKq+tXh9o0yQjhqAH/MnMnC+GJxIo2WaeOQC5B3HMPhPFrje2g56Q==",
-        "icono": "https://i.ibb.co/x3PpTnT/sonbreas-en-la-noche.jpg"
-      }
-    ]
-  },
-  {
-    "name": "PELICULAS EN CINES",
-    "samples": [
-      {
-        "name": "Marilina atreverse a Soñar la Serie parte 1 ",
-        "uri": "+uxbpBfclyfWWOaC7i4TRNe/C7ZGn/hJn5QXKg6tX3Q81gYfFkCy+gwY+yBIb2zxg5lmpu1cwoRUjF86P6boScTLaBaeLmw7/ebD8QXPWBy0U8NGVWFno0T+2iTFOYRi",
-        "icono": "https://www.laclave.com.py/wp-content/uploads/2023/07/PAG-7-A-1-4.jpeg"
-      },
-      {
-        "name": "Marilina atreverse a Soñar la Serie parte 2",
-        "uri": "+uxbpBfclyfWWOaC7i4TRNe/C7ZGn/hJn5QXKg6tX3Q81gYfFkCy+gwY+yBIb2zx/a7xUr/TogjQNxJRCf0pKURrdxO+7i7AvjwTg7CIP5Sv/IXR0CtCihhQ98ze2tX3",
-        "icono": "https://www.laclave.com.py/wp-content/uploads/2023/07/PAG-7-A-1-4.jpeg"
-      },
-      {
-        "name": "Marilina atreverse a Soñar la Serie parte 3",
-        "uri": "+uxbpBfclyfWWOaC7i4TRNe/C7ZGn/hJn5QXKg6tX3Q81gYfFkCy+gwY+yBIb2zxAMj9Ph4zgdrKj9mT36BKMq+K/nxq5yMworMQxLlufKzfGKEwdi5/GbcogvyhrbMq",
-        "icono": "https://www.laclave.com.py/wp-content/uploads/2023/07/PAG-7-A-1-4.jpeg"
-      },
-      {
-        "name": "Marilina atreverse a Soñar la Serie parte 4",
-        "uri": "Bxiz1sRKa8YTnDJ4REA2XGVBB9F8EspCscIJKAKvP2xSjvbp8wCAGbfFq0fXdsVAisy7RPG/I7LzOxeW9Z9PsQ==",
-        "icono": "https://www.laclave.com.py/wp-content/uploads/2023/07/PAG-7-A-1-4.jpeg"
-      },
-      {
-        "name": "Marilina atreverse a Soñar la Serie parte 5",
-        "uri": "+uxbpBfclyfWWOaC7i4TRNe/C7ZGn/hJn5QXKg6tX3S4SOlh6cO6NubIYuaHhVwjr42J5dtWqzjZyZGJr5Tebgl1kcG8Su++LuVvWounIfUoGSbo1pCabdVI0OVeOlnH",
-        "icono": "https://www.laclave.com.py/wp-content/uploads/2023/07/PAG-7-A-1-4.jpeg"
-      },
-      {
-        "name": "Marilina atreverse a Soñar la Serie parte 6",
-        "uri": "+uxbpBfclyfWWOaC7i4TRNe/C7ZGn/hJn5QXKg6tX3S4SOlh6cO6NubIYuaHhVwjeB4kw8P4e8pzW21QAlDfrKmde96yrSipbIKPAz9wE3/S1p3VM5w+pvJ+hxCjbIkF",
-        "icono": "https://www.laclave.com.py/wp-content/uploads/2023/07/PAG-7-A-1-4.jpeg"
-      },
-      {
-        "name": "Marilina atreverse a Soñar la Serie parte 7",
-        "uri": "+uxbpBfclyfWWOaC7i4TRNe/C7ZGn/hJn5QXKg6tX3S4SOlh6cO6NubIYuaHhVwjR2wI5HRAKY9PjOF/+hfTN3dLe6d/9hCQhC+49wlIUGP9DlJcmmHrpgKSRhD6tEzt",
-        "icono": "https://www.laclave.com.py/wp-content/uploads/2023/07/PAG-7-A-1-4.jpeg"
-      },
-      {
-        "name": "Marilina atreverse a Soñar la Serie la final",
-        "uri": "+uxbpBfclyfWWOaC7i4TRNe/C7ZGn/hJn5QXKg6tX3S29SzbjzgPcxts1Qq8i8yaWxIywkgi0Ht+GX+q092O2gKOh15EYZ146ysvSf6ARy9x7Vc2oS3uAI/halbYBDA0",
-        "icono": "https://www.laclave.com.py/wp-content/uploads/2023/07/PAG-7-A-1-4.jpeg"
-      },
       {
         "name": "HUYE",
         "uri": "x/xWkNrovMYmGeIV76G4pC/UyMsFDwNuhHP+Wu+CQeGv0t6H/YRbP6ePr53xiroUSnOxbrs9cA0LODQHHSxgB62MsrPzgPQaZnDpPLcqkdi9dbSHkfoq8tdmqZeCbbfVZAGIhRLt0rHNG9ZDnk+7nQ==",
@@ -243,6 +173,76 @@
         "name": "Army of the Dead + ejército de los muertos",
         "uri": "6mGshunOsomKreILlikTyE/xUr1ny7G41cCfxSNakcWu4D30Q0tAzNx0ncRnUU9nc8avdw079YJqo35BulNTHCLPyjnZmqgQ+E46djEYzfJp45ALkHccw+E8WuN7aDnp",
         "icono": "https://i.ibb.co/C9CFckr/images-q-tbn-ANd9-Gc-RZ2pd4l-XXOHJ2feik-FPo02u-H5ne-9m-RU288-SMXOB9t5gt-PKEx-T.jpg"
+      },
+      {
+        "name": "Pláta Yvy Guýpe",
+        "uri": "Bxiz1sRKa8YTnDJ4REA2XCD+sP+iym+P4yudNAkKuug97vVem4fSy+Ag5eN1iYHtGQP5jz7Bd+m4cMpCmyTb3wqvY04boVua5uiD8u80R38=",
+        "icono": "https://i.ibb.co/x3PpTnT/sonbreas-en-la-noche.jpg"
+      },
+      {
+        "name": "La Casa Del Horror",
+        "uri": "Bxiz1sRKa8YTnDJ4REA2XOIqWEy0rW26SUb6ismSe6536NlcFMe5Rv9Xm0VM8x9v4BgQpE46GVPRwB6uK3498nU4BgLBu2bRzWwvrnt8Trw=",
+        "icono": "https://i.ibb.co/x3PpTnT/sonbreas-en-la-noche.jpg"
+      },
+      {
+        "name": "Post Mortem",
+        "uri": "Bxiz1sRKa8YTnDJ4REA2XKG9BvUH0DaH7a64mU1xp/oARXW3juCUGnynkmwNYziD1ySohMqPcvzoWb3YFJbaJmELEyaZiPGsBk+yV1hwCSc=",
+        "icono": "https://i.ibb.co/x3PpTnT/sonbreas-en-la-noche.jpg"
+      },
+      {
+        "name": "Jasy Jatere",
+        "uri": "Bxiz1sRKa8YTnDJ4REA2XOYITX2xFa4DsWjn4GIbH5f8pJgP6NrMPu2Pe4z7CpY0aw+YpD50liB31fFVjrS24w==",
+        "icono": "https://i.ibb.co/x3PpTnT/sonbreas-en-la-noche.jpg"
+      },
+      {
+        "name": "Kurundu",
+        "uri": "Bxiz1sRKa8YTnDJ4REA2XPZKz+aTQifvimKq+tXh9o0yQjhqAH/MnMnC+GJxIo2WaeOQC5B3HMPhPFrje2g56Q==",
+        "icono": "https://i.ibb.co/x3PpTnT/sonbreas-en-la-noche.jpg"
+      }
+    ]
+  },
+  {
+    "name": "MARILINA LA SERIE",
+    "samples": [
+      {
+        "name": "Marilina atreverse a Soñar la Serie parte 1 ",
+        "uri": "+uxbpBfclyfWWOaC7i4TRNe/C7ZGn/hJn5QXKg6tX3Q81gYfFkCy+gwY+yBIb2zxg5lmpu1cwoRUjF86P6boScTLaBaeLmw7/ebD8QXPWBy0U8NGVWFno0T+2iTFOYRi",
+        "icono": "https://www.laclave.com.py/wp-content/uploads/2023/07/PAG-7-A-1-4.jpeg"
+      },
+      {
+        "name": "Marilina atreverse a Soñar la Serie parte 2",
+        "uri": "+uxbpBfclyfWWOaC7i4TRNe/C7ZGn/hJn5QXKg6tX3Q81gYfFkCy+gwY+yBIb2zx/a7xUr/TogjQNxJRCf0pKURrdxO+7i7AvjwTg7CIP5Sv/IXR0CtCihhQ98ze2tX3",
+        "icono": "https://www.laclave.com.py/wp-content/uploads/2023/07/PAG-7-A-1-4.jpeg"
+      },
+      {
+        "name": "Marilina atreverse a Soñar la Serie parte 3",
+        "uri": "+uxbpBfclyfWWOaC7i4TRNe/C7ZGn/hJn5QXKg6tX3Q81gYfFkCy+gwY+yBIb2zxAMj9Ph4zgdrKj9mT36BKMq+K/nxq5yMworMQxLlufKzfGKEwdi5/GbcogvyhrbMq",
+        "icono": "https://www.laclave.com.py/wp-content/uploads/2023/07/PAG-7-A-1-4.jpeg"
+      },
+      {
+        "name": "Marilina atreverse a Soñar la Serie parte 4",
+        "uri": "Bxiz1sRKa8YTnDJ4REA2XGVBB9F8EspCscIJKAKvP2xSjvbp8wCAGbfFq0fXdsVAisy7RPG/I7LzOxeW9Z9PsQ==",
+        "icono": "https://www.laclave.com.py/wp-content/uploads/2023/07/PAG-7-A-1-4.jpeg"
+      },
+      {
+        "name": "Marilina atreverse a Soñar la Serie parte 5",
+        "uri": "+uxbpBfclyfWWOaC7i4TRNe/C7ZGn/hJn5QXKg6tX3S4SOlh6cO6NubIYuaHhVwjr42J5dtWqzjZyZGJr5Tebgl1kcG8Su++LuVvWounIfUoGSbo1pCabdVI0OVeOlnH",
+        "icono": "https://www.laclave.com.py/wp-content/uploads/2023/07/PAG-7-A-1-4.jpeg"
+      },
+      {
+        "name": "Marilina atreverse a Soñar la Serie parte 6",
+        "uri": "+uxbpBfclyfWWOaC7i4TRNe/C7ZGn/hJn5QXKg6tX3S4SOlh6cO6NubIYuaHhVwjeB4kw8P4e8pzW21QAlDfrKmde96yrSipbIKPAz9wE3/S1p3VM5w+pvJ+hxCjbIkF",
+        "icono": "https://www.laclave.com.py/wp-content/uploads/2023/07/PAG-7-A-1-4.jpeg"
+      },
+      {
+        "name": "Marilina atreverse a Soñar la Serie parte 7",
+        "uri": "+uxbpBfclyfWWOaC7i4TRNe/C7ZGn/hJn5QXKg6tX3S4SOlh6cO6NubIYuaHhVwjR2wI5HRAKY9PjOF/+hfTN3dLe6d/9hCQhC+49wlIUGP9DlJcmmHrpgKSRhD6tEzt",
+        "icono": "https://www.laclave.com.py/wp-content/uploads/2023/07/PAG-7-A-1-4.jpeg"
+      },
+      {
+        "name": "Marilina atreverse a Soñar la Serie la final",
+        "uri": "+uxbpBfclyfWWOaC7i4TRNe/C7ZGn/hJn5QXKg6tX3S29SzbjzgPcxts1Qq8i8yaWxIywkgi0Ht+GX+q092O2gKOh15EYZ146ysvSf6ARy9x7Vc2oS3uAI/halbYBDA0",
+        "icono": "https://www.laclave.com.py/wp-content/uploads/2023/07/PAG-7-A-1-4.jpeg"
       }
     ]
   }
