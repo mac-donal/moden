@@ -3,9 +3,29 @@
     "name": "PELICULAS RECIEN AGREGADAS ",
     "samples": [
       {
+       "name": "Um Ano Inesquecível: Inverno (2023)",
+        "uri": "6mGshunOsomKreILlikTyCNv2h1uLBm1pHixCs0zH5eFky5yXo54G1mv7Lgmr3pe8gJ9Lg25VyGuQpKDbfk8/w4BiWqKLBIMX2bu90t0I+2MrQlwbwIUB18yZ63Qaa9LlQwBwZdM2Id22sVQdbngmu0zvxgspLf39eicE21VkYwuIRZg6LRAAQ+hLDE1rznb",
+        "icono": "https://m.media-amazon.com/images/M/MV5BMGVlNmJhZDUtOTVjZS00YTUxLWFmM2EtMDQ0ZjAzYjMwNzFjXkEyXkFqcGdeQXVyMTUwNjg3NTUw._V1_.jpg"
+      },
+      { 
+        "name": "Um Ano Inesquecível: Inverno (2023)",
+        "uri": "6mGshunOsomKreILlikTyCNv2h1uLBm1pHixCs0zH5eFky5yXo54G1mv7Lgmr3pe8gJ9Lg25VyGuQpKDbfk8/w4BiWqKLBIMX2bu90t0I+2MrQlwbwIUB18yZ63Qaa9LlQwBwZdM2Id22sVQdbngmu0zvxgspLf39eicE21VkYwuIRZg6LRAAQ+hLDE1rznb",
+        "icono": "https://m.media-amazon.com/images/M/MV5BMGVlNmJhZDUtOTVjZS00YTUxLWFmM2EtMDQ0ZjAzYjMwNzFjXkEyXkFqcGdeQXVyMTUwNjg3NTUw._V1_.jpg"
+      },
+      { 
+        "name": "Amor sin sentido",
+        "uri": "6mGshunOsomKreILlikTyCNv2h1uLBm1pHixCs0zH5eVCgwb8Z2N9VOI82BFRua45EuGENJXDYxFxfbwizXbkRL1pvNh4QFkuFkbVdjdqNk5rhLhyEEeoLo2Nq1NkmfB",
+        "icono": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSMoVjeUTT3AqJ8hN3Z35U_n-Al5r7-NU9fIwWnuir9yOu3I7vo"
+      },
+      { 
+        "name": "Amor de gata",
+        "uri": "6mGshunOsomKreILlikTyCNv2h1uLBm1pHixCs0zH5enRWvNTJC8+8hMqSQ+uf0jseSfKVRNvxTq5w8yFAyd9LVgUebjN25dhtlt57sDaSxp45ALkHccw+E8WuN7aDnp",
+        "icono": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTiursvrHGZDHHs4909suhkRn-OffLperFhCw_xcSXTCbZpnUba"
+      },
+      { 
         "name": "Amigos SUST",
         "uri": "6mGshunOsomKreILlikTyCNv2h1uLBm1pHixCs0zH5cGZQTwmgYEolWGHI0Ok7VjTDIhAQ8A+2VbdRpV0RtyTrw4zKStTpyAM9/11v9r9d8=",
-        "icono": "https://m.media-amazon.com/images/M/MV5BMWYwOTA1NmUtYjdkOC00MGM0LWFlZTgtMjhhZmJiZWU3OGFmXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg"
+        "icono": "https://i.ibb.co/2hHp6vH/MV5-BMWYw-OTA1-Nm-Ut-Yjdk-OC00-MGM0-LWFl-ZTgt-Mjhh-Zm-Ji-ZWU3-OGFm-Xk-Ey-Xk-Fqc-Gde-QXVy-MTA3-MDk2-N.jpg"
       },
       {
         "name": "American Psycho",
