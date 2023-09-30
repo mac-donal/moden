@@ -3,6 +3,21 @@
     "name": "PELICULAS RECIEN AGREGADAS ",
     "samples": [
       {
+        "name": "American Psycho",
+        "uri": "6mGshunOsomKreILlikTyCNv2h1uLBm1pHixCs0zH5cGZQTwmgYEolWGHI0Ok7VjTDIhAQ8A+2VbdRpV0RtyTrw4zKStTpyAM9/11v9r9d8=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BMWYwOTA1NmUtYjdkOC00MGM0LWFlZTgtMjhhZmJiZWU3OGFmXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg"
+      },
+      {
+        "name": "American Psycho",
+        "uri": "6/hZHl/w+h7ookbtK0/o9s4V/W1Jtzc/+5pS4Byz8hzI7pJHYfpLzvHF+a/defe6M83dkuqtwWlZbGV6M5tt6N6HedSFDXfa9Ff46qh9LaqqOIwN1L1MhkmapycogMeN",
+        "icono": "https://m.media-amazon.com/images/S/pv-target-images/5936e09c42d1313df590e6064ad13a9826579c74ec8cd84818c974b72b824607.jpg"
+      },
+      {
+        "name": "Amigos hasta la muerte 2023",
+        "uri": "6mGshunOsomKreILlikTyCNv2h1uLBm1pHixCs0zH5e1wR/qcyNphICGn2Osel+FJaGwZuGebv8yG0I3RSw5L9nlVepTybnpj9sbnxsjF45UwgA0nUkBUhP2eZQlTnG/bin8lmY124wErzufA2fWUGELEyaZiPGsBk+yV1hwCSc=",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzZhMlov3Eed515EKh1oN-DTFe2ZAvQ6XQgEcf-2j4bBH209-xg"
+      },
+      {
         "name": "HUYE",
         "uri": "x/xWkNrovMYmGeIV76G4pC/UyMsFDwNuhHP+Wu+CQeGv0t6H/YRbP6ePr53xiroUSnOxbrs9cA0LODQHHSxgB62MsrPzgPQaZnDpPLcqkdi9dbSHkfoq8tdmqZeCbbfVZAGIhRLt0rHNG9ZDnk+7nQ==",
         "drm_scheme": "clearkey",
@@ -170,9 +185,9 @@
         "icono": "https://i.ibb.co/d54rymQ/images-q-tbn-ANd9-Gc-TJYDGy-Hi4g6-Nl-He-O-6-Kv-Xjl-PYyxro-TDEjs-XB-MOST-Mkp-XK2g-E.jpg"
       },
       {
-        "name": "Army of the Dead + ejército de los muertos",
-        "uri": "6mGshunOsomKreILlikTyE/xUr1ny7G41cCfxSNakcWu4D30Q0tAzNx0ncRnUU9nc8avdw079YJqo35BulNTHCLPyjnZmqgQ+E46djEYzfJp45ALkHccw+E8WuN7aDnp",
-        "icono": "https://i.ibb.co/C9CFckr/images-q-tbn-ANd9-Gc-RZ2pd4l-XXOHJ2feik-FPo02u-H5ne-9m-RU288-SMXOB9t5gt-PKEx-T.jpg"
+        "name": "Emboscada.2023.SUST",
+        "uri": "6mGshunOsomKreILlikTyCNv2h1uLBm1pHixCs0zH5cfbjJgp2wPQTlGJR0s2JCniczSlgRosyBcZo9G8j4GXIbCSO2t9DX1KWQTlOkqKPY=",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeXaWzJpdccPvR-Q5ojrjynKnDQNHsWfaKconsYBNb9DfRN1VT"
       },
       {
         "name": "Pláta Yvy Guýpe",
