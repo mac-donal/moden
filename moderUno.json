@@ -1668,48 +1668,6 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3190bd4ce11356dfa654b03f5848e20d&key=ece44d39178c9cae59bcd9631e5a0b8e",
         "icono": "https://play-lh.googleusercontent.com/8ch6kAhf2Ydd34PPqtOGh-troE-Zee9LxH-xZVlZml7YwNGyA1Nq2xXER-84CZHmoNyw"
-      },
-      {
-        "name": "CNN BRASIL",
-        "uri": "KMJxcdC1993IDV/zctXe43CaBdBqY+QzxIb2yaW2HomqkNiZ96/Ji8sxDCldTohtn3UrtRlGRJzAvbW0w1cRVLbLYXZfLgmTIVIpp60ouKbQ5Sx53DLNAsFZyg2zVOPb",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=728b67f9ea65585baf3ef8ad2fd2a667&key=0d24ec9c9bebe840d2b01b0b4c6273ac",
-        "icono": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTA1X2xpbmVhcl9jaGFubmVsX2Jy_11002_LOGO_360x270.png?timestamp=1685555608232"
-      },
-      {
-        "name": "SBT",
-        "uri": "3RFLSv+cUTGOdbh2HR3XBeLGSyW0sWyDWdSv1D73DAH+7i6kcirOYYmFZarapSXY/uE7IkxVcBHxjijmXwFAAg==",
-        "icono": "https://blogoldstone.files.wordpress.com/2009/11/seriados-logo-sbt.jpg"
-      },
-      {
-        "name": "TVNOVAPLAY",
-        "uri": "+kfBOTsk52GWyak8jX/IjbpHXhFID7nsr0Y4PiYwxp+J0JC4+fCXRDpqvbU5Sw9pjTStZi2WJqCZ+Nl+xUoZcw==",
-        "icono": "https://i0.wp.com/girotvonline.com/wp-content/uploads/2022/11/tv-nova-play.png?fit=1024%2C768&ssl=1"
-      },
-      {
-        "name": "CONECTV",
-        "uri": "q3CZtR7SYOPf8TqFRtAeoLtg4DaPBnBQrxACbHXEwM8OMdasN7Ic/Htvab/iE4yfjCEsasWXAUUKotQlKE7n8g==",
-        "icono": "https://play-lh.googleusercontent.com/_z8L3qUly2i3Flg-aaI8M2VvHLifKp5Fo_qTMM4ICeDTqsnwcfEy_QYvt8OHt7kRL00"
-      },
-      {
-        "name": "RECORD TV",
-        "uri": "riuBqO9ixdPyVAfa4UOMY4KVewxbYIAiU6yTAktRUBCYXVAjUzYP7KiwMzI0TJkLdgU5mAGtEEhOwcGqGCqdQA==",
-        "icono": "https://brazil.mom-gmr.org/typo3temp/_processed_/a/4/csm_7013-1071_import_63c9374854.png"
-      },
-      {
-        "name": "REDE MINAS",
-        "uri": "GuctAZmev83ofwnpwxB2c+swRYK64jbs+kNDteY/4zmngHJD5ow//wabq66nEZoAUClQ2xhrRJvuZmCcQw9XAA==8",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/8/85/Rede_Minas_logo.png"
-      },
-      {
-        "name": "TV CAMARA",
-        "uri": "vWS2bMIECRQvkOmoT/SbcP47LBSYrj69Qe+bBgSUYoUfPMTS8xKGe+lnOLT3jPqK",
-        "icono": "https://www.camara.leg.br/tema/assets/images/imagens-compartilhamento/tv-camara.jpg"
-      },
-      {
-        "name": "LIBRAS",
-        "uri": "IcGRXrgdVJWs+BRQqjIJQZdHWUWshrN1Dtm8/xt063OjBR5A7f037e3cgXSnLeAOfkdCGkGNmIbv0ngVyh+cug==",
-        "icono": "https://github.com/MISTERX2022/Logos/releases/download/Logos/Libras.br.png"
       }
     ]
   },
