@@ -50,6 +50,35 @@
     ]
   },
   {
+    "name": "PACK FUTBOL ARGENTINO",
+    "samples": [
+         {
+        "name": "TNT SPORT ARGENTINA HD",
+        "uri": "https://chromecast.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_2A/TNT_Sports_HD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bc80fa3da696e503f940fde5f681a1c5&key=ea46e4e9f1132e8dd71fb77f7d55058a",
+		    "icono": "https://i.postimg.cc/kMkS5BVf/TNT-SPORTS-ARGENTINA.png"
+      },
+      {
+        "name": "TNT SPORT ARGENTINA HD 2",
+        "uri": "https://ixp-nqn.cdn.rcs.net.ar/mnp/tntsports/output.mpd",
+	     	"icono": "https://i.postimg.cc/kMkS5BVf/TNT-SPORTS-ARGENTINA.png"
+      },
+      {
+        "name": "ESPN PREMIUM",
+        "uri": "https://edge-live11-sl.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4c230dbc7f6a4bfa6ad0aa73ff792374&key=4186a7c2a15f590a9399886feaec4257",
+		"icono": "https://i.postimg.cc/02BdYRZz/ver-espn-premium-en-vivo.jpg"
+      },
+      {
+        "name": "ESPN PREMIUM 2",
+        "uri": "https://ixp-nqn.cdn.rcs.net.ar/mnp/espnpremium/output.mpd",
+		    "icono": "https://i.postimg.cc/02BdYRZz/ver-espn-premium-en-vivo.jpg"
+      }
+    ]
+  },
+  {
     "name": "TV ARGENTINA",
     "samples": [
       {
@@ -864,12 +893,12 @@
       },
       {
         "name": "Movistar F1",
-        "uri": "https://testphp07.alwaysdata.net/telelatino/play/199.m3u8",
+        "uri": "Riv7u0opSQq4BSIFEeSVymSU7NYpethjtBKsmWkyZQO7DrJRS2i1XO3UsbfbP3DJGFdGqjRG+wzU5qZ7R+ujMg==",
         "icono": "https://static.motor.es/fotos-noticias/2018/01/movistar-renueva-contrato-emision-f1-201842591_1.jpg"
       },
       {
         "name": "AFICIONADOS",
-        "uri": "Riv7u0opSQq4BSIFEeSVymSU7NYpethjtBKsmWkyZQO7DrJRS2i1XO3UsbfbP3DJGFdGqjRG+wzU5qZ7R+ujMg==",
+        "uri": "Riv7u0opSQq4BSIFEeSVymSU7NYpethjtBKsmWkyZQO7DrJRS2i1XO3UsbfbP3DJn0hYCfhawEUR2fvv9cMdcw==",
         "icono": "https://logowik.com/content/uploads/images/afizzionados-tv8326.logowik.com.webp"
       },
       {
