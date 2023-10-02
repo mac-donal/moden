@@ -54,26 +54,26 @@
     "samples": [
          {
         "name": "TNT SPORT ARGENTINA HD",
-        "uri": "https://chromecast.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_2A/TNT_Sports_HD.mpd",
+        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmIW7c8B26HWtij6f1QtNAQwx2Z3Q5zoy6wLRE4bfFkEwc+BWJwadd12eITdRn3e1z4qCbexk8uxiMbYWn28FniL",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bc80fa3da696e503f940fde5f681a1c5&key=ea46e4e9f1132e8dd71fb77f7d55058a",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvEpW6BhZ/Nkg2EAOATMINVhel1jKITWwDKVGHXcqnvVTgpQ0vlnJLUxZMjWW2YoXkI7fEeHljSq27jUb1eaA1FFoSPIu/650/dCmU2lx5oR//nYx02Xp+9tm9LV3P0Qy2A==",
 		    "icono": "https://i.postimg.cc/kMkS5BVf/TNT-SPORTS-ARGENTINA.png"
       },
       {
         "name": "TNT SPORT ARGENTINA HD 2",
-        "uri": "https://ixp-nqn.cdn.rcs.net.ar/mnp/tntsports/output.mpd",
+        "uri": "zxuJ4Lorv+33fSJM9ymSTa/U2u4UmmhLpbm67kSox+KN6wcrVemyhw2y9HQqtfVXWz7ahmjHbJIx6GOxc89cEg==",
 	     	"icono": "https://i.postimg.cc/kMkS5BVf/TNT-SPORTS-ARGENTINA.png"
       },
       {
         "name": "ESPN PREMIUM",
-        "uri": "https://edge-live11-sl.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd",
+        "uri": "KusJ5ShfomSLrFIJxHev/jL6ooQmoIBDVod1epnlQhWXfymEfZKVjJaXPcutg/lMgy10n0mOC4ccUKW2fY4qiEhS7hSPjHwgWSBV2+Ms2hlgsvpCJ0kEWNH4BL36mRTgZECj3mK5Hv3AOKe13X9/RWnjkAuQdxzD4Txa43toOek=",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4c230dbc7f6a4bfa6ad0aa73ff792374&key=4186a7c2a15f590a9399886feaec4257",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvNSh+Jwg6+9GSjrvdpMfxRk9saQEO8/wEamMOuCk7PhCtVBjHqjV49RfYSex7iVfV+n+Jdu+HpKbQlgmxxE8AcuJolTXGRwH0JgHoshXmF6wpsbiYUeU5D26CwGEr6Lbiw==",
 		"icono": "https://i.postimg.cc/02BdYRZz/ver-espn-premium-en-vivo.jpg"
       },
       {
         "name": "ESPN PREMIUM 2",
-        "uri": "https://ixp-nqn.cdn.rcs.net.ar/mnp/espnpremium/output.mpd",
+        "uri": "zxuJ4Lorv+33fSJM9ymSTa/U2u4UmmhLpbm67kSox+KJ2PYGlziKAteRgWMOqSBw0USNdt0NSCm6ol46D+rXfw==",
 		    "icono": "https://i.postimg.cc/02BdYRZz/ver-espn-premium-en-vivo.jpg"
       }
     ]
