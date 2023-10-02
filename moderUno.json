@@ -746,6 +746,13 @@
         "icono": "https://i.ibb.co/1rMMbhK/unnamed-6.jpg"
       },
       {
+        "name": "ECDF",
+        "uri": "bM89rug4r/1dRQ/VgDL0HXCaBdBqY+QzxIb2yaW2HombEqVjGsBRsrLvN83dN+DCcFbcYAruHeyj2jQvUmhjTA==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvH+oEpcCWnWUmPlZ1z6FRNgaDfEx4735GxksLQs8VU8wlMBodZjrVCkOvLmLwl1lsaqMJebRp454fZ1rqDSKcIjea0HhKVoOjCNcJCNAlBlARRyO9wkYwt0ea7LtVjVolQ==",
+        "icono": "https://www.televisiongratis.tv/components/com_televisiongratis/images/el-canal-del-ftbol-2289.png"
+      },
+      {
         "name": "TYC SPORTS",
         "uri": "KusJ5ShfomSLrFIJxHev/l49QSeGD+MW7eeHbsPN6tCXfymEfZKVjJaXPcutg/lMs21F52baVBXi8QF6PC/+kxvMAFHCNmuEDNE4NUhwq1wiVinniuQWjjXEOBxzaNXG",
         "drm_scheme": "clearkey",
@@ -776,6 +783,27 @@
         "name": "TYC SPORT (PLAY 5)",
         "uri": "Y/YXzAflhfeVgS+IPZt9VJVBMV0LOfYmk2TCthaLvnRc17eh4Xd8UDpgI0NFkneZPkN9a3C0NDC22qkAj/SBseZfaNh3/vql8lXRVQEk/Ha6JzdBzhoLbbEEd1vNdWA+",
         "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg"
+      },
+      {
+        "name": "MX FOX SPORT1",
+        "uri": "0xvgjQlYQZ2OvHvZUmcRPgxCkSJynVdSOpwKnMlbEJu2x/DkwYJPwmFmd+mrUBetBnDacBTG1ZuZkktBzMtgOg==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvIBjj/GE5qnaGaP1YMo34CF0eg3mYjsrhuhHJRUDyfRjFmXjfsOI686tja/iGY/hx8Jvt4V7BCamChVm+ocbuUm70nzTAaK+gKpLhgFPZ9mSm91J1p5XC3YXqdj+Gi1zig==",
+        "icono": "https://i.ibb.co/WDTGR5W/foxsportsmx.png"
+      },
+      {
+        "name": "MX FOX SPORT2",
+        "uri": "VWo+UkEDGt36IMbL55RpjXCaBdBqY+QzxIb2yaW2HokCyfewPpWyPT3dkV/HcU1/cFbcYAruHeyj2jQvUmhjTA==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvEggOdss6Z06wAAR8uHqXvUZZI/mGZDgYRlvMc8390G5ya9kcZVoD80ePya1QwNBi0cCowJQpIFuUSXV3YnJwMspmAOxzp5BOWRevDzbLAlScjlE0lU7OTGcowrKTjFAQg==",
+        "icono": "https://image.pngaaa.com/839/4490839-middle.png"
+      },
+      {
+        "name": "MX FOX SPORT3",
+       "uri": "VWo+UkEDGt36IMbL55RpjXCaBdBqY+QzxIb2yaW2HolqpBELBXPZMv6uOvUdsR0dcFbcYAruHeyj2jQvUmhjTA==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "TQSPBT5fFAmrHLJIeXbfeYIEGH7M03BZyWGsgGN4zpUSQHVMom40KHz9FrU9yQQX29lhCab3oDilUXjC7m5rF+b/HohQw3h5/xU6Efn71RQ1EErLrKYp4rgamUchY5EoRautQxl07jdKnAqv3ahUvw==",
+        "icono": "https://i.ibb.co/WDTGR5W/foxsportsmx.png"
       },
       {
         "name": "SPORTV 1",
@@ -917,6 +945,11 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "d2FR++MtKVbnGHUXWLAwoAZ3NDHpPlk+dKHp0fFVTf6qUXr6zYnJZzqy9/NE+4YLlAmKV+/KnwfNd4vXaEFyyg==",
         "icono": "https://i.postimg.cc/KYBBXTr6/Arena-Sport-3-Premium-RS-logo.webp"
+      },
+      {
+        "name": "BR NEWS SPORT",
+        "uri": "Erm3VUxjWz6m3pKUx4RnAOL6S56Uzz4+nHYTwJoGJCRT2AdZd+gDT5WuFR7carrgYPk6ZmMYRJDsXInTkB7Vfgw8VNFAXxOXr+hpiOh/Fhl2BTmYAa0QSE7BwaoYKp1A",
+        "icono": "l1sPhuLyDKSQ0NPHyajYC6qhn0z2JdZ7+g/GWI9VwxM4bVayEkgZ2JuEbjVoKTZ8Xo2E3MPvix6JZ2dn7lfNQ5TQ1y2RLMwob7ulqtLNhLjZBLHxGYz4bf/0Wsq98Q0f9Hl3TEAJCusyQ/ZoaQdm3g=="
       },
       {
         "name": "EURO  SPORT",
@@ -1578,13 +1611,8 @@
         "icono": "https://i.ibb.co/CVr3QGv/fe7f8998db53725ac48f0deedc773692-anniversary-logo-visual-identity.jpg"
       },
       {
-        "name": "GLOBO TV OPC 3",
-        "uri": "01v21hCykzMvxqTXwWvsy2QsNlR4bTuLTlmv7Qd0Dr4KuEpR5rWDYNGFSbGk3m7CIhPfKF2XYnN+Uq1rgzaEFw==",
-        "icono": "https://i.ibb.co/CVr3QGv/fe7f8998db53725ac48f0deedc773692-anniversary-logo-visual-identity.jpg"
-      },
-      {
-        "name": "GLOBO TV 3",
-        "uri": "Nho1hXajqWpobW2j91gpeuQcvuZO+gxxeSK62SpQyVZJzm6/a0J0weEE+AjVs6Iop07eeQO+MwofaKXo24lxXQgJ+TQqsp0lyT1MCfrBEFOYl6djEpn0/TswHdcoM7al3le134+3R0keKSLrRS2SchX+gLQDTbtsNsbi40+1d70bPZlE+dRIaaQAdvAbIpUVwcvNzIM76B/1c1pMdgjZKQSFcUbKVGey/K8VqFlIXJ8=",
+        "name": "GLOBO TV OPC 2",
+        "uri": "Riv7u0opSQq4BSIFEeSVymSU7NYpethjtBKsmWkyZQPnrozmBl7q6iYYgCW2KwMslGAZIFHr7s0sPW7rsNoYIw==",
         "icono": "https://i.ibb.co/CVr3QGv/fe7f8998db53725ac48f0deedc773692-anniversary-logo-visual-identity.jpg"
       },
       {
