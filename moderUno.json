@@ -220,7 +220,7 @@
       },
       {
         "name": "TEATRIX TV",
-        "uri": "JcD+3ABccbp7QgqKk3CR62Ks6auv/yZyexWzhK1xoSBJQFI0WxCYzKbb5jdIvbwuZlmDp6BW1/bLZmrXFCZl3nbodOLX8RwNwJwSZF2Yi34=",
+        "uri": "6cyGTHCJHouDyVOj1V3TSh9gliP7xFfkaxl/O/NomF6aKRwsMwoHYczjNnHk9wcchy93my9MSt1NOmyevm3W4iUf67yYdmNcL06dlpNd4mM=",
         "icono": "https://i.ibb.co/3kwD39S/descarga-4.jpg"
       }
     ]
@@ -242,7 +242,7 @@
       },
       {
         "name": "Multivision Cable",
-        "uri": "BwCt2YL2jA0p6g5tNuk+JI8gp8UyG5/4mFWQAmiZwezWfYGRUrsbZLsJ7bbn5aAWhtYHoBa43q4hx6dmtPHZhEV3q8odioHEYcDW7fHPDwciE98oXZdic35SrWuDNoQX",
+        "uri": "ANjcqbsyMfxVdnkcfxFI6EtrZ+u13K7sOz4gOrbZi7uVeCYiPf2QFrsWtBkWLmwZLXJ7hKpI14WewOdNM4imSWnjkAuQdxzD4Txa43toOek=",
         "icono": "https://static.tvar.io/imagenes/multivisioncable.jpg"
       },
       {
@@ -1066,8 +1066,10 @@
       },
       {
         "name": "DAZN FORMULA 1",
-        "uri": "ouAQQJxiimSoLLT6qeIywmIWJDXzCSEFnUhC2qkI9oEoD34PPk+pLTSBti0b8/fISBygbmZILJTTdfXUE3uyUg==",
-        "icono": "https://i.ibb.co/wsFdGGn/dazn2.png"
+        "uri" : "XPOuvmv5kgzGYfi9SQEEECxph4gBDEE1xH5Bdfrok5YIuIt3wZ6JNBRPWvPF/2Fp97D4HJL+Lsrb5oPvo8PoYxcuzzlUN4wrgbJdKklcnANp45ALkHccw+E8WuN7aDnp",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "d2FR++MtKVbnGHUXWLAwoAZ3NDHpPlk+dKHp0fFVTf47Yv2KvkE9ZvP1cLzj9dTz1ftD95paCnkzERqWPSWhYQ==",
+		"icono": "https://i.postimg.cc/nzrqMhy2/1200px-DAZN-F1-logo-svg.png" 
       }
     ]
   },
@@ -1099,7 +1101,7 @@
         "name": "HBO FAMILY",
         "uri": "VWo+UkEDGt36IMbL55RpjXCaBdBqY+QzxIb2yaW2HomfUxye02tWMSNI+xt9PdODcFbcYAruHeyj2jQvUmhjTA==",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "TQSPBT5fFAmrHLJIeXbfeajnSPhmXbDMaCRp8lGhC1GLMJKl+Sf94zfGjYgqF376GWYJFwDAuo5MXFiniXhxNw==",
+        "drm_license_uri": "TQSPBT5fFAmrHLJIeXbfeajnSPhmXbDMaCRp8lGhC1GLMJKl+Sf94zfGjYgqF376bmf/ncySc+rqcKTdWVnN+w==",
         "icono": "https://i.ibb.co/DMn0KSH/descarga-2.png"
       },
       {
@@ -1191,7 +1193,7 @@
         "name": "UNIVERSAL CHANNEL",
         "uri": "KusJ5ShfomSLrFIJxHev/mIUXp3nbjSybfys+7HVleJmXBuqeXlq3KAdZYIwvuJQChqb1nORlT/1di/uf8ApXjHytRxg8Ery0wTr9rrQB1rTQebmN/XwAG3mqCD0HTRxiCTPMDcZERoaIuy7xP/equRS4Di3ZsiTEWvBXK0hB3Y=",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6cf9a13d6fd65a0f2e1cee3969aab9f5&key=ea61c3c1adee71b5c2e9744e41d4b75f",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvBQdNI9nl1rg4zPEE1by6hUJRcTWhIZEQGq16mERXVh9tr0fZqHITzuvJkTAO4kq9qSAO8+uUmmjjs8sN/GpbrWj/n5ZfgiYnfWGuED41JHSQeDWpcdRL9U2q2S9MmOL+g==",
         "icono": "https://i.ibb.co/1qksDfg/Universal-Channel-Brasil-svg.png"
       },
       {
@@ -1233,7 +1235,7 @@
         "name": "TNT HD",
         "uri": "KusJ5ShfomSLrFIJxHev/jL6ooQmoIBDVod1epnlQhV6mJt29B/oqSANh0rphCn6A9UTMD5j2UCw/18mojVimA0pROCsIDZVkrNWC0DAYZ39HlzLPMZPDSRsruzmmCQt",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=faad1722a575f4d9ec7b774db63c879c&key=cf0184830344ba36ad2ffef9dd2dd9d0",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvPJuUQUWBjYCUYnkX4H/tbnRmzv8g57zaIzt6vTSGwJAiXMM98czZoPdN3zFxVrajjk0ZoBoY4njpwpvItmNnGMTRqWaV+LhOwI1OiuL5KOYMny0mT87SmQhARzx7E3rOA==",
         "icono": "https://i.ibb.co/hV2MwGM/tnthd.jpg"
       },
       {
@@ -1254,7 +1256,7 @@
         "name": "PASIONES",
         "uri": "LX46EnLWmPsTQWzzE5C2pPXiNq+e/X0LQQgJ5Zps366J21yN4J21BR5omZTUlgYinTHwt9mm9NVhdaIkki0z48XT/tv169FSIfk4Ms2PXYuxJ7MycC6TI+i7/oY8KLQw",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "S7qdTEqIj9XUxueGLQtJ6DNnrFu+d+uncUrYFCEtjLFen2ExmoL6CWYBRaDQ5IGYcSE2Bj+az6xmSHUmM8tKLjdI7vnkFCPcZb9lPBQxV6xS3ZF2E4ymQzz/wbV47T/+cUeDPkOtpZKh1fgrgkV6WV7WGVK9prVUEUHLldjNJ1Rp45ALkHccw+E8WuN7aDnp",
+        "drm_license_uri": "TQSPBT5fFAmrHLJIeXbfeSKt1RjtX5qV4xhL0WU76dcU/dWDhUHGlG5G6xY7R6hLTr0J9Gj+Eu0DTsJFx1CO4fACfc+ZcHaE6gOXyZKbhFULXNEzqMj4eU1Mx9HknARV7wP3J8UN1eYOTLrWjMgQjQ==",
         "icono": "https://i.ibb.co/3FvjfFk/800px-Pasiones-Tv-logo-svg.png"
       },
       {
@@ -1287,7 +1289,7 @@
         "name": "SPACE HD",
         "uri": "KusJ5ShfomSLrFIJxHev/pSQ87z0sDzfCnKl76qh60l6mJt29B/oqSANh0rphCn6/EZ4YWYRjYlgR+HEZhZf9Svi7BQhNza03vv3JyKsSGXLqRGdipAmdVUEYSz87+0n",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "4vs2FXrngMIM4IZo6178kpANw2+gu16BQl+zD1oPfiVZ6gfL7GzUpLvahrcWUYJK6YMMn6LUM8YnzijHSSpOfzjixtHikDA8f6KnI1hevgdLbMqGfeX3M/5S4gXd8o61L3RW0k1f/8EdJfsGvaLBjtbI4NWTBqX4UQit59TabX3XG3W1BA+D3kyLPk7sZcEbkhGFs2n1nrO3Rwzy1ALrHzFFQEEevJ/UyPXCI9/y46XyzEr4+9y7e2xcYUPDWIiZo60gW0u0EDkSKr+4LUzZVJrsfHjJkCU1dzYNgZAeXXg=",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvBaSHOHEocxcDOk4xvYLSLyMxWekzRDVQzW09iMrq7g07DFtjRY9cGpGWsGgibsVoI86oM5sqQAMSGj7PEaAzz1fveMGtJrGMcY+7aI1/ZmqLEdHMvfPB2uiDO/hT+L/Kw==",
         "icono": "https://i.ibb.co/vqF1RTN/co-space-hd-m.png"
       },
       {
@@ -1402,7 +1404,7 @@
       },
       {
         "name": "Nick Jr",
-        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmLLlNrzLZgth5vzp+sA8JM5YKmmJnhOMNIaZboUll/hyAbUjmf3rTQWrC8r00y7szRMS96aSLadM5CJbbduafUN0zrXvirZf9PLqBN1BO9ntWJ6MhHSkm4RJ0nOISxj6Tfp2llkH5eFwX7SljRgiqkc",
+        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmLLlNrzLZgth5vzp+sA8JM5YKmmJnhOMNIaZboUll/hyAbUjmf3rTQWrC8r00y7szRp45ALkHccw+E8WuN7aDnp",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvLzNbLc/ZQy1RVEqwr4CsEVGjzqJ0lJ908JvYrTBATAL11W4bCQIOWoo50tlgCwiF/DK5QP24TK+7UMdFVJbdvYW17MWU9vxWqy3xchCUcuyUL3ZZvcq2yA9W/evtCsVxA==",
         "icono": "https://i.postimg.cc/h41czR0h/image.png"
