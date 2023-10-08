@@ -119,7 +119,13 @@
       {
         "name": "AMERICA TV OPC 2",
         "uri": "SO7PaqFnX2XeJ1kRo1c/2lLubH7M5HtXe8JNuwGW79boVcBHpOCrFyJXKj9V57WGmXQegwFC0QKGzNWyZ64BKw==",
-        "icono": "https://i.ibb.co/BrzJD0D/Logotipo-de-America.jpg"
+        "icono": "https://i.ibb.co/BrzJD0D/Logotipo-de-America.jpg",
+      },
+      {
+        "name": "AMERICA TV",
+        "uri": "https://edge-live16-sl.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc_wl/AmericaTV.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NWFjNmEzNmY1ZTIxMzljYzA1ZTVjYWE4ZDg0MWRlYjI%3D"      
       },
       {
         "name": "TV PUBLICA",
