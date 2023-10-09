@@ -1669,64 +1669,6 @@
         "name": "Red Uno",
         "uri": "TT4eToCYh/wO0f63bVncAMNWQK6k2LHvdyDopbrri9x1t4+xtrplXPouRcpM20ksEyg+ic9BuT421VzFwVlGP4E84BaDSmPJN26XQNv7puffKqRyyWpnYn7KaRh33Kfqq4Udg42UodpTc0kERuabsXBTQuv7CNjhNfH1mE3SjpqQtqhU10a4ADxaxzL3mNO4",
         "icono": "https://static.wikia.nocookie.net/logopedia/images/a/af/Red_UNO_1985-0.png"
-    }
-    ]
-   },
-  {
-    "name": "PERU",
-    "samples": [
-      {
-        "name": "CANAL 10",
-        "uri": "EkaIwYvYUQmdu8f0KwsOZaLchbLKSm8ry8p59CEOqa0vXm/Xu4wiB4n1Yl3QMZ4t/Q56QdC/UO9op1RfpJ4wzz6lqpwQQ9q78MY4JHn5C6ToQSYwh1SO9ziplweY+qwJ",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvIzY5su5IeF4r70dT3bU77HepYdRVdWGjsNH3p0S85bZJHALOoc2tp9+eh9bX3FT69ek5Hs0M1uPh9yXdLfyRZqzwzTW0qwaRwj+yqpwwPn/oAA1pb0v1bXSld8vaHH32w==",
-        "icono": "https://static.tvar.io/imagenes/canal10uy.png"
-      },
-      {
-        "name": "CANAL 4",
-        "uri": "KusJ5ShfomSLrFIJxHev/jL6ooQmoIBDVod1epnlQhURz0Yc1yaaNNBESsSEf/mkAo4M5AmdkF6UITRD59ObhT6lqpwQQ9q78MY4JHn5C6TeQpSAsWq6hLASNhcyNvZWQr/xWkRUXFXlQiCHkLfvW5Q8k+8uek/fvVZn4mUnAyQ=",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvB4Yq90lvZ/zVU5WgueYjdcbIB7Ikse1hxz0WUTwjfrbEBUAQQ6t2cxW0aOykdH6kOlMP2nD9tpR079QPwfhdUPpToqiPUFYjYhGW/yZBJP9wzkyo46b6Zrhjk7LSCq2Hg==",
-        "icono": "https://static.tvar.io/imagenes/canal4uy.png"
-      },
-      {
-        "name": "LA RED",
-        "uri": "zE2xCI8RkYUlt/FDSKhNkMauJxz4QSzhzWUjKpcCb+ZX/h+pyktwEiG356Lnpi72IhPfKF2XYnN+Uq1rgzaEFw==",
-        "icono": "https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/08/La-Red-Tv-Uruguay-en-vivo-Online.png"
-      },
-      {
-        "name": "TELEDOCE",
-        "uri": "bM89rug4r/1dRQ/VgDL0HXCaBdBqY+QzxIb2yaW2Homrb7UFykvQOB9tcCCp848WcFbcYAruHeyj2jQvUmhjTA==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "4vs2FXrngMIM4IZo6178kpANw2+gu16BQl+zD1oPfiVZ6gfL7GzUpLvahrcWUYJK6YMMn6LUM8YnzijHSSpOfzjixtHikDA8f6KnI1hevgd82l0h2pgZKfju7p4ZJggoAwV2ZBrDfrfNzYwq8tSRH2JJh4MEjBY0L0eNd4Qdx1JEXJHFM3FXo91hFTKgONjKdjKZZoB58P8EtXxiUJ73AcJEqS/OSbDZi76RyDPvstmhQYl0GQ2xwuoglMebjYtG4zzaNJEsvLCGFLoTPuywDml6TjLV14uf5Gz+SBTRH00=",
-        "icono": "https://www.foromedios.com/uploads/monthly_2022_06/large.Teledoce20042.0.png.79eefaf8d6f439fd4d1892a2125fd272.png"
-      },
-      {
-        "name": "CANAL 5",
-        "uri": "x/xWkNrovMYmGeIV76G4pOWzEePFvZC2/a11JIOm1xIwH2KzcG/W7p2Pz1RWhIf62kNd6zsWhTFOXNmbukuKVie4G4Uyheort8LQlqx8NGX8ZmHRh4neWrJhC71tVUhq",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "TQSPBT5fFAmrHLJIeXbfeQTbliiS1a7vaOov9/DfspJdZCpM7otSO8dE1+3VFcQUERCzjeQyGpI7jVtpbNr62cXqGWfv//VKrRxuWtJZqsMuAXI2FUUA/PbGXmeblvuLqzSLmidSGUCB5xGh1PodIA==",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Canal_5_Uruguay.png"
-      },
-      {
-        "name": "TV CIUDAD",
-        "uri": "x/xWkNrovMYmGeIV76G4pOWzEePFvZC2/a11JIOm1xJ8QeC39kHiyZSxvX5u4/Lk5rJlCoAe9VAyd9g8emUkCs59EzUeFz5mUyy2btyKigGMJsskEhpTV72EG6tsMNNB",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "TQSPBT5fFAmrHLJIeXbfeVz6fPo/QCwnga7GWwju9VI7UuaOO/Mg9bac9CxeclqpSTcxunFiITbKeGmFe7HPxoX8dlHP1GzEbC61GL0ufuF53OKre3B7QoOWl6LaFRRGKfhxa4vuVCAjOoEpedy1rw==",
-        "icono": "https://montevideo.gub.uy/sites/default/files/styles/galeriaslideshowcontenido/public/biblioteca/tvciudad.png?itok=jUiNrl5Q"
-      },
-      {
-        "name": "VTV",
-        "uri": "LX46EnLWmPsTQWzzE5C2pM5oVLjLvNyztbnxEbF8X518tKiVTvPojIP/QWrKsG2JMFdOefWwooIZ9Dt2Gb0F7NdTL9ICeEmX8wG6vShrlMOMJsskEhpTV72EG6tsMNNB",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "TQSPBT5fFAmrHLJIeXbfeYDutO/3aoNy6GpUDjABNJdPOXSeV6Fr624gb7OUhQ8HHrRjo0roLdX/FMaCoI9N2lk+UC4VPSCn842cxgSzkqpmexQ9IRujJa0mY9MQNedru9DFkIuoNqvJUser2PRLNA==",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/1/16/Logo_VTV_nuevo.png"
-      },
-      {
-        "name": "VTV PLUS",
-        "uri": "KusJ5ShfomSLrFIJxHev/qO9585W8+vgOl/77FW3gEJ6mJt29B/oqSANh0rphCn69+TgIavroVPz323t2vrpoVz+s90Bxfu2CS1awZ871Tb6OdgfoVgOn5sE4plfgI5E",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "TQSPBT5fFAmrHLJIeXbfeTAige0hLWQtALnhg9wUhCGrjQAoBWBjf2xtSQR0TeAl2DrSnuCrNycfyLUN54DtGoXUSWn/1i5/+v7/EPdi64GIrfj5wBwNdHRjR8T8eFPYWd+1VU8IsG4j1LKlL6CLQg==",
-        "icono": "https://static.tvar.io/imagenes/vtvplus.png?"      
       }
     ]
   },
