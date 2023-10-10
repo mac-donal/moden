@@ -1259,7 +1259,7 @@
         "uri": "KusJ5ShfomSLrFIJxHev/jXIAcht3gt6FMFILfqq4pWXfymEfZKVjJaXPcutg/lMvjgwO96gnn8cDPVhgy2TiGwT9SojaWaX3N7O3tn7CVTLqRGdipAmdVUEYSz87+0n",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvIEtw4IpbLiHJ1fsaYtLcd6xhz4Vk186XDqVrvS4zyF2HgmnsQzzY/h2Gr0aSNeBQ0ZwnDramfl0Uh9zgGO8OXHTb5YCkMBqqpkiX5gmMmuiopdFtMdtkKXoy5qCHM00YA==",
-        "icono": "https://i.ibb.co/sqF3Dsc/unnamed-8.jpg"
+        "icono": "https://i.ibb.co/sqF3Dsc/unnamed-8.jpg"	      
       },
       {
         "name": "A&E",
@@ -1323,6 +1323,11 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvEVlFXg6N94WGlZp/mnIiKtGk/Cs3eTeyBI+rz2O6XodxHkvnjJ4hRg+GVcJ/eNpPqZaaHrvTAlT1WC0hEv+sCwd4ZR7OYRcqhn+g4DypiVNhfsTRFJzIM2LBqV+dAMBYQ==",
         "icono": "https://i.ibb.co/RgWH92w/720x540-1.jpg"
+      },
+      {
+        "name": "CINE LATINO",
+        "uri": "VJeTCYODF6rq9avPW5hOQGJYbdUdFnJWkRARMhHnQsObMTWv3EGRjISwDxvjOK7dTNeTht+l5Ak4kDsZg+xtBEtYjZzZ1qcsGmvNbBLlRLck4+M+AWowZu7Mw3CxDIFJdgU5mAGtEEhOwcGqGCqdQA==",
+        "icono": "https://i.ibb.co/f110383/ar-cine-latino-m.png"      
       },
       {      
         "name": "UNIVERSAL COMEDY",
