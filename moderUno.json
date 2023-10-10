@@ -1323,6 +1323,26 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvEVlFXg6N94WGlZp/mnIiKtGk/Cs3eTeyBI+rz2O6XodxHkvnjJ4hRg+GVcJ/eNpPqZaaHrvTAlT1WC0hEv+sCwd4ZR7OYRcqhn+g4DypiVNhfsTRFJzIM2LBqV+dAMBYQ==",
         "icono": "https://i.ibb.co/RgWH92w/720x540-1.jpg"
+      },
+      {      
+        "name": "UNIVERSAL COMEDY",
+        "uri": "ABdFZq5uqIw4WX2f9SPCh6zXkMZ45bJrW48w1A8sxpN55CxPfgOGGkGniIQfRUxe",
+        "icono": "http://static.tvar.io/imagenes/uncomedy.png"
+      },
+      {
+        "name": "UNIVERSAL CRIME",
+        "uri": "ABdFZq5uqIw4WX2f9SPCh6zXkMZ45bJrW48w1A8sxpN6UAZW4aGssRZqo115Mz+A",
+        "icono": "http://static.tvar.io/imagenes/uncrime.png"
+      },
+      {
+        "name": "UNIVERSAL PREMIERE",
+        "uri": "ABdFZq5uqIw4WX2f9SPCh6zXkMZ45bJrW48w1A8sxpP8EC4wPZnumvAQa/ny3L5T",
+        "icono": "http://static.tvar.io/imagenes/unpremiere.png"
+      },
+      {
+        "name": "UNIVERSAL REALITY",
+        "uri": "ABdFZq5uqIw4WX2f9SPCh6zXkMZ45bJrW48w1A8sxpMGhmTNyZ4gp2oW6VaFP/mx",
+        "icono": "http://static.tvar.io/imagenes/unreality.png"      
       }
     ]
   },
