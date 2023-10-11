@@ -78,9 +78,9 @@
       },
       {
         "name": "ESPN PREMIUM 2",
-        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmJ3saV3TPVI5/62bYasmVXbg8+yd4Sxm4uSmVlt7LAJ5LeafC1dbjrsw2+4w9DNLG6Jwhb2IcD33jhL9S5eZJlfUf97Nd0BdTQ5C32p6o2UaA==",
-        "drm_scheme": "widevine",
-        "drm_license_uri": "TKTvsoxXqhUPckfmw9KaJ7uPtqzMT0qIkYh8yAG147Be+fehnu7HtLGcRBVUluBaWUQll4JPNcH7giRhlaJhHFmUNrUYXOCA48E5+G37zJo6ToN1jzl4AQruqF6ijW6j",
+        "uri": "x/xWkNrovMYmGeIV76G4pOWzEePFvZC2/a11JIOm1xIEZ36QJDQCgY3XaXT05ijvV3rdJTYV2PQmJ2ALqD9F8/hJn9os5wcH6Y3wxai6y8NXNRPd/UNwx82jcNk6UTYjZ2McLPgWBC7Ul8AV33ftaw==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iC9tpukw7a8ViVTMaV/6sd3LpCOJs+EJjC5m+97IIJhQgXJQ0+M74a6laMelT6tSUXQVJg0We0q/g2sU8SBQQG3jR1VEbzRSsTZwhWoGSnZ8UIc960+Ggk1hDYQVwpTEPOeNfnZVTcBOlUZhfD7W4Q==",
         "icono": "https://i.postimg.cc/02BdYRZz/ver-espn-premium-en-vivo.jpg"
       }
     ]
@@ -720,10 +720,9 @@
       },
       {
         "name": "ESPN PREMIUM 2",
-        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmJ3saV3TPVI5/62bYasmVXbg8+yd4Sxm4uSmVlt7LAJ5LeafC1dbjrsw2+4w9DNLG6Jwhb2IcD33jhL9S5eZJlfUf97Nd0BdTQ5C32p6o2UaA==",
-        "drm_scheme": "widevine",
-        "drm_license_uri": "TKTvsoxXqhUPckfmw9KaJ7uPtqzMT0qIkYh8yAG147Be+fehnu7HtLGcRBVUluBaWUQll4JPNcH7giRhlaJhHFmUNrUYXOCA48E5+G37zJo6ToN1jzl4AQruqF6ijW6j",
-        "icono": "https://i.postimg.cc/02BdYRZz/ver-espn-premium-en-vivo.jpg"
+        "uri": "x/xWkNrovMYmGeIV76G4pOWzEePFvZC2/a11JIOm1xIEZ36QJDQCgY3XaXT05ijvV3rdJTYV2PQmJ2ALqD9F8/hJn9os5wcH6Y3wxai6y8NXNRPd/UNwx82jcNk6UTYjZ2McLPgWBC7Ul8AV33ftaw==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iC9tpukw7a8ViVTMaV/6sd3LpCOJs+EJjC5m+97IIJhQgXJQ0+M74a6laMelT6tSUXQVJg0We0q/g2sU8SBQQG3jR1VEbzRSsTZwhWoGSnZ8UIc960+Ggk1hDYQVwpTEPOeNfnZVTcBOlUZhfD7W4Q==",
       },
       {
         "name": "ESPN",
@@ -773,13 +772,6 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "TQSPBT5fFAmrHLJIeXbfeYYFtojpZitK3qj2HsVJ7fjtPXepaPSVFKk2lReqBZ6RVuqBglBhgNMGTTcNZeNodAEOHVUsPOTgfTL91dv3jeBT5yzU3PYR6EtWxW7lUuGgc/j/siaZd7RcweP3vhtGqg==",
         "icono": "https://i.ibb.co/1rMMbhK/unnamed-6.jpg"
-      },
-      {
-        "name": "ECDF",
-        "uri": "bM89rug4r/1dRQ/VgDL0HXCaBdBqY+QzxIb2yaW2HombEqVjGsBRsrLvN83dN+DCcFbcYAruHeyj2jQvUmhjTA==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvH+oEpcCWnWUmPlZ1z6FRNgaDfEx4735GxksLQs8VU8wlMBodZjrVCkOvLmLwl1lsaqMJebRp454fZ1rqDSKcIjea0HhKVoOjCNcJCNAlBlARRyO9wkYwt0ea7LtVjVolQ==",
-        "icono": "https://www.televisiongratis.tv/components/com_televisiongratis/images/el-canal-del-ftbol-2289.png"
       },
       {
         "name": "TYC SPORTS",
