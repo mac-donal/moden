@@ -3,10 +3,135 @@
     "name": "PELICULAS RECIEN AGREGADAS ",
     "samples": [
       {
+        "name": "CONTAGIO ALTA MAR",
+        "uri": "6mGshunOsomKreILlikTyNHcVD0ppZt595SyB9lK3gVDK8f9ZWExV+yizUilzYdDDzj7juInCIVU5KtwNQ6gH6o4jA3UvUyGSZqnJyiAx40=",
+        "icono": "https://images.justwatch.com/poster/305373083/s592/contagio-en-alta-mar"
+      },
+      {
+        "name": "Mercy SUB (2023)",
+        "uri": "6mGshunOsomKreILlikTyCNv2h1uLBm1pHixCs0zH5eS08vymHWcgi7xSl+yovd/o3+gTppOGfk/V/qJLgVxU02uzJwOCZcNEz9VIgzIhvyBxi5j+H+03Yb2wfgNaRQw",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPyQMX1vd-MijBaWS8xFp47viFBs6ORWXfYLjzeU9PwII-cEEU"
+      },
+      {
+        "name": "Lionel Messi",
+        "uri": "6mGshunOsomKreILlikTyCNv2h1uLBm1pHixCs0zH5fQQeoQ9+smHsMdYDYF8/T/YVP5mdAkt8lMoVgVBuTSSWELEyaZiPGsBk+yV1hwCSc=",
+        "icono": "https://media.admagazine.com/photos/637d11a6e63c8afac40e7a01/1:1/w_2896,h_2896,c_limit/1442809583"
+      },
+      {
+        "name": "Lionel Messi Destiny (2023)",
+        "uri": "6mGshunOsomKreILlikTyCNv2h1uLBm1pHixCs0zH5edgpW/57/T2z92885IEAFoUkXOwjx5Duos5OIjbKCFguPtp4Shbs2xLT9allgwOCMjsBdEGRfbjw6A+AHOtj7uwp31aLixxjPt0fX5PGpNMoHGLmP4f7TdhvbB+A1pFDA=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BNDgwNDgxZWUtNjRjNS00NDJjLWE5MGUtYmEzYjIzMGI1Y2ViXkEyXkFqcGdeQXVyMTMwOTc4OTc5._V1_UY1200_CR85,0,630,1200_AL_.jpg"
+      },
+      {
+        "name": "Limbo SUB",
+        "uri": "6mGshunOsomKreILlikTyCNv2h1uLBm1pHixCs0zH5duyRpFWkvK9+6ozNyyt7IPuucmIJK0sjInXU2VN9DsJ2USOV/y+hYwox75cxXG3O0DQIzurqu3cVx38WdtPo6Q",
+        "icono": "https://media-cache.cinematerial.com/p/500x/jzwpvvfa/limbo-key-art.jpg?v=1693533780"
+      },
+      {
+        "name": "La sexóloga (2023)",
+        "uri": "6mGshunOsomKreILlikTyCNv2h1uLBm1pHixCs0zH5e5sDLN4SkQWLCcE/eC/f8pzxLca/op0Cj+b/yF6bAc4Kwb2CEO0lyKS00e/u4ogK0j8wW4CMTuReufnNLCO1kO9FB4rSO/ouZB3ZFT758sYIHGLmP4f7TdhvbB+A1pFDA=",
+        "icono": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSV9hGxfvj8IUqsPhBCLmFgIPMiss25Dmd2xKqs9howvJORTlHU"
+      },
+      {
+        "name": "Las semanas mágicas (2023)",
+        "uri": "6mGshunOsomKreILlikTyCNv2h1uLBm1pHixCs0zH5daE26Xswee+Yzc26Pb9X1078e80Lzu8Y+XPG0Mjhh4TwMTIEt73VA1CgtnMztLTh6GKYTN4WOGceP5y99saYfGPrYt0Ze34C/igyjthsR5Upx8/RA6wqSM5xqUxXczOmBvT1o5ZrAqvRyJuDVg9quZ",
+        "icono": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRifS1XD8SQHtRWGBHVOmNLhR5PcKoVmsqQjxe0vGtXg-muNOWU"
+      },
+      {
+        "name": "La leyenda de los chaneques (2023)",
+        "uri": "6mGshunOsomKreILlikTyCNv2h1uLBm1pHixCs0zH5foC+RsN/hs4WfllauE7xMqE6M0DXFQaGN3FGwIujAVcK2HAejSbzornPhgNPDKDJKTIdepp27kGmElscWol5r8276bRH5nCFhf5Kv4apNdUiJIGx3Q0HWbM2tR+RlMPVEslm2NXuOF28qX5zEUt9r8YQsTJpmI8awGT7JXWHAJJw==",
+        "icono": "https://static.wikia.nocookie.net/legendquest/images/7/7d/La_Leyenda_de_los_Chaneques.jpg/revision/latest?cb=20230708000344&path-prefix=es"
+      },
+      {
+        "name": "La extorsión",
+        "uri": "6mGshunOsomKreILlikTyCNv2h1uLBm1pHixCs0zH5cjgu/g1bG/4Wa8AjA5mQ5FYu9/bOGL92OQpwG/GXJX86Uo79jhVlJQ41OEorkeADLqhGhBOEHQl61YhuHndcd+",
+        "icono": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ_IsekmI6WzlZtZLRCctZZuy33giq2ynxscWelZSfxvAxaB615"
+      },
+      {
+        "name": "La Cordonnière SUB(2023)",
+        "uri": "6mGshunOsomKreILlikTyCNv2h1uLBm1pHixCs0zH5c5/I7ItXga3+iGelIFvvcTrIZVTbXvsBpjwyLl9qDnemy8JpuaGnIa0cTQHp43Ty33KCvv2PJXDfkXIVOxdjKG",
+        "icono": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2023/3/w1280/oIWE4JcCgpcDZJ2s3S1PPaRDScd.jpg"
+      },
+      {
+        "name": "Los reyes de la calle Mulberry: ¡Que reine el amor! (2023)",
+        "uri": "6mGshunOsomKreILlikTyCNv2h1uLBm1pHixCs0zH5cle8CFGElzcBw9n6YyUxTmtvuQZHmCwRgVsCM9Dw1n43NDgspVJqAhK5zIwfYLGfH+P7VGJFdsoMtGgB0ng1OCIOZCderZj0nU+yLOese8UsfovR4vz23qhR+LPDPriC9n3nfTcCH/7fyQhCSxMoSfkxhCI5Bqi43+0YTGWR3gevHqpaL5CdSa5nx9EKXXB9YLX8cCuak/bd58KovR6NHK",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS09zMNxFrV9peOPbymitOiPtqdKJZJVD6Ps8qHtJgk57UjGyY2"
+      },
+      {
+        "name": "La Última Línea de Defensa",
+        "uri": "6mGshunOsomKreILlikTyCNv2h1uLBm1pHixCs0zH5fo0hiPOXTRGpVIrm3VTxVj6Wa4VQB3/pZakNAOB8GWcQspdTO3lZQ9yCnNPH1YMbZlqIupXYh4bh95ueR8aiJe2kxfr6aWPDXmN/idje+Fxxcs1hJDToaTkzPzr1PsZf8jSkwCly3PW3ElCHDhDH2D72T+crYbHdI5FnNubGStBg==",
+        "icono": "https://images.justwatch.com/poster/307359000/s718/the-last-frontier.jpg"
+      },
+      {
+        "name": "La modelo y el fotógrafo",
+        "uri": "6mGshunOsomKreILlikTyCNv2h1uLBm1pHixCs0zH5eYWEGwYuXyT/NGCZ/GCmPY3Wm72iZkX4vCCve0g/J2sGS/mnJ2t2OKGjibFYm7c0wHgzXwMwljBM1un+a0VpJYoyh8dDJjto4++pN5KZJ6NnhYVIyzBNj8oSPEZ4aQZsTpX5XR2OSXuydY+GUiYE3RaeOQC5B3HMPhPFrje2g56Q==",
+        "icono": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRHTY-h678wbvP767iFGK48zkEKAyGwWroKuoWhee7BGwkYz0Ot"
+      },
+      {
+        "name": "El perfecto asesino",
+        "uri": "6mGshunOsomKreILlikTyCNv2h1uLBm1pHixCs0zH5eUfSpkDVfLiucmATo2V5vbHua9MEynnMxXvLXYGjgLhB9bQj+mDs9gUPAZuYp//MEm2mU/OImkinwod4itFilsZsPU6lKSATuOBga9lGjjAg==",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9-piXHfk1eUUKVs8IpNFZe3OO_y81geKyoS35FTYvVFcPQ-Yr"
+      },
+      {
+        "name": "Escape bajo fuego 2023",
+        "uri": "6mGshunOsomKreILlikTyCNv2h1uLBm1pHixCs0zH5c/lURYIIOHOX6PG7DUbjXNcmjK7Ll1SqcsqJ2o138S1QRyuaHqCCf7ZiibM31CcI7k/bI+jFz+lK7PlwhL5W2KFwUY/LSmLAbgSb4+jjazuA==",
+        "icono": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTXl0CD-18g-vHftXx1K-rGhwHbaqkHE5_QTOlNch3fPBiSNv2q"
+      },
+      {
+        "name": "Joy.Ride.2023",
+        "uri": "6mGshunOsomKreILlikTyCNv2h1uLBm1pHixCs0zH5fzqbyZo9vEB2W7vK/pBzzVwkBGzvR6u59TOXfVDmTBrnfDsIsTihHxY6+QV4M6DmfqsEVetuI9AKsEsne6JRfZ",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpmgAPGxEQJCUHssECsHvT8EWgFplNl4i-cQBLsaoIi1__B0bc"
+      },
+      {
+        "name": "Jelly Roll: Save Me (TV Special 2023)",
+        "uri": "6mGshunOsomKreILlikTyCNv2h1uLBm1pHixCs0zH5eveBDp6kRxxlYgg9BoZO2tmESYAVjxkIprBtgDmPkN9SBU8EEyyXIewwTgfKsJtImWVfJ8aqJ3SwmDHuu1nZwzI12R52bwt2xN7QrkQrKWeQ==",
+        "icono": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ-8GGxfFen63bK6IznQXUEYTYcBUDeNr9_TYzbAU5zksR1H5UJ"
+      },
+      {
+        "name": "Jagun Jagun (ElGUERRERO) (2023) SUB",
+        "uri": "6mGshunOsomKreILlikTyCNv2h1uLBm1pHixCs0zH5epL9P9iGSUxMeNRm7BjEPRsamKdWnnlLiHqnHh6HAxgGXbN5iEKaaDlE1uw9Wriw9T9iiQM6dGwGKHlWpNud13ezvgca4kyt0wafcHmuxEIRH8Jq3i3f2kbNAq1tMFt18=",
+        "icono": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRO_0mXbTQCBMT4fQp8y8UM5HRZIeuQ8CBdaQXytv42QGjLpr8V"
+      },
+      {
+        "name": "Influencer SUB",
+        "uri": "6mGshunOsomKreILlikTyCNv2h1uLBm1pHixCs0zH5eC1LqPWG869jQs2ERrcoeRMMrnQ/EUpnlg71zJZM/b8+6I4JxkytQ10VvuF4OiKRNhCxMmmYjxrAZPsldYcAkn",
+        "icono": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSJ1-6Cvg2ML8a49WBYivIBPWppT-orIGKY9ASbwqUt3JW6jHGR"
+      },
+      {
+        "name": "Infelices para siempre SUB",
+        "uri": "6mGshunOsomKreILlikTyCNv2h1uLBm1pHixCs0zH5fubCdx+QvIN9a7nL0lvlF0I8EoqNyOyl/LyAz8GXRiDYazkQgDgYHJd0zM4tnVf0I16UoRc6PbN2aurxdmupGpgzsy5XQc57OsORVN1JSSu+T9sj6MXP6Urs+XCEvlbYoXBRj8tKYsBuBJvj6ONrO4",
+        "icono": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTcufzgq2D4i8-9vjy6HlnE5CqqQ0OJo4O5ehxKPPujUEOX-YcA"
+      },
+      {
         "name": "Blue Beetle",
         "uri": "E5WD7LPjLnc4S3vPUEfFP8PQotxOBFTewn/MxzMjGFWE91JQtFTCV7o3brWT1GTgo4wqiDoHzzIFzB3v2d9SsHDz3i+TZ/OpKQftKWo011dIYb/XJorCwQ5coAjPRv7d34DZysVBYquYZTPz+2lKG10aJDievWzBzLDXsgRPHMnugnVmfYIN1k9WthJQHDobdw2uh0iJd5B0QUSc4EgUUvRUlAhnsmDF+zv8Vpk/AFGRv6vsJ4GG7ik///Jt+rp0VD4Uy/FFmGp6T57XjFhJmxjOuHmMQM395tiS11wMrq5nT+F9YEqFnnOt8m3TAu7maOVktFVqMmLM4LeoTxPZLxrgCTuXibfJg5aVCP7YqoYE4vGm3L5WUwQinObwZSVcaeOQC5B3HMPhPFrje2g56Q==",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyTmCUB04cunVyt3RpIPj89QIIQqi3-S1Z1EgIsqqtYz_hMTJe"
-              },
+      },
+      {
+        "name": "AGENTE STONE",
+        "uri": "eRgCDdmZzaSr5ntMHOvaBuXrWJ4MCJZ4jOL5Vn6Zcn1DY1TFuHVBct8XfQ2rboCunmmYm/3LGpj0ZobZvLL6FuHznzJOrGhhVp0KMprQd3s0lUpvjv+nlQpO87GbF67fto6kwi7zMZJrH9DGcEglfnHXMZmoFAiQvgi0HCfEjA2jdHWpeLsj0SWWm+Ljjs67a0fixC1wca+T4rZOyNu6XvH3o0DdUSfo2tJ4e+CaLW7DibAtYHfbm7g27rauZXK2",
+        "icono": "https://m.media-amazon.com/images/M/MV5BMzE1ZThhYWEtZWYzOS00ODk0LThlNDQtMGIwMTNhNzk1ZjYxXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX450_.jpg"
+      },
+      {
+        "name": "Encerrada",
+        "uri": "4aoiRgzIzAQPTprC7gi17um3L7khrvJFsciK7Dbf5gdFW9z3x1g9d3JwDL1LehSuN3oGRvTBL/nwrlxyY13RiQ==",
+        "icono": "https://image.tmdb.org/t/p/original/xKZ1x7btQDBxvt5JRBOxWjCHMXy.jpg"
+      },
+      {
+        "name": "SNIPER: El Fin del Asesino",
+        "uri": "4aoiRgzIzAQPTprC7gi17um3L7khrvJFsciK7Dbf5geSo1LI9iMXEbb/ajgGAGvcgzsO9rnRRbk9mN6GycTHHL/QNjTqF9iLX/rqaOOI+30=",
+        "icono": "https://image.tmdb.org/t/p/original/avsDjwTpZRpoj5Vkc70fW446f5.jpg"
+      },
+      {
+        "name": "FRANCOTIRADOR La última masacre",
+        "uri": "4aoiRgzIzAQPTprC7gi17um3L7khrvJFsciK7Dbf5gcBVACjDbhXtuvE1y3a5sppC154OLCmdS57Mxo8diRwS7Uj5LoyrTOLBmcl8l8sz6I=",
+        "icono": "https://image.tmdb.org/t/p/original/tPsiPGpuu4EJTyByYKEOCAapf0e.jpg"
+      },
+      {
+        "name": "SHAZAM La furia de los dioses",
+        "uri": "4aoiRgzIzAQPTprC7gi17um3L7khrvJFsciK7Dbf5gfNQOuzUYwHjaqMljjjZZmRcq51SwrNxkEbdrWhQQOO0eh1kVACLoaklOq1KRTNB2A=",
+        "icono": "https://image.tmdb.org/t/p/original/igFLHxab9zG0M89OmEpnOM6TPXn.jpg"
+      },
       {
         "name": "Black Adam",
         "uri": "e3DRxA0SeYh8rk33tSVR0kWKHILgduvuCCNbDvQmO3GviNVFnKLzY1nY6rx8ZoPXrh6Os4sR5uZxUsYKq1fLmA==",
@@ -443,6 +568,46 @@
         "name": "La isla de las muñecas (2023)",
         "uri": "cVI+FPBxX2ASracUSyM4wxo9acx99PzFpCuPO0JF5VrH+IQm3/7ySAveme5TCMS4ccwP5YgOGfcM+PdV+hSku/i8sF2XbUkX3Vq1cVXXRKDUuXe9Eg1ECrykFg3hlgF6HW3wiuxACeLiDggJxZbpvg==",
         "icono": "https://www.themoviedb.org/t/p/w500/sqfMynwPxlgPzba8JsAHphx8pXS.jpg"
+      },
+      {
+        "name": "El sótano",
+        "uri": "4aoiRgzIzAQPTprC7gi17um3L7khrvJFsciK7Dbf5gdw1yhCihGmcMK23GhcleFZ/A7o6/MOODUtjxamYKFkwQ==",
+        "icono": "https://image.tmdb.org/t/p/original/1HKmjUItpo5HRdtQtmWx4RwoRCh.jpg"
+      },
+      {
+        "name": "El padrino",
+        "uri": "4aoiRgzIzAQPTprC7gi17um3L7khrvJFsciK7Dbf5geFOPjm0EluepAl7g/+bJu2vZvl1y75d7Bdvfw62pgqNg==",
+        "icono": "https://image.tmdb.org/t/p/original/ApiEfzSkrqS4m1L5a2GwWXzIiAs.jpg"
+      },
+      {
+        "name": "El padrino 2",
+        "uri": "4aoiRgzIzAQPTprC7gi17um3L7khrvJFsciK7Dbf5geFOPjm0EluepAl7g/+bJu2L4wj4blvNzUTuevLCR1QB9rt8CZ3yXBe7ZdzvZULjPA=",
+        "icono": "https://image.tmdb.org/t/p/original/mbry0W5PRylSUHsYzdiY2FSJwze.jpg"
+      },
+      {
+        "name": "El padrino 3",
+        "uri": "4aoiRgzIzAQPTprC7gi17um3L7khrvJFsciK7Dbf5geFOPjm0EluepAl7g/+bJu2ar6K670ChfyR4vsOcxmMoAUwJGMCXVREj/6frmu4aYY=",
+        "icono": "https://image.tmdb.org/t/p/original/l2D8Gzuzw8hN41UthdqM9Osu9I3.jpg"
+      },
+      {
+        "name": "IPMAN 1: El gran maestro",
+        "uri": "6mGshunOsomKreILlikTyIkYa35CS90ReZb0nTx0JKNN+jcPsxuYHFdyBB1GvFNRLEml4j/lisXO0Hy69uXGF2njkAuQdxzD4Txa43toOek=",
+        "icono": "https://images.justwatch.com/poster/255977321/s718/ip-man.jpg"
+      },
+      {
+        "name": "IPMAN 2: El gran maestro",
+        "uri": "6mGshunOsomKreILlikTyIkYa35CS90ReZb0nTx0JKNN+jcPsxuYHFdyBB1GvFNRrFKJmj+i4FBL/5ESXmxc5mnjkAuQdxzD4Txa43toOek=",
+        "icono": "https://m.media-amazon.com/images/S/pv-target-images/5a69f959434ed3b35cfba1428054ddaaa211be506c88a8fce5c201be2eef7371.jpg"
+      },
+      {
+        "name": "IPMAN 3: El gran maestro",
+        "uri": "6mGshunOsomKreILlikTyIkYa35CS90ReZb0nTx0JKNN+jcPsxuYHFdyBB1GvFNRRoYukk4sCuUwfkWfYkO2d2njkAuQdxzD4Txa43toOek=",
+        "icono": "https://m.media-amazon.com/images/I/91DvuP4iFhL._AC_UF894,1000_QL80_.jpg"
+      },
+      {
+        "name": "IPMANF 4: El gran maestro",
+        "uri": "6mGshunOsomKreILlikTyIkYa35CS90ReZb0nTx0JKNN+jcPsxuYHFdyBB1GvFNR6/6VxCA4CqiHB9KtIU0ZumnjkAuQdxzD4Txa43toOek=",
+        "icono": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR5SQaI6FsketUStAOv4tjq80gw3ohERnwYLdNslTcyrf-kHEH9"
       }
     ]
   },
