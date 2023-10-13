@@ -1583,7 +1583,8 @@
       },
       {
         "name": "CANAL 4",
-        "uri": "KusJ5ShfomSLrFIJxHev/jL6ooQmoIBDVod1epnlQhURz0Yc1yaaNNBESsSEf/mkAo4M5AmdkF6UITRD59ObhT6lqpwQQ9q78MY4JHn5C6TeQpSAsWq6hLASNhcyNvZWQr/xWkRUXFXlQiCHkLfvW5Q8k+8uek/fvVZn4mUnAyQ=",
+        "uri": "KusJ5ShfomSLrFIJxHev/jL6ooQmoIBDVod1epnlQhURz0Yc1yaaNNBESsSEf/mkAo4M5AmdkF6UITRD59ObhT6lqpwQQ9q78MY4JHn5C6QmUxhTWan7UYZG4GBVNbaH",
+        "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvB4Yq90lvZ/zVU5WgueYjdcbIB7Ikse1hxz0WUTwjfrbEBUAQQ6t2cxW0aOykdH6kOlMP2nD9tpR079QPwfhdUPpToqiPUFYjYhGW/yZBJP9wzkyo46b6Zrhjk7LSCq2Hg==",
         "icono": "https://static.tvar.io/imagenes/canal4uy.png"
       },
