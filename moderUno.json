@@ -1,6 +1,6 @@
 [
   {
-    "name": "MLS SOLO EVENTOS",
+    "name": "MLS SOLO EVENTOSS",
     "samples": [
       {
         "name": "EVENTO1",
@@ -1132,6 +1132,55 @@
     "name": "CINES-SERIES",
     "samples": [
       {
+        "name": "STUDIO UNIVERSAL",
+        "uri": "KusJ5ShfomSLrFIJxHev/lZUC6R71wyEykNA2u1z8lBmXBuqeXlq3KAdZYIwvuJQyb5drbve5ldRARWwhRrQXeayZQqAHvVQMnfYPHplJAq3UhB64h/zqmFwRJAVd+aYrRb5KQk4E9y4B9Ak8lK1iA==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvC6gnt45SI0S0iuS2QBZdrn+hB5VMBbQk0WgtctDHhnbeIgmQxj5Up4VOl6Sq4kgfZM3Fk/cIJbROFRn1RaNRQsykqTnLKzWK3UnD/UMmemN0timyu9icVu5o6c3DOa/jw==",
+        "icono": "https://i.ibb.co/s9JprFc/unnamed-7.jpg"
+      },
+      {
+        "name": "UNIVERSAL CHANNEL",
+        "uri": "KusJ5ShfomSLrFIJxHev/mIUXp3nbjSybfys+7HVleJmXBuqeXlq3KAdZYIwvuJQChqb1nORlT/1di/uf8ApXjHytRxg8Ery0wTr9rrQB1rTQebmN/XwAG3mqCD0HTRxiCTPMDcZERoaIuy7xP/equRS4Di3ZsiTEWvBXK0hB3Y=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvBQdNI9nl1rg4zPEE1by6hUJRcTWhIZEQGq16mERXVh9tr0fZqHITzuvJkTAO4kq9qSAO8+uUmmjjs8sN/GpbrWj/n5ZfgiYnfWGuED41JHSQeDWpcdRL9U2q2S9MmOL+g==",
+        "icono": "https://i.ibb.co/1qksDfg/Universal-Channel-Brasil-svg.png"
+      },
+      {
+        "name": "UNIVERSAL CINEMA",
+        "uri": "Y7AXSGZhqk1v79zX/F4MeiIcNe2Slqj8B5EzQAHO2w9BNrV/DmblvUTDg3s/8loo70ywDjp+3x9sqromFLxRFcRilgWln7yse5q7Dhkej9FLixvCHeblpS+4QkYnNDOP7m51xyc6GJu1XdejUFNeeQ==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "TQSPBT5fFAmrHLJIeXbfeSRbpWQGpKSf7PQ4fog3CjuyZ6BC6wj1vqVMpWEIBucBYXgUllQuc/nVpvsKokPl3oEOirRnkX7XT3ys4mU+4q4ioU522sU12lu00VAWjyoZyy9ZZimwFdGd2d/Ni9HhAp55MAJon6lOaoZOR8mhMec=",
+        "icono": "http://static.tvar.io/imagenes/universalcinema.png"
+      },
+      {
+        "name": "UNIVERSAL COMEDY",
+        "uri": "/Z4U837aBJPkfJzm6o+zUCIcNe2Slqj8B5EzQAHO2w+UjRINivs9g6kmyOw8btbY7DGGRvRLVw/Du8ne/facMV4v1rc8/fFEmcb4d9p6gceNp0WH3QeDjM2qW2GrtHGY7m51xyc6GJu1XdejUFNeeQ==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "TQSPBT5fFAmrHLJIeXbfeZS4ttdsQ5S1JOxw7DxZ5U7ndpu4uWe2xSTljDcww63vetp5T670o0RLFus4mMC4eyqUGB+AVAKDs2j9rwzevMP7MDDJ0xez5NkSwlnK9mCfkU9xvasvGo9HyBKtzoMLRZ55MAJon6lOaoZOR8mhMec=",
+        "icono": "http://static.tvar.io/imagenes/uncomedy.png"
+      },
+      {
+        "name": "UNIVERSAL CRIME",
+        "uri": "0lENZnatiJ2ME5TRdDAJxiIcNe2Slqj8B5EzQAHO2w9BNrV/DmblvUTDg3s/8looyLQOObtUZI6INJSINzFbVTF54bOTAPSxTv4sFY4AQaSMEDoHecQma7+E/dMl2yYs7m51xyc6GJu1XdejUFNeeQ==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "TQSPBT5fFAmrHLJIeXbfebWFWLg4+KLBJ6eYDFsWh0TuP5jv0DYnHv1BFdOJBkaxGj3aCz/pVmeOqiPU3uOipwK+Z60Wuz9zkcIiFrX1ejsCOP4taeTKJTABZsIxyGjU7sxt5emON6bCZKSJq5FN8PNBU5vzURtFUCLDTUAHqoM=",
+        "icono": "http://static.tvar.io/imagenes/uncrime.png"
+      },
+      {
+        "name": "UNIVERSAL PREMIERE",
+        "uri": "Y7AXSGZhqk1v79zX/F4MeiIcNe2Slqj8B5EzQAHO2w9BNrV/DmblvUTDg3s/8looa6ufu2GEejVyKX87wgAJNsRCK4uIko+kaYqAwUTdIBOfbMbT54yzVi1FFPCJbhmI7m51xyc6GJu1XdejUFNeeQ==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "TQSPBT5fFAmrHLJIeXbfecLctZyrztOhgKq4dHYWS/Sf3MlU2GtLBt3TYx74GLVlSYEJVTWV4LPo7TS39fPUDqJIlC9tDDUJ0lvJ22C3rQjTwx2DxnnDVMJbtx6n+C0iLn5vk1uD1KxIWKf2CIrjabf9PrNzqvJl/uUwKiJVrU4=",
+        "icono": "http://static.tvar.io/imagenes/unpremiere.png"
+      },
+      {
+        "name": "UNIVERSAL REALITY",
+        "uri": "SN3dPn/a37g6gcOLWZq+TyIcNe2Slqj8B5EzQAHO2w+UjRINivs9g6kmyOw8btbYtFFN89tTh6nAIynLiPw1/mJjxR6QzTt2pbFbx82x9Eg3/I9IedIG88OSxORi+5Fa7m51xyc6GJu1XdejUFNeeQ==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "TQSPBT5fFAmrHLJIeXbfea4TetpPtiL13Y71TtCpyCT+ZSXshgQr1Uo4RVAPN216ybKeDQ1+PVWw16B91S6oF72s4Dqd//Xgm337X/G59uVQKhZzbiIjJyKabTqB6dGEIMrYIUGpMM6qBt8TjsOjLR7rJxwIxdlF+rBLMkzyAfc=",
+        "icono": "http://static.tvar.io/imagenes/unreality.png"
+      },
+      {
         "name": "GOLDEN PLUS",
         "uri": "1TOBYmBE8hdaxWw8rCUzPI0VCurphHD6kxIIMOH3vjLWjz3BA65T1h1KWcXmjeqJd6mrT33iior1kEq5RZYO4/v3zQSGGXjtwGkuOLFpgqU=",
         "icono": "https://i.ibb.co/0QygQDg/goldenplus.jpg"
@@ -1144,32 +1193,11 @@
         "icono": "https://i.ibb.co/0FRTL4r/channels4-profile-3.jpg"
       },
       {
-        "name": "UNIVERSAL CHANNEL",
-        "uri": "KusJ5ShfomSLrFIJxHev/mIUXp3nbjSybfys+7HVleJmXBuqeXlq3KAdZYIwvuJQChqb1nORlT/1di/uf8ApXjHytRxg8Ery0wTr9rrQB1rTQebmN/XwAG3mqCD0HTRxiCTPMDcZERoaIuy7xP/equRS4Di3ZsiTEWvBXK0hB3Y=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvBQdNI9nl1rg4zPEE1by6hUJRcTWhIZEQGq16mERXVh9tr0fZqHITzuvJkTAO4kq9qSAO8+uUmmjjs8sN/GpbrWj/n5ZfgiYnfWGuED41JHSQeDWpcdRL9U2q2S9MmOL+g==",
-        "icono": "https://i.ibb.co/1qksDfg/Universal-Channel-Brasil-svg.png"
-      },
-      {
         "name": "TCM",
         "uri": "KusJ5ShfomSLrFIJxHev/nI7j8Vlvp7g2CyI89J/DiVmXBuqeXlq3KAdZYIwvuJQRMKawIZmSmK2oS/yo9RbcrZdSsklQ6YMPGL7IOe1NFE=",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvIdUCBOIKxJhAM6+E6/P+QK8mN20DyV7vPkypcXaPdPknodtFkyCZuYqN0yld8ccOuhd/bg2+om1llUabm6/OJdashnSpn6h4laDq/kGUyfnfcjndaj2jHpRu0qFEz04QQ==",
         "icono": "https://i.ibb.co/Z6qftsS/TCM-Latam-logo-svg.png"
-      },
-      {
-        "name": "STUDIO UNIVERSAL",
-        "uri": "KusJ5ShfomSLrFIJxHev/lZUC6R71wyEykNA2u1z8lBmXBuqeXlq3KAdZYIwvuJQyb5drbve5ldRARWwhRrQXeayZQqAHvVQMnfYPHplJAq3UhB64h/zqmFwRJAVd+aYrRb5KQk4E9y4B9Ak8lK1iA==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvC6gnt45SI0S0iuS2QBZdrn+hB5VMBbQk0WgtctDHhnbeIgmQxj5Up4VOl6Sq4kgfZM3Fk/cIJbROFRn1RaNRQsykqTnLKzWK3UnD/UMmemN0timyu9icVu5o6c3DOa/jw==",
-        "icono": "https://i.ibb.co/s9JprFc/unnamed-7.jpg"
-      },
-      {
-        "name": "UNIVERSAL COMEDY",
-        "uri": "meyoBSN7+VDo2x273LRGfvrAaYtitnzRM3d6eFvxfVZuWrmn9uFsFTVdJ821XGlb7m51xyc6GJu1XdejUFNeeQ==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "TQSPBT5fFAmrHLJIeXbfeZS4ttdsQ5S1JOxw7DxZ5U7ndpu4uWe2xSTljDcww63vetp5T670o0RLFus4mMC4eyqUGB+AVAKDs2j9rwzevMP7MDDJ0xez5NkSwlnK9mCfkU9xvasvGo9HyBKtzoMLRZ55MAJon6lOaoZOR8mhMec=",
-        "icono": "https://i.ibb.co/FzmmZPZ/descarga-9.jpg"
       },
       {
         "name": "EUROPA EUROPA",
@@ -1341,26 +1369,6 @@
         "name": "CINE LATINO",
         "uri": "VJeTCYODF6rq9avPW5hOQGJYbdUdFnJWkRARMhHnQsObMTWv3EGRjISwDxvjOK7dTNeTht+l5Ak4kDsZg+xtBEtYjZzZ1qcsGmvNbBLlRLck4+M+AWowZu7Mw3CxDIFJdgU5mAGtEEhOwcGqGCqdQA==",
         "icono": "https://i.ibb.co/f110383/ar-cine-latino-m.png"
-      },
-      {
-        "name": "UNIVERSAL COMEDY",
-        "uri": "ABdFZq5uqIw4WX2f9SPCh6zXkMZ45bJrW48w1A8sxpN55CxPfgOGGkGniIQfRUxe",
-        "icono": "http://static.tvar.io/imagenes/uncomedy.png"
-      },
-      {
-        "name": "UNIVERSAL CRIME",
-        "uri": "ABdFZq5uqIw4WX2f9SPCh6zXkMZ45bJrW48w1A8sxpN6UAZW4aGssRZqo115Mz+A",
-        "icono": "http://static.tvar.io/imagenes/uncrime.png"
-      },
-      {
-        "name": "UNIVERSAL PREMIERE",
-        "uri": "ABdFZq5uqIw4WX2f9SPCh6zXkMZ45bJrW48w1A8sxpP8EC4wPZnumvAQa/ny3L5T",
-        "icono": "http://static.tvar.io/imagenes/unpremiere.png"
-      },
-      {
-        "name": "UNIVERSAL REALITY",
-        "uri": "ABdFZq5uqIw4WX2f9SPCh6zXkMZ45bJrW48w1A8sxpMGhmTNyZ4gp2oW6VaFP/mx",
-        "icono": "http://static.tvar.io/imagenes/unreality.png"
       }
     ]
   },
