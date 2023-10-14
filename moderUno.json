@@ -1146,38 +1146,23 @@
         "icono": "https://i.ibb.co/1qksDfg/Universal-Channel-Brasil-svg.png"
       },
       {
-        "name": "UNIVERSAL CINEMA",
-        "uri": "d+ZE0K9heiaiwdSYKfaXSl7IPfFXiOKWPXorAHM6wIYaKNytob64Kkd5rG+Mq5GjdCX1kR98UpPn+1fyd0qoiLW52fomlgtSTRw8ELQs4gHry29XnJ35W+D5vQSXs2SO",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "TQSPBT5fFAmrHLJIeXbfeSRbpWQGpKSf7PQ4fog3CjuyZ6BC6wj1vqVMpWEIBucBYXgUllQuc/nVpvsKokPl3oEOirRnkX7XT3ys4mU+4q4ioU522sU12lu00VAWjyoZyy9ZZimwFdGd2d/Ni9HhAp55MAJon6lOaoZOR8mhMec=",
-        "icono": "http://static.tvar.io/imagenes/universalcinema.png"
-      },
-      {
         "name": "UNIVERSAL COMEDY",
-        "uri": "d+ZE0K9heiaiwdSYKfaXShHFJpO6RTahY/4CULrn/dsaKNytob64Kkd5rG+Mq5GjdCX1kR98UpPn+1fyd0qoiLW52fomlgtSTRw8ELQs4gHry29XnJ35W+D5vQSXs2SO",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "TQSPBT5fFAmrHLJIeXbfeZS4ttdsQ5S1JOxw7DxZ5U7ndpu4uWe2xSTljDcww63vetp5T670o0RLFus4mMC4eyqUGB+AVAKDs2j9rwzevMP7MDDJ0xez5NkSwlnK9mCfkU9xvasvGo9HyBKtzoMLRZ55MAJon6lOaoZOR8mhMec=",
+        "uri": "ABdFZq5uqIw4WX2f9SPCh6zXkMZ45bJrW48w1A8sxpN55CxPfgOGGkGniIQfRUxe",
         "icono": "http://static.tvar.io/imagenes/uncomedy.png"
       },
       {
         "name": "UNIVERSAL CRIME",
-        "uri": "d+ZE0K9heiaiwdSYKfaXSrPWLWpWKGISBne2jZsXOezOVUqc0PZ+ZD2TQcV2gK2sXs1qV+O5jjMhA1avqfppXEXcSv1Xgx+/SV4mYGfISxLkQb+WHw7hNCUYzV3O555K",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "TQSPBT5fFAmrHLJIeXbfebWFWLg4+KLBJ6eYDFsWh0TuP5jv0DYnHv1BFdOJBkaxGj3aCz/pVmeOqiPU3uOipwK+Z60Wuz9zkcIiFrX1ejsCOP4taeTKJTABZsIxyGjU7sxt5emON6bCZKSJq5FN8PNBU5vzURtFUCLDTUAHqoM=",
+        "uri": "ABdFZq5uqIw4WX2f9SPCh6zXkMZ45bJrW48w1A8sxpN6UAZW4aGssRZqo115Mz+A",
         "icono": "http://static.tvar.io/imagenes/uncrime.png"
       },
       {
         "name": "UNIVERSAL PREMIERE",
-        "uri": "d+ZE0K9heiaiwdSYKfaXSgO+SgVBc+Zi/irbR2D/IVCMhck9MR27HXu+GSOpVMdNHjwa215wrZ6F/bAiaP5WlsT4sWcYMFPlWPa+6hwfHr99nhaE/BxvKmvJlNUhrXP+",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "TQSPBT5fFAmrHLJIeXbfecLctZyrztOhgKq4dHYWS/Sf3MlU2GtLBt3TYx74GLVlSYEJVTWV4LPo7TS39fPUDqJIlC9tDDUJ0lvJ22C3rQjTwx2DxnnDVMJbtx6n+C0iLn5vk1uD1KxIWKf2CIrjabf9PrNzqvJl/uUwKiJVrU4=",
+        "uri": "ABdFZq5uqIw4WX2f9SPCh6zXkMZ45bJrW48w1A8sxpP8EC4wPZnumvAQa/ny3L5T",
         "icono": "http://static.tvar.io/imagenes/unpremiere.png"
       },
       {
         "name": "UNIVERSAL REALITY",
-        "uri": "d+ZE0K9heiaiwdSYKfaXSkR+KSYtaqMIZ2X8B3M0eUt5qRgmWYQu62RIpMLyceeAB97S9hL6H686PoWrpVmMsplIbPqMapBzqKJV9clzlYbfKkiERjKBj817vcRzDzJi",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "TQSPBT5fFAmrHLJIeXbfea4TetpPtiL13Y71TtCpyCT+ZSXshgQr1Uo4RVAPN216ybKeDQ1+PVWw16B91S6oF72s4Dqd//Xgm337X/G59uVQKhZzbiIjJyKabTqB6dGEIMrYIUGpMM6qBt8TjsOjLR7rJxwIxdlF+rBLMkzyAfc=",
+        "uri": "ABdFZq5uqIw4WX2f9SPCh6zXkMZ45bJrW48w1A8sxpMGhmTNyZ4gp2oW6VaFP/mx",
         "icono": "http://static.tvar.io/imagenes/unreality.png"
       },
       {
