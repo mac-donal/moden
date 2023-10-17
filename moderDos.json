@@ -625,5 +625,45 @@
         "icono": "https://www.laclave.com.py/wp-content/uploads/2023/07/PAG-7-A-1-4.jpeg"
       }
     ]
+  },
+  {
+    "name": "NADA LA SERIE",
+    "samples": [
+      {
+        "name": "T1:E2 Remar en dulce de leche",
+        "uri": "9sh2XqZQpYQyS+MeA4CFHRAf26Ms07bnwJChyshyA48MKigN89Q2m1FVwVWNCrcMlNwNI6XBA6a1aHO7fDJ45e+jMF1xSQYjtLtJfj/yC4Ra1F3P85+UfPfC+DyLqXGG7Exjs91gKTciLuf8XdLInQNYEpCCfP3ob12g2ohcY1Zs6bDgK1Jqdnr9qoL0cPjDTreMBBW/tkrTjEDie0yP7Jzgp3TxtPeB6sitgcnY7mRZ3lTpCqwLZgkdAAgEH431cUdV9T581lrL2lUcGY8qtndHHtdBvo6PeajGQjQs+7Wo1o4qioMDzg8jb9k+4PybYTmd/5Lp+42Jce6F9rxgkA==",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "wgXMGzVQ+7yZUpZjQMGKfmgKiC0lQQLvOqU5+uCjpzgOOvbyCk1Q2IVmQA/INN2V",
+        "icono": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTyRz_12lF0_omtDe3G84zJ-KJ94UXcA1iCXnVwx1RSnjE1Pgvw"
+      },
+      {
+        "name": "T1:E2 Remar en dulce de leche",
+        "uri": "9sh2XqZQpYQyS+MeA4CFHRAf26Ms07bnwJChyshyA48MKigN89Q2m1FVwVWNCrcMlNwNI6XBA6a1aHO7fDJ45e+jMF1xSQYjtLtJfj/yC4QG3CqC/7qziepiHWb5p/WKQkcauHDuf4UgjxF1cV1N60UoKqXj6mOP4hjeuFtXQd5a/gy0936CvCt0sf8aTWQqN+pngoqmKRX7DEE1Bx+m/wxxU0V3YK7yhg9vR4IJMujqbB7U+Z2eXNRVTHPmyqBAqEWyyuBYJL9xoQYZwB2MFWnjkAuQdxzD4Txa43toOek=",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "wgXMGzVQ+7yZUpZjQMGKfmgKiC0lQQLvOqU5+uCjpzgOOvbyCk1Q2IVmQA/INN2V",
+        "icono": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTyRz_12lF0_omtDe3G84zJ-KJ94UXcA1iCXnVwx1RSnjE1Pgvw"
+      },
+      {
+        "name": "T1:E3 La verdad de la milanesa",
+        "uri": "1emYSGyxuA/QH6PszKN+7BAf26Ms07bnwJChyshyA48MKigN89Q2m1FVwVWNCrcMxeAi86QehdQ9ulibqVPOwBKV6MF6iOCB5oc3JhvLZQzyqDnNi709MLQO4JLU7/2YQkcauHDuf4UgjxF1cV1N60UoKqXj6mOP4hjeuFtXQd5R9xh2kG0esx1zeac69zQVHNXUgdN9V/IC0Q//K9SK2dwdOtQyPI/h7bqgixQFTM6RvascR4HssoHoC2uNVvEC6aiXxdTqqnVE8ypDqm6502njkAuQdxzD4Txa43toOek=",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "wgXMGzVQ+7yZUpZjQMGKfmgKiC0lQQLvOqU5+uCjpzgOOvbyCk1Q2IVmQA/INN2V",
+        "icono": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTyRz_12lF0_omtDe3G84zJ-KJ94UXcA1iCXnVwx1RSnjE1Pgvw"
+      },
+      {
+        "name": "T1:E4 Comerse un garrón",
+        "uri": "Q/XNIb/mbnstrg7t3MCAw6LAVHEL/ZUtjJ3ARRUCXWDbc7a4AliiaDCwsFpiMlbT6IdixV3ahHdjmc/wrLPzPCi494bkrggnWOkNpCI/hX3LWtklhWkenDy5ZlYuO8OmH2yR5Z4A1tB45KJH/5jQod39fD4D5P7ir8NfYuxaNKOJbFwymjJiQqiplMjqI13QWivH7HtKu7aerWFrj+KHoCDR6VFcpwHR/jFQYjybaWxLgjuRpFkaxwBCdfad+ThmP5wxH3ATjT4IBQxXkj3hSw==",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "wgXMGzVQ+7yZUpZjQMGKfmgKiC0lQQLvOqU5+uCjpzgOOvbyCk1Q2IVmQA/INN2V",
+        "icono": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTyRz_12lF0_omtDe3G84zJ-KJ94UXcA1iCXnVwx1RSnjE1Pgvw"
+      },
+      {
+        "name": "T1:E5 Tirar manteca al techo",
+        "uri": "9sh2XqZQpYQyS+MeA4CFHRAf26Ms07bnwJChyshyA48MKigN89Q2m1FVwVWNCrcM1WUdbqAO+XLqrUUXn7TU2TwFaNO1D9CX5jIh+DSVBjpEMD3DJqVmqY8w6jmvzxKyWK6t6AAwaDiV52HuLo65EgtKkfWFiDhTSLnvdsMwBx7wpE65s6TsJWuL+wnmJ7rpejAIvAm/qE8cmvKPpMisKY8vmVAoTr3gJkwmSlkkXdjN011vwbMFqyrhbWo2/6+0JqQHtVEu/4eyxEWqQtE8Gg==",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "wgXMGzVQ+7yZUpZjQMGKfmgKiC0lQQLvOqU5+uCjpzgOOvbyCk1Q2IVmQA/INN2V",
+        "icono": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTyRz_12lF0_omtDe3G84zJ-KJ94UXcA1iCXnVwx1RSnjE1Pgvw"
+      }
+    ]
   }
 ]
