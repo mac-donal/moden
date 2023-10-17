@@ -111,7 +111,9 @@
       },
       {
         "name": "AMERICA TV",
-        "uri": "kLzT+cququRriT9kOdZAbLuPtqzMT0qIkYh8yAG147A6x6hYMKTn2d8oGHCHUlyhzACZv9Ojpi2EsQNbJim5LIMON8GeXeiaEA1YvbcClnr7gfqbR+iuoRUlMefpVVpe",
+        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmKWpHW3AL33L+IFiZT2CjTzFg0imAEAvNYJ73veiOcr6S31Q2qH7ISvAclbVXMKIJOMJsskEhpTV72EG6tsMNNB",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvNOz+gkQBn1UH2tDZXG1U7rVUKUcxK6crXvQa/1c7qOyIig0ThhEWAVg7a6qmLQU1aFUM9J8NlcKZ4cTcxuU10kqF68n27NCERSxh8FtlNE7uOwFeVFJ1mELeTocxicKoQ==",
         "icono": "https://i.ibb.co/BrzJD0D/Logotipo-de-America.jpg"
       },
       {
@@ -1163,8 +1165,18 @@
         "icono": "http://static.tvar.io/imagenes/uncomedy.png"
       },
       {
+        "name": "UNIVERSAL COMEDY OPC 2",
+        "uri": "X6fG+aej8twKw88GrL/cfDRLgD5Mj5abrIyts07BGhbCLhBz4lrnV55wnkEsoGMVecDERJHTXcDzorDNnfzskA==",
+        "icono": "http://static.tvar.io/imagenes/uncomedy.png"
+      },
+      {
         "name": "UNIVERSAL CRIME",
         "uri": "ABdFZq5uqIw4WX2f9SPCh6zXkMZ45bJrW48w1A8sxpN6UAZW4aGssRZqo115Mz+A",
+        "icono": "http://static.tvar.io/imagenes/uncrime.png"
+      },
+      {
+        "name": "UNIVERSAL CRIME OPC 2",
+        "uri": "X6fG+aej8twKw88GrL/cfDRLgD5Mj5abrIyts07BGhbCLhBz4lrnV55wnkEsoGMV0W5QZE9TDAbewIXM4Og/Tg==",
         "icono": "http://static.tvar.io/imagenes/uncrime.png"
       },
       {
@@ -1175,6 +1187,11 @@
       {
         "name": "UNIVERSAL REALITY",
         "uri": "ABdFZq5uqIw4WX2f9SPCh6zXkMZ45bJrW48w1A8sxpMGhmTNyZ4gp2oW6VaFP/mx",
+        "icono": "http://static.tvar.io/imagenes/unreality.png"
+      },
+      {
+        "name": "UNIVERSAL REALITY OPC 2",
+        "uri": "Aqi1jhfssgIdNW+78t+zg0gjWzCrcUkNuoSxVCiNCcwRAt+olbTkQ7IeoDr7UYjFWIUmikb2Ob5nmaURUZIYSA==",
         "icono": "http://static.tvar.io/imagenes/unreality.png"
       },
       {
