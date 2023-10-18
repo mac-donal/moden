@@ -1348,9 +1348,7 @@
       },
       {
         "name": "SYFY",
-        "uri": "KusJ5ShfomSLrFIJxHev/l49QSeGD+MW7eeHbsPN6tBmXBuqeXlq3KAdZYIwvuJQia/i+xEjcrBauhk4s2GKR7IkyOz5u7WSVbVmLKCxrt/kUuA4t2bIkxFrwVytIQd2",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvI96XpMVs1N8v198MG+bgzWfS7l/sTtNvh+roXhyNxweyPHR8shx3rWeYXxDID1oUCaZ6E2CndrEW/WWVthd1HvR8Dzv3RZgHayoK7nfQHYe2l9JMS5Ka7gwsHIOTfJhng==",
+        "uri": "32la4qC8e9PN7GfAyzzbkcKJOjkCtFxEcaC2tCawXxrE6OHe7TDCqSgdyueqH2I3Bd/L7NHfAUqA35vx3cjTAseL7Zm4WmKCHR0GwtmntwXQfzvOGHj39/bZb/+C3cgE",
         "icono": "https://i.ibb.co/0QTGNzm/unnamed-9.jpg"
       },
       {
@@ -1635,6 +1633,11 @@
         "uri": "KusJ5ShfomSLrFIJxHev/qO9585W8+vgOl/77FW3gEJ6mJt29B/oqSANh0rphCn69+TgIavroVPz323t2vrpoVz+s90Bxfu2CS1awZ871Tb6OdgfoVgOn5sE4plfgI5E",
         "drm_scheme": "clearkey",
         "drm_license_uri": "TQSPBT5fFAmrHLJIeXbfeTAige0hLWQtALnhg9wUhCGrjQAoBWBjf2xtSQR0TeAl2DrSnuCrNycfyLUN54DtGoXUSWn/1i5/+v7/EPdi64GIrfj5wBwNdHRjR8T8eFPYWd+1VU8IsG4j1LKlL6CLQg==",
+        "icono": "https://static.tvar.io/imagenes/vtvplus.png?"
+      },
+      {
+        "name": "VTV PLUS OPC 2",
+        "uri": "KusJ5ShfomSLrFIJxHev/qO9585W8+vgOl/77FW3gEJ6mJt29B/oqSANh0rphCn69+TgIavroVPz323t2vrpoVz+s90Bxfu2CS1awZ871TbC3GJyCbBaNOMdxYspz7tfmW2ER3nSNj6eVoVnKf0qR92Ln6SfShLCS9D1k2Zf1goP98gMEfrIiRES6vk7pmoPhL3lAFTo+UoNYmmOxarGdQe/YpW4t5mrrIMKPw3D5hV53Y9ddq8qGDeq9e3Y2JzereygfhaIT2wEB3nHGyOxNw==",
         "icono": "https://static.tvar.io/imagenes/vtvplus.png?"
       }
     ]
