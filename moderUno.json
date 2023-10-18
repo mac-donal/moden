@@ -1141,6 +1141,11 @@
     "name": "CINES-SERIES",
     "samples": [
       {
+        "name": "UNIVERSAL CINEMA",
+        "uri": "32la4qC8e9PN7GfAyzzbkcKJOjkCtFxEcaC2tCawXxrE6OHe7TDCqSgdyueqH2I3Bd/L7NHfAUqA35vx3cjTAjUFRNfM+UDFJhrxOA9Ha1Y3GPB3r4lN/4PHRrjsTGGBS43nceoE1pKvDWuGFSqT8A==",
+        "icono": "https://static.wikia.nocookie.net/logopedia/images/4/40/Universal_Cinema.svg/revision/latest?cb=20220311031932"
+      },
+      {
         "name": "STUDIO UNIVERSAL",
         "uri": "KusJ5ShfomSLrFIJxHev/lZUC6R71wyEykNA2u1z8lBmXBuqeXlq3KAdZYIwvuJQyb5drbve5ldRARWwhRrQXeayZQqAHvVQMnfYPHplJAq3UhB64h/zqmFwRJAVd+aYrRb5KQk4E9y4B9Ak8lK1iA==",
         "drm_scheme": "clearkey",
@@ -1161,7 +1166,7 @@
       },
       {
         "name": "UNIVERSAL COMEDY OPC 2",
-        "uri": "X6fG+aej8twKw88GrL/cfDRLgD5Mj5abrIyts07BGhbCLhBz4lrnV55wnkEsoGMVecDERJHTXcDzorDNnfzskA==",
+        "uri": "32la4qC8e9PN7GfAyzzbkcKJOjkCtFxEcaC2tCawXxrE6OHe7TDCqSgdyueqH2I3Bd/L7NHfAUqA35vx3cjTAjUFRNfM+UDFJhrxOA9Ha1bcM8/glpH1sGcV2I3C9bHRS43nceoE1pKvDWuGFSqT8A==",
         "icono": "http://static.tvar.io/imagenes/uncomedy.png"
       },
       {
@@ -1171,12 +1176,17 @@
       },
       {
         "name": "UNIVERSAL CRIME OPC 2",
-        "uri": "X6fG+aej8twKw88GrL/cfDRLgD5Mj5abrIyts07BGhbCLhBz4lrnV55wnkEsoGMV0W5QZE9TDAbewIXM4Og/Tg==",
+        "uri": "32la4qC8e9PN7GfAyzzbkcKJOjkCtFxEcaC2tCawXxrE6OHe7TDCqSgdyueqH2I3Bd/L7NHfAUqA35vx3cjTAjUFRNfM+UDFJhrxOA9Ha1an3h5Vuq6EN2TZwT8VnpbhPervWqJCZHsdR9D69xaaMg==",
         "icono": "http://static.tvar.io/imagenes/uncrime.png"
       },
       {
         "name": "UNIVERSAL PREMIERE",
         "uri": "ABdFZq5uqIw4WX2f9SPCh6zXkMZ45bJrW48w1A8sxpP8EC4wPZnumvAQa/ny3L5T",
+        "icono": "http://static.tvar.io/imagenes/unpremiere.png"
+      },
+      {
+        "name": "UNIVERSAL PREMIERE OPC 2",
+        "uri": "32la4qC8e9PN7GfAyzzbkcKJOjkCtFxEcaC2tCawXxrE6OHe7TDCqSgdyueqH2I3Bd/L7NHfAUqA35vx3cjTAjUFRNfM+UDFJhrxOA9Ha1bMufL8mko8YifDGNV/4WINsz6wG6kSlPQa9oJVZo/MKQ==",
         "icono": "http://static.tvar.io/imagenes/unpremiere.png"
       },
       {
@@ -1186,7 +1196,7 @@
       },
       {
         "name": "UNIVERSAL REALITY OPC 2",
-        "uri": "X6fG+aej8twKw88GrL/cfDRLgD5Mj5abrIyts07BGhbCLhBz4lrnV55wnkEsoGMVRS/Y3n2YlAYllg3+B6kSNg==",
+        "uri": "32la4qC8e9PN7GfAyzzbkcKJOjkCtFxEcaC2tCawXxrE6OHe7TDCqSgdyueqH2I3Bd/L7NHfAUqA35vx3cjTAjUFRNfM+UDFJhrxOA9Ha1YGvLOeVISjpVOqwEFQTTZwkxeKmKAYo3w5Civre2eqqQ==",
         "icono": "http://static.tvar.io/imagenes/unreality.png"
       },
       {
