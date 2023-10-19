@@ -260,12 +260,12 @@
         "icono": "https://static.tvar.io/imagenes/multivisioncable.jpg"
       },
       {
-          "name": "EL-7-MENDOZA",
+        "name": "EL-7-MENDOZA",
         "uri": "uQqMOW5ZK9orEx4xMTemyLqb3nrKJjRCphW3ZS275i6C9ZTZXNmQQcYWl8P499NFrv7VJl5DVO6Y/0JiGnLdXWZSbAjLyL7R27XlW/p0z7dHe2m9klkWOH0Hsq3q3EWz",
         "icono": "https://yt3.googleusercontent.com/LPkwowY2codqCuMWnebTEV2qMilisd0RIjS59T5XmyqgCcTQSHlG_Rzs-EMzT9tI24VVdN2e=s900-c-k-c0x00ffffff-no-rj"
       },
       {
-          "name": "Canal 9 Mendoza",
+        "name": "Canal 9 Mendoza",
         "uri": "8ZJw0UUv0Xe/ExtodpANumJ93vhHcVXcUFVrhh+95S3Zmu72k31JxKqGHMale+nkDS3fM3XoIDXLBEJUA26ETCyyB5kp0iYXuabRPElBjgvc0ch4/mHEDZCGvkJbn1tjto045rz3w1NR2G+R7LhOLA==",
         "icono": "https://yt3.googleusercontent.com/tkzx62qTBGx0M7IGlag3ehgwm29hH14EhsPBpfT1OgOrt7o0XBteV2kpmhVvmekbyoYfwzECtw=s900-c-k-c0x00ffffff-no-rj"
       },
@@ -347,7 +347,7 @@
       {
         "name": "El 10 TV SALTA",
         "uri": "ajBQHD9edjWmR3VhDB8DGt184RSsFBkFgOE6+G40ELBIBhNBmZLsxj3lTO1KTrNQ2MfjIP6Ul3qJp1IdDeOO1s9jvwTdkpjOgEqzsXBJPgI=",
-        "icono": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSOS361HyaazSD2YFFGB2heR3ljK-kOHD5X-71RMMca7squlIix" 
+        "icono": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSOS361HyaazSD2YFFGB2heR3ljK-kOHD5X-71RMMca7squlIix"
       },
       {
         "name": "MULTIPLATAFORMA FENIX LA RIOJA",
@@ -2031,6 +2031,771 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvMXJWSaX/XJPst+fvd3o+WlZplwi6y65qazcBM4lkkyvfo6mIfgQ1tiSs/ER4BJ4im48DWAvxD9Hb+I3ZyXP3wMeXO7g0VyPSPLx/WSkFr4C2Pisou7jrmgACh9J/wl1ig==",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1200px-Htv_logo.svg.png"
+      }
+    ]
+  },
+  {
+    "name": "CANALES VIX",
+    "samples": [
+      {
+        "name": "Zona TUDN MX",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGsLSfme9H6QRWMjdQAkbMROSo8lJkO8YvUteF4Sh3PvHg==",
+        "icono": "https://images.vix.com/prd/channel/6244daca750759417e4d5be9/10696ab99e6bd31833b8e8ce5216c5de"
+      },
+      {
+        "name": "N+ Media",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGsLSfme9H6QRWMjdQAkbMROSo8lJkO8YvUteF4Sh3PvHg==",
+        "icono": "https://images.vix.com/prd/channel/62265c89ed9b67ef3762225b/78969543cb7e397d4c545cb9e6a70a84"
+      },
+      {
+        "name": "Rebelde US/PR",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGtmOp0rOSK3RrydN2AGbxdElYno0H35uBLJnHCjOZKR9Q==",
+        "icono": "https://images.vix.com/prd/channel/62092deeb1ec5e14f62d567f/89fcacb98b1ac2f57e15cd4d7fff0c11"
+      },
+      {
+        "name": "Vecinos",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGuRk3D6xVo1Z2hyFX+SpyYfC1r70kDiilfG/EtZZ4p53A==",
+        "icono": "https://images.vix.com/prd/channel/6209318522bbc72ac5ec12ee/ad895f26368f89f4b0a7786b97636891"
+      },
+      {
+        "name": "Desde Corea_LATAM",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGt/4DPrNU0cxS1U4LJheG3HiWjmf3K+DrM5XZVdcui0Iw==",
+        "icono": "https://images.vix.com/prd/channel/62d856fece86c319c5ed753c/2feebd4c20cefd3bb7e3edad3708ed5a"
+      },
+      {
+        "name": "ViX+ Presenta",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGurK+1gjiRFCtbatdSB78QHtofkHtAJOnnCh6Q9UwNMFQ==",
+        "icono": "https://images.vix.com/prd/channel/62c7157768c6248e2a239209/ded1fc9131adec940f1c214368082520"
+      },
+      {
+        "name": "Cine Hollywood LatAm",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGuW64kgKnOF2MGNwdSfDFQewg5Em0EZeFggOC9GJRYekA==",
+        "icono": "https://images.vix.com/prd/channel/620bbabe6aae4b5b68a47b72/a1b38cfd36247646d99b87275e4b7e45"
+      },
+      {
+        "name": "Cine extremo LatAm",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGt59AADdYaRfsfwS/WndMtgFwPCADdwe2YUVkuURFFX8g==",
+        "icono": "https://images.vix.com/prd/channel/623dbf8161aadb83a8395394/aaaaf329abe8cd03508c9fdb86186a5f"
+      },
+      {
+        "name": "Cine VIP LatAm",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGvGlRtmycWESs88GFH+lcCqqAsHG2oXNgQxx2at/XkzlQ==",
+        "icono": "https://images.vix.com/prd/channel/6243048ce2515e12568e9e2b/7ec70ad8082c6fb905d840142af079fc"
+      },
+      {
+        "name": "Cine Boom LatAm",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGveIkzORoNl/0z9J/7oT3ixBZgijSq1uXnW2QDkn6F3Zg==",
+        "icono": "https://images.vix.com/prd/channel/61b75fe408f1b351a136f666/b5e632243827726e27e854c88e10661c"
+      },
+      {
+        "name": "Cine Crimen LatAm",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGsQ18KYAfc2KgoAkX1rkaLaHVoV7Tlh6QmjcsV5xm1xBA==",
+        "icono": "https://images.vix.com/prd/channel/6245c6303a2cba2fcd37a216/69e5247f1a750e609321583140476f90"
+      },
+      {
+        "name": "Cine retro LatAm",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGui3t7HKIXfTC9eDdVRDvfPwnDtVhew6seENe3yVDNW2Q==",
+        "icono": "https://images.vix.com/prd/channel/62274e72ed9b67bf206f1a5e/239fe6fbfe883777cfb427e23256f1fc"
+      },
+      {
+        "name": "Cine Drama LatAm",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGtMTauMsbDIgIUBRZLwcgHGyhQXx2Eih5eOoRZDBe4dJg==",
+        "icono": "https://images.vix.com/prd/channel/61bba687f6383571c988dc77/ab3779abe4c3ae1c02598af9f6e9e814"
+      },
+      {
+        "name": "Cine Suspenso LatAm",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGsTdlsyY7s6poFYm79DqiNhsrv0OYesOX4Dgyi0YMxnHg==",
+        "icono": "https://images.vix.com/prd/channel/62275177ed9b67fce66f4c73/0ffb747f9bca79487f289edfdd809603"
+      },
+      {
+        "name": "Cine Horror LatAm",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGtWtwx1weG/zxdGwSxLmhDjFVNvIg/A2iywCYmZjhjwPA==",
+        "icono": "https://images.vix.com/prd/channel/62274beeed9b6779766efd59/a783c0421af10d8eabcda2a08e73ebf7"
+      },
+      {
+        "name": "Cine Romance LatAm",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGs0iCK233BPwx6Szw8rFsDGrUaXITZNvIgF7rf2bphW5Q==",
+        "icono": "https://images.vix.com/prd/channel/620b20270ca5e2a32d8c85ea/5acebdc9d97153430262775c741f4c4b"
+      },
+      {
+        "name": "My Time Movie Network",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGtFlQVjktvMMX5OxK037FKyD6SVPXLT747ER/CarHhUdQ==",
+        "icono": "https://images.vix.com/prd/channel/620acca701543284acec0500/cdb7c9d736ce123925a82b5504cead09"
+      },
+      {
+        "name": "Cine en Familia LatAm",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGuRk3D6xVo1Z2hyFX+SpyYfMjCh9+v5/rR3N/1rz9T1lA==",
+        "icono": "https://images.vix.com/prd/channel/61b753aa08f1b3231d36f537/256e03ca6d7c8e258ae6d7a129d89aef"
+      },
+      {
+        "name": "Cine Comico LatAm",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGv7rzHze/dMnxcp90o245joedUj9ILsG95CLEGrZ9Z8mw==",
+        "icono": "https://images.vix.com/prd/channel/620b25660ca5e2e40c8c86f8/0810468f06de874668d69eb5bcf2c87e"
+      },
+      {
+        "name": "\\u00c2\\u00a1Fu\\u00c3\\u00a1kata!",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGv2iC8HyDp9+ahe18MOrPbxLGxDXeBpCumv8VlAy/GkKw==",
+        "icono": "https://images.vix.com/prd/channel/6237e40c284b55f29fd0613c/08b7062c3223bb43d5c502a1939056a9"
+      },
+      {
+        "name": "Taquilla MX",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGtFY4638UVtVabjP7lcNV1ZoaGT8cYz+2f/daLb/L1y+w==",
+        "icono": "https://images.vix.com/prd/channel/620b27c1b8531fc9321738cf/6582df34bbb3857ac22412707842d974"
+      },
+      {
+        "name": "Nuestro Cine LatAm",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGsRlwA4snBc/SiaO6Td6C8a+IFFGr0MOwWxUKY6fVlhkA==",
+        "icono": "https://images.vix.com/prd/channel/620b23c0511ebf9d0459cdba/cc3589755fe10e38c024aec3212f6f52"
+      },
+      {
+        "name": "Peliculas latinas LatAm",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGue4CZD+WrXKMeBofgAD5yOGYNni1JkWXqkAieP81P9uA==",
+        "icono": "https://images.vix.com/prd/channel/62275253ed9b67c6ff6f576a/41d1ad4d8a16b1f91423a2711fd3c112"
+      },
+      {
+        "name": "N+ Media",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGvDaCbL3WgkUX/H2OU6BR9bdUbOgUm2rN6bJ8LdKIzNCA==",
+        "icono": "https://images.vix.com/prd/channel/62265c89ed9b67ef3762225b/78969543cb7e397d4c545cb9e6a70a84"
+      },
+      {
+        "name": "Foro TV LatAm",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGtvQS29+l3BcGp4BexGZNNDGpIWVSFKnWabEZ8jnpVBtA==",
+        "icono": "https://images.vix.com/prd/channel/6227cb54ed9b675b3a7689ef/802829316a4a153748139bfb1aad9254"
+      },
+      {
+        "name": "Como Dice el Dicho",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGuAqHLfY07s8SCBV9B03004D6SVPXLT747ER/CarHhUdQ==",
+        "icono": "https://images.vix.com/prd/channel/620578052c4f1e83d7f84410/3619af4946202836a2b28f01f84aa178"
+      },
+      {
+        "name": "Canal dedicado las 24 horas a la exitosa serie La Rosa de Guadalupe.",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGv57Dl7k4izj47NbM/gaoW1DOhfR6XbPrOPzCYdGKLmvQ==",
+        "icono": "https://images.vix.com/prd/channel/61b75fb008f1b309bf36f659/bb3fa20e860e35705f5e06b179ba9e69"
+      },
+      {
+        "name": "La Familia P. Luche",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGs8yKU9w29GT90dWqfHRvRfCCLhTjGcchN9r3tcq+Hy5Q==",
+        "icono": "https://images.vix.com/prd/channel/620c55b0361b2ef2e9203666/5b41ec01d91a07dc7b942f02ace880da"
+      },
+      {
+        "name": "Vecinos",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGuRk3D6xVo1Z2hyFX+SpyYfC1r70kDiilfG/EtZZ4p53A==",
+        "icono": "https://images.vix.com/prd/channel/6209318522bbc72ac5ec12ee/ad895f26368f89f4b0a7786b97636891"
+      },
+      {
+        "name": "Los Archivos del FBI US/PR",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGvkSwn6hzirp+i3Sis8PVu+e1c8hDYK5NBWwQ8CIMZowg==",
+        "icono": "https://images.vix.com/prd/channel/6214d5f129e37483ce6b4f64/ad0fb62a0bc76190eb13cbe4a99d0899"
+      },
+      {
+        "name": "Cops en Espa\\u00c3\\u00b1ol",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGs82pJNxXXTaLfcSe0yFaPlqlI/P0tWZHIJN+NSnkVi8g==",
+        "icono": "https://images.vix.com/prd/channel/626f670e87ec596207ee66e6/c45f4431d1a7233604ffd0127439735d"
+      },
+      {
+        "name": "Fugitivos de La Ley Los Angeles US/PR",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGsY2Vh+7SU4HyNUCLdkg85LCLrXMJVDlabdcrIkqzMRFg==",
+        "icono": "https://images.vix.com/prd/channel/6205a00acd4a8bec9dad8847/21486517b734abd28ad2280a777a77e3"
+      },
+      {
+        "name": "Baywatch",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGvBaioeNtOrxk5GI/HfiAyx9f/UuBO/heVfKgYnTLV5dA==",
+        "icono": "https://images.vix.com/prd/channel/6231015f09ac796497312329/cf4b5c6f3b43f494bf42b1b5874c8f64"
+      },
+      {
+        "name": "Degrassi High US",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGt3+xKiGuXzWJ5ANUEQD8S/gU0AjXufZ6F4xZoFe8Avyw==",
+        "icono": "https://images.vix.com/prd/channel/621573e7eb81d27769bf2863/a1f6b8db147b5492f3d2c37b34609569"
+      },
+      {
+        "name": "La ley  y el desorden ex CO Crimen y justicia nunca ha sido tan entretenido",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGuc/8P/42OP7gYmUbXgl3jc7WZFHxNnZyONGu41F3D2eA==",
+        "icono": "https://images.vix.com/prd/channel/61fcc7adba45d441d774eca3/382b7442de02167f3a50bdb4e09dbcfb"
+      },
+      {
+        "name": "La Selecci\\u00c3\\u00b3n 1 y 2",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGtD08mmCS75XM/eClJ8fK1gc4fkkRJfiAs6CZhXn9vxXQ==",
+        "icono": "https://images.vix.com/prd/channel/620541bf8fb29b2f7b5d17ac/dcb17243e0b76f98b376ecd993e2a192"
+      },
+      {
+        "name": "tres bellas j\\u00c3\\u00b3venes enga\\u00c3\\u00b1adas bajo la promesa de alcanzar la vida so\\u00c3\\u00b1ada.",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGtVs88cJlYzHmEMRAMOTPRzPeM4xahlwDCtN9L877qneQ==",
+        "icono": "https://images.vix.com/prd/channel/61fc63d1ba45d434e073a2e1/548a0ff4f919f30969953253c17bcc2a"
+      },
+      {
+        "name": "Fe LatAm ex CO",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGtVs88cJlYzHmEMRAMOTPRzPeM4xahlwDCtN9L877qneQ==",
+        "icono": "https://images.vix.com/prd/channel/6235c219d8118976e5840cf3/46a67be76ea63655b4fb7b49681a41ab"
+      },
+      {
+        "name": "Camino al cielo",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGtIzQpt68SfMAfeqb4jADouLVmU/RS8bO/eZO9XoA2wxQ==",
+        "icono": "https://images.vix.com/prd/channel/6234966459579b8050a2096c/d39fda882d6e25841d096e4662d21404"
+      },
+      {
+        "name": "40y20",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGvTRYVl/WN3JfbRUxGlP+gI11365v6sOwiIJUvEq49XzQ==",
+        "icono": "https://images.vix.com/prd/channel/6205718ffe7e9549a39d4e5e/1715238f49a3915a2653c015792e692e"
+      },
+      {
+        "name": "Los Heroes del Norte US/PR",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGu3t/XgJOYTcp42TgwNDWaVx3xnG3GtkB7EYW9Ik8KlwQ==",
+        "icono": "https://images.vix.com/prd/channel/62063f4749d9bc7e66aa9d1b/e0e9822f4056a475c0091eb9f6fa3ccf"
+      },
+      {
+        "name": "JaJaJa",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGu3t/XgJOYTcp42TgwNDWaVx3xnG3GtkB7EYW9Ik8KlwQ==",
+        "icono": "https://images.vix.com/prd/channel/62063c0a7ccf2d563f082b98/430b850443879b4216ec1c2ddda89792"
+      },
+      {
+        "name": "Nosotros los Guapos",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGtO/8pptc7bZkN1xrUW7bpO8wtjCa5eMEy0ZdgW6hNmMA==",
+        "icono": "https://images.vix.com/prd/channel/6235cadd0b340c1e57510092/830313c05f63359c94d066194e1035c5"
+      },
+      {
+        "name": "La Parodia_GLOBAL",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGv8gEPdhnn8E8FdUn8lY9YnHWahxbKzENZcFTePqkcH9w==",
+        "icono": "https://images.vix.com/prd/channel/62792bcf1aa44a0794223434/fa524bcd863336dd90769bed87cb8baf"
+      },
+      {
+        "name": "Risa Picante LatAm",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGt6d2kpwWmV1O42GnaQunn14epUI4sgnTy8scMYEC3Kog==",
+        "icono": "https://images.vix.com/prd/channel/623697bd4fa9c2d97588a78f/25a1f506bb6d7725a3d34ecc215a496e"
+      },
+      {
+        "name": "Guerra de chistes LatAm",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGtxxdmppkaGUuQRPX7OnveaViqHjO+nZK3YYfMBT09bOw==",
+        "icono": "https://images.vix.com/prd/channel/624261716c89e21b955f4e6b/43d12e8f45102272b5188002f845de8f"
+      },
+      {
+        "name": "Risas de Oro",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGt6YpSe+0eR7VbZ0fwAn7vxyqRc2Q9wCPBce62lGadCGQ==",
+        "icono": "https://images.vix.com/prd/channel/62092e4ded79ffe2abed2d2b/9537b38562ae7da1935283163ee5cdbd"
+      },
+      {
+        "name": "Una Familia de Diez",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGugEt00mtm7Zw69+3oIpBuneCzO5LK9Hn/EXeymNKFXHQ==",
+        "icono": "https://images.vix.com/prd/channel/623696ed4fa9c22d4088a341/6c001fa87b8af3f0bee0f985c23c8f30"
+      },
+      {
+        "name": "Justicia LatAm",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGvDgLbkwp8fRiqdDNxoLZBuf5w5dnFn95V+QMs/OtjklA==",
+        "icono": "https://images.vix.com/prd/channel/62063ccb9e41118098783387/d13184d66e7902a5a12edbcc940b6921"
+      },
+      {
+        "name": "Sala de emergencias US/PR",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGu+JCXo1SpNc8HRNKXLyUUW8eR+9V35kgKeoe68kOyYbg==",
+        "icono": "https://images.vix.com/prd/channel/62157679eb81d23f03bf40cc/2bde47cad28616eab255d220cbef5838"
+      },
+      {
+        "name": "Mas All\\u00c3\\u00a1 LatAm",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGu+JCXo1SpNc8HRNKXLyUUW8eR+9V35kgKeoe68kOyYbg==",
+        "icono": "https://images.vix.com/prd/channel/62157578eb81d2b9a9bf36a2/0049abda2c6e6cd041a93c15fc4b10ae"
+      },
+      {
+        "name": "Misterios Sin Resolver US/PR",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGuPvUK6TVvLPKZLAIUamq7r2svCOL/aJ4oE+1R/qvGiGw==",
+        "icono": "https://images.vix.com/prd/channel/6235c9cfceed4ed3a93c5a83/02d92908fb33612ed01771d10d2c4946"
+      },
+      {
+        "name": "Historias de ultratumba",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGsq1+cUn7H+xpy5n7aZSRCH9Wwkx5lDsIv7bjfO1PNECA==",
+        "icono": "https://images.vix.com/prd/channel/62975fa5416d977397a2b030/be130c24309a62fefbc8675f71c79727"
+      },
+      {
+        "name": "Rebelde US/PR",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGtmOp0rOSK3RrydN2AGbxdElYno0H35uBLJnHCjOZKR9Q==",
+        "icono": "https://images.vix.com/prd/channel/62092deeb1ec5e14f62d567f/89fcacb98b1ac2f57e15cd4d7fff0c11"
+      },
+      {
+        "name": "Teresa",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGskM1VXbIgrw9wQXTfzddCa/Cv0t0WGpXp46/oRZ0ZXXg==",
+        "icono": "https://images.vix.com/prd/channel/62092fc84375522eedbdd675/41cd4ccd9c9025dbd8e074b1e638957a"
+      },
+      {
+        "name": "Sortilegio",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGvzU16Ii+ivY7UXiFcJOgTGTZ+dVkcOy88NSe+vury2Xw==",
+        "icono": "https://images.vix.com/prd/channel/62005140cec5056b39be9c17/7a2c0889b78a0d9a45236dba4b69fc11"
+      },
+      {
+        "name": "Las 3 Marias",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGsg2BVb5pHpu+sxAok0zkOpmlIrrQN70LFkJ6O+vrLqMQ==",
+        "icono": "https://images.vix.com/prd/channel/62063db449d9bc6554aa9d12/4b60d07f9840c3807d1b910d845dbc8d"
+      },
+      {
+        "name": "Triunfo del amor",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGsjJx9+NOHAsTovoXmjdrN0e8ajhIBRc0p0x7p+5C+Jug==",
+        "icono": "https://images.vix.com/prd/channel/62157ec6eb81d2416fbf8e33/32aac8032945421795416e53c30c7033"
+      },
+      {
+        "name": "Grandes parejas US/PR",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGt3+xKiGuXzWJ5ANUEQD8S/rbiUR65fObvDt3pvffzHgw==",
+        "icono": "https://images.vix.com/prd/channel/6215020129e374a01b6c3c04/cc8d5643616bf5cabbf38095a2410ce3"
+      },
+      {
+        "name": "Las novelas de Angelique Boyer en un solo canal.",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGvoYf7doWFYAMWKn5aqrliWGg5wtww2dgt3/AYQzCIExA==",
+        "icono": "https://images.vix.com/prd/channel/61b7548308f1b3188136f54a/640ecca7759644f570f64a30587135f6"
+      },
+      {
+        "name": "Sebastian",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGv7rzHze/dMnxcp90o245jonr1eaNJLnWiK9ZzP6SeH4g==",
+        "icono": "https://images.vix.com/prd/channel/62092ec09f4a091d0d00e2f0/415df4930b8d28b470242eef7c900a42"
+      },
+      {
+        "name": "Cuidado con el angel US/PR",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGtu1UH3VDZGCjTf/V58yB3HAw4NmNVe1r5b9lVHgUmqNA==",
+        "icono": "https://images.vix.com/prd/channel/620592224fb76957d4f0451b/3f931efb291a615969b712bd470082e5"
+      },
+      {
+        "name": "Novelas de Oro",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGsPKJy+Y4EtjUs2ioaUk2bA98x4GUdDYKBo3x+mHdpjmA==",
+        "icono": "https://images.vix.com/prd/channel/62067bafe60b4f65c744443e/ddac3d628e29430d0af295b7f9d1621e"
+      },
+      {
+        "name": "Novelas con ritmo US/PR",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGuRYB3udaxNHjcKPSHF8ad3srv0OYesOX4Dgyi0YMxnHg==",
+        "icono": "https://images.vix.com/prd/channel/6214f9de29e374e7816c03fd/635d49e44d070c86d57c43206c1bb443"
+      },
+      {
+        "name": "Vidas musicales ex CO M\\u00c3\\u00basicos que dejaron huella en la historia",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGtttTmLmIM/2m9DCQEWhOii9f/UuBO/heVfKgYnTLV5dA==",
+        "icono": "https://images.vix.com/prd/channel/61fc6d53ba45d41c7e73d57d/ff8048758a7a855bc4dbd416e819738d"
+      },
+      {
+        "name": "Lazos de Amor LatAm",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGtfegvEwBeKF0wkx/mXdKiDvNphNbZhIn9JysJHmGDv8Q==",
+        "icono": "https://images.vix.com/prd/channel/6235c776d6b43fb942f25484/2ed75a8b71a1869170085121120a866d"
+      },
+      {
+        "name": "Mi Corazon es Tuyo_LATAM",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGt8TgyGdLoDqsPdWm1EwlvFOyTzlnbbkv04og2dE0fy3g==",
+        "icono": "https://images.vix.com/prd/channel/6235c8a571d7630ed80b70e0/1715c577eea117b032c76a48aeee6f89"
+      },
+      {
+        "name": "Villanos de novela",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGt8TgyGdLoDqsPdWm1EwlvFOyTzlnbbkv04og2dE0fy3g==",
+        "icono": "https://images.vix.com/prd/channel/6209310422bbc7aaefec1240/c6379b89ec246638d04bd180c25e58a0"
+      },
+      {
+        "name": "La usurpadora",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGt8TgyGdLoDqsPdWm1EwlvFOyTzlnbbkv04og2dE0fy3g==",
+        "icono": "https://images.vix.com/prd/channel/6235c66611732377769fe87f/d7c3abe71788f8bfbc047b5082f91522"
+      },
+      {
+        "name": "Divas de novelas",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGtdtS39Z54BrmUAjbXBPEWFS3Aa80K6J6zI4HaGYlxdOQ==",
+        "icono": "https://images.vix.com/prd/channel/6235c1290b340c70cb50e772/2d6399462cc1d728cef6e2629b6dffbd"
+      },
+      {
+        "name": "Poderosas",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGuPshXuM/Ms3YkZVCnmxEQtyqRc2Q9wCPBce62lGadCGQ==",
+        "icono": "https://images.vix.com/prd/channel/6236966eb49de21fadbfb29c/71570d51b6a4709775f08edc4321210c"
+      },
+      {
+        "name": "Galanes LatAm",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGt7zxrD9yTcr6EZUUEM++/EmGuYc7B8yuhqBLA/7PsJBg==",
+        "icono": "https://images.vix.com/prd/channel/62157d10eb81d29539bf7cb6/8ab1a3ec81c556fafe809ae04e46e395"
+      },
+      {
+        "name": "Gabriel Soto",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGtnH0TeBaVqPjwL5sF9/wwjPYXr1/teKR388dQ1y11bJg==",
+        "icono": "https://images.vix.com/prd/channel/62157c82eb81d221efbf76c6/87a21e3d68206e869e77c6111fb9258f"
+      },
+      {
+        "name": "Amor bravio LatAm",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGuo6CY+2hXcEm1hc0c0PL7uzAdFs0lNCgqgGfn7/ObHvQ==",
+        "icono": "https://images.vix.com/prd/channel/623495737436845728ef30bc/75510afd59b2a3c5934b4c1fecbafabe"
+      },
+      {
+        "name": "Hasta que el dinero nos separe ex CO",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGvT9uqzlmJ1EmGEz20f+BiR+RaWRWcFHald0a5Qhly/Ew==",
+        "icono": "https://images.vix.com/prd/channel/6235c3b13bef6caae937b824/86c4687f5c02234d8646d1577045ef85"
+      },
+      {
+        "name": "Novelas en Familia",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGvT90v1pBF7LJtT1c0Ar/9J8ZQS8mn3JxsVVvB1fyQ8gQ==",
+        "icono": "https://images.vix.com/prd/channel/62092cdfb0742315039cb363/1a02c8ded45dc86458a0eff7e355703f"
+      },
+      {
+        "name": "Siempre Teens LatAm",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGvpZa3S8PeZ9OOzw6yxaR1H8PNX5CTUA11tzsxUtHgxUg==",
+        "icono": "https://images.vix.com/prd/channel/62384bea25f03fcfb8df33d4/76778b6236e45fe26a0255ed2d90a9b8"
+      },
+      {
+        "name": "Cuatro hermosas mujeres j\\u00c3\\u00b3venes de diferentes or\\u00c3\\u00adgenes sociales enfrentan desaf\\u00c3\\u00ados.",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGvmqvJ72DkIhk2Tg9KXGW2Ox9ss8sP9+Jy0unspr32PBQ==",
+        "icono": "https://images.vix.com/prd/channel/620145d7cec5055a8cc07ab3/57f8d39ab380e412323a1a6ab2f037e3"
+      },
+      {
+        "name": "Francisco Romero es un maestro de pueblo que decide probar suerte en la Ciudad de M\\u00c3\\u00a9xico.",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGv6VgJ6gIkwcIwWnpgq1RUoko7MfeYW4Kg3mi9Q9CVDTA==",
+        "icono": "https://images.vix.com/prd/channel/62005720cec505b36cbeb5c2/6123b105385ab29fa212dbcb05e83f4b"
+      },
+      {
+        "name": "Muchachitas",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGuBhFo76DIj5Apx+IU21UEBv3iGTqdUz/du0J2yWVRHXw==",
+        "icono": "https://images.vix.com/prd/channel/621642beeb81d218a9c584f2/c3abba59752be5277dbd009c1765cbfc"
+      },
+      {
+        "name": "Muchachitas como tu",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGvVKXL28wjf5XtSWwap0kYBC9hZ2njjK+6le3AQKmhFSg==",
+        "icono": "https://images.vix.com/prd/channel/621643b9eb81d2e690c58e23/d9fef66235e1690d954b02daf79e3eae"
+      },
+      {
+        "name": "Amor Turco LatAm",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGtu1UH3VDZGCjTf/V58yB3H5hlXM/bqYihiqYJQIMG/kA==",
+        "icono": "https://images.vix.com/prd/channel/61b7543508f1b3091436f544/0ddf0dc3ae64167fe97e0714c75ded10"
+      },
+      {
+        "name": "Desde Corea_LATAM",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGt/4DPrNU0cxS1U4LJheG3HiWjmf3K+DrM5XZVdcui0Iw==",
+        "icono": "https://images.vix.com/prd/channel/62d856fece86c319c5ed753c/2feebd4c20cefd3bb7e3edad3708ed5a"
+      },
+      {
+        "name": "Desde Asia",
+        "uri": "dTCr3OvuHFk/bbTZSI0zf+wvTP2Eh6K/QrJWIrBiBNhkV+viuACy4FnEV28zUDykUpn7PsrxhqahzxJgOCSfbwD6qQgGQTrDPMHGPeW1CgJp45ALkHccw+E8WuN7aDnp",
+        "icono": "https://images.vix.com/prd/channel/629761d022da4623569e20a4/f178dbc0cd14dd94b8bfc31b3e6d6fdf"
+      },
+      {
+        "name": "las 24 horas del d\\u00c3\\u00ada.",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGsT5B8wTiQDX46PRlfaPf/puaNc4V3A+eG2d3s1tOLdgw==",
+        "icono": "https://images.vix.com/prd/channel/61b51fdbdf627a3186bf2490/6b4d561b97a1c4749f49a6eb9e4b4278"
+      },
+      {
+        "name": "Desde Argentina ex AR",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGtcw08wsn27jO0slAabXK6hoBiuDrR8a6V3WW44jaE1Uw==",
+        "icono": "https://images.vix.com/prd/channel/62350d39341edf42189369a8/6bdedbca3719c8bf0bb8c3fa66901c4c"
+      },
+      {
+        "name": "Desde Peru",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGsIid6pM6uwyJmcZ4WsjIJTDzHHGEFSstMjgMpcPQRmPA==",
+        "icono": "https://images.vix.com/prd/channel/6297622fdcd7a31b6f5e7401/ff6e93fb325429e4f3f899dd6a54e4bf"
+      },
+      {
+        "name": "Aclamadas novelas de Venezuela",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGvx0xtWJ9VvzLSNkAr/xI+Od3/Gb+y/3smLkWECkom/2A==",
+        "icono": "https://images.vix.com/prd/channel/61f94dbb602cefae4971bf0a/be3c56df9203ca2bfdb01aec329c0f01"
+      },
+      {
+        "name": "RCTV Amor ex VE Producciones venezolanas llenas de amor",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGvJO//rXEVRWgNjtkEyX5ZM2z5slaf/l+W3eE5YtswTVg==",
+        "icono": "https://images.vix.com/prd/channel/61fbe5a9ba45d4364070e8b1/26e94f70b4fa2ad0c88ce5841832845f"
+      },
+      {
+        "name": "RCTV ex VE Producciones venezolanas atemporales",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGvJO//rXEVRWgNjtkEyX5ZM2z5slaf/l+W3eE5YtswTVg==",
+        "icono": "https://images.vix.com/prd/channel/61fa977dfe577058b7357afd/33b5c7a3664cbd6d5985cea4c646983c"
+      },
+      {
+        "name": "Juana la Virgen ex VE Una simple visita al ginec\\u00c3\\u00b3logo puede cambiar de manera inesperada la vida de una mujer.",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGvAsKHPxnIO2OtOEZyhzO9giGFTH/k9TcH1GBNmrUUaoQ==",
+        "icono": "https://images.vix.com/prd/channel/61f976b5602cef3f0c72ce9f/6c6d92df15493a140c0ff852a551059c"
+      },
+      {
+        "name": "Mi Gorda Bella ex VE Valentina Villanueva Lanz (Natalia Streignard) es una jovencita con la capacidad natural de ganarse el cari\\u00c3\\u00b1o de quien llegue a conocerla.",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGvAsKHPxnIO2OtOEZyhzO9giGFTH/k9TcH1GBNmrUUaoQ==",
+        "icono": "https://images.vix.com/prd/channel/61f970bb602cef693b729fbc/09a46d15972a1b45ad51b1faf76cf21f"
+      },
+      {
+        "name": "La Fuerza del Destino LatAm",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGtEbVgPlmju+V+7cXSsZ8TWWRwmuwdXf45U2MsnuPV4tg==",
+        "icono": "https://images.vix.com/prd/channel/6235c53fceed4e8f223c5010/e41ca37751a0abfe61a0a8de61b0d224"
+      },
+      {
+        "name": "Pura Sangre ex VE",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGsTdlsyY7s6poFYm79DqiNhTooAMPhAUAOa5VyeNzMO/Q==",
+        "icono": "https://images.vix.com/prd/channel/620038b0cec505403dbe631a/e50d4ea35762ae43a39f0159175b739c"
+      },
+      {
+        "name": "Puro amor LatAm ex VE",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGuChuZEmEEAjXIvJOy+83sldpnsfpkELph1b6gvBTDB9w==",
+        "icono": "https://images.vix.com/prd/channel/623db586afc9762a1eac0949/b5ab16a619ae1968b2b86f6e2c2628ae"
+      },
+      {
+        "name": "El canal para los fan\\u00c3\\u00a1ticos de las novelas sudamericanas",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGtQ+F+/Gokf/6ug/T/VJnhJXQCmkt3RF3z1ny+bwr8rSA==",
+        "icono": "https://images.vix.com/prd/channel/61e181cfae64222a434a864d/ea8da7af1f2d370a78ec44bf66d3b6a5"
+      },
+      {
+        "name": "Zona TUDN MX",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGsLSfme9H6QRWMjdQAkbMROSo8lJkO8YvUteF4Sh3PvHg==",
+        "icono": "https://images.vix.com/prd/channel/6244daca750759417e4d5be9/10696ab99e6bd31833b8e8ce5216c5de"
+      },
+      {
+        "name": "Lo mejor de Liga MX MX",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGurRlUzRnC0I7G603RQeDfZenzgk7GFGdsJ2Jjb8Fj/xA==",
+        "icono": "https://images.vix.com/prd/channel/61b520dadf627aa84bbf2500/67ccdc39989cef73134b31df1eb03c0f"
+      },
+      {
+        "name": "Impact! Wrestling US/PR",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGt5d+MK8+wR4s6+2dcz1GkV6lvRxg0Y5SFirINHvymjqQ==",
+        "icono": "https://images.vix.com/prd/channel/623dc34aaaeda4095f72de28/5d0ffee1dd5c907d1e7f53c4cfffbcf3"
+      },
+      {
+        "name": "Red Bull TV GLOBAL",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGuSVWTkmmmGsK1V/mNg80Bqhpus7/q2CLZekP68iWZptA==",
+        "icono": "https://images.vix.com/prd/channel/62befba3d7c619339ef7e4ae/c695092560f117b610074a31bbd17a5c"
+      },
+      {
+        "name": "Acci\\u00c3\\u00b3n extrema",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGvpvT6sLOUJ8lP9GO5/LISry6AeSzH7Sus2s4PabE47aQ==",
+        "icono": "https://images.vix.com/prd/channel/6200537acec5054526bea23e/21a9d34ea7661fe08cb805cb23f39140"
+      },
+      {
+        "name": "LevelUP",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGsK7XGDUqlwmJUZXb9YaiD+x5qUAHuXnqXMVZk3k3AP5w==",
+        "icono": "https://images.vix.com/prd/channel/6214c82929e3748a736b1047/d2c9bb1043ecc1ed6ef398334f24cb1b"
+      },
+      {
+        "name": "Minuto Para Ganar GLOBAL",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGukFxhfUuQmC3UC3YpwtvThxy1DD2KvsLnzDTfB4fcVrg==",
+        "icono": "https://images.vix.com/prd/channel/6206426314936d365f73dcd8/4df648bb22c933c17d6cb2635c2d5413"
+      },
+      {
+        "name": "RCN+ ex CO",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGsC5zXMcVf9sltfy/Rzvkduml+Zm6ReI42eguwDcI8tDw==",
+        "icono": "https://images.vix.com/prd/channel/624470f326031977c6188063/df6b13611b37441cf94a9e5a429d0775"
+      },
+      {
+        "name": "Talk Show LatAm",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGtvamcIey7mxNTfuqztsLQDGHQfflGPbSy4DIELiygteQ==",
+        "icono": "https://images.vix.com/prd/channel/62157776eb81d28037bf47e8/c0cdefcc28105f96a7507747cb942ee8"
+      },
+      {
+        "name": "Miembros al aire LatAm",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGu4sDv/8gZ2+XxaRYMiNIGLwp9QjQ01rXO086pCGJ1jpg==",
+        "icono": "https://images.vix.com/prd/channel/624266700d4c3d1bf91acc71/1d95ddf4e7fa7beddba1baf26c46e55b"
+      },
+      {
+        "name": "Puro reality LatAm",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGt4AiMBoZm/Dy//3UQ5MhlMskAq2Q89Hi3nYCfaC7XYXg==",
+        "icono": "https://images.vix.com/prd/channel/620b2edc4fcfc9cd597e7bb6/d1837fe0ec0dc04758adf41b5c55df12"
+      },
+      {
+        "name": "\\u00c2\\u00a1Guau! LatAm",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGsjJx9+NOHAsTovoXmjdrN0ogBbEtEiHAZNe1Z/zHuEuQ==",
+        "icono": "https://images.vix.com/prd/channel/620147e6cec50583b2c0858d/2ff58382cba69bdad50ec27eab75ed51"
+      },
+      {
+        "name": "Desafio US/PR",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGsjJx9+NOHAsTovoXmjdrN0ogBbEtEiHAZNe1Z/zHuEuQ==",
+        "icono": "https://images.vix.com/prd/channel/62350ccabd89785e510f2eaf/a2d3123491caac79f3fee431a6910457"
+      },
+      {
+        "name": "Red Bull Batalla",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGsQp3OaBC12BuvMMMN+UMAtrkLEA88zTbPFmN4BDf9SKQ==",
+        "icono": "https://images.vix.com/prd/channel/62befc6b4c8fc22359e8d5d1/afbf492337fb5e7549b91a4ae765f062"
+      },
+      {
+        "name": "Loupe Arte y Musica",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGuExpwxJtOWadm53ai51J5dTooAMPhAUAOa5VyeNzMO/Q==",
+        "icono": "https://images.vix.com/prd/channel/6214cd6129e3742f646b27ac/6d1004086d6949f420abd6306c437357"
+      },
+      {
+        "name": "Motorvision",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGuExpwxJtOWadm53ai51J5dTooAMPhAUAOa5VyeNzMO/Q==",
+        "icono": "https://images.vix.com/prd/channel/62275a14ed9b675fd26fc956/88f56e32743d1e3a196756fb8abb308a"
+      },
+      {
+        "name": "Nature Time LatAm",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGsjBqYD84QaJ16j8EYQLBlwpMIt6lpuvPBT0YWHNd0utQ==",
+        "icono": "https://images.vix.com/prd/channel/62597be9357fe063c592961f/a2b25d4a588a81d6dd9b53a486930315"
+      },
+      {
+        "name": "De Viaje LatAm",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGuAqHLfY07s8SCBV9B03004hM/moW4S3OUnUt184W2n+w==",
+        "icono": "https://images.vix.com/prd/channel/61b3caa169002a41994bf014/8d4b63222671d3da801142871af330de"
+      },
+      {
+        "name": "MasterChef LatAm",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGsPs102h74OIfvk7Tc4SuCZqt+qaHTmYsImNy2tiLh7Ng==",
+        "icono": "https://images.vix.com/prd/channel/6238484eef97565e59fe8141/f20719cd8aa5e53056a5a2b7bdc7f9f5"
+      },
+      {
+        "name": "Delicioso LatAm",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGuQ7HDsX+e4lmu/TOng8WnUck8HvIKbxZccalDsG7MwYw==",
+        "icono": "https://images.vix.com/prd/channel/62004f14cec505054dbe8f59/ddbbce61bd626b9ee7d1d7a917588274"
+      },
+      {
+        "name": "Cocina TV",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGu3t/XgJOYTcp42TgwNDWaVWCiRTK3wf6q7kJrWvWSYdQ==",
+        "icono": "https://images.vix.com/prd/channel/6237e4b64fa9c2ad3f8deadc/f8516dae0d177dc46046647538bc7476"
+      },
+      {
+        "name": "Tastemade_GLOBAL",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGtMTauMsbDIgIUBRZLwcgHGpeQIccVHKWemvJbvuk0yIw==",
+        "icono": "https://images.vix.com/prd/channel/623db914ab25bf57e584e30f/6967ca0ea05cc01594ba9ddd850dba62"
+      },
+      {
+        "name": "ViX Junior LatAm",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGu+a+is+tsE4oPw9vZo+pGMw84NkhHtEACgFV7yUdx6+Q==",
+        "icono": "https://images.vix.com/prd/channel/620c5c1e361b2e4f96206fd9/a34191cbd1682d6849654013cfb08736"
+      },
+      {
+        "name": "Moonbug Kids",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGtcyAD5qjnh+d0dxp2idVmgU9wqYnSSyg341NB56rfTBw==",
+        "icono": "https://images.vix.com/prd/channel/6237e5cc2f5a5c58c0848547/3af2b19f2d97dabee57b98cf3f7ea5be"
+      },
+      {
+        "name": "Baby Shark",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGvZ7btjDYyV4LWDG07gKhcf1oIa/oRM76C56+xXiEZqGQ==",
+        "icono": "https://images.vix.com/prd/channel/6243691b46504feea6e98b31/266b4b48327b68bf53f39786805511f1"
+      },
+      {
+        "name": "El reino infantil",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGufvJB0F9vdFnuVyS58oJv/HWahxbKzENZcFTePqkcH9w==",
+        "icono": "https://images.vix.com/prd/channel/624de964a07c1b020fb7586b/a9f1792042e6109e0d0545fca48282a3"
+      },
+      {
+        "name": "Rosita Fresita LatAm",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGua0WZ8koJesK5aYmlrXN/7GhjsE+8kurfUAPyLCV1Ipg==",
+        "icono": "https://images.vix.com/prd/channel/61bb8e92f6383536c4850fe9/f8d399b0ebc6d42fc1c74bf8eaff7865"
+      },
+      {
+        "name": "Animetro US/PR",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGtttTmLmIM/2m9DCQEWhOiiRZXwsMZSRRLrxA5IPXrCfw==",
+        "icono": "https://images.vix.com/prd/channel/620575457a41976a83012567/391573a35dcac954cc53fc70e0e0b128"
+      },
+      {
+        "name": "Yu-Gi-Oh!",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGtDu8tQGsVnyMMVUSUynN+fgSl6Or3Nnfk/vwy5KHr8Ug==",
+        "icono": "https://images.vix.com/prd/channel/621579e9eb81d2e34abf5c58/7574623e12094936d388a100b630a4ab"
+      },
+      {
+        "name": "Zona Kids_LATAM",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGvWCx7p3ze+ls5UVocDb+yFoOzHH5dYlc4XEKhnTXThZg==",
+        "icono": "https://images.vix.com/prd/channel/620933b81022ac37cfa39a22/156065de80e275bc8ebe475992718320"
+      },
+      {
+        "name": "Alebrije",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGtZRb8GluznqhNfwrVLrj65hM/moW4S3OUnUt184W2n+w==",
+        "icono": "https://images.vix.com/prd/channel/623493c5cbd9720e00b2b652/edae9ae9e15cfcff928a4b5eb2291fb9"
+      },
+      {
+        "name": "Casiteen GLOBAL",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGvpXCIPk2vD8AOYl8Zo0HdGWmp7TIUfABtvwvxI9HKbOA==",
+        "icono": "https://images.vix.com/prd/channel/6214da5729e374c3626b6273/20c923ce51dcb785842dee6b1b9c602d"
+      },
+      {
+        "name": "Las Estrellas",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGujyw5mT8/3avvod553k/dtPnAio5d4fhjzSDTH9DH0HA==",
+        "icono": "https://images.vix.com/prd/channel/62bb79a9e887494aeb7b53d7/e22297a85b98822efbb3ad61ec2ae898"
+      },
+      {
+        "name": "Canal 5",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGtJ82etqI0cRfp9QoTqCF4+3VEzp6hR7fbqB31t2gOmFw==",
+        "icono": "https://images.vix.com/prd/channel/62bb775205c378e21e18aaa4/55833d55f79e78a84a91df0d3efd13ad"
+      },
+      {
+        "name": "TUDN",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGtFfN+kNURoPdjwGQAjSFJQHbqFDtO9+pmS64X9UXz+wA==",
+        "icono": "https://images.vix.com/prd/channel/62bb83e1ea621ea7364bf2c0/bc4baa173e101d7661e01818a0672a06"
+      },
+      {
+        "name": "Afizzionados",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGsCUV14Y5toVAZvvXFzF+EFpiciBTVDtsDTLXdA1swjCA==",
+        "icono": "https://images.vix.com/prd/channel/62bb763127d9223af3d6b23c/d7d41c898a5cbe48804bcfa6751359c1"
+      },
+      {
+        "name": "Las Estrellas-2",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGuf9rRM4T3gE3nIIcMoSKzQvesmzm7CXla7ucj57aXx0A==",
+        "icono": "https://images.vix.com/prd/channel/62bb7985e1cfbed5fc2fefc8/46a9f5abdb915c7c9f17cd1e263840ab"
+      },
+      {
+        "name": "Distrito Comedia",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGuwtX93cs8JOICO0RHPZ8+VsvqBDPDKjZO3TpGBOd1N4w==",
+        "icono": "https://images.vix.com/prd/channel/62c7171fd28519d52257934b/d189bd00af0db6dc6d60f176ac291bbd"
+      },
+      {
+        "name": "Golden Edge",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGu/YIy5qTyzUvcYPLgRdZYVPdB+WqLcTZriemAG6pS6mA==",
+        "icono": "https://images.vix.com/prd/channel/62bb78e3a9459bc60e17fcb6/a9d7b23852a61225e08a034725d9875c"
+      },
+      {
+        "name": "Golden Multiplex",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGvfMfwz2uDGHwa5uX1CiMgCaHXZawGQY7CrOiW7ciCH6Q==",
+        "icono": "https://images.vix.com/prd/channel/62bb78304ca474b0472555ba/7f36a9be41928b9aa3f6c851f7df3aae"
+      },
+      {
+        "name": "Golden Plus",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGu/3iHuW7rdYEmmWhkZe/1FzBVM6+yBcp36MEOLhI1PIg==",
+        "icono": "https://images.vix.com/prd/channel/62bb77fc30eae0cea539a974/1e8ab32c68282ada5106e234bb18cfea"
+      },
+      {
+        "name": "Golden",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGt1hvWvV98AEgg8NQXXOJZynvn1Xx3VgpybC/DXlfKgnQ==",
+        "icono": "https://images.vix.com/prd/channel/62bb77d7c4725e82dddf2783/e5d3f2556cac97be34d681a18eeeae6e"
+      },
+      {
+        "name": "De Pel\\u00c3\\u00adcula",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGtlO+dXf5EUcecbN7Uz/4LUS2MStPfOpa7UUiN5S9IRYA==",
+        "icono": "https://images.vix.com/prd/channel/62c716b46bc1f5715195a3c1/acd58d009f200833068f5a912b8e7e1d"
+      },
+      {
+        "name": "Las Estrellas-1",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGuV3ri5oconBBlx8+I3cXLzrkLEA88zTbPFmN4BDf9SKQ==",
+        "icono": "https://images.vix.com/prd/channel/62bb795c96912845550b592c/5d682396ad6515d39a0ca103a84398c2"
+      },
+      {
+        "name": "NU9VE",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGsL+vGwiab7anm8t5tgVE8L6eKwbIXyiDaSRappygBrfA==",
+        "icono": "https://images.vix.com/prd/channel/62bb7c53fa793fac92e81dfc/e2b152aea46db289df5a2592e62a11bb"
+      },
+      {
+        "name": "De Pel\\u00c3\\u00adcula Plus",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGv7L29vjpE+kAQbJi4/+0C1tJVtdo7NrhRKLoZ3ZJpqKw==",
+        "icono": "https://images.vix.com/prd/channel/62c716df3947c75471b1c39c/f96c5ee73540d24efba65c3af17ec246"
+      },
+      {
+        "name": "Unicable",
+        "uri": "xaHNv2D5ZHlWR7EDvbG8XZnBpRrsblpVApXHZYzaBGkHnqKOxzHU8YZl4YhC5P4yhli4iTQ7eOfv7SmpyMFd4w==",
+        "icono": "https://images.vix.com/prd/channel/62bb8407fa793fac92e81e1b/b03aa7f1007f7070c6aee030dd0d7046"
+      },
+      {
+        "name": "TLnovelas",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGuzzBHcuKP+fWtW1yuPD5BBhBrvT8ptZpVJEYKDVGXeFg==",
+        "icono": "https://images.vix.com/prd/channel/62bb83aaaf7366446185bca3/2848c151144fefc77fff5db25f57a7ee"
+      },
+      {
+        "name": "Bandamax",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGv0O6lpXK1UAUxhq+q35Q5rRha4nypNNwemaBIR99V8Xw==",
+        "icono": "https://images.vix.com/prd/channel/62bb76bfa9459bc60e17fcb5/f304644fbca9b7bad5a16ee46cbd0d31"
+      },
+      {
+        "name": "Telehit",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGv0O6lpXK1UAUxhq+q35Q5rRha4nypNNwemaBIR99V8Xw==",
+        "icono": "https://images.vix.com/prd/channel/62bb8244603b2d579e311193/19dccef175686e991df488c1cc378737"
+      },
+      {
+        "name": "Televisa Monterrey",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGsCGT9L+K+2eq0VUu385RU3W3BtzMyWq8if+d2jv0sWkw==",
+        "icono": "https://images.vix.com/prd/channel/62c717cf95ada734e65d07bb/5020f8f9cb66d1641a4f1cbcf60e45d6"
+      },
+      {
+        "name": "Televisa Guadalajara",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGvtWCFS/hVGV0FMEG/bjldCcyDultTCCU2M4ffP96JdKg==",
+        "icono": "https://images.vix.com/prd/channel/62c7179c7ee4cbd3ded6fed0/508434e9c3385905debcf930d45e1258"
+      },
+      {
+        "name": "Telehit Musica",
+        "uri": "https://alexistv.x10.mx/vix-plus/HLS/adstGgBYdo2Xqykn.m3u8",
+        "icono": "https://images.vix.com/prd/channel/62bb827b27d9223af3d6b23d/a61ae44c45a04ee7cdb2717cb9f114ed"
+      },
+      {
+        "name": "Telehit Musica Plus",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGtORJMOT1UfSsLNav2MuLsNPDjS49EiuSgbooarqhcM7g==",
+        "icono": "https://images.vix.com/prd/channel/62bb828d7d70f442f819bf61/6615dac460eacc264cfc03ee97889770"
+      },
+      {
+        "name": "BitMe",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGsTzzgq+q1940PIUUEwymJ9Rhv92BS+BL6yjT9g3UiLsw==",
+        "icono": "https://images.vix.com/prd/channel/62c716736b2f1fa107c6ea8f/c0796b3c1cdc30869267e5e983745894"
+      },
+      {
+        "name": "Adrenalina",
+        "uri": "ilYDjslt8MkuSVPUgk17tYaZI3m1OTnbH9H8WUEfMGucCzqVzjl2zP+kJGMCHOglu+JU7wprycRfw0UpToQW9Q==",
+        "icono": "https://images.vix.com/prd/channel/62c716454e6847606deb3943/8529423338bb3b87d6bebaa32b64bbee"
       }
     ]
   },
