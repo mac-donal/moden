@@ -1148,6 +1148,11 @@
     "name": "CINES-SERIES",
     "samples": [
       {
+        "name": "WOOTV",
+        "uri": "9n6KnizKL2gZ97Ny4tQWcEOSiVVtSGEQyFUrdK04dqi+5m28VyUNuPeDhGGhsKoxto045rz3w1NR2G+R7LhOLA==",
+        "icono": "https://static.tvar.io/imagenes/woox.png"
+      },
+      {
         "name": "UNIVERSAL CINEMA",
         "uri": "0Oa5LOsxrdn3JekRuLZ1QTlrouy9CDLpzPVfVlBnPCVOC1hKqj3JqAY487yM8JS0",
         "icono": "https://panelssh.com.ar/Img/universalcinema.png"
