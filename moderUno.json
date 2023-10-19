@@ -1149,6 +1149,11 @@
     "samples": [
       {
         "name": "UNIVERSAL CINEMA",
+        "uri": "0Oa5LOsxrdn3JekRuLZ1QTlrouy9CDLpzPVfVlBnPCVOC1hKqj3JqAY487yM8JS0",
+        "icono": "https://panelssh.com.ar/Img/universalcinema.png"
+      },
+      {
+        "name": "UNIVERSAL CINEMA  OPC 2",
         "uri": "32la4qC8e9PN7GfAyzzbkcKJOjkCtFxEcaC2tCawXxrE6OHe7TDCqSgdyueqH2I3Bd/L7NHfAUqA35vx3cjTAjUFRNfM+UDFJhrxOA9Ha1Y3GPB3r4lN/4PHRrjsTGGBS43nceoE1pKvDWuGFSqT8A==",
         "icono": "https://panelssh.com.ar/Img/universalcinema.png"
       },
