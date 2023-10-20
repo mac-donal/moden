@@ -28,9 +28,11 @@
     "name": "TIGO SPORTS",
     "samples": [
       {
-        "name": "TIGO1",
-        "uri": "bySfEBj6R3h5qAfyREm813GkDXvlzbd2A4HvKCRc4W4VB2TxBJkxQwmRe4Q3Niq4xazKqMiUD/FnW/TDg+Jv5SsUBdmrDyTFa0QO1M6ef+U=",
-        "icono": "https://i.ibb.co/gwP3gYy/k-Jzdzpsx-JCk-Lsw-IZr-C09f-WZaen5cn-Gue-Dt4rt-I5qbg-dcudz0-bd5s-Terqh-Gvme-Kvg.png"
+        "name": "Argentina vs. Nueva Zelanda (Semifinal)",
+        "uri": "v8vUVcLS4XBAAM3L0k/SVSLUhbDAJKnX3WwlbqXPq2IgzLtNTScF0snc5bl/G4dHis882s7hk5DXfRGzQB27nLygmqrjp/JOXmpUOwGQDhjVkYrHxj1yehGL/lt2qZH7wXvEq3GHzFeUrDmmDkgCWU0E7kDhWIShuR+tVVy4oT4xWobbDiiZdoHI0kyDVzNo",
+        "drm_scheme": "widevine",
+        "icono": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/star/89A9C05A1BAB3920C492B3CF73006351F3D6E41330FB796B828329E55E031814/scale?width=320",
+        "drm_license_uri": "wgXMGzVQ+7yZUpZjQMGKfmgKiC0lQQLvOqU5+uCjpzgOOvbyCk1Q2IVmQA/INN2V"
       },
       {
         "name": "TIGO2",
