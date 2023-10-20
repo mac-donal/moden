@@ -582,7 +582,7 @@
     ]
   },
   {
-	      "name": "NADA",
+    "name": "NADA",
     "samples": [
       {
         "name": "T1:E1 Estar en el horno",
@@ -608,6 +608,61 @@
         "name": "T1:E5 Tirar manteca al techo",
         "uri": "Sahjx0Xm3/1heRM4WYsgCE1XVvTvkuNum/Wz9DDzwFm18RtUYYsPs/ckbyu6vBYfgXSgTE/3es+SkJ26dUzPmzwdcC3gV0kmtoiHgiXHRBrduhFMGgFbmwH1uxIKCRxl2sM7EFnLbEDwXxkO+gx83i3BBbqUuRozdmXp8UmeQ94Okw5cNPgZiQVgI9BEXN0gG8e+uuGrYvS+2GB+XZ9yiABEZif3Fc0VBRPMD4Tbe8UzlIv+tL9oIpaYGWeLeKnXC079R1XvSYeqrU5g8GQu5A==",
         "icono": "https://i.ibb.co/MnhyWrc/scale.png"
+      }
+    ]
+  },
+  {
+    "name": "Bronca",
+    "samples": [
+      {
+        "name": "Episodio 1x1",
+        "uri": "6mGshunOsomKreILlikTyDnG2ff2cRQVxfCmFlQR5cq/2LOPSFFzt8++iOi3IWzsusfOe5vVrdJWhy1E30yzZA==",
+        "icono": "https://static.wikia.nocookie.net/doblaje/images/a/a4/Bronca.jpg/revision/latest?cb=20230408001037&path-prefix=es"
+      },
+      {
+        "name": "Episodio 1x2",
+        "uri": "6mGshunOsomKreILlikTyDnG2ff2cRQVxfCmFlQR5cq/2LOPSFFzt8++iOi3IWzsHlHpZ3VMxwonTgAheKkV7g==",
+        "icono": "https://static.wikia.nocookie.net/doblaje/images/a/a4/Bronca.jpg/revision/latest?cb=20230408001037&path-prefix=es"
+      },
+      {
+        "name": "Episodio 1x3",
+        "uri": "6mGshunOsomKreILlikTyDnG2ff2cRQVxfCmFlQR5cq/2LOPSFFzt8++iOi3IWzsxrJuZMt8F95egOXoKmUB7Q==",
+        "icono": "https://static.wikia.nocookie.net/doblaje/images/a/a4/Bronca.jpg/revision/latest?cb=20230408001037&path-prefix=es"
+      },
+      {
+        "name": "Episodio 1x4",
+        "uri": "6mGshunOsomKreILlikTyDnG2ff2cRQVxfCmFlQR5cq/2LOPSFFzt8++iOi3IWzs8Pk+dgNT4dzBPpPBlxHMxA==",
+        "icono": "https://static.wikia.nocookie.net/doblaje/images/a/a4/Bronca.jpg/revision/latest?cb=20230408001037&path-prefix=es"
+      },
+      {
+        "name": "Episodio 1x5",
+        "uri": "6mGshunOsomKreILlikTyDnG2ff2cRQVxfCmFlQR5cq/2LOPSFFzt8++iOi3IWzsI6TGje1AUDjFG6+6QEX+vQ==",
+        "icono": "https://static.wikia.nocookie.net/doblaje/images/a/a4/Bronca.jpg/revision/latest?cb=20230408001037&path-prefix=esg"
+      },
+      {
+        "name": "Episodio 1x6",
+        "uri": "6mGshunOsomKreILlikTyDnG2ff2cRQVxfCmFlQR5cq/2LOPSFFzt8++iOi3IWzsHtszn1S1qtklE45EFmaoPQ==",
+        "icono": "https://static.wikia.nocookie.net/doblaje/images/a/a4/Bronca.jpg/revision/latest?cb=20230408001037&path-prefix=es"
+      },
+      {
+        "name": "Episodio 1x7",
+        "uri": "6mGshunOsomKreILlikTyDnG2ff2cRQVxfCmFlQR5cq/2LOPSFFzt8++iOi3IWzsgrH1OH9tp2bNk8Fgvj7EZQ==",
+        "icono": "https://static.wikia.nocookie.net/doblaje/images/a/a4/Bronca.jpg/revision/latest?cb=20230408001037&path-prefix=es"
+      },
+      {
+        "name": "Episodio 1x8",
+        "uri": "6mGshunOsomKreILlikTyDnG2ff2cRQVxfCmFlQR5cq/2LOPSFFzt8++iOi3IWzsOJr3jkbGg9vFmVQfLO57WA==",
+        "icono": "https://static.wikia.nocookie.net/doblaje/images/a/a4/Bronca.jpg/revision/latest?cb=20230408001037&path-prefix=es"
+      },
+      {
+        "name": "Episodio 1x9",
+        "uri": "6mGshunOsomKreILlikTyDnG2ff2cRQVxfCmFlQR5cq/2LOPSFFzt8++iOi3IWzsHrEgOJjA/4GDstMgEcd+Hg==",
+        "icono": "https://static.wikia.nocookie.net/doblaje/images/a/a4/Bronca.jpg/revision/latest?cb=20230408001037&path-prefix=esg"
+      },
+      {
+        "name": "Episodio 1x10",
+        "uri": "6mGshunOsomKreILlikTyDnG2ff2cRQVxfCmFlQR5cq/2LOPSFFzt8++iOi3IWzsagswuFgPJFH+C3WQQr3Pow==",
+        "icono": "https://static.wikia.nocookie.net/doblaje/images/a/a4/Bronca.jpg/revision/latest?cb=20230408001037&path-prefix=esg"
       }
     ]
   },
