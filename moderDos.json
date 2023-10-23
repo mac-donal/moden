@@ -652,7 +652,22 @@
       {
         "name": "IPMANF 4: El gran maestro",
         "uri": "6mGshunOsomKreILlikTyIkYa35CS90ReZb0nTx0JKNN+jcPsxuYHFdyBB1GvFNR6/6VxCA4CqiHB9KtIU0ZumnjkAuQdxzD4Txa43toOek=",
-        "icono": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR5SQaI6FsketUStAOv4tjq80gw3ohERnwYLdNslTcyrf-kHEH9"
+        "icono": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR5SQaI6FsketUStAOv4tjq80gw3ohERnwYLdNslTcyrf-kHEH9"   
+      }
+    ]
+  },
+  {
+    "name": "Entre hombres (Miniserie de TV)",
+    "samples": [
+      {
+        "name": "T1 E1 - Parte 1",
+        "uri": "6mGshunOsomKreILlikTyPiUN5Jvjz410PcHptIyLSRQHsE9aQlAVdmgTbK2g6FrgBzkQwpvT0uyLTObMrltM/7VO2UFQQ6l5ELF7HRa6mc=",
+        "icono": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTj3W9pPkM7mGzJW22F5N8V-e0DDZ7ZUh721AR15ppoSoHCIpIV"
+      },
+      {
+        "name": "T1 E2 - Parte 2",
+        "uri": "6mGshunOsomKreILlikTyPiUN5Jvjz410PcHptIyLSRQHsE9aQlAVdmgTbK2g6FrgBzkQwpvT0uyLTObMrltM5HSqBTAEl1BYMI5VN8jPcY=",
+        "icono": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTj3W9pPkM7mGzJW22F5N8V-e0DDZ7ZUh721AR15ppoSoHCIpIV"
       }
     ]
   },
