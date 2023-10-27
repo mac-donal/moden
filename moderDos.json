@@ -808,6 +808,26 @@
     ]
   },
   {
+    "name": "Harley and the Davidsons",
+    "samples": [
+      {
+        "name": "T1 E1 - Parte 1",
+        "uri": "pGMHEZgKwMi3YgFB042rBNk8z35s4CPJ75/WEZ5Hy80dbpjYtQkl5IZf5sJk61ed1aGpbjI17T67sCW2k0WAQg==",
+        "icono": "https://www.themoviedb.org/t/p/w500/zD39hlf8UPGpCvFA1uCBzfEjLAc.jpg"
+      },
+      {
+        "name": "T1 E2 - Parte 2",
+        "uri": "pGMHEZgKwMi3YgFB042rBNk8z35s4CPJ75/WEZ5Hy80dbpjYtQkl5IZf5sJk61eddLxDcHawFygiYpGer+Rw5A==",
+        "icono": "https://www.themoviedb.org/t/p/w500/zD39hlf8UPGpCvFA1uCBzfEjLAc.jpg"
+      },
+      {
+        "name": "T1 E3 - Parte 3",
+        "uri": "pGMHEZgKwMi3YgFB042rBNk8z35s4CPJ75/WEZ5Hy80dbpjYtQkl5IZf5sJk61edLXQRaEO8t5IvV3eS0yCFNg==",
+        "icono": "https://www.themoviedb.org/t/p/w500/zD39hlf8UPGpCvFA1uCBzfEjLAc.jpg"
+      }
+    ]
+  },
+  {
     "name": "Rumbo al infierno, La Serie",
     "samples": [
       {
