@@ -1005,12 +1005,16 @@
       },
       {
         "name": "SPORTV 1",
-        "uri": "fz1rhGEGQZ9n2/3EcjBpvX8bdk3Kf9Coye4j67ghSjyYI3uEmv8QaEt7YFmSZExUrCRKKc+bvgCC46CI3pUGZQ==",
+        "uri": "A8mc66bzFoWelBoERRC8dSVg1XbCAY/wrHFIFh43L11hdAChyq0Gv9K2+Sk2FNA32fXrcK3nvGVYxy4XT2PAcXtisIwVxdSDhHlRGaEP1/MZmrDhqHT1s2GbgSmRX+Xs",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "TQSPBT5fFAmrHLJIeXbfebMWUrLgmBG2asMbvRV2fDYiIqeP1SImP/grBEm6QYBHXI4GPfNWXjFeYzr3/DvFZA==",
         "icono": "https://afftvvolei.com.br/wp-content/uploads/2023/01/SporTV1.jpg"
       },
       {
         "name": "SPORTV 2",
-        "uri": "X6fG+aej8twKw88GrL/cfDRLgD5Mj5abrIyts07BGhbCLhBz4lrnV55wnkEsoGMVV1MgseRYI8lKFy17kz9Isg==",
+        "uri": "A8mc66bzFoWelBoERRC8dSVg1XbCAY/wrHFIFh43L12szYGP2uQ0jsYvALHfKPvoYd0FD/JoxU77qH7rn+EdKe+nG7M2l2qYbqZ0QtKtUbcZmrDhqHT1s2GbgSmRX+Xs",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "TQSPBT5fFAmrHLJIeXbfefFvBiXiCJbac4kuS+5Ys7cx7zEa1dtsYM7ztTRxEl7ToRiT8r6aeeq02a18r6W+KQ==",
         "icono": "https://afftvvolei.com.br/wp-content/uploads/2023/01/SporTV2.jpg"
       },
       {
