@@ -55,6 +55,58 @@
     ]
   },
   {
+    "name": "TV NOTICIAS",
+    "samples": [
+      {
+        "name": "DW: ACTUALIDAD",
+        "uri": "Qf5eBSeQqsi70omJTrO17oDI0hT53hs6O+JQ5ki13pYNVBVlg19OflgsxrpYS+V3mwqPpfLFWLJp4mRsuJL2Ivte5t7NJBVAGiktqdNu7QqyJvd4mKOM7GWbys6k55n/",
+        "icono": "https://www.infobae.com/new-resizer/_oR7hsVt9U6Qe8eVIHFocJ_iznQ=/992x992/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/LPNB3QLSPVE7JGHYNDXJBD4GAE.jpg"
+      },
+      {
+        "name": "CRONICA TV",
+        "uri": "LX46EnLWmPsTQWzzE5C2pHNONr3XIsO1eY5U2d88uo+9Epz41WToxJu5UCts0Xu7J+g/Gk1ZNm9aSJnPJTlKRItUrNPgnzMhA+DVbXYm0bKQCvHtJ+Njou1eHhOInmjl",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "TQSPBT5fFAmrHLJIeXbfeQGV6zEP+N4Te3TZqI7JbfFViWUgWyL931mq8FcytQ+rY8NaELt8R5UMqT08kuL2qvRVykZwSehJtezRk8hGLd1t+xd90EzYlUnunNj756vvkkb0vFcT3jvF4NLS5t91zw==",
+        "icono": "https://i.ibb.co/vvptksh/maxresdefault.jpg"
+      },
+      {
+        "name": "C5N",
+        "uri": "kLzT+cququRriT9kOdZAbLuPtqzMT0qIkYh8yAG147B9TU2WVIxNbAI9jTGADSgLZW9k3vaB6ggHQtDQpYrDm9AUewr+Y4Hdp8MU7kyiqbg=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "TQSPBT5fFAmrHLJIeXbfea6e/ZvompZHguh22DPfiL8z8xfbxwI1KZdSTAHLzGZFxjmagGKP/rKYojPulYIs8w==",
+        "icono": "https://i.ibb.co/WsDVtKJ/AATXAJxna-EZa9-Kmw-LXr-Yq-Dc-MZTf88wo-Sug34-Gkqy5u-E-5-Q-s900-c-k-c0xffffffff-no-rj-mo.jpg"
+      },
+      {
+        "name": "TN NOTICIAS",
+        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmL6h883fMfigrYzTlhFmIXtP41r2Fy1PndkLkbBAZAGluOsYZuAPi3Hc7SG1bNTGHHnAEO9sUJQAQ20CW89JewP",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvHYRYcCX4CjduqpwRuffUHWujexmFK46TFsPSMcYMmgS17TuNsfaFyMw2euXbnx/kGNHd4+T80gdBFmOhY0sX/GT5wI8TDTyme23oo0Jq9zn7yZkPyQ6PtsPEdy6c6I50g==",
+        "icono": "https://i.ibb.co/Ws0Z97Y/AGF-l7-ij-GDo3i-LYPot57-Ah1z-N-c-Giz-SL0f-Ju5-A31w-s900-mo-c-c0xffffffff-rj-k-no.jpg"
+      },
+      {
+        "name": "LN+ - LA NACION",
+        "uri": "LX46EnLWmPsTQWzzE5C2pHTkdf04SSydzxlNIAAUkdjqCg4gj/JPp8J/K+oWdqd6H34m1asKBSR9k7+tjpa/r7iV5PkaLOrMXPnjmDPvXLRlN8Wl68ccY4jKRCcsmhoM",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "TQSPBT5fFAmrHLJIeXbfeTxeRMyWnNX3v3H+Br3w4COx3EHxAeQeUUeX1DUBwHmfMXYM6OQrGsCI2dIw3k0X+8ttEGrvIGVlXxecU+a9ztEAmQz5SHn4mvNhCZTLNF5KuF534NFWy06vF1TZCF7diw==",
+        "icono": "https://www.conclusion.com.ar/wp-content/uploads/2016/11/la-nacion-m%C3%A1s.jpg"
+      },
+      {
+        "name": "A24",
+        "uri": "LX46EnLWmPsTQWzzE5C2pHNONr3XIsO1eY5U2d88uo9ZofdWxqD5RJWlL8mZI/URXurEOBSaEEJILvAGMT3t8t4Lm+tG/JYs9kx5Zfs3AgMhzgCGZRYTbM1oaXrKOZii",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "TQSPBT5fFAmrHLJIeXbfeSIBV6je3QYcPWmIA7PxzTMd0LJ4edH9/obJw0ge5NN1AtpPU+8zJJmmdL+JaKm0D1N5y4xLld6M5NQqaTBMwS/FcX8Gz3qQVzKHHiKir/9oxr31shyYw9G7HKNsi4ipSQ==",
+        "icono": "https://i.ibb.co/z2QvG13/Logo-a24.jpg"
+      },
+      {
+        "name": "CANAL 26",
+        "uri": "KusJ5ShfomSLrFIJxHev/jXIAcht3gt6FMFILfqq4pVmXBuqeXlq3KAdZYIwvuJQeUEDYm3/VcF/FBeH1C77Uv6w1hhAk9N1bGzR+TW9uRDu/z8QAUaM/kvaCYEISAAk",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "TQSPBT5fFAmrHLJIeXbfeYWilHZkuMOHLwKPdaZoJekFzeo8gUIZdvMseE8Qxlgw56LkpEj13idhIDlTlNOU9UjzVzEhFpUdtdj0Ml18KsCc5zw4ELKF4ei3qQLIDXGmBfyUaPzYI4aiQsWDIDzthg==",
+        "icono": "https://i.ibb.co/ScjYgWj/Logo-Canal26.jpg"
+      }
+    ]
+  },
+  {
     "name": "PACK FUTBOL ARGENTINO",
     "samples": [
       {
