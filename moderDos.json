@@ -828,6 +828,51 @@
     ]
   },
   {
+    "name": "One Piece la serie",
+    "samples": [
+      {
+        "name": "T1 E1 - Parte 1",
+        "uri": "6mGshunOsomKreILlikTyDnG2ff2cRQVxfCmFlQR5cpcEg/9GkWmjpJGZlLZII/CHMMcFl+Q24NtBNVzS0Csuv8izYbbis97SGyYc1482r19xinglGoXP3d0d0qUHgHC",
+        "icono": "https://static.wikia.nocookie.net/doblaje/images/0/0c/OP_%282023%29_-_Portada.png/revision/latest?cb=20230831210231&path-prefix=es"
+      },
+      {
+        "name": "T1 E2 - Parte 2",
+        "uri": "6mGshunOsomKreILlikTyDnG2ff2cRQVxfCmFlQR5cpcEg/9GkWmjpJGZlLZII/CHMMcFl+Q24NtBNVzS0Csus2o3yUsY/9OtZjHiTIZaB59xinglGoXP3d0d0qUHgHC",
+        "icono": "https://static.wikia.nocookie.net/doblaje/images/0/0c/OP_%282023%29_-_Portada.png/revision/latest?cb=20230831210231&path-prefix=es"
+      },
+      {
+        "name": "T1 E3 - Parte 3",
+        "uri": "6mGshunOsomKreILlikTyDnG2ff2cRQVxfCmFlQR5cpcEg/9GkWmjpJGZlLZII/CHMMcFl+Q24NtBNVzS0CsuvWLGELKbUQOy1bpvkIipe59xinglGoXP3d0d0qUHgHC",
+        "icono": "https://static.wikia.nocookie.net/doblaje/images/0/0c/OP_%282023%29_-_Portada.png/revision/latest?cb=20230831210231&path-prefix=es"
+      },
+      {
+        "name": "T1 E4 - Parte 4",
+        "uri": "6mGshunOsomKreILlikTyDnG2ff2cRQVxfCmFlQR5cpcEg/9GkWmjpJGZlLZII/CHMMcFl+Q24NtBNVzS0Csut227GNwrZakFyGa8zIDGZ19xinglGoXP3d0d0qUHgHC",
+        "icono": "https://static.wikia.nocookie.net/doblaje/images/0/0c/OP_%282023%29_-_Portada.png/revision/latest?cb=20230831210231&path-prefix=es"
+      },
+      {
+        "name": "T1 E5 - Parte 5",
+        "uri": "6mGshunOsomKreILlikTyDnG2ff2cRQVxfCmFlQR5cpcEg/9GkWmjpJGZlLZII/CHMMcFl+Q24NtBNVzS0Csunt33rbzdNeHcWxIwyGLKhJ9xinglGoXP3d0d0qUHgHC",
+        "icono": "https://static.wikia.nocookie.net/doblaje/images/0/0c/OP_%282023%29_-_Portada.png/revision/latest?cb=20230831210231&path-prefix=es"
+      },
+      {
+        "name": "T1 E6 - Parte 6",
+        "uri": "6mGshunOsomKreILlikTyDnG2ff2cRQVxfCmFlQR5cpcEg/9GkWmjpJGZlLZII/CHMMcFl+Q24NtBNVzS0CsuvrZcrMsSx6SfMIgMwAMnhd9xinglGoXP3d0d0qUHgHC",
+        "icono": "https://static.wikia.nocookie.net/doblaje/images/0/0c/OP_%282023%29_-_Portada.png/revision/latest?cb=20230831210231&path-prefix=es"
+      },
+      {
+        "name": "T1 E7 - Parte 7",
+        "uri": "6mGshunOsomKreILlikTyDnG2ff2cRQVxfCmFlQR5cpcEg/9GkWmjpJGZlLZII/CHMMcFl+Q24NtBNVzS0CsupzMV1DHBO/013mA4T4bS159xinglGoXP3d0d0qUHgHC",
+        "icono": "https://static.wikia.nocookie.net/doblaje/images/0/0c/OP_%282023%29_-_Portada.png/revision/latest?cb=20230831210231&path-prefix=es"
+      },
+      {
+        "name": "T1 E8 - Parte 8",
+        "uri": "6mGshunOsomKreILlikTyDnG2ff2cRQVxfCmFlQR5cpcEg/9GkWmjpJGZlLZII/CHMMcFl+Q24NtBNVzS0CsuqdHHnlrZAjpcXxcnDnGQD19xinglGoXP3d0d0qUHgHC",
+        "icono": "https://static.wikia.nocookie.net/doblaje/images/0/0c/OP_%282023%29_-_Portada.png/revision/latest?cb=20230831210231&path-prefix=es"
+      }
+    ]
+  },
+  {
     "name": "El encargado Temp 1",
     "samples": [
       {
