@@ -808,6 +808,26 @@
     ]
   },
   {
+    "name": "El señor de los cielos sus comienzos",
+    "samples": [
+      {
+        "name": "T1 E1 - Parte 1",
+        "uri": "6mGshunOsomKreILlikTyDnG2ff2cRQVxfCmFlQR5cosmABJGtYXMI7WKQP6JtvJxDA7exktm5AVu/t34vGT9isxE+47uRJG13w3RHLArEwjb5Zjm9BiIiEXOkkRM1YZh/eu55NW4msnw331rGVPraf1pzrHEPsaaJoiNJ7L46c=",
+        "icono": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSL2YnbFwQk1-cXMccLO6jkikl5vR1kRp0QjbTXYpgjBjQWYs2O"
+      },
+      {
+        "name": "T1 E2 - Parte 2",
+        "uri": "6mGshunOsomKreILlikTyDnG2ff2cRQVxfCmFlQR5cosmABJGtYXMI7WKQP6JtvJxDA7exktm5AVu/t34vGT9isxE+47uRJG13w3RHLArEwjb5Zjm9BiIiEXOkkRM1YZh/eu55NW4msnw331rGVPrXxrrxPL4mtRx+g/qRtfZwI=",
+        "icono": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSL2YnbFwQk1-cXMccLO6jkikl5vR1kRp0QjbTXYpgjBjQWYs2O"
+      },
+      {
+        "name": "T1 E3 - Parte 3",
+        "uri": "6mGshunOsomKreILlikTyDnG2ff2cRQVxfCmFlQR5cosmABJGtYXMI7WKQP6JtvJxDA7exktm5AVu/t34vGT9isxE+47uRJG13w3RHLArEwjb5Zjm9BiIiEXOkkRM1YZh/eu55NW4msnw331rGVPrYF3fyOXKPni6RRQ1c/fvGM=",
+        "icono": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSL2YnbFwQk1-cXMccLO6jkikl5vR1kRp0QjbTXYpgjBjQWYs2O"
+      }
+    ]
+  },
+  {
     "name": "El encargado Temp 1",
     "samples": [
       {
