@@ -136,6 +136,13 @@
         "icono": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/star/300E2C3003727C24449807CAC72524133CA498A4A004861104493BAE0A844563/scale?width=320"
       },
       {
+        "name": "Boca Juniors (ARG) vs. Fluminense Multicam+",
+        "uri": "v8vUVcLS4XBAAM3L0k/SVSLUhbDAJKnX3WwlbqXPq2IgzLtNTScF0snc5bl/G4dHis882s7hk5DXfRGzQB27nBJurd0wvqGlcIxwy7HUEy/30OsYx3MyFbmcNWtjVuahMhYBBvUE2obCf/jcPIyfnBApQIkzEbfLroqxd+Z9QARPexpEKuQ3ZWw3rpMdg7Ox3/+ZCN9PXjH0qk414X8v7A==",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "wgXMGzVQ+7yZUpZjQMGKfmgKiC0lQQLvOqU5+uCjpzgOOvbyCk1Q2IVmQA/INN2V",
+        "icono": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/star/E2F003D677B6F6710C8CA8209B32576CB6939BD1BED9EF477EC3480BD3B67D8D/scale?width=320"
+      },
+      {
         "name": "TNT SPORT ARGENTINA HD",
         "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmIW7c8B26HWtij6f1QtNAQwx2Z3Q5zoy6wLRE4bfFkEwc+BWJwadd12eITdRn3e1z4qCbexk8uxiMbYWn28FniL",
         "drm_scheme": "clearkey",
