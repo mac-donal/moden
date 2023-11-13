@@ -852,6 +852,31 @@
     ]
   },
   {
+    "name": "El Comandante Ford",
+    "samples": [
+      {
+        "name": "1 Celebrity",
+        "uri": "Bxiz1sRKa8YTnDJ4REA2XGvDqdTq1mI3VoC22n3UfwGc1Xw9GaKtaZmqcj8c2XrZ",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/4TODCrRN7S4it0KWhzRX9B4Q3G3.jpg"
+      },
+      {
+        "name": "2 Freedom",
+        "uri": "Bxiz1sRKa8YTnDJ4REA2XGvDqdTq1mI3VoC22n3UfwGc+PgYXyyOrFf6VnFSxT0h",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/yzND3cDeGGe3H4b23nIHgUrXkwC.jpg"
+      },
+      {
+        "name": "3 Chocolate",
+        "uri": "Bxiz1sRKa8YTnDJ4REA2XGvDqdTq1mI3VoC22n3UfwEMXUg+cqzHqmiZB2KoQSRm",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/4IHPW0K6bTpaJ4XyAfxs5sEtMPO.jpg"
+      },
+      {
+        "name": "4 Saint",
+        "uri": "Bxiz1sRKa8YTnDJ4REA2XGvDqdTq1mI3VoC22n3UfwEp6U80eK9jZKYmdL3rx2ss",
+        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/4ChSB0DdSBzU2dGiB5OCvRcPaML.jpg"
+      }
+    ]
+  },
+  {
     "name": "NADA LA SERIE",
     "samples": [
       {
