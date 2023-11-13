@@ -830,8 +830,8 @@
     "name": "Entre hombres (Miniserie de TV)",
     "samples": [
       {
-        "name": "T1 E1 - Parte 15",
-        "uri": "ZkvgW/0e+oFr6OIL5y7gMHGaKLMolOgMTq11aEod+SSx0Xa64EqLDzj707zuYR3GwM54RQq9Hmp+jX/ESLq3Z7A3FNCEehBUteD6S3yY4HqH+l4cBFD6BoneRz213qAMDJufiGGxT1oenzYbcA3J+pyMm89TNDkXbMYsRZH3X5E=",
+        "name": "T1 E1 - Parte 1",
+        "uri": "6mGshunOsomKreILlikTyPiUN5Jvjz410PcHptIyLSRQHsE9aQlAVdmgTbK2g6FrgBzkQwpvT0uyLTObMrltM/7VO2UFQQ6l5ELF7HRa6mc=",
         "icono": "https://images.justwatch.com/poster/176899092/s332/temporada-1"
       },
       {
@@ -848,31 +848,6 @@
         "name": "T1 E4 - Parte 4",
         "uri": "+uxbpBfclyfWWOaC7i4TRNe/C7ZGn/hJn5QXKg6tX3T8srWM0IqnRVN6tW+1yKw4tufQ2L7vNdJMv8avpSIqhaYr+YzwtNtUhT9f4PRqIiZ7oCgG0AEnYBQ2QIYbatIP",
         "icono": "https://images.justwatch.com/poster/176899092/s332/temporada-1"
-      }
-    ]
-  },
-  {
-    "name": "El Comandante Ford",
-    "samples": [
-      {
-        "name": "1 Celebrity",
-        "uri": "Bxiz1sRKa8YTnDJ4REA2XGvDqdTq1mI3VoC22n3UfwGc1Xw9GaKtaZmqcj8c2XrZ",
-        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/4TODCrRN7S4it0KWhzRX9B4Q3G3.jpg"
-      },
-      {
-        "name": "2 Freedom",
-        "uri": "Bxiz1sRKa8YTnDJ4REA2XGvDqdTq1mI3VoC22n3UfwGc+PgYXyyOrFf6VnFSxT0h",
-        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/yzND3cDeGGe3H4b23nIHgUrXkwC.jpg"
-      },
-      {
-        "name": "3 Chocolate",
-        "uri": "Bxiz1sRKa8YTnDJ4REA2XGvDqdTq1mI3VoC22n3UfwEMXUg+cqzHqmiZB2KoQSRm",
-        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/4IHPW0K6bTpaJ4XyAfxs5sEtMPO.jpg"
-      },
-      {
-        "name": "4 Saint",
-        "uri": "Bxiz1sRKa8YTnDJ4REA2XGvDqdTq1mI3VoC22n3UfwEp6U80eK9jZKYmdL3rx2ss",
-        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/4ChSB0DdSBzU2dGiB5OCvRcPaML.jpg"
       }
     ]
   },
