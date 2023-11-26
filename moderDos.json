@@ -808,6 +808,42 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvK1llTKvZrRQxlWDvs22eHG01ahLjmoEO+isAXnoSSW4H5V6IVQ2L4cj7KZchps13Mk+QxKrXedqTPXjNwvvNoJSgbK21TQq+ZEsysLMkjOT8170ZGPZ6gkaNl+aARGEAg==",
         "icono": "https://static.flow.com.ar/images/vod/vod/350/500/0/0/31414757.jpg"
+     }
+    ]
+  },
+  {
+    "name": "Soy Georgina",
+    "samples": [
+      {
+        "name": "cap 1: ",
+        "uri": "/t9bPvaOGS7U00eyRzm4lCC3LPNGqr3KnM6jHAbXgQdSicO/rKlKko32cIpLBBJ8GqSemZhi+G1lI4WYzSEGylvv3PkS6Oacw7W43V6Hlyo=",
+        "icono": "https://media.vogue.mx/photos/641db793fa81b9979bb483e3/master/pass/serie-netflix-soy-georgina.jpg"
+      },
+      {
+        "name": "cap 2: ",
+        "uri": "/t9bPvaOGS7U00eyRzm4lCC3LPNGqr3KnM6jHAbXgQdSicO/rKlKko32cIpLBBJ8GqSemZhi+G1lI4WYzSEGygt/UKVu34Ff9EUxm78C/e4=",
+        "icono": "https://media.vogue.mx/photos/641db793fa81b9979bb483e3/master/pass/serie-netflix-soy-georgina.jpg"
+      },
+      {
+        "name": "cap 3: ",
+        "uri": "/t9bPvaOGS7U00eyRzm4lCC3LPNGqr3KnM6jHAbXgQdSicO/rKlKko32cIpLBBJ8GqSemZhi+G1lI4WYzSEGymhuYk5qSCujxSUjILbxzzo=",
+        "icono": "https://media.vogue.mx/photos/641db793fa81b9979bb483e3/master/pass/serie-netflix-soy-georgina.jpg"
+      },
+      {
+        "name": "cap 4: ",
+        "uri": "/t9bPvaOGS7U00eyRzm4lCC3LPNGqr3KnM6jHAbXgQdSicO/rKlKko32cIpLBBJ8GqSemZhi+G1lI4WYzSEGyrkjldJ7PFl/3ZJzSrzLULs=",
+        "icono": "https://media.vogue.mx/photos/641db793fa81b9979bb483e3/master/pass/serie-netflix-soy-georgina.jpg"
+      },
+      {
+        "name": "cap 5: ",
+        "uri": "/t9bPvaOGS7U00eyRzm4lCC3LPNGqr3KnM6jHAbXgQdSicO/rKlKko32cIpLBBJ8GqSemZhi+G1lI4WYzSEGytbHWzm1bxAPAJDMyb6ktV0=",
+        "icono": "https://media.vogue.mx/photos/641db793fa81b9979bb483e3/master/pass/serie-netflix-soy-georgina.jpg"
+      },
+      {
+        "name": "cap 6: ",
+        "uri": "/t9bPvaOGS7U00eyRzm4lCC3LPNGqr3KnM6jHAbXgQdSicO/rKlKko32cIpLBBJ8GqSemZhi+G1lI4WYzSEGyq2Uq7h+e5pOqkiuiL/UrRE=",
+        "icono": "https://media.vogue.mx/photos/641db793fa81b9979bb483e3/master/pass/serie-netflix-soy-georgina.jpg"
+
       }
     ]
   },
