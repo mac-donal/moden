@@ -417,7 +417,7 @@
       {
         "name": "La isla de las muñecas (2023)",
         "uri": "cVI+FPBxX2ASracUSyM4wxo9acx99PzFpCuPO0JF5VrH+IQm3/7ySAveme5TCMS4ccwP5YgOGfcM+PdV+hSku/i8sF2XbUkX3Vq1cVXXRKDUuXe9Eg1ECrykFg3hlgF6HW3wiuxACeLiDggJxZbpvg==",
-	      "icono": "https://www.themoviedb.org/t/p/w500/sqfMynwPxlgPzba8JsAHphx8pXS.jpg"
+        "icono": "https://www.themoviedb.org/t/p/w500/sqfMynwPxlgPzba8JsAHphx8pXS.jpg"
       },
       {
         "name": "Sueños: Un viaje en el tiempo",
@@ -716,6 +716,41 @@
     ]
   },
   {
+    "name": "los exorsistas",
+    "samples": [
+      {
+        "name": "EP.1 El protector",
+        "uri": "/t9bPvaOGS7U00eyRzm4lCC3LPNGqr3KnM6jHAbXgQcx/PIdD8gZe7EIAOuN2+lr7Qqe8VR6KDVVzEfb5XilURi8MRXQpWS2Csu0kpPPGx1p45ALkHccw+E8WuN7aDnp",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTafW5OvLYszQp6ux2hO1q2PGTxcPdqOsF8ZipuVt-8a8j8P8aZ"
+      },
+      {
+        "name": "EP.2 El asesor",
+        "uri": "/t9bPvaOGS7U00eyRzm4lCC3LPNGqr3KnM6jHAbXgQcx/PIdD8gZe7EIAOuN2+lr7Qqe8VR6KDVVzEfb5XilUR/3ivsQXY73gRXnFWAMLQ5p45ALkHccw+E8WuN7aDnp",
+        "icono": "https://images.vix.com/prd/videos/video:mcp:4314597/cb4f9d230a53173dfdfd8108e6bbc5c9?tr=w-350,ar-16-9,q-80&w=1920"
+      },
+      {
+        "name": "EP.3 El experimentado",
+        "uri": "/t9bPvaOGS7U00eyRzm4lCC3LPNGqr3KnM6jHAbXgQcx/PIdD8gZe7EIAOuN2+lr9HdtN8+dGutfvDhcoxIiDywJ5ZzpxvZ2VL4axEIMf61p45ALkHccw+E8WuN7aDnp",
+        "icono": "https://images.vix.com/prd/videos/video:mcp:4314598/ef02c4ff9fb6ae074e2675eb279320cf?tr=w-350,ar-16-9,q-80&w=1920"
+      },
+      {
+        "name": "EP.4 El liberado",
+        "uri": "/t9bPvaOGS7U00eyRzm4lCC3LPNGqr3KnM6jHAbXgQcx/PIdD8gZe7EIAOuN2+lr9HdtN8+dGutfvDhcoxIiDxfFK27xwDt5CBLFk4t5qblp45ALkHccw+E8WuN7aDnp",
+        "icono": "https://images.vix.com/prd/videos/video:mcp:4314599/83fba8cfaad74354b336c346d592f5fb?tr=w-350,ar-16-9,q-80&w=1920"
+      },
+      {
+        "name": "EP.5 El maestro",
+        "uri": "/t9bPvaOGS7U00eyRzm4lCC3LPNGqr3KnM6jHAbXgQcx/PIdD8gZe7EIAOuN2+lr9HdtN8+dGutfvDhcoxIiD9dri9A87TG6hAiK2dRWHI1p45ALkHccw+E8WuN7aDnp",
+        "icono": "https://images.vix.com/prd/videos/video:mcp:4314600/f9afa677797db7f1cc9fc5c009cf9fd8?tr=w-350,ar-16-9,q-80&w=1920"
+      },
+      {
+        "name": "EP.6 El heredero",
+        "uri": "/t9bPvaOGS7U00eyRzm4lCC3LPNGqr3KnM6jHAbXgQcx/PIdD8gZe7EIAOuN2+lr7Qqe8VR6KDVVzEfb5XilUVYbX4gYxlq13faXAsG83RY=",
+        "icono": "https://images.vix.com/prd/videos/video:mcp:4314601/8fbab0a3da6a6fcde9d7b5aeebf3f97e?tr=w-350,ar-16-9,q-80&w=1920"
+      }
+    ]
+  },
+  {
     "name": "El encargado Temp 1",
     "samples": [
       {
@@ -772,7 +807,7 @@
         "name": "cap 11: El ave fénix",
         "uri": "Bxiz1sRKa8YTnDJ4REA2XOLwwbtI04dCM1SAvH9KfLEkexNyiy1pyf2FePC2x40NI4jnn1hOBlTPqJpEhJh7QA==",
         "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/jNBNWE5KRh4yWMMHwFKOc9dOXkU.jpg"
-	   },
+      },
       {
         "name": "PRUEBAAA",
         "uri": "v8vUVcLS4XBAAM3L0k/SVSLUhbDAJKnX3WwlbqXPq2IgzLtNTScF0snc5bl/G4dHis882s7hk5DXfRGzQB27nKG077Y3yCKQ/LV1Prr2j5kUketvpPJHlkvOvUSkegGkDNu0MwYvzVawDQ0KWwSBuBgxPgrMa75yZo3qokMMchaI2GPKt31gzyP8Z5waHqqN75Hj4nMq3R0AYYUD2NuaQw==",
