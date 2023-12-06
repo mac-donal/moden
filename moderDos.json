@@ -901,8 +901,8 @@
 	   },
       {
         "name": "PRUEBA",
-        "uri": "da416nCZwQvz2r6XfcZ/X3CUHk9Ym+SD8Jpc97A0YQOYRddvk//XjAm0q6oBPMsgC0GbQdbK33TWrHucJxMuQj0dgti0V11hxxWHcSHK8bq2jcfBLfamc3Hmb97Brg4fyXA18+jcPJ4OKwXQ8knYdWsdQg4psixGV7fvw5+xMCZDXDm5tfKiW0l4NmvnreMfIK6RS5TLTfglFBsqxrIbPGoIRDwbgx9FlNsl8BtSBl7nhLT6gwszS7Zxu3AlmnjfmtwWpSfQLUFbRZsfQvy+g5RgGSBR6+7NLD1u67DaGCM=",
-        "drm_scheme": "clearkey",
+        "uri": "3eyzuwUjsyav/ta8m06yKKLAVHEL/ZUtjJ3ARRUCXWDbc7a4AliiaDCwsFpiMlbTTTXlloaIN6piPVargcBAE88AnE8hXg+yKuqROUmVrPIcV2B7mdBLyn8BW7eTYX+srmvT+/8rlnP/K8ReCoSQjM/b6HIEozPCXqQEDGl7abOrREAYP9lwtXNfXp+yKJRKiB/VhO/TJRyVOjfknx4RrDh4Ra33Jtx137Hvo7Hf72W0nrppWW2EvVH1ZX9ZqbU8ySm+8YuH/uiHjAXJtrvRli0HaJfstYbxxASRiPXYySHhZh9YdXX9U5xUM27jD/C5qDhxFF985pv4rbTCqY97yw==",
+        "drm_scheme": "widevine",
         "drm_license_uri": "bDoRT9JJdlQoqdBMB3beYbq9GeNZnuIoRv68wCzk1sCU0b4ZwpBsrmJvG6nSOT7ltnKdp0ogLOEuS1HvCUEsfw==",
         "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/jNBNWE5KRh4yWMMHwFKOc9dOXkU.jpg"
       }
