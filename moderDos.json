@@ -906,67 +906,107 @@
     ]
   },
   {
-    "name": "El encargado Temp 1",
+    "name": "Batimujer",
     "samples": [
       {
-        "name": "cap 1: Un proyecto peligroso",
-        "uri": "Bxiz1sRKa8YTnDJ4REA2XOLwwbtI04dCM1SAvH9KfLEkexNyiy1pyf2FePC2x40NlrJHi+cEYcJWBqB+P5ILTw==",
-        "icono": "https://images.justwatch.com/poster/301433421/s718/temporada-1.jpg"
+        "name": "EP.1",
+        "uri": "/t9bPvaOGS7U00eyRzm4lCC3LPNGqr3KnM6jHAbXgQewnkdCU2oJHSFFeVr+2EpU4SEkuAWAKTT6yPzRmUVNf7CkRPj4BZRxlMn9IQRw2hVp45ALkHccw+E8WuN7aDnp",
+        "icono": "https://www.dropbox.com/scl/fi/k4014pfg2pix53s5oadfo/bati.mujer.jpg?rlkey=lcb08eza00znxzli7dhujasfc&dl=0"
       },
       {
-        "name": "cap 2: Una accion solidaria",
-        "uri": "Bxiz1sRKa8YTnDJ4REA2XOLwwbtI04dCM1SAvH9KfLEkexNyiy1pyf2FePC2x40NUWEjh6mkU8KYStfF1ORTyQ==",
-        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/dv5uEUN8fqmdSOomtdUlvEsC4mP.jpg"
+        "name": "EP.2 ",
+        "uri": "/t9bPvaOGS7U00eyRzm4lCC3LPNGqr3KnM6jHAbXgQewnkdCU2oJHSFFeVr+2EpUoRT6VkZLOGHcRWm7+ISg57CkRPj4BZRxlMn9IQRw2hVp45ALkHccw+E8WuN7aDnp",
+        "icono": "https://dl.dropbox.com/scl/fi/k4014pfg2pix53s5oadfo/bati.mujer.jpg?rlkey=lcb08eza00znxzli7dhujasfc&dl=0"
       },
       {
-        "name": "cap 3: Una turista en Buenos Aires» ",
-        "uri": "Bxiz1sRKa8YTnDJ4REA2XOLwwbtI04dCM1SAvH9KfLEkexNyiy1pyf2FePC2x40NpvQfAGIc9mIqmeDz7YFU1w==",
-        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/m4TgfAN7nihW6qPKfTZCv8wm6qD.jpg"
+        "name": "EP.3 ",
+        "uri": "/t9bPvaOGS7U00eyRzm4lCC3LPNGqr3KnM6jHAbXgQewnkdCU2oJHSFFeVr+2EpUepmR44de2mnvb6vbnzNzMrCkRPj4BZRxlMn9IQRw2hVp45ALkHccw+E8WuN7aDnp",
+        "icono": "https://dl.dropbox.com/scl/fi/k4014pfg2pix53s5oadfo/bati.mujer.jpg?rlkey=lcb08eza00znxzli7dhujasfc&dl=0"
       },
       {
-        "name": "cap 4: Una amante para Zambrano",
-        "uri": "Bxiz1sRKa8YTnDJ4REA2XOLwwbtI04dCM1SAvH9KfLEkexNyiy1pyf2FePC2x40N8YHhN1XzlOog0FRpJM1bkA==",
-        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/aYCA0jVCSKbsJBqyWztZS0W8I9d.jpg"
+        "name": "EP.4 ",
+        "uri": "/t9bPvaOGS7U00eyRzm4lCC3LPNGqr3KnM6jHAbXgQewnkdCU2oJHSFFeVr+2EpUV75Br1/QGCRbyiJ2JKcIrbCkRPj4BZRxlMn9IQRw2hVp45ALkHccw+E8WuN7aDnp",
+        "icono": "https://dl.dropbox.com/scl/fi/k4014pfg2pix53s5oadfo/bati.mujer.jpg?rlkey=lcb08eza00znxzli7dhujasfc&dl=0"
       },
       {
-        "name": "cap 5: Visita sorpresa",
-        "uri": "Bxiz1sRKa8YTnDJ4REA2XOLwwbtI04dCM1SAvH9KfLEkexNyiy1pyf2FePC2x40NP0siMnFSGiQ0mh/MtpppzQ==",
-        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/aY5FxLbAb1D2aIcwrhBCfN2Y8vP.jpg"
+        "name": "EP.5 ",
+        "uri": "/t9bPvaOGS7U00eyRzm4lCC3LPNGqr3KnM6jHAbXgQewnkdCU2oJHSFFeVr+2EpUGPdLJPaggzqK68HeKvmTr7CkRPj4BZRxlMn9IQRw2hVp45ALkHccw+E8WuN7aDnp",
+        "icono": "https://dl.dropbox.com/scl/fi/k4014pfg2pix53s5oadfo/bati.mujer.jpg?rlkey=lcb08eza00znxzli7dhujasfc&dl=0"
       },
       {
-        "name": "cap 6: Chofer nocturno",
-        "uri": "Bxiz1sRKa8YTnDJ4REA2XOLwwbtI04dCM1SAvH9KfLEkexNyiy1pyf2FePC2x40NxlHzqs3bWvX/3yr+rN7XdQ==",
-        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/pkTEtGTytLFViKoaaPpc5WCddc1.jpg"
+        "name": "EP.6 ",
+        "uri": "/t9bPvaOGS7U00eyRzm4lCC3LPNGqr3KnM6jHAbXgQewnkdCU2oJHSFFeVr+2EpUek+iHOgrWDK1Js0fOHsO2LCkRPj4BZRxlMn9IQRw2hVp45ALkHccw+E8WuN7aDnp",
+        "icono": "https://dl.dropbox.com/scl/fi/k4014pfg2pix53s5oadfo/bati.mujer.jpg?rlkey=lcb08eza00znxzli7dhujasfc&dl=0"
       },
       {
-        "name": "cap 7: Acompañante terapéutico",
-        "uri": "Bxiz1sRKa8YTnDJ4REA2XOLwwbtI04dCM1SAvH9KfLEkexNyiy1pyf2FePC2x40NZo/7xbbCcgsS7eLoZ/B9Aw==",
-        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/iYN4ZpDzZ6LNOPZqs6KpfsnglDi.jpg"
+        "name": "EP.7 ",
+        "uri": "/t9bPvaOGS7U00eyRzm4lCC3LPNGqr3KnM6jHAbXgQewnkdCU2oJHSFFeVr+2EpUpDLx9L3egoEM7PHPEP5apbCkRPj4BZRxlMn9IQRw2hVp45ALkHccw+E8WuN7aDnp",
+        "icono": "https://dl.dropbox.com/scl/fi/k4014pfg2pix53s5oadfo/bati.mujer.jpg?rlkey=lcb08eza00znxzli7dhujasfc&dl=0"
       },
       {
-        "name": "cap 8: Sabotaje en la sala de máquinas",
-        "uri": "Bxiz1sRKa8YTnDJ4REA2XOLwwbtI04dCM1SAvH9KfLEkexNyiy1pyf2FePC2x40NNoHffbkTrHPh4ZoYQN/P0A==",
-        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/lTn7r9eNPJHyvsEm3Smok6M763s.jpg"
+        "name": "EP.8 ",
+        "uri": "/t9bPvaOGS7U00eyRzm4lCC3LPNGqr3KnM6jHAbXgQewnkdCU2oJHSFFeVr+2EpU+C9dkxtPp01Ga8QidBPQD7CkRPj4BZRxlMn9IQRw2hVp45ALkHccw+E8WuN7aDnp",
+        "icono": "https://dl.dropbox.com/scl/fi/k4014pfg2pix53s5oadfo/bati.mujer.jpg?rlkey=lcb08eza00znxzli7dhujasfc&dl=0"
       },
       {
-        "name": "cap 9: El ocupa del 5B",
-        "uri": "Bxiz1sRKa8YTnDJ4REA2XOLwwbtI04dCM1SAvH9KfLEkexNyiy1pyf2FePC2x40NezSPVmDpwS4aMNZs6iV9Qg==",
-        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/gb9zlX9tocLkyaEXVfENprIgdbH.jpg"
+        "name": "EP.9 ",
+        "uri": "/t9bPvaOGS7U00eyRzm4lCC3LPNGqr3KnM6jHAbXgQewnkdCU2oJHSFFeVr+2EpU3WtC8HsPI7JR3scSgHJmLbCkRPj4BZRxlMn9IQRw2hVp45ALkHccw+E8WuN7aDnp",
+        "icono": "https://dl.dropbox.com/scl/fi/k4014pfg2pix53s5oadfo/bati.mujer.jpg?rlkey=lcb08eza00znxzli7dhujasfc&dl=0"
       },
       {
-        "name": "cap 10: La hora de la verdad",
-        "uri": "Bxiz1sRKa8YTnDJ4REA2XOLwwbtI04dCM1SAvH9KfLEkexNyiy1pyf2FePC2x40NtnciKluNddnnGRWJAc5x7w==",
-        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/dqfAPZdsOSwQKBl1fosJNnepYXA.jpg"
+        "name": "EP.10 ",
+        "uri": "/t9bPvaOGS7U00eyRzm4lCC3LPNGqr3KnM6jHAbXgQewnkdCU2oJHSFFeVr+2EpUb5U9KRcUVs+fXb0E6dliT7CkRPj4BZRxlMn9IQRw2hVp45ALkHccw+E8WuN7aDnp",
+        "icono": "https://dl.dropbox.com/scl/fi/k4014pfg2pix53s5oadfo/bati.mujer.jpg?rlkey=lcb08eza00znxzli7dhujasfc&dl=0"
       },
       {
-        "name": "cap 11: El ave fénix",
-        "uri": "Bxiz1sRKa8YTnDJ4REA2XOLwwbtI04dCM1SAvH9KfLEkexNyiy1pyf2FePC2x40NI4jnn1hOBlTPqJpEhJh7QA==",
-        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/jNBNWE5KRh4yWMMHwFKOc9dOXkU.jpg"
+        "name": "EP.11 ",
+        "uri": "/t9bPvaOGS7U00eyRzm4lCC3LPNGqr3KnM6jHAbXgQewnkdCU2oJHSFFeVr+2EpUzwkdweDh5JoB/jNYK9mNI7CkRPj4BZRxlMn9IQRw2hVp45ALkHccw+E8WuN7aDnp",
+        "icono": "https://dl.dropbox.com/scl/fi/k4014pfg2pix53s5oadfo/bati.mujer.jpg?rlkey=lcb08eza00znxzli7dhujasfc&dl=0"
+      },
+      {
+        "name": "EP.12 ",
+        "uri": "/t9bPvaOGS7U00eyRzm4lCC3LPNGqr3KnM6jHAbXgQewnkdCU2oJHSFFeVr+2EpUT/U558Mfg2VIP8WGE57iVLCkRPj4BZRxlMn9IQRw2hVp45ALkHccw+E8WuN7aDnp",
+        "icono": "https://dl.dropbox.com/scl/fi/k4014pfg2pix53s5oadfo/bati.mujer.jpg?rlkey=lcb08eza00znxzli7dhujasfc&dl=0"
+      },
+      {
+        "name": "EP.13 ",
+        "uri": "/t9bPvaOGS7U00eyRzm4lCC3LPNGqr3KnM6jHAbXgQewnkdCU2oJHSFFeVr+2EpUc8rQKNy7VrdhNUSvAzII77CkRPj4BZRxlMn9IQRw2hVp45ALkHccw+E8WuN7aDnp",
+        "icono": "https://dl.dropbox.com/scl/fi/k4014pfg2pix53s5oadfo/bati.mujer.jpg?rlkey=lcb08eza00znxzli7dhujasfc&dl=0"
+      },
+      {
+        "name": "EP.14 ",
+        "uri": "/t9bPvaOGS7U00eyRzm4lCC3LPNGqr3KnM6jHAbXgQewnkdCU2oJHSFFeVr+2EpUzNgnzAxIvlpJZPl6mc73UrCkRPj4BZRxlMn9IQRw2hVp45ALkHccw+E8WuN7aDnp",
+        "icono": "https://dl.dropbox.com/scl/fi/k4014pfg2pix53s5oadfo/bati.mujer.jpg?rlkey=lcb08eza00znxzli7dhujasfc&dl=0"
+      },
+      {
+        "name": "EP.15 ",
+        "uri": "/t9bPvaOGS7U00eyRzm4lCC3LPNGqr3KnM6jHAbXgQewnkdCU2oJHSFFeVr+2EpUuHljcaQpIZcuCWenFrYeLLCkRPj4BZRxlMn9IQRw2hVp45ALkHccw+E8WuN7aDnp",
+        "icono": "https://dl.dropbox.com/scl/fi/k4014pfg2pix53s5oadfo/bati.mujer.jpg?rlkey=lcb08eza00znxzli7dhujasfc&dl=0"
+      },
+      {
+        "name": "EP.16 ",
+        "uri": "/t9bPvaOGS7U00eyRzm4lCC3LPNGqr3KnM6jHAbXgQewnkdCU2oJHSFFeVr+2EpUqhiLb4HBl+1UceIT3vyo37CkRPj4BZRxlMn9IQRw2hVp45ALkHccw+E8WuN7aDnp",
+        "icono": "https://dl.dropbox.com/scl/fi/k4014pfg2pix53s5oadfo/bati.mujer.jpg?rlkey=lcb08eza00znxzli7dhujasfc&dl=0"
+      },
+      {
+        "name": "EP.17 ",
+        "uri": "/t9bPvaOGS7U00eyRzm4lCC3LPNGqr3KnM6jHAbXgQewnkdCU2oJHSFFeVr+2EpUZMc/h0YVX6BKpN7QhIgFPLCkRPj4BZRxlMn9IQRw2hVp45ALkHccw+E8WuN7aDnp",
+        "icono": "https://dl.dropbox.com/scl/fi/k4014pfg2pix53s5oadfo/bati.mujer.jpg?rlkey=lcb08eza00znxzli7dhujasfc&dl=0"
+      },
+      {
+        "name": "EP.18 ",
+        "uri": "/t9bPvaOGS7U00eyRzm4lCC3LPNGqr3KnM6jHAbXgQewnkdCU2oJHSFFeVr+2EpUn6AcLopi3R96HZsRGTySmbCkRPj4BZRxlMn9IQRw2hVp45ALkHccw+E8WuN7aDnp",
+        "icono": "https://dl.dropbox.com/scl/fi/k4014pfg2pix53s5oadfo/bati.mujer.jpg?rlkey=lcb08eza00znxzli7dhujasfc&dl=0"
       },
       {
         "name": "PRUEBA",
-        "uri": "/t9bPvaOGS7U00eyRzm4lCC3LPNGqr3KnM6jHAbXgQeWrGIWuoGd8iwypblmz6Kw6/rq0NGlj2wZsvx62S3i7vP9mT8mboy6Bh5HburBf/B6G/xGj3SDHbAVNZe+aIJlE81rhhPkBnGTX+Mtx/OyGG/088oYcvjwQ+yTo2m9+37u8LLvPXFgbqsVsWy9ZLFLYHbaQ/Lu6X0aYo4PPhMKYA==",
-        "icono": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/jNBNWE5KRh4yWMMHwFKOc9dOXkU.jpg"
+        "uri": "yTo2m9+37u8LLvPXFgbqsVsWy9ZLFLYHbaQ/Lu6X0aYo4PPhMKYA==",
+        "icono": "https://dl.dropbox.com/scl/fi/k4014pfg2pix53s5oadfo/bati.mujer.jpg?rlkey=lcb08eza00znxzli7dhujasfc&dl=0"
+      },
+      {
+        "name": "PRUEBA",
+        "uri": "yTo2m9+37u8LLvPXFgbqsVsWy9ZLFLYHbaQ/Lu6X0aYo4PPhMKYA==",
+        "icono": "https://dl.dropbox.com/scl/fi/k4014pfg2pix53s5oadfo/bati.mujer.jpg?rlkey=lcb08eza00znxzli7dhujasfc&dl=0"
       }
     ]
   },
