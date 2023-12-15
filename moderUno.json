@@ -15,39 +15,6 @@
     ]
   },
   {
-    "name": "GRAN HERMANO 2023",
-    "samples": [
-      {
-        "name": "24HS GH",
-        "uri": "RXgh8CmjtHtCumOteyzprQ5AwTWz+1mWowmExVEsNdHD5gXGphX8AfxDhdeManvVZdheIHJbB8qbl8TEVK2H++RS4Di3ZsiTEWvBXK0hB3Y=",
-        "drm_scheme": "clearkey",
-        "icono": "https://www.rionegro.com.ar/wp-content/uploads/2023/04/GH-1.png",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvM1ZxvpHwnnZFb/dJgO1rcAT8RN5Y49xjRkbngBKqhgqr86a6nfrv376y0GA3FAsDnvj+fJ9bIfeyeamRHvrWnPh0JDuVJetOcaXLD0DN31GexagzwXD+ulQAMgkJzSkNA=="
-      },
-      {
-        "name": "GRAN HERMANO CAM 1",
-        "uri": "RXgh8CmjtHtCumOteyzprQ5AwTWz+1mWowmExVEsNdHD5gXGphX8AfxDhdeManvVeaC+BRQVGUCtTu3I5RpDG2m29uTQa8CtHLS5BBaMtmk=",
-        "drm_scheme": "clearkey",
-        "icono": "https://i.imgur.com/LVoXucd.png",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvKqxRlaQO7ZsyP0a4zMRTXnz+wt87hp40UPKcU8damxUNCMystfasZ2S4kDflegKfXeVSoPiW2gjS/AvOD6FOlUP5KnQZq5lS5QB56t6TsnuP+HC1CnjVFoaTe8FT1WSQg=="
-      },
-      {
-        "name": "GRAN HERMANO CAM 2",
-        "uri": "RXgh8CmjtHtCumOteyzprQ5AwTWz+1mWowmExVEsNdHD5gXGphX8AfxDhdeManvVeaC+BRQVGUCtTu3I5RpDGzCx1T6g/RdBQEezXPDQiy8=",
-        "drm_scheme": "clearkey",
-        "icono": "https://i.imgur.com/LVoXucd.png",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvK2ncfior/VEky4nphcFOrIRB0IhlBbyAkvfnPycx4GohivQb7KzsaFWjO5eV7XYNeoeo4FGJsw78xiGbaCpiUpAjDYG2I+K6afJhPSIQfwuxL3D3Q2XT9ZSyjnHcBijAA=="
-      },
-      {
-        "name": "GRAN HERMANO CAM 3",
-        "uri": "RXgh8CmjtHtCumOteyzprQ5AwTWz+1mWowmExVEsNdHD5gXGphX8AfxDhdeManvVeaC+BRQVGUCtTu3I5RpDG6OSds1nPcDxgktD86DTjdU=",
-        "drm_scheme": "clearkey",
-        "icono": "https://i.imgur.com/LVoXucd.png",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvFHS2T+9liTCjUh8ET3fZriepusBNFX6KOPULhQTw4ll77eRR1u6b8Xy9+31bUDyOWzmabNGQll5Oj9beAZiqVn51bSJJZ0TAa78MBlOQzTQWKxu5YFGyOf6LQdEhqTv+w=="
-      }
-    ]
-  },
-  {
     "name": "TV NOTICIAS",
     "samples": [
       {
