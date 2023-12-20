@@ -3,6 +3,21 @@
     "name": "PELICULAS RECIEN AGREGADAS ",
     "samples": [
       {
+        "name": "Bob Esponja: Un héroe al rescate 2 (2020)",
+        "uri": "dyJ83gLS7+EjMar0zZ562v20HgoEwa1kZCN7jQ2tKlIrDRGAbUd7CBfDU4L7dG81aeOQC5B3HMPhPFrje2g56Q==",
+        "icono": "https://image.tmdb.org/t/p/original/fi2pg2mtAZwhq3qVuAs6PztjnHT.jpg"
+      },
+      {
+        "name": "Kate (2021)",
+        "uri": "dyJ83gLS7+EjMar0zZ562v20HgoEwa1kZCN7jQ2tKlIY8ET2eWTNY0c3MWAV4el0aeOQC5B3HMPhPFrje2g56Q==",
+        "icono": "https://image.tmdb.org/t/p/original/s3LyA1giMDHNlu0B4GokCsniRlk.jpg"
+      },
+      {
+        "name": "Viuda negra (2021)",
+        "uri": "dyJ83gLS7+EjMar0zZ562v20HgoEwa1kZCN7jQ2tKlJPIFAVwbGcP768F1CqQJDDaeOQC5B3HMPhPFrje2g56Q==",
+        "icono": "https://www.themoviedb.org/t/p/original/iKntUTTLxUgizTe3jFcGLuHc84c.jpg"
+      },
+      {
         "name": "Bad Boys 1 (1995)",
         "uri": "dyJ83gLS7+EjMar0zZ562v20HgoEwa1kZCN7jQ2tKlJgK048b6Ur9s/J4nV/Gm5eaeOQC5B3HMPhPFrje2g56Q==",
         "icono": "https://www.themoviedb.org/t/p/original/e4pvy2sb3YnlfxerU3MJ6ov9tw1.jpg"
