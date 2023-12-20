@@ -3,9 +3,19 @@
     "name": "PELICULAS RECIEN AGREGADAS ",
     "samples": [
       {
-         "name": "Rambo - Primera sangre 1 (1982)",
+        "name": "Rambo - Primera sangre 1 (1982)",
         "uri": "dyJ83gLS7+EjMar0zZ562v20HgoEwa1kZCN7jQ2tKlJrljR/ngJGaHZphiFjX9Y5aeOQC5B3HMPhPFrje2g56Q==",
         "icono": "https://image.tmdb.org/t/p/w440_and_h660_face/5DEsPj68CgFC6Nz41OpNnHFdZ8B.jpg"
+      },
+      {
+         "name": "Rambo - Acorralado 2 (1985)",
+        "uri": "dyJ83gLS7+EjMar0zZ562v20HgoEwa1kZCN7jQ2tKlKKJSoYQhBvyb+bxpRRiimGaeOQC5B3HMPhPFrje2g56Q==",
+        "icono": "https://www.themoviedb.org/t/p/original/pDsrygpyGl5o5hkvpV5JzK85dYE.jpg"
+      },
+      {
+        "name": "Rambo 3 (1988)",
+        "uri": "dyJ83gLS7+EjMar0zZ562v20HgoEwa1kZCN7jQ2tKlKt8sBr+u7QyMPlDON+mB4HaeOQC5B3HMPhPFrje2g56Q==",
+        "icono": "https://image.tmdb.org/t/p/original/a5uUVPmFaph4L73EXZ2qe3ct6IQ.jpg"
       },
       {
         "name": "Anna: el peligro tiene nombre(2019)",
