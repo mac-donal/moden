@@ -3,6 +3,11 @@
     "name": "PELICULAS RECIEN AGREGADAS ",
     "samples": [
       {
+         "name": "Rambo - Primera sangre 1 (1982)",
+        "uri": "dyJ83gLS7+EjMar0zZ562v20HgoEwa1kZCN7jQ2tKlJrljR/ngJGaHZphiFjX9Y5aeOQC5B3HMPhPFrje2g56Q==",
+        "icono": "https://image.tmdb.org/t/p/w440_and_h660_face/5DEsPj68CgFC6Nz41OpNnHFdZ8B.jpg"
+      },
+      {
         "name": "Anna: el peligro tiene nombre(2019)",
         "uri": "pGMHEZgKwMi3YgFB042rBNkt+gWHzR/VDB6kVimNPeXArEk25LXp71vJ6hY/oLB8",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcwo2ED97PY5glkrD23TZpJnM7TPx-3p_Aj4VTuTcsvCOjAoe7"
