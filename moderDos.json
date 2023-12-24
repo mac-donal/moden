@@ -1,7 +1,12 @@
 [
   {
     "name": "PELICULAS RECIEN AGREGADAS ",
-    "samples": [
+    "samples": 
+      {
+        "name": "[El Ingeniero (The Engineer)(2023)",
+        "uri": "dPXPAPXiHjh+Mp7HmZBDZch8ox4NfbcrOFDs7n+ydUKwQh0jdyHOFyqKHXe/Ogpem3t1S0cdTV/kk/qWNKeSLQ==",
+        "icono": "https://m.media-amazon.com/images/M/MV5BMTIzMjMxZTUtM2Q5YS00YTRlLWI4MjUtODU1NDk3MDcxNGQ4XkEyXkFqcGdeQXVyNjE2MzI5ODM@._V1_.jpg"
+      },
       {
         "name": "Contrarreloj SUB (2023)",
         "uri": "dPXPAPXiHjh+Mp7HmZBDZcSMsXdwEnl7KgLtl6tmBJjMjAKjcJG5NZUVxTyzC8boMBmtoOLb26DOUbY6mvB++Q==",
