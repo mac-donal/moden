@@ -1,7 +1,7 @@
 [
   {
     "name": "PELICULAS RECIEN AGREGADAS ",
-    "samples": 
+    "samples": [
       {
         "name": "La sirenita(2023)",
         "uri": "Yfoan2lM+fVwlAAOdO3mABh9MxjtDwGT/rVMOudIOxzYtqJmbBtBEb7YRjqy2sh7FAaoSmHnfsr6OVxh5WD2ZJIhQ/85UsqD23Dx54Fw81CqOIwN1L1MhkmapycogMeN",
@@ -178,7 +178,7 @@
         "icono": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSI8FFOfBFbDKkMPZ_TXknDJXMke5bH8sNSiooIPXsfOlHXyGWL"
       },
       {
-                "name": "M3GAN (2021)",
+        "name": "M3GAN (2021)",
         "uri": "7w23tbAsE65FJGEGSFo90tYJwtrbujvxJIxhIoGXKlfb95hSvcEYWp8MwsPJ2pUbGshlo6CpbYxH+FRnD2UQMG0H+dF/p55BAGz89J1qo7DzqbdWp2O8KhAqJFp6Hn7sg4mYKDw/Sfp2DjBTkimUNNilBER1ZTopRPlrxw1vJ/g=",
         "icono": "https://dx35vtwkllhj9.cloudfront.net/universalstudios/megan/images/regions/pe/onesheet-showtimes.jpg"
       },
@@ -228,7 +228,7 @@
         "icono": "https://image.tmdb.org/t/p/w440_and_h660_face/5DEsPj68CgFC6Nz41OpNnHFdZ8B.jpg"
       },
       {
-         "name": "Rambo - Acorralado 2 (1985)",
+        "name": "Rambo - Acorralado 2 (1985)",
         "uri": "dyJ83gLS7+EjMar0zZ562v20HgoEwa1kZCN7jQ2tKlKKJSoYQhBvyb+bxpRRiimGaeOQC5B3HMPhPFrje2g56Q==",
         "icono": "https://www.themoviedb.org/t/p/original/pDsrygpyGl5o5hkvpV5JzK85dYE.jpg"
       },
