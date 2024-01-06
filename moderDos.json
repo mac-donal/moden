@@ -238,7 +238,6 @@
         "icono": "https://palomaynacho.com/wp-content/uploads/2023/03/hijos-de-perra-poster-pelicula-universal.jpg"
       },
       {
-
         "name": "LA MONJA",
         "uri": "eRgCDdmZzaSr5ntMHOvaBuXrWJ4MCJZ4jOL5Vn6Zcn1DY1TFuHVBct8XfQ2rboCunmmYm/3LGpj0ZobZvLL6FuHznzJOrGhhVp0KMprQd3s0lUpvjv+nlQpO87GbF67fto6kwi7zMZJrH9DGcEglfmIIYiJzMUs1n0eYssNfJFDvs6PEGNU2FTVo5rEk4aUksr5Kjvha3XwNQH3Q8u4OIPcKW74mnG+VfAXRAx30eCK2Q469cCZX2Jm+lRSZaLtV",
         "icono": "https://www.enelradar.com/__export/1661475583313/sites/elimparcial/img/2022/08/25/1_5.jpg_1902800913.jpg"
@@ -818,6 +817,66 @@
         "name": "T1 E4 - Parte 4",
         "uri": "+uxbpBfclyfWWOaC7i4TRNe/C7ZGn/hJn5QXKg6tX3T8srWM0IqnRVN6tW+1yKw4tufQ2L7vNdJMv8avpSIqhaYr+YzwtNtUhT9f4PRqIiZ7oCgG0AEnYBQ2QIYbatIP",
         "icono": "https://images.justwatch.com/poster/176899092/s332/temporada-1"
+      }
+    ]
+  },
+  {
+    "name": "Okupas",
+    "samples": [
+      {
+        "name": "Los cinco mandamientos",
+        "uri": "a+CFgxxgtvVAr5DPMOZgSPt59YdKiSlisiU+W5nW7cPzCHtzN3B7F2VRyrZoIiwA9VYwsfyoKSlNZL72q0y41D0Nny2TNegAy6YGmxRCfiJgohpaKzNfrmR+VKUVegqa7hGF0LZ5iE/55Q8iK+6aKQ==",
+        "icono": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRTFhz4eM0ktfLBGeH8Vta4kOJUQs7VyrMWXBHCNVYi66RwK26Z"
+      },
+      {
+        "name": "Bienvenidos al tren",
+        "uri": "a+CFgxxgtvVAr5DPMOZgSPt59YdKiSlisiU+W5nW7cMSYIe2BFPD6VQA1kETOkiu9VYwsfyoKSlNZL72q0y41Osg+KkstEj3fXeaCrSAJ5wsEyWyxuMN54limR3qW7pl",
+        "icono": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRTFhz4eM0ktfLBGeH8Vta4kOJUQs7VyrMWXBHCNVYi66RwK26Z"
+      },
+      {
+        "name": "El ojo blindado",
+        "uri": "a+CFgxxgtvVAr5DPMOZgSPt59YdKiSlisiU+W5nW7cNnbz2jO1a+W9qOknj0MLz89VYwsfyoKSlNZL72q0y41PDInJcSmwttneAGYwHAKSRkATU4gwU0ajivSr8wlZQX",
+        "icono": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRTFhz4eM0ktfLBGeH8Vta4kOJUQs7VyrMWXBHCNVYi66RwK26Z"
+      },
+      {
+        "name": "El beso de Judas",
+        "uri": "a+CFgxxgtvVAr5DPMOZgSPt59YdKiSlisiU+W5nW7cNQrsfWtfhJz7vGxGrVsC+m9VYwsfyoKSlNZL72q0y41HAtw8zc3yiQ6/JmyU5gNGIyaBlqd3tLlt0JIfJUCQPE",
+        "icono": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRTFhz4eM0ktfLBGeH8Vta4kOJUQs7VyrMWXBHCNVYi66RwK26Z"
+      },
+      {
+        "name": "El mascapito",
+        "uri": "a+CFgxxgtvVAr5DPMOZgSPt59YdKiSlisiU+W5nW7cOOFIgii5vkYUVNx6DW6XrJ9VYwsfyoKSlNZL72q0y41J/K18IXAES9zK0ZnkLB3sDV/1WkmWsGoUI1uY12OuTN",
+        "icono": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRTFhz4eM0ktfLBGeH8Vta4kOJUQs7VyrMWXBHCNVYi66RwK26Z"
+      },
+      {
+        "name": "Los mantenidos",
+        "uri": "a+CFgxxgtvVAr5DPMOZgSPt59YdKiSlisiU+W5nW7cMcQsTZI1ijo81ca36z3RgU9VYwsfyoKSlNZL72q0y41DQ+6ez3Q/lIhCmqzwerHIY7qJjQ1YKuzCqnVVt9w5Cu",
+        "icono": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRTFhz4eM0ktfLBGeH8Vta4kOJUQs7VyrMWXBHCNVYi66RwK26Z"
+      },
+      {
+        "name": "Paranoia",
+        "uri": "a+CFgxxgtvVAr5DPMOZgSPt59YdKiSlisiU+W5nW7cPlmXSPJXVYgHJjAaNia3PT9VYwsfyoKSlNZL72q0y41LX30X7IW9e8+Q3ddQv/bdRp45ALkHccw+E8WuN7aDnp",
+        "icono": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRTFhz4eM0ktfLBGeH8Vta4kOJUQs7VyrMWXBHCNVYi66RwK26Z"
+      },
+      {
+        "name": "El Pollo de Troya",
+        "uri": "a+CFgxxgtvVAr5DPMOZgSPt59YdKiSlisiU+W5nW7cM2W69aL/twDR7pmtVEBsUy9VYwsfyoKSlNZL72q0y41AOYNTyQPz8CaYaonlrrv0VbpPMNKyNP6YUMGdqxVsG3",
+        "icono": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRTFhz4eM0ktfLBGeH8Vta4kOJUQs7VyrMWXBHCNVYi66RwK26Z"
+      },
+      {
+        "name": "El guardián",
+        "uri": "a+CFgxxgtvVAr5DPMOZgSPt59YdKiSlisiU+W5nW7cOzLMzGGqnEXry6iqIJgI/V9VYwsfyoKSlNZL72q0y41C4JwIOdi9GEG5/s4B/KqMEmSPHL8qTnsXNuMuD6YaBZ",
+        "icono": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRTFhz4eM0ktfLBGeH8Vta4kOJUQs7VyrMWXBHCNVYi66RwK26Z"
+      },
+      {
+        "name": "Miguel",
+        "uri": "a+CFgxxgtvVAr5DPMOZgSPt59YdKiSlisiU+W5nW7cPQexKIaDIEBBrLHuG3WuJ49VYwsfyoKSlNZL72q0y41MDpL+ILKf2rgm5aAQYPNRQ=",
+        "icono": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRTFhz4eM0ktfLBGeH8Vta4kOJUQs7VyrMWXBHCNVYi66RwK26Z"
+      },
+      {
+        "name": "Adiós y buena suerte",
+        "uri": "a+CFgxxgtvVAr5DPMOZgSPt59YdKiSlisiU+W5nW7cOTLSKmS65QM7zjbikw7PLq9VYwsfyoKSlNZL72q0y41KN3bmNDQMi1K4ZnEZWIDB1NbG6ETjLlmofSpgq3daBjYpnlFbI9opBYv6Qeqo+Vqw==",
+        "icono": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRTFhz4eM0ktfLBGeH8Vta4kOJUQs7VyrMWXBHCNVYi66RwK26Z"
       }
     ]
   },
