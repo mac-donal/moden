@@ -936,42 +936,87 @@
     ]
   },
   {
-    "name": "El Encargado T2",
+    "name": "El Encargado Tem 1",
     "samples": [
       {
         "name": "EP.1 ",
-        "uri": "+uxbpBfclyfWWOaC7i4TRNe/C7ZGn/hJn5QXKg6tX3T8srWM0IqnRVN6tW+1yKw49fpcT7Ckpd13uhcH/tPDN8N18kDzhAGWv6ub4VhpPVZ2jTNHICeFROamGhPjmcFG",
+        "uri": "a+CFgxxgtvVAr5DPMOZgSP+4AImG85JRXDcSN06b1cS//QMLmwvUrgjVs3j45NNN3KfBxOr8E8OAndFXqwIK6HM3cFNGAXk/tu+0QiJ6Mf5bwJ3q7IbWoX4c/6/YsgZj9DKLKrzk9t6ONZw1YB2XpMI74Svrx4XpsTbtww4S0hXWx69hUUX4LwMpx3X6e16fwp0Z4bz0F/G6R/twdQfmoXG6tcGq3EJa4Ho4RSWZB+E=",
         "icono": "https://images.justwatch.com/poster/301433421/s592/temporada-2"
       },
       {
         "name": "EP.2 ",
-        "uri": "+uxbpBfclyfWWOaC7i4TRNe/C7ZGn/hJn5QXKg6tX3T8srWM0IqnRVN6tW+1yKw4COor14ktBNON4lqYi/icIJt7oiaHFWJCemDJfbpHDdA/jo8Dz33K9tbsTUEWaBdP",
+        "uri": "a+CFgxxgtvVAr5DPMOZgSP+4AImG85JRXDcSN06b1cS//QMLmwvUrgjVs3j45NNN3KfBxOr8E8OAndFXqwIK6HM3cFNGAXk/tu+0QiJ6Mf5bwJ3q7IbWoX4c/6/YsgZjsLhTm3gnvZ9hN9TZW2cypo9xp3lHklbRjCYgitUo+x9JaVo+xYa3Q1+tdcvira1eLcTgkrIPLTSiVaXjwip61cLq86RqZs/WVP2cQ7nlh4I=",
         "icono": "https://images.justwatch.com/poster/301433421/s592/temporada-2"
       },
       {
         "name": "EP.3 ",
-        "uri": "+uxbpBfclyfWWOaC7i4TRNe/C7ZGn/hJn5QXKg6tX3T8srWM0IqnRVN6tW+1yKw4brHIYCBKCMIhfP0Rn3WjDPiMUvPmfiWdfWozyAD6xm135m0xijcfWrBf+K90l7oi",
+        "uri": "a+CFgxxgtvVAr5DPMOZgSP+4AImG85JRXDcSN06b1cS//QMLmwvUrgjVs3j45NNN3KfBxOr8E8OAndFXqwIK6HM3cFNGAXk/tu+0QiJ6Mf5bwJ3q7IbWoX4c/6/YsgZjonMqrHhT8nvrvRcTbPsm6lyFgoeRXWgrnBOHEkDsSgtGdnOcxvgbfK7RCN0oUUyZ/whqwr5KP3O3N2Pw7AoHOdxn+Id2Uv0iTbiJbjLf0KE=",
         "icono": "https://images.justwatch.com/poster/301433421/s592/temporada-2"
       },
       {
         "name": "EP.4",
-        "uri": "+uxbpBfclyfWWOaC7i4TRNe/C7ZGn/hJn5QXKg6tX3T8srWM0IqnRVN6tW+1yKw450ZGpbBQBS8bhEXP1xb7XUlL0y9qjQsmEqP07FBcgsUqgFpj90AcaGDKdZ2YDuol",
+        "uri": "a+CFgxxgtvVAr5DPMOZgSP+4AImG85JRXDcSN06b1cS//QMLmwvUrgjVs3j45NNN3KfBxOr8E8OAndFXqwIK6HM3cFNGAXk/tu+0QiJ6Mf5bwJ3q7IbWoX4c/6/YsgZjOcezW9EDSHZbBb6a2jJC/mdkbu0kuzaUxYTGd4PYqRnt11qUrdksOteZsgucOUHUmPZ2hPl1EzFiloJsPF2Hawy1dtKXWEI8edF+PzleFEM=",
         "icono": "https://images.justwatch.com/poster/301433421/s592/temporada-2"
       },
       {
         "name": "EP.5",
-        "uri": "+uxbpBfclyfWWOaC7i4TRNe/C7ZGn/hJn5QXKg6tX3T8srWM0IqnRVN6tW+1yKw4gb7GHyZfO7Cy+N6Mlp5qWx2gA/XGOiKs82dL1TJj1fR2SfYGF67EIWXsPjceWokR",
+        "uri": "a+CFgxxgtvVAr5DPMOZgSP+4AImG85JRXDcSN06b1cS//QMLmwvUrgjVs3j45NNN3KfBxOr8E8OAndFXqwIK6HM3cFNGAXk/tu+0QiJ6Mf5bwJ3q7IbWoX4c/6/YsgZjWcLqFuY1d5/CMDe6F/WgJmBE/bzW/fHCOkKOhUq27VzBDjRuiLsN0MkwelLRbpvlHWWu+rmz+gmaezWzQvLI1mnjkAuQdxzD4Txa43toOek=",
         "icono": "https://images.justwatch.com/poster/301433421/s592/temporada-2"
       },
       {
         "name": "EP.6",
-        "uri": "+uxbpBfclyfWWOaC7i4TRNe/C7ZGn/hJn5QXKg6tX3T8srWM0IqnRVN6tW+1yKw4YffutVNrJvb8AwuNRia7ha+YI6T8qso/zg0gI+RPvP6CvfU7hmQy4TWUuin7bbCX",
+        "uri": "a+CFgxxgtvVAr5DPMOZgSP+4AImG85JRXDcSN06b1cS//QMLmwvUrgjVs3j45NNN3KfBxOr8E8OAndFXqwIK6HM3cFNGAXk/tu+0QiJ6Mf5bwJ3q7IbWoX4c/6/YsgZjvAjZ52nc+BRA4Q5SYQDPa0Vu8KbRaOq3o0A/zoj13wqQMnqg+uMe3I42hm9bIzKmhKZ8z/wAhrsZ5ySxcI3RZw==",
         "icono": "https://images.justwatch.com/poster/301433421/s592/temporada-2"
       },
       {
         "name": "EP.7",
-        "uri": "++uxbpBfclyfWWOaC7i4TRNe/C7ZGn/hJn5QXKg6tX3T8srWM0IqnRVN6tW+1yKw4EkFIqqcxQol92QyVU7JW63zaULGFG0ifUmaSTOIZVJFzYnDThthjDLMWqDkMubyt",
+        "uri": "a+CFgxxgtvVAr5DPMOZgSP+4AImG85JRXDcSN06b1cS//QMLmwvUrgjVs3j45NNN3KfBxOr8E8OAndFXqwIK6HM3cFNGAXk/tu+0QiJ6Mf5bwJ3q7IbWoX4c/6/YsgZj2y1BzsHQbia1y/U9aOvWFaow9c6Sbl6okLvEdO3Lbmjcp8HE6vwTw4Cd0VerAgroczdwU0YBeT+277RCInox/ipdcPjcyt4xfRuxy8mWEe8=",
         "icono": "https://images.justwatch.com/poster/301433421/s592/temporada-2"
+      },
+      {
+        "name": "EP.8",
+        "uri": "a+CFgxxgtvVAr5DPMOZgSP+4AImG85JRXDcSN06b1cS//QMLmwvUrgjVs3j45NNN3KfBxOr8E8OAndFXqwIK6HM3cFNGAXk/tu+0QiJ6Mf5bwJ3q7IbWoX4c/6/YsgZj8qdQHdJ52TOVgfia3UX/HncHMjzfS0zlaYI20h+5KjMUwM+D1pnzFKzphHj2sqgJ/CYFb9F7XUI+a6p2ThDX+qHELIPQD44tEScb8uBhapY=",
+        "icono": "https://images.justwatch.com/poster/301433421/s592/temporada-2"
+      },
+      {
+        "name": "EP.9",
+        "uri": "a+CFgxxgtvVAr5DPMOZgSP+4AImG85JRXDcSN06b1cS//QMLmwvUrgjVs3j45NNN3KfBxOr8E8OAndFXqwIK6HM3cFNGAXk/tu+0QiJ6Mf5bwJ3q7IbWoX4c/6/YsgZjnzxRT91RP0AHl3/Mjbuj2J65+SFEOMOxym6OmJgKACxJaVo+xYa3Q1+tdcvira1eLcTgkrIPLTSiVaXjwip61cLq86RqZs/WVP2cQ7nlh4I=",
+        "icono": "https://images.justwatch.com/poster/301433421/s592/temporada-2"
+      },
+      {
+        "name": "EP.10",
+        "uri": "a+CFgxxgtvVAr5DPMOZgSP+4AImG85JRXDcSN06b1cS//QMLmwvUrgjVs3j45NNN3KfBxOr8E8OAndFXqwIK6HM3cFNGAXk/tu+0QiJ6Mf5bwJ3q7IbWoX4c/6/YsgZjZb/5t684oG9Q8IY+RhaGHW3GcIquRqhEmFpDq2F+ApTWx69hUUX4LwMpx3X6e16fwp0Z4bz0F/G6R/twdQfmoXG6tcGq3EJa4Ho4RSWZB+E=",
+        "icono": "https://images.justwatch.com/poster/301433421/s592/temporada-2"
+      },
+      {
+        "name": "EP.11",
+        "uri": "a+CFgxxgtvVAr5DPMOZgSP+4AImG85JRXDcSN06b1cS//QMLmwvUrgjVs3j45NNN3KfBxOr8E8OAndFXqwIK6HM3cFNGAXk/tu+0QiJ6Mf5bwJ3q7IbWoX4c/6/YsgZj6rdvo5q1vANWToGRdE6zWisBClW8rjT6Rko71Dmlchv8JgVv0XtdQj5rqnZOENf6ocQsg9APji0RJxvy4GFqlg==",
+        "icono": "https://images.justwatch.com/poster/301433421/s592/temporada-2"
+      }
+    ]
+  },
+  {
+    "name": "Entre hombres (Miniserie de TV)",
+    "samples": [
+      {
+        "name": "T1 E1 - Parte 1",
+        "uri": "6mGshunOsomKreILlikTyPiUN5Jvjz410PcHptIyLSRQHsE9aQlAVdmgTbK2g6FrgBzkQwpvT0uyLTObMrltM/7VO2UFQQ6l5ELF7HRa6mc=",
+        "icono": "https://images.justwatch.com/poster/176899092/s332/temporada-1"
+      },
+      {
+        "name": "T1 E2 - Parte 2",
+        "uri": "6mGshunOsomKreILlikTyPiUN5Jvjz410PcHptIyLSRQHsE9aQlAVdmgTbK2g6FrgBzkQwpvT0uyLTObMrltM5HSqBTAEl1BYMI5VN8jPcY=",
+        "icono": "https://images.justwatch.com/poster/176899092/s332/temporada-1"
+      },
+      {
+        "name": "T1 E3 - Parte 3",
+        "uri": "+uxbpBfclyfWWOaC7i4TRNe/C7ZGn/hJn5QXKg6tX3T8srWM0IqnRVN6tW+1yKw4GauBYhT1T3wQ49ehPOFhS0bPKTDyP42w9T7R9f1P7+7Pje/xbxw9NL8+C1VZLvbl",
+        "icono": "https://images.justwatch.com/poster/176899092/s332/temporada-1"
+      },
+      {
+        "name": "T1 E4 - Parte 4",
+        "uri": "+uxbpBfclyfWWOaC7i4TRNe/C7ZGn/hJn5QXKg6tX3T8srWM0IqnRVN6tW+1yKw4tufQ2L7vNdJMv8avpSIqhaYr+YzwtNtUhT9f4PRqIiZ7oCgG0AEnYBQ2QIYbatIP",
+        "icono": "https://images.justwatch.com/poster/176899092/s332/temporada-1"
       }
     ]
   },
