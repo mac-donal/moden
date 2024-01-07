@@ -1996,11 +1996,6 @@
     "name": "CANALES INFANTILES",
     "samples": [
       {
-        "name": "Peppa Pig",
-        "uri": "X+rcWM5tgvd1BdPIyq+ROHLTPIqnTlkahpi4cTLJhjTSr+fm1TWJ0fIAiAoAT0LtnoNGKlYmm5BJNCPKGldjcA==",
-        "icono": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTi4jdFHzj81T7ffvb7MWVJA8w-cCvgfCmvewxwviziQsUNmkEI"
-      },
-      {
         "name": "PAKA PAKA",
         "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmJW0zotH4Ms5WvI+4ZUx2NHW6W4zFZ1EMH0vORNzIXx6F8JipqcPaQtwL+6rWuR1GQPLLtqm28wIjDV9yuadvi0",
         "drm_scheme": "clearkey",
