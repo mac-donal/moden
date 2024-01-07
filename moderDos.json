@@ -756,6 +756,51 @@
     ]
   },
   {
+    "name": "Búnker|Serie",
+    "samples": [
+      {
+        "name": "parte 1 ",
+        "uri": "6mGshunOsomKreILlikTyFsUj3BokCH98eDO89IOM5BDmoV4nJBnn/pKe1ciclMS2gqausGTMyOt9b3prn3RS9iyWf5RGwZeu4hXYcBV55I=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BMTVmYzk2NmItOGUxYy00ZTZiLWI1ZjYtYjBlMGE4YzhjM2NjXkEyXkFqcGdeQXVyMTI0Njg5Mjk5._V1_FMjpg_UX960_.jpg"
+      },
+      {
+        "name": "parte 2",
+        "uri": "6mGshunOsomKreILlikTyFsUj3BokCH98eDO89IOM5BDmoV4nJBnn/pKe1ciclMS2gqausGTMyOt9b3prn3RS4YlxytDxTD6Er/yfG7DmFI=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BMTVmYzk2NmItOGUxYy00ZTZiLWI1ZjYtYjBlMGE4YzhjM2NjXkEyXkFqcGdeQXVyMTI0Njg5Mjk5._V1_FMjpg_UX960_.jpg"
+      },
+      {
+        "name": "parte 3",
+        "uri": "6mGshunOsomKreILlikTyFsUj3BokCH98eDO89IOM5BDmoV4nJBnn/pKe1ciclMS2gqausGTMyOt9b3prn3RS/WfmEP7n683H0RoVU73LKo=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BMTVmYzk2NmItOGUxYy00ZTZiLWI1ZjYtYjBlMGE4YzhjM2NjXkEyXkFqcGdeQXVyMTI0Njg5Mjk5._V1_FMjpg_UX960_.jpg"
+      },
+      {
+        "name": "parte 4",
+        "uri": "6mGshunOsomKreILlikTyFsUj3BokCH98eDO89IOM5BDmoV4nJBnn/pKe1ciclMS2gqausGTMyOt9b3prn3RS+HA23E9WSrYk6xYzoPCwL8=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BMTVmYzk2NmItOGUxYy00ZTZiLWI1ZjYtYjBlMGE4YzhjM2NjXkEyXkFqcGdeQXVyMTI0Njg5Mjk5._V1_FMjpg_UX960_.jpg"
+      },
+      {
+        "name": "parte 5",
+        "uri": "6mGshunOsomKreILlikTyFsUj3BokCH98eDO89IOM5BDmoV4nJBnn/pKe1ciclMS2gqausGTMyOt9b3prn3RS5M6TaiJyxV+nzbdKxcep5M=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BMTVmYzk2NmItOGUxYy00ZTZiLWI1ZjYtYjBlMGE4YzhjM2NjXkEyXkFqcGdeQXVyMTI0Njg5Mjk5._V1_FMjpg_UX960_.jpg"
+      },
+      {
+        "name": "parte 6",
+        "uri": "6mGshunOsomKreILlikTyFsUj3BokCH98eDO89IOM5BDmoV4nJBnn/pKe1ciclMS2gqausGTMyOt9b3prn3RSzloQJxCJclRbJHsaOTx3iM=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BMTVmYzk2NmItOGUxYy00ZTZiLWI1ZjYtYjBlMGE4YzhjM2NjXkEyXkFqcGdeQXVyMTI0Njg5Mjk5._V1_FMjpg_UX960_.jpg"
+      },
+      {
+        "name": "parte 7",
+        "uri": "6mGshunOsomKreILlikTyFsUj3BokCH98eDO89IOM5BDmoV4nJBnn/pKe1ciclMS2gqausGTMyOt9b3prn3RS/wHdZUwDhnYjYYeuG8zpLE=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BMTVmYzk2NmItOGUxYy00ZTZiLWI1ZjYtYjBlMGE4YzhjM2NjXkEyXkFqcGdeQXVyMTI0Njg5Mjk5._V1_FMjpg_UX960_.jpg"
+      },
+      {
+        "name": "parte 8",
+        "uri": "6mGshunOsomKreILlikTyFsUj3BokCH98eDO89IOM5BDmoV4nJBnn/pKe1ciclMS2gqausGTMyOt9b3prn3RS78mmDhVSb0S6QhBPMr+pek=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BMTVmYzk2NmItOGUxYy00ZTZiLWI1ZjYtYjBlMGE4YzhjM2NjXkEyXkFqcGdeQXVyMTI0Njg5Mjk5._V1_FMjpg_UX960_.jpg"
+      }
+    ]
+  },
+  {
     "name": "The Last of Us|Serie",
     "samples": [
       {
