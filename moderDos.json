@@ -3,12 +3,32 @@
     "name": "PELICULAS RECIEN AGREGADAS ",
     "samples": [
       {
+        "name": "R.A.D.A.R. (2023) cobia",
+        "uri": "bvQLI3bwu33MwzVIW0iKPF6ro2PBwGmAKg1QDStMiFfKKL4Uj0FiXGz/+HoOolLMeys48DcrrDfwsf+fnJZ7DMNtcXx4/4F9Tz8KIReYUhaarKTFWnmDRn6v/GGn0vbf",
+        "icono": "https://c8.alamy.com/compes/2ragc7a/r-a-d-a-r-las-aventuras-del-perro-bionico-tambien-conocido-como-radar-las-aventuras-del-perro-bionico-cartel-desde-la-izquierda-dean-cain-beck-el-perro-caroline-elle-abrams-ezra-james-lerario-2023-lionsgate-home-entertainment-cortesia-de-everett-collection-2ragc7a.jpg"
+      },
+      {
+        "name": "Leo (2023) cobia",
+        "uri": "bvQLI3bwu33MwzVIW0iKPDvxd/10Yb36F0l9Nh8XrEHTeYtNEP9+PcYve7lcCevvrduZh9Y/SaU5MInx7FYpJQ==",
+        "icono": "https://m.media-amazon.com/images/M/MV5BM2IyMDc1YmUtZmU0MC00MjI5LWEzN2UtOWFmZDAzZTNmOWY3XkEyXkFqcGdeQXVyMTI2MzY1MjM1._V1_FMjpg_UX510_.jpg"
+      },
+      {
+        "name": "South Park: Uniéndose al Pandaverso (2023) cobia",
+        "uri": "bvQLI3bwu33MwzVIW0iKPAN+2CFE1cfsgTycZiaJGGWJJH6oWauHZsZUiXMGf0R44rp5gfqkH1AP3oHp32xFnbU9uYEHMCsq3/GWHwMXuvm1lu+y0NTzObgHFnSn8zbZ",
+        "icono": "https://static.wikia.nocookie.net/doblaje/images/1/1c/1697078017894.png/revision/latest/scale-to-width-down/337?cb=20231019223206&path-prefix=es"
+      },
+      {
+        "name": "Pijamada de locos (2023) cobia",
+        "uri": "bvQLI3bwu33MwzVIW0iKPIWvslO0ePvZNjhnVCNgIVyvr7YhBONXt2yvU0Kwid7rzH/fTQZznWk7uNtTZ4anxrWW77LQ1PM5uAcWdKfzNtk=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BMjM2YTYzNDQtMjExMS00MzU1LWIzNTYtZDgzNzYxMDg2ODRhXkEyXkFqcGdeQXVyMTM1MzEyMjY0._V1_FMjpg_UY2048_.jpg"
+      },
+      {
         "name": "Nowhere (2023) cobia",
         "uri": "bvQLI3bwu33MwzVIW0iKPGUz6X8cAhDI2+EFAPb2hMHFjADyV/VEmHAxaG1ytT+QQW1VrpyvB4Aqq+6gxPFqfw==",
         "icono": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSvCvNl1pWLKaETGdp-keqPmmD_U2uZVYFpJzYsg2UWWKi5rgSo"
       },
       {
-        "name": "Nowhereopc 2",
+        "name": "Nowhere opc 2",
         "uri": "eRgCDdmZzaSr5ntMHOvaBuXrWJ4MCJZ4jOL5Vn6Zcn1DY1TFuHVBct8XfQ2rboCunmmYm/3LGpj0ZobZvLL6FuHznzJOrGhhVp0KMprQd3s0lUpvjv+nlQpO87GbF67fto6kwi7zMZJrH9DGcEglfmIIYiJzMUs1n0eYssNfJFBNPJ6JQzydKfFUztiTcs4f+XR2itXIJ/190MH0FXNB9vzogXJQc1uToPuiatiWz8i8ncM0HjoUlZ4e391Qkkni",
         "icono": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSvCvNl1pWLKaETGdp-keqPmmD_U2uZVYFpJzYsg2UWWKi5rgSo"
       },
