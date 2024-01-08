@@ -3,6 +3,46 @@
     "name": "PELICULAS RECIEN AGREGADAS ",
     "samples": [
       {
+        "name": "Nowhere (2023) cobia",
+        "uri": "bvQLI3bwu33MwzVIW0iKPGUz6X8cAhDI2+EFAPb2hMHFjADyV/VEmHAxaG1ytT+QQW1VrpyvB4Aqq+6gxPFqfw==",
+        "icono": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSvCvNl1pWLKaETGdp-keqPmmD_U2uZVYFpJzYsg2UWWKi5rgSo"
+      },
+      {
+        "name": "Nowhereopc 2",
+        "uri": "eRgCDdmZzaSr5ntMHOvaBuXrWJ4MCJZ4jOL5Vn6Zcn1DY1TFuHVBct8XfQ2rboCunmmYm/3LGpj0ZobZvLL6FuHznzJOrGhhVp0KMprQd3s0lUpvjv+nlQpO87GbF67fto6kwi7zMZJrH9DGcEglfmIIYiJzMUs1n0eYssNfJFBNPJ6JQzydKfFUztiTcs4f+XR2itXIJ/190MH0FXNB9vzogXJQc1uToPuiatiWz8i8ncM0HjoUlZ4e391Qkkni",
+        "icono": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSvCvNl1pWLKaETGdp-keqPmmD_U2uZVYFpJzYsg2UWWKi5rgSo"
+      },
+      {
+        "name": "Las momias y el anillo perdido (2023) cobia",
+        "uri": "bvQLI3bwu33MwzVIW0iKPDvxd/10Yb36F0l9Nh8XrEH5y5A/mtvYFNRoEtt9WPWc/LxJ6IJN86xkOqpOTO3LDeOUUo43WUzWoGeqffSQb8WAM2F1DjQPMVn56n3slNS1",
+        "icono": "https://cloudfront-us-east-1.images.arcpublishing.com/abccolor/O7Q47SJE5VHRPMDYF4IOLHDDFM.jpg"
+      },
+      {
+        "name": "El portero (2023) cobia",
+        "uri": "bvQLI3bwu33MwzVIW0iKPBOM0M0RpxpeDRWZHqoQgi031c6B6rQ0XOTEwjJWq29JCda0nnM8dkDWBCu+ArsZLmELEyaZiPGsBk+yV1hwCSc=",
+        "icono": "http://teatrodasartessp.com.br/wp-content/uploads/2023/07/Arte-Site-Teatro-428x641px.png"
+      },
+      {
+        "name": "Perder es ganar un poco (2023) cobia",
+        "uri": "bvQLI3bwu33MwzVIW0iKPIWvslO0ePvZNjhnVCNgIVxDJk42RNa+gCz5iBb0g4aG0xynuKR4BGP04v6cisgqQA5tvyT0LHsOBUdO/F71tElhCxMmmYjxrAZPsldYcAkn",
+        "icono": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/a37196b4d4c40774b25b287d99c8f0c7dd91b33696418684657404020c8e3339._RI_TTW_.png"
+      },
+      {
+        "name": "Saltburn (2023) cobia",
+        "uri": "bvQLI3bwu33MwzVIW0iKPAN+2CFE1cfsgTycZiaJGGUjQHN2lpV1DDiDCKiMzu0PXYqX+Yj9AnChQYzbRf+9fQ==",
+        "icono": "https://m.media-amazon.com/images/M/MV5BM2NmMDQ1ZWEtNDU4OS00MGIxLWEyMGMtMTM2YmFkYzNhYmMxXkEyXkFqcGdeQXVyMTM1NjM2ODg1._V1_FMjpg_UY2880_.jpg"
+      },
+      {
+        "name": "Su único hijo (2023) cobia",
+        "uri": "bvQLI3bwu33MwzVIW0iKPAN+2CFE1cfsgTycZiaJGGWLQL1qmn69DAeLWfhcZxaHtT25gQcwKyrf8ZYfAxe6+bWW77LQ1PM5uAcWdKfzNtk=",
+        "icono": "https://es.web.img3.acsta.net/pictures/23/06/12/11/57/1063615.jpg"
+      },
+      {
+        "name": "La fierecilla indomable 2 (2023) cobia",
+        "uri": "bvQLI3bwu33MwzVIW0iKPDvxd/10Yb36F0l9Nh8XrEG6cbi22hWeMLMHbL+dMQyxiaCMc1LRJRbOqg2WOUxL9Rl5b5/6oTZj4m/WKXXJ+Bpp45ALkHccw+E8WuN7aDnp",
+        "icono": "https://images.justwatch.com/poster/310192804/s592/la-fierecilla-indomable-2"
+      },
+      {
         "name": "Tormenta De Meteoritos (2010) tvinno",
         "uri": "7w23tbAsE65FJGEGSFo90tYJwtrbujvxJIxhIoGXKlfb95hSvcEYWp8MwsPJ2pUb50YmVoHBOZ+RE5znvaeYzy+TgzKNW1+62U7CrQEQFb0=",
         "icono": "https://m.media-amazon.com/images/M/MV5BOWQ2MDU0ZWItNjgzMi00MDkxLThkZWEtNDM2ODhjMmVhZmM3XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_FMjpg_UX943_.jpg"
@@ -156,11 +196,6 @@
         "name": "COBWEB (2023)",
         "uri": "4aoiRgzIzAQPTprC7gi17um3L7khrvJFsciK7Dbf5geMfShU00eeX0onMsk/grXdwurzpGpmz9ZU/ZxDueWHgg==",
         "icono": "https://assets.voxcinemas.com/posters/P_HO00010370.jpg"
-      },
-      {
-        "name": "Nowhere",
-        "uri": "eRgCDdmZzaSr5ntMHOvaBuXrWJ4MCJZ4jOL5Vn6Zcn1DY1TFuHVBct8XfQ2rboCunmmYm/3LGpj0ZobZvLL6FuHznzJOrGhhVp0KMprQd3s0lUpvjv+nlQpO87GbF67fto6kwi7zMZJrH9DGcEglfmIIYiJzMUs1n0eYssNfJFBNPJ6JQzydKfFUztiTcs4f+XR2itXIJ/190MH0FXNB9vzogXJQc1uToPuiatiWz8i8ncM0HjoUlZ4e391Qkkni",
-        "icono": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSvCvNl1pWLKaETGdp-keqPmmD_U2uZVYFpJzYsg2UWWKi5rgSo"
       },
       {
         "name": "Joy.Ride.2023",
