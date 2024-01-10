@@ -1,11 +1,11 @@
 [
   {
-    "name": "MLS SOLO EVENTOSS",
+    "name": "SOLO EVENTOSS",
     "samples": [
       {
-        "name": "EVENTO1",
-        "uri": "/t9bPvaOGS7U00eyRzm4lCC3LPNGqr3KnM6jHAbXgQexmcn7lMHcKimr7qv/Jj2UqLEFdKeY1Fa467Ru3YmRmlq3SbwBYHsIJF7gO2TRyI4L5mFEq0k4J4mPuUHpn4f2+D6wSApsJGdgJifN8SdFdhjs9zS2RPhMJ1viL+kVI2E=",
-        "icono": "https://www.prensa-latina.cu/wp-content/uploads/2023/07/messi-inter-miami.jpg"
+        "name": "Real Madrid vs. Atlético de Madrid",
+        "uri": "F3JUJfZ/FwBCK3tW6+FDPuZIXT8FT3q22MUuVShntTonXC4QR1CWiyXFlDFRLeUJm4P6fkG/vzI+8VIDLQE+FQ==",
+        "icono": "https://elcomercio.pe/resizer/8gSabbLeHXY6spPB_QNKihhVkHg=/787x442/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/YWVLYLBSQJCS7CUOYCKU6MEL6M.jpg"
       },
       {
         "name": "EVENTO2",
@@ -90,6 +90,11 @@
   {
     "name": "PACK FUTBOL ARGENTINO",
     "samples": [
+      {
+        "name": "Real Madrid vs. Atlético de Madrid",
+        "uri": "F3JUJfZ/FwBCK3tW6+FDPuZIXT8FT3q22MUuVShntTonXC4QR1CWiyXFlDFRLeUJm4P6fkG/vzI+8VIDLQE+FQ==",
+        "icono": "https://elcomercio.pe/resizer/8gSabbLeHXY6spPB_QNKihhVkHg=/787x442/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/YWVLYLBSQJCS7CUOYCKU6MEL6M.jpg"
+      },
       {
         "name": "TNT SPORT ARGENTINA HD",
         "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmIW7c8B26HWtij6f1QtNAQwx2Z3Q5zoy6wLRE4bfFkEwc+BWJwadd12eITdRn3e1z4qCbexk8uxiMbYWn28FniL",
