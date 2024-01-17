@@ -3,6 +3,11 @@
     "name": "PELICULAS RECIEN AGREGADAS ",
     "samples": [
       {
+        "name": "Lift: un robo de primera clase (2024) ",
+        "uri": "bvQLI3bwu33MwzVIW0iKPDvxd/10Yb36F0l9Nh8XrEFoL6zqHLKUJIw7t8GvnArAEi/DPX0pwPWAnWv6KL60Dr16s9wcP5r80QmZgUtnxFuAM2F1DjQPMVn56n3slNS1",
+        "icono": "https://m.media-amazon.com/images/M/MV5BYjk2NzY0NjktNDU3Ny00ZTgyLWExYjYtZDFlMzZlZDEzZDBlXkEyXkFqcGdeQXVyMTE5MTg5NDIw._V1_.jpg"
+      },
+      {
         "name": "Otro día para morir(2002)",
         "uri": "6mGshunOsomKreILlikTyGrh1aQKThH1SURJTZfOolazG2aXbifohGw3XIBRLD0bz1Ogf0jmhY7if8pccaU5fQ==",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8YulNKGmcc9wn2fKK_L15VpmDQZkC_YLb-dPIVbpnOdynWQIv"
@@ -203,9 +208,9 @@
         "icono": "https://m.media-amazon.com/images/M/MV5BYzYwNjU2ZmMtZjI0Yy00OGMwLWE2MjYtZjNiN2UyOGI3ODEwXkEyXkFqcGdeQXVyMTE0NTY4NjA1._V1_FMjpg_UX868_.jpg"
       },
       {
-        "name": "AKA (2023) cambiar idioma  ",
-        "uri": "7w23tbAsE65FJGEGSFo90tYJwtrbujvxJIxhIoGXKlfb95hSvcEYWp8MwsPJ2pUbu/10FQ64WfMELeD/EYs0o6o4jA3UvUyGSZqnJyiAx40=",
-        "icono": "https://es.web.img3.acsta.net/pictures/23/04/13/16/15/4534638.jpg"
+        "name": "Adicción perfecta (2023)",
+        "uri": "7w23tbAsE65FJGEGSFo90tYJwtrbujvxJIxhIoGXKlfb95hSvcEYWp8MwsPJ2pUbntpdatZDGfhMNB/kVcBZP+Q6N3JK2DkYzuXoPlFqTAyA3FIruhjdZ4j5DSTHMQs7",
+        "icono": "https://es.web.img3.acsta.net/pictures/23/01/10/08/15/4673892.jpg"
       },
       {
         "name": "All In Eventos (2023) super luchas ",
@@ -213,9 +218,9 @@
         "icono": "https://s3.superluchas.com/2023/08/xIh3U8RC-Cobertura-AEW-All-In-2023.jpg"
       },
       {
-        "name": "Guía de viaje hacia el amor (2023) cambiar idioma ",
-        "uri": "7w23tbAsE65FJGEGSFo90tYJwtrbujvxJIxhIoGXKlfb95hSvcEYWp8MwsPJ2pUb4CEY44QNR4AFnXVTq5AqHOxTxmIRQeO7sud53IbIPjJYSxJrLvw/Ld9A7N1KL/9W",
-        "icono": "https://m.media-amazon.com/images/M/MV5BYTU5ZmUwYzEtMTUwMi00ZDg5LWE5ODktMDIyNDYxYzQ5ODQ2XkEyXkFqcGdeQXVyNjEwMDM4NTQ@._V1_.jpg"
+        "name": "108 costuras (2018)",
+        "uri": "6mGshunOsomKreILlikTyNHcVD0ppZt595SyB9lK3gXZwkI75yrNwHh9tEib4it79b55y9PONa6c40r4NTcOlg==",
+        "icono": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRY0QDvC171vmfmZRygQUYgsvHVGJ3qKNXoJDqJJHJtCW3GTb8m"
       },
       {
         "name": "Nueva York sin salida (2019)",
@@ -436,17 +441,12 @@
       },
       {
         "name": "Guardianes De La Galaxia Vol.3 (2023)",
-        "uri": "fSk20Bp3k6hkO5iPbb+AMxZ1E1ERdlh+Cfpu/Wr524DHM6vElSkMpw/G8gdPcYhkGFy5tfAPefNjYfZ8WWvbJSgTYF6N/tj4jxHEFiblhTFq7R7J5jVG603Rze2vJiBe5IEl1jKm4FKVtPpBAr6CuQ==",
+        "uri": "7w23tbAsE65FJGEGSFo90tYJwtrbujvxJIxhIoGXKlfb95hSvcEYWp8MwsPJ2pUbdWY+arONp5uwOJTfXCiOSRh20lscXu2i09BriSPLdo0SoYz+yw/J0nwjUd8a2n5d",
         "icono": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpXFwQfZYleMjfgtgRKvsT0MrV7ObnxQgV1FpPbt91Gbe-0EYQBbA0BEbbbJH6Er_l6l3pan2JfvuqbUfCWMCVG4dV24FT_zikBXghGaM0QKTNMO7quwCf2cSLww88t54RftOYvFj2pMUGi7afj-IfdagmRU56PnX3V6TvTkiHXPbsBbMVrUnl4jWrnQ/s1600/41817-671406-20230503114933.jpg"
       },
       {
         "name": "BARBIE LA PELICULA 2023",
         "uri": "+uxbpBfclyfWWOaC7i4TRNe/C7ZGn/hJn5QXKg6tX3SRxG8Hf5FPEZclUlNHySyt/NOZnoAkRclm5ElZOVphaiB8eE8QJA6k9NYSXhdYRj31+yKFhSu2gBL9p2K3xjPh",
-        "icono": "https://image.tmdb.org/t/p/original/ctMserH8g2SeOAnCw5gFjdQF8mo.jpg"
-      },
-      {
-        "name": "BARBIE LA PELICULA 2023 OPC 2",
-        "uri": "Bxiz1sRKa8YTnDJ4REA2XKvaZrbSuxMiH9reOwhJtgTOBoqrPtvi73a3Fm0Iy36wgcYuY/h/tN2G9sH4DWkUMA==",
         "icono": "https://image.tmdb.org/t/p/original/ctMserH8g2SeOAnCw5gFjdQF8mo.jpg"
       },
       {
@@ -476,13 +476,8 @@
       },
       {
         "name": "Los caballeros del zodiaco",
-        "uri": "cVI+FPBxX2ASracUSyM4wxo9acx99PzFpCuPO0JF5VrH+IQm3/7ySAveme5TCMS4ccwP5YgOGfcM+PdV+hSku84xirrtUiPnqYF1CaOyqWfQkJPkH4FCuZ21SGOnpKgspnXshCbaeDELdPG1KVq5Mw==",
+        "uri": "7w23tbAsE65FJGEGSFo90tYJwtrbujvxJIxhIoGXKlfb95hSvcEYWp8MwsPJ2pUbhMBq2FQMC8zW9vs/djuXKROQ/1PCAX1A4Il5EUnmX3jweUf+ipsL7baV1vaOd+qZ",
         "icono": "https://i.ibb.co/VNfjjCX/Los-caballeros-del-zodiaco-595528913-large.jpg"
-      },
-      {
-        "name": "LA GUERRA DE LOS MUNDO EL TANQUE",
-        "uri": "cVI+FPBxX2ASracUSyM4w0hXua6/k5+s/ah+BaqWdVGWrzd/PvLIqi059appLpzEMAF6e07eKyx81gBeURX7OB+ZmXVHD6VdLvebJj4vXyw=",
-        "icono": "https://www.youplanetpictures.com/wp-content/uploads/2023/06/AMAZON-1200x1600-3.jpg"
       },
       {
         "name": "Project X-Traction (2023) Proyecto Extra",
