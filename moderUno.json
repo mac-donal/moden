@@ -2165,38 +2165,124 @@
     "name": "BRASIL",
     "samples": [
       {
-        "name": "GLOBO TV ",
+        "name": "TVAFOLHA",
+        "uri": "8HwM7rFmOGYRCeoti+mTHDx1SuyOh0ReNUlKhWlWG81bfDMCwyq3YjMCt5ARbTwPZ4C6gXn1g/HM2hcMt+U89INARVoQWmbbLUeFMmgHLa8=",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt3vs3hbkfEi-qk051RUYLlRcvSexkJ9XyK-zvM62NFOANWt2gNhk1Ip2Q9BkhHWbXyL0&usqp=CAU"
+      },
+      {
+        "name": "GLOBO TV",
         "uri": "01v21hCykzMvxqTXwWvsy2QsNlR4bTuLTlmv7Qd0Dr4KuEpR5rWDYNGFSbGk3m7CIhPfKF2XYnN+Uq1rgzaEFw==",
         "icono": "https://i.ibb.co/CVr3QGv/fe7f8998db53725ac48f0deedc773692-anniversary-logo-visual-identity.jpg"
       },
       {
-        "name": "GLOBO TV OPC 2",
-        "uri": "Riv7u0opSQq4BSIFEeSVymSU7NYpethjtBKsmWkyZQPnrozmBl7q6iYYgCW2KwMslGAZIFHr7s0sPW7rsNoYIw==",
-        "icono": "https://i.ibb.co/CVr3QGv/fe7f8998db53725ac48f0deedc773692-anniversary-logo-visual-identity.jpg"
-      },
-      {
-        "name": "GLOBO BRASILIA",
-        "uri": "KMJxcdC1993IDV/zctXe43CaBdBqY+QzxIb2yaW2HonqoICpjW9w8ISo5kIAiGxEcFbcYAruHeyj2jQvUmhjTA==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "TQSPBT5fFAmrHLJIeXbfeU1Ld2Z1t73UOmGMupnmG8ge+bb3Xm6Icw5yrKOvPnito5bqLdXW/1vOkyz4KJgfhrZRbgvcH6vDCsIkkIoL1aYm+vhb8665v53Nf7nlHu8cpFZ7twbjlA7ThHugOIWIbA==",
-        "icono": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDUxX2xpbmVhcl9jaGFubmVsX2Jy_11002_LOGO_360x270.png?timestamp=1685585309754"
-      },
-      {
         "name": "BandSports",
-        "uri": "sYoMjXk/TFGhbjV645xyd6OaGRTvXxHl71hRwF0DOk9hCEc4B/ptH8fD7F114inYtV0mk1zvOMEaQQzJglT5Pw==",
+        "uri": "7YyJ0bTMMpA6ZPEd5Ozn3QcnS9oSblvO5lNPd09nqwaKfkcCVQtZynZD89KotPwgdgU5mAGtEEhOwcGqGCqdQA==",
         "icono": "https://dl.dropbox.com/scl/fi/obzu060o5bmw20aym0tho/WhatsApp-Image-2023-08-28-at-3.33.22-PM.jpeg?rlkey=d26mz5llj7b8lrtvwsodkiu3g&dl=0"
       },
       {
-        "name": "Record News",
-        "uri": "uQqMOW5ZK9orEx4xMTemyLqb3nrKJjRCphW3ZS275i58Uf3Jx6fyOraF2BNJAx++8MFaXcxC3HtMqNLN60c8TPYylBgHJK/KXSBt8f/q04lvk985fbt+NX9OVFoGkYgZ",
-        "icono": "https://yt3.googleusercontent.com/xoqgjnZ9Wd8-cPvKryCyTcfeaT7K3rZtQxCJHhcbICXoVvw7x3hYcQ0S02kzvdmsqwq-Fgnt=s900-c-k-c0x00ffffff-no-rj"
+        "name": "CNN Brasil",
+        "uri": "F/oscLXxg9wOZ2xPb/4BZv3Qlk6hwHRs23XhaaWjiUoBJd2TkLxa7Zn1ZT9H/z82Hqc7xFdjhUTjXI/y9/wo4lBPmXO9JffXXTPGvATEq7o=",
+        "icono": "https://play-lh.googleusercontent.com/8ch6kAhf2Ydd34PPqtOGh-troE-Zee9LxH-xZVlZml7YwNGyA1Nq2xXER-84CZHmoNyw"
       },
       {
-        "name": "BandNews",
-        "uri": "KMJxcdC1993IDV/zctXe43CaBdBqY+QzxIb2yaW2HokfYzXLQqdAcEvtRL9vi31lcFbcYAruHeyj2jQvUmhjTA==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvFqitfMvZomtvMqJsQMLXI3rWtdvl9euR7+Pw9pL+5q3L4ZFUdzol/qD45K4/xby4VSAQaJtvy7Dy0mM/TfMOF+5QrpMy2XjNmMAh5st3l5NjHD4JokeNm2x+o56geno7Q==",
-        "icono": "https://play-lh.googleusercontent.com/8ch6kAhf2Ydd34PPqtOGh-troE-Zee9LxH-xZVlZml7YwNGyA1Nq2xXER-84CZHmoNyw"
+        "name": "SBT",
+        "uri": "2vQxO0Nj1dAgM4JVOK700gxESDSBWYIHd+Ufu5MJrbFgFKdBL+raxE5Snf4FJgINb2eeTiL3zT65juQBZheN07J6YL6TKL+gUWvb7AX1Zsw=",
+        "icono": "https://blogoldstone.files.wordpress.com/2009/11/seriados-logo-sbt.jpg"
+      },
+      {
+        "name": "TVNOVAPLAY",
+        "uri": "+kfBOTsk52GWyak8jX/IjbpHXhFID7nsr0Y4PiYwxp+J0JC4+fCXRDpqvbU5Sw9pO5ng5OI3DZx3T3I9dt9BFg==",
+        "icono": "https://i0.wp.com/girotvonline.com/wp-content/uploads/2022/11/tv-nova-play.png?fit=1024%2C768&ssl=1"
+      },
+      {
+        "name": "CONECTV",
+        "uri": "q3CZtR7SYOPf8TqFRtAeoLtg4DaPBnBQrxACbHXEwM8OMdasN7Ic/Htvab/iE4yfjCEsasWXAUUKotQlKE7n8g==",
+        "icono": "https://play-lh.googleusercontent.com/_z8L3qUly2i3Flg-aaI8M2VvHLifKp5Fo_qTMM4ICeDTqsnwcfEy_QYvt8OHt7kRL00"
+      },
+      {
+        "name": "RECORD TV",
+        "uri": "wisu88x5hrOXK3Os38U4RCGWh0NhHseKok/XQMauqQRb/Q7d9kydMeYA5s0feCCTm4P6fkG/vzI+8VIDLQE+FQ==",
+        "icono": "https://brazil.mom-gmr.org/typo3temp/_processed_/a/4/csm_7013-1071_import_63c9374854.png"
+      },
+      {
+        "name": "VIVAX TV",
+        "uri": "01v21hCykzMvxqTXwWvsy/BNYL25IMfb42k0HJ1GmS4AidieKpct+XiAnVpAs6zQg0BFWhBaZtstR4UyaActrw==",
+        "icono": "https://static.wixstatic.com/media/9b4759_f0419bca4d06487b9f369204e011a7a9~mv2.png/v1/fit/w_2500,h_1330,al_c/9b4759_f0419bca4d06487b9f369204e011a7a9~mv2.png"
+      },
+      {
+        "name": "TV TEM",
+        "uri": "DIuATbpGJ9VKsUvz9UhxiOOiZ9fnFBP1huSrIZrKbF/Rj1git9ZdDvura5wWYY4L",
+        "icono": "https://static.wikia.nocookie.net/logopedia/images/3/34/Tvtem_2003.png/revision/latest/scale-to-width-down/200?cb=20191223042226"
+      },
+      {
+        "name": "Agro Brasil Tv",
+        "uri": "pncFaMpmX1L5+jUt1uztFnrvDKwGIC3bEMm8m9W0Pkih5WjFGgJOzX92huY7nhhte07PdSuaEnoNWw8LxrZ/zbaNOOa898NTUdhvkey4Tiw=",
+        "icono": "https://yt3.googleusercontent.com/cXotKAuWNCW4tfw_XCJ32w2iyOsx3m5h9BNXl3SpItLwo7ZDO8QcLNtF4sbSIfMoUbnI4b2tKXQ=s900-c-k-c0x00ffffff-no-rj"
+      },
+      {
+        "name": "Cine Brasil",
+        "uri": "01v21hCykzMvxqTXwWvsy1c2o1azbqHHBPUBhuhfSVtr2t4z5g6jAz9WPEfgagj9g0BFWhBaZtstR4UyaActrw==",
+        "icono": "https://scontent.feze7-1.fna.fbcdn.net/v/t39.30808-6/298957758_488686276593589_1823058943312052466_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=WORLkEjAsncAX83X5b_&_nc_ht=scontent.feze7-1.fna&oh=00_AfDiW8ExDY7qZzN4hvEMpNHcIK5eFPcb9CfQag71LLN0SA&oe=65BB1866"
+      },
+      {
+        "name": "Max tv HD",
+        "uri": "Erm3VUxjWz6m3pKUx4RnAOL6S56Uzz4+nHYTwJoGJCTkImJNfrDmqW7lD9H686IF1V8AA7XqufMF8HTkbB5Kzg==",
+        "icono": "https://play-lh.googleusercontent.com/nX0w3zOT2hW2rDnvazhrJTToAJs0GEWMoKTEzA4a62JPXj3mP8GqLHT3q3Faxl7IgA"
+      },
+      {
+        "name": " petlovers tv",
+        "uri": "WyD2D/FLGGQPLXQiaxBBlzx1SuyOh0ReNUlKhWlWG83XpBSRbmwvaUUxrSM7NI3BWIFYHZtu4hgP7G4V93dWMbJ6YL6TKL+gUWvb7AX1Zsw=",
+        "icono": "https://yt3.googleusercontent.com/TMdOrHJSSCmWhE7Uqlz4ax9nXgV3tVm3WOQ9CKlA8fWY4d2cDq-1ywEp_A0zA2T3C3JzmKs_rhE=s900-c-k-c0x00ffffff-no-rj"
+      },
+      {
+        "name": "TV Aparecida",
+        "uri": "2vQxO0Nj1dAgM4JVOK700gxESDSBWYIHd+Ufu5MJrbG8/TYzhw8UpC2+Md1G5YPN9N/Y52KL+Z5FLInveFyLiXYFOZgBrRBITsHBqhgqnUA=",
+        "icono": "https://santuariosantapaulina.org.br/wp-content/uploads/2012/12/Logo_TV_Aparecida_700.jpg"
+      },
+      {
+        "name": "Gospel Movies",
+        "uri": "tYYjUFRaK5cihOvLTKgY+IgzbRdesPYOsMmCUIlsYqg7RZ3YIfLerek8Kxs+ngE6bl2SWRqox/bxL5MsZMeP9SIT3yhdl2JzflKta4M2hBc=",
+        "icono": "https://cdna.artstation.com/p/assets/images/images/051/783/186/large/touati-fellouh-021.jpg?1658166568"
+      },
+      {
+        "name": "Revry Brasil",
+        "uri": "QEnOqXwlNgmBfpvoIlCQHKbIQ7CafVPynmF+OVX5gkWRgPymxV4qp8EDJ41xKKtXEgY67D4qSgkxPwo8vPjx6mnjkAuQdxzD4Txa43toOek=",
+        "icono": "https://play-lh.googleusercontent.com/xL9xM9Ov2Ki4mhcKY7qYiLclMWQ1o-k5M978vkru3ljlS-o-OJkVLXQ5jz9L-6GCJA"
+      },
+      {
+        "name": "fashion tv",
+        "uri": "+2U1Eaa2ROdE4MHnmSIZVcqqa9gd9qYsW6nT0hBef8Alu7Gi//OlzewsOejzFw/BRBWq5aifGL0+UoOUEZ8Bwg==",
+        "icono": "https://scontent.feze7-1.fna.fbcdn.net/v/t39.30808-6/309510207_501746141960291_2802778540380991550_n.png?_nc_cat=105&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=R4E2uevmcJwAX9iU7d4&_nc_ht=scontent.feze7-1.fna&oh=00_AfBiIHO7EjLJNmoG7Tfhk757BVJjTU__3kQ3fx_4Fbe0uA&oe=65BA9756"
+      },
+      {
+        "name": "phoenix tv",
+        "uri": "l//J2UnxHtTYbCrw2h5Y2swdLSrCwXOx7LWl9OGDkKusV74wqVEuwZDlj5w2SBlgRBWq5aifGL0+UoOUEZ8Bwg==",
+        "icono": "https://scontent.feze7-2.fna.fbcdn.net/v/t39.30808-6/300414269_562700385585873_9114388969049269022_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=b_5PdAdfmykAX9CIWny&_nc_ht=scontent.feze7-2.fna&oh=00_AfDcbHKJ3oKYUJblmWVA9HyLStu4NIp8rVbCGkyYWjzYuA&oe=65BA124A"
+      },
+      {
+        "name": "Fonte TV",
+        "uri": "xckaxMGtUGxp6enPOzQBhX04FxxQo1dva1bgaGKZc+kfNcIYOw1yfJmPvuf8JXWKDbE0tu4t/Opo9pXk7kRsnw==",
+        "icono": "https://pbs.twimg.com/profile_images/672286254/FTV5_400x400.JPG"
+      },
+      {
+        "name": "Telecine Premium",
+        "uri": "C/VZY9daHvtYlQjRcDPLueckmgmFeuO6RdVGxtVRpdgxPZPATyWFKqKLihcj1PNfJomnoMtqnBikIG+lg6dXbA==",
+        "icono": "https://i.vimeocdn.com/video/271103422-fbb19f9ff1fea61b2fb23e5dd31d63d38d5a1e21ad196a94c407db3da056852f-d?f=webp"
+      },
+      {
+        "name": "Telecine Pipoca",
+        "uri": "C/VZY9daHvtYlQjRcDPLueckmgmFeuO6RdVGxtVRpdgxPZPATyWFKqKLihcj1PNfZY6U3+l+gLXfrKuNv6xZAg==",
+        "icono": "https://iconape.com/wp-content/files/vb/285009/png/285009.png"
+      },
+      {
+        "name": "telecine action",
+        "uri": "C/VZY9daHvtYlQjRcDPLueckmgmFeuO6RdVGxtVRpdgxPZPATyWFKqKLihcj1PNfZY6U3+l+gLXfrKuNv6xZAg==",
+        "icono": "https://i.pinimg.com/originals/66/b8/00/66b80073cf066f91017a71c61b4a5444.png"
+      },
+      {
+        "name": "telecine touch",
+        "uri": "C/VZY9daHvtYlQjRcDPLueckmgmFeuO6RdVGxtVRpdgxPZPATyWFKqKLihcj1PNfhb67VSrYmabqXrfDoNTqCg==",
+        "icono": "https://i.pinimg.com/originals/c9/32/34/c93234220293ca7928612520d1206671.jpg"
       }
     ]
   },
