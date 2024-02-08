@@ -1135,52 +1135,7 @@
       }
     ]
   },
-  {
-    "name": "La Casa De Papel Berlín",
-    "samples": [
-      {
-        "name": " parte 1 ",
-        "uri": "bvQLI3bwu33MwzVIW0iKPDvxd/10Yb36F0l9Nh8XrEFpVTrdLnOMSERvGsrDccosJfR/OjZ8SqT5tu34TeoNYj1nRkLgY/Vd/JnL/xuGS5in1MUIGnoA5nVE4nQdekdq",
-        "icono": "https://s3.us-west-1.amazonaws.com/esdelatino.com/wp-content/uploads/2023/12/28003244/La-precuela-de-La-casa-de-papel-Berlin-que-esperar.jpg"
-      },
-      {
-        "name": " parte 2",
-        "uri": "bvQLI3bwu33MwzVIW0iKPDvxd/10Yb36F0l9Nh8XrEFpVTrdLnOMSERvGsrDccoseI2Kss551117CvS/88qHLz1nRkLgY/Vd/JnL/xuGS5in1MUIGnoA5nVE4nQdekdq",
-        "icono": "https://s3.us-west-1.amazonaws.com/esdelatino.com/wp-content/uploads/2023/12/28003244/La-precuela-de-La-casa-de-papel-Berlin-que-esperar.jpg"
-      },
-      {
-        "name": " parte 3",
-        "uri": "bvQLI3bwu33MwzVIW0iKPDvxd/10Yb36F0l9Nh8XrEFpVTrdLnOMSERvGsrDccoseygc7Ef9JHGOPP2k7G3o4T1nRkLgY/Vd/JnL/xuGS5in1MUIGnoA5nVE4nQdekdq",
-        "icono": "https://s3.us-west-1.amazonaws.com/esdelatino.com/wp-content/uploads/2023/12/28003244/La-precuela-de-La-casa-de-papel-Berlin-que-esperar.jpg"
-      },
-      {
-        "name": " parte 4",
-        "uri": "bvQLI3bwu33MwzVIW0iKPDvxd/10Yb36F0l9Nh8XrEFpVTrdLnOMSERvGsrDccospsb/1mzR02U+j7UzlTFGUz1nRkLgY/Vd/JnL/xuGS5in1MUIGnoA5nVE4nQdekdqq",
-        "icono": "https://s3.us-west-1.amazonaws.com/esdelatino.com/wp-content/uploads/2023/12/28003244/La-precuela-de-La-casa-de-papel-Berlin-que-esperar.jpg"
-      },
-      {
-        "name": " parte 5",
-        "uri": "bvQLI3bwu33MwzVIW0iKPDvxd/10Yb36F0l9Nh8XrEFpVTrdLnOMSERvGsrDccoshR9vDHOHUqZGX7YKneThuT1nRkLgY/Vd/JnL/xuGS5in1MUIGnoA5nVE4nQdekdq",
-        "icono": "https://s3.us-west-1.amazonaws.com/esdelatino.com/wp-content/uploads/2023/12/28003244/La-precuela-de-La-casa-de-papel-Berlin-que-esperar.jpg"
-      },
-      {
-        "name": " parte 6",
-        "uri": "bvQLI3bwu33MwzVIW0iKPDvxd/10Yb36F0l9Nh8XrEFpVTrdLnOMSERvGsrDccosd1T8JhFJQEdkBKS4h2QKhT1nRkLgY/Vd/JnL/xuGS5in1MUIGnoA5nVE4nQdekdqH",
-        "icono": "https://s3.us-west-1.amazonaws.com/esdelatino.com/wp-content/uploads/2023/12/28003244/La-precuela-de-La-casa-de-papel-Berlin-que-esperar.jpg"
-      },
-      {
-        "name": " parte 7",
-        "uri": "bvQLI3bwu33MwzVIW0iKPDvxd/10Yb36F0l9Nh8XrEFpVTrdLnOMSERvGsrDccossXkzH2bGi96xnMvheppRSz1nRkLgY/Vd/JnL/xuGS5in1MUIGnoA5nVE4nQdekdq",
-        "icono": "https://s3.us-west-1.amazonaws.com/esdelatino.com/wp-content/uploads/2023/12/28003244/La-precuela-de-La-casa-de-papel-Berlin-que-esperar.jpg"
-      },
-      {
-        "name": "final",
-        "uri": "bvQLI3bwu33MwzVIW0iKPDvxd/10Yb36F0l9Nh8XrEFpVTrdLnOMSERvGsrDccosi4LhEWMW5VfG70xk0pBM9z1nRkLgY/Vd/JnL/xuGS5in1MUIGnoA5nVE4nQdekdq",
-        "icono": "https://s3.us-west-1.amazonaws.com/esdelatino.com/wp-content/uploads/2023/12/28003244/La-precuela-de-La-casa-de-papel-Berlin-que-esperar.jpg"
-      }
-    ]
-  },
-  {
+  { 
     "name": "Echo(Miniserie 2024 )",
     "samples": [
       {
