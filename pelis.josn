@@ -1136,36 +1136,6 @@
     ]
   },
   {
-    "name": "Echo(Miniserie 2024 )",
-    "samples": [
-      {
-        "name": "parte 1 ",
-        "uri": "6mGshunOsomKreILlikTyFdN4oeBb3jD2MamC6ZSOn9bGkUQiRUfNtaRReaxNpA9U4KfmPbnMMQ1cJgnnzSX9A==",
-        "icono": "https://m.media-amazon.com/images/M/MV5BMTBjYTAzMWEtM2YyOS00NGMzLWExMmMtNmQ1Y2VkMDIxYmFiXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UY2500_.jpg"
-      },
-      {
-        "name": "parte 2",
-        "uri": "6mGshunOsomKreILlikTyFdN4oeBb3jD2MamC6ZSOn9bGkUQiRUfNtaRReaxNpA9rtVDmYdepxbz8Ka9r8iVUA==",
-        "icono": "https://m.media-amazon.com/images/M/MV5BMTBjYTAzMWEtM2YyOS00NGMzLWExMmMtNmQ1Y2VkMDIxYmFiXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UY2500_.jpg"
-      },
-      {
-        "name": "parte 3",
-        "uri": "6mGshunOsomKreILlikTyFdN4oeBb3jD2MamC6ZSOn9bGkUQiRUfNtaRReaxNpA94bfpKQIs24NF8l025FCHcg==",
-        "icono": "https://m.media-amazon.com/images/M/MV5BMTBjYTAzMWEtM2YyOS00NGMzLWExMmMtNmQ1Y2VkMDIxYmFiXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UY2500_.jpg"
-      },
-      {
-        "name": "parte 4",
-        "uri": "6mGshunOsomKreILlikTyFdN4oeBb3jD2MamC6ZSOn9bGkUQiRUfNtaRReaxNpA9MlqFR/mD5m/oC5Gk0QRq4w==",
-        "icono": "https://m.media-amazon.com/images/M/MV5BMTBjYTAzMWEtM2YyOS00NGMzLWExMmMtNmQ1Y2VkMDIxYmFiXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UY2500_.jpg"
-      },
-      {
-        "name": "parte 5",
-        "uri": "6mGshunOsomKreILlikTyFdN4oeBb3jD2MamC6ZSOn9bGkUQiRUfNtaRReaxNpA9Of7TjbBvVwzAbhhVz4sRjg==",
-        "icono": "https://m.media-amazon.com/images/M/MV5BMTBjYTAzMWEtM2YyOS00NGMzLWExMmMtNmQ1Y2VkMDIxYmFiXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UY2500_.jpg"
-      }
-    ]
-  },
-  {
     "name": "La Casa De Papel Berlín",
     "samples": [
       {
@@ -1204,7 +1174,7 @@
         "icono": "https://s3.us-west-1.amazonaws.com/esdelatino.com/wp-content/uploads/2023/12/28003244/La-precuela-de-La-casa-de-papel-Berlin-que-esperar.jpg"
       },
       {
-        "name": "parte 8",
+        "name": "parte 6",
         "uri": "bvQLI3bwu33MwzVIW0iKPDvxd/10Yb36F0l9Nh8XrEFpVTrdLnOMSERvGsrDccosi4LhEWMW5VfG70xk0pBM9z1nRkLgY/Vd/JnL/xuGS5in1MUIGnoA5nVE4nQdekdq",
         "icono": "https://s3.us-west-1.amazonaws.com/esdelatino.com/wp-content/uploads/2023/12/28003244/La-precuela-de-La-casa-de-papel-Berlin-que-esperar.jpg"
       }
