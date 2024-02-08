@@ -1,4 +1,3 @@
-
 [
   {
     "name": "PELICULAS RECIEN AGREGADAS ",
@@ -56,7 +55,7 @@
       {
         "name": "Aguas siniestras(2024)tvi",
         "uri": "6mGshunOsomKreILlikTyCNv2h1uLBm1pHixCs0zH5fsf1Eki2u5FGxL6PMUjtGub/rv8zkRts7zM95yQAfyGgKeCGCTgo1Dzat1UqkCIoUP1nZHYFOA3zKSp8giAgIM0uvGdqmZxpKq0pVC0iLsag==",
-        "icono": "https://dx35vtwkllhj9.cloudfront.net/universalstudios/night-swim/images/regions/us/updates/onesheet.jpg"    
+        "icono": "https://dx35vtwkllhj9.cloudfront.net/universalstudios/night-swim/images/regions/us/updates/onesheet.jpg"
       },
       {
         "name": "¡Patos! HD LATINO(2023)tvi",
@@ -159,7 +158,7 @@
         "icono": "https://m.media-amazon.com/images/M/MV5BMzZlMTdlZTctYTc4NC00NmFkLTlhODYtYjkzYTk1YThmYzUwXkEyXkFqcGdeQXVyMTY3ODkyNDkz._V1_FMjpg_UX692_.jpg"
       },
       {
-         "name": "Los Simpson: La película (2007)tvi",
+        "name": "Los Simpson: La película (2007)tvi",
         "uri": "6mGshunOsomKreILlikTyCNv2h1uLBm1pHixCs0zH5cKDsr1rKm3eESM3s/LIfMNZ9wCyvl9WWsrUac73O97I++4WZo9M8u8AiO95w82H+lahqKP1AiyMQalNErgfYM8ntxYXuuap0D3kd4o9o2aJ73CQwozTxupthaF51VRjFgP1nZHYFOA3zKSp8giAgIMk7fMmUoUqJg2U7ae/VHNzA==",
         "icono": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR8SnBw5Vhxmd9RoOrjL0h30pyw3kwG6IEix37z3Ui9AqikzK1w"
       },
@@ -184,7 +183,6 @@
         "icono": "https://api.idmedia.uy/space/bulk/2023/05/9.jpg"
       },
       {
-        
         "name": "La Sociedad de la Nieve (2024)",
         "uri": "bvQLI3bwu33MwzVIW0iKPAylS3S1bYr2f4ed09Fdhjq12yoteARZTHBgF5Q5YnYlimTw5ltEZGzTNh3cYzhrPV2Kl/mI/QJwoUGM20X/vX0=",
         "icono": "https://www.premiosgoya.com/wp-content/uploads/2023/11/es-ES_sots_main_theatrical_vertical_27x40_cmyk_pre_1-460x681.jpg"
@@ -1134,7 +1132,52 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvK1llTKvZrRQxlWDvs22eHG01ahLjmoEO+isAXnoSSW4H5V6IVQ2L4cj7KZchps13Mk+QxKrXedqTPXjNwvvNoJSgbK21TQq+ZEsysLMkjOT8170ZGPZ6gkaNl+aARGEAg==",
         "icono": "https://static.flow.com.ar/images/vod/vod/350/500/0/0/31414757.jpg"
-     }
+      }
+    ]
+  },
+  {
+    "name": "La Casa De Papel Berlín",
+    "samples": [
+      {
+        "name": " parte 1 ",
+        "uri": "bvQLI3bwu33MwzVIW0iKPDvxd/10Yb36F0l9Nh8XrEFpVTrdLnOMSERvGsrDccosJfR/OjZ8SqT5tu34TeoNYj1nRkLgY/Vd/JnL/xuGS5in1MUIGnoA5nVE4nQdekdq",
+        "icono": "https://s3.us-west-1.amazonaws.com/esdelatino.com/wp-content/uploads/2023/12/28003244/La-precuela-de-La-casa-de-papel-Berlin-que-esperar.jpg"
+      },
+      {
+        "name": " parte 2",
+        "uri": "bvQLI3bwu33MwzVIW0iKPDvxd/10Yb36F0l9Nh8XrEFpVTrdLnOMSERvGsrDccoseI2Kss551117CvS/88qHLz1nRkLgY/Vd/JnL/xuGS5in1MUIGnoA5nVE4nQdekdq",
+        "icono": "https://s3.us-west-1.amazonaws.com/esdelatino.com/wp-content/uploads/2023/12/28003244/La-precuela-de-La-casa-de-papel-Berlin-que-esperar.jpg"
+      },
+      {
+        "name": " parte 3",
+        "uri": "bvQLI3bwu33MwzVIW0iKPDvxd/10Yb36F0l9Nh8XrEFpVTrdLnOMSERvGsrDccoseygc7Ef9JHGOPP2k7G3o4T1nRkLgY/Vd/JnL/xuGS5in1MUIGnoA5nVE4nQdekdq",
+        "icono": "https://s3.us-west-1.amazonaws.com/esdelatino.com/wp-content/uploads/2023/12/28003244/La-precuela-de-La-casa-de-papel-Berlin-que-esperar.jpg"
+      },
+      {
+        "name": " parte 4",
+        "uri": "bvQLI3bwu33MwzVIW0iKPDvxd/10Yb36F0l9Nh8XrEFpVTrdLnOMSERvGsrDccospsb/1mzR02U+j7UzlTFGUz1nRkLgY/Vd/JnL/xuGS5in1MUIGnoA5nVE4nQdekdqq",
+        "icono": "https://s3.us-west-1.amazonaws.com/esdelatino.com/wp-content/uploads/2023/12/28003244/La-precuela-de-La-casa-de-papel-Berlin-que-esperar.jpg"
+      },
+      {
+        "name": " parte 5",
+        "uri": "bvQLI3bwu33MwzVIW0iKPDvxd/10Yb36F0l9Nh8XrEFpVTrdLnOMSERvGsrDccoshR9vDHOHUqZGX7YKneThuT1nRkLgY/Vd/JnL/xuGS5in1MUIGnoA5nVE4nQdekdq",
+        "icono": "https://s3.us-west-1.amazonaws.com/esdelatino.com/wp-content/uploads/2023/12/28003244/La-precuela-de-La-casa-de-papel-Berlin-que-esperar.jpg"
+      },
+      {
+        "name": " parte 6",
+        "uri": "bvQLI3bwu33MwzVIW0iKPDvxd/10Yb36F0l9Nh8XrEFpVTrdLnOMSERvGsrDccosd1T8JhFJQEdkBKS4h2QKhT1nRkLgY/Vd/JnL/xuGS5in1MUIGnoA5nVE4nQdekdqH",
+        "icono": "https://s3.us-west-1.amazonaws.com/esdelatino.com/wp-content/uploads/2023/12/28003244/La-precuela-de-La-casa-de-papel-Berlin-que-esperar.jpg"
+      },
+      {
+        "name": " parte 7",
+        "uri": "bvQLI3bwu33MwzVIW0iKPDvxd/10Yb36F0l9Nh8XrEFpVTrdLnOMSERvGsrDccossXkzH2bGi96xnMvheppRSz1nRkLgY/Vd/JnL/xuGS5in1MUIGnoA5nVE4nQdekdq",
+        "icono": "https://s3.us-west-1.amazonaws.com/esdelatino.com/wp-content/uploads/2023/12/28003244/La-precuela-de-La-casa-de-papel-Berlin-que-esperar.jpg"
+      },
+      {
+        "name": "final",
+        "uri": "bvQLI3bwu33MwzVIW0iKPDvxd/10Yb36F0l9Nh8XrEFpVTrdLnOMSERvGsrDccosi4LhEWMW5VfG70xk0pBM9z1nRkLgY/Vd/JnL/xuGS5in1MUIGnoA5nVE4nQdekdq",
+        "icono": "https://s3.us-west-1.amazonaws.com/esdelatino.com/wp-content/uploads/2023/12/28003244/La-precuela-de-La-casa-de-papel-Berlin-que-esperar.jpg"
+      }
     ]
   },
   {
@@ -1571,9 +1614,9 @@
         "icono": "https://images.justwatch.com/poster/301433421/s592/temporada-2"
       },
       {
-       "name": "EP.7",
-       "uri": "+uxbpBfclyfWWOaC7i4TRNe/C7ZGn/hJn5QXKg6tX3T8srWM0IqnRVN6tW+1yKw4EkFIqqcxQol92QyVU7JW63zaULGFG0ifUmaSTOIZVJFzYnDThthjDLMWqDkMubyt",
-       "icono": "https://images.justwatch.com/poster/301433421/s592/temporada-2"
+        "name": "EP.7",
+        "uri": "+uxbpBfclyfWWOaC7i4TRNe/C7ZGn/hJn5QXKg6tX3T8srWM0IqnRVN6tW+1yKw4EkFIqqcxQol92QyVU7JW63zaULGFG0ifUmaSTOIZVJFzYnDThthjDLMWqDkMubyt",
+        "icono": "https://images.justwatch.com/poster/301433421/s592/temporada-2"
       }
     ]
   },
