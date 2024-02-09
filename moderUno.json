@@ -239,7 +239,9 @@
       },
       {
         "name": "CANAL IP",
-        "uri": "FERDkB8hAqb9UVCLGmnMH3k58nU6aS9ICmsD5UxJXBDkTdA+U0eIpPEVDkdONjlQXujdSegUco78lDVUOllbZtzz3UnZkOswxqHnJIhjFz71BxAQg77jfc0Lz1XCYYp4aeOQC5B3HMPhPFrje2g56Q==",
+        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmJljvrAKjOkEZ0BZEqrZrlTzy+oMjFud+6LgtOWcle/5yCKGlWPOPWBcQIm9pGPBVE7B85Kni0SGe7lppsezRVMPSx/53fEWHTb/0oEIa1s7PooWGxkfNs4lOLjlaz1Qhc=",
+	      	"drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvFJU7OeYPqpRnHXx6hX0ilnbI7gWGdNpr6z0vuDRQc8aNG1OSBi54LwMojN9vB8TgZb1fcWMT9FqIXSoGro6YY7JHny5Ept2vEPMBuRQqzUUI2htNnatLQYzMDIru2wDXQ==1",
         "icono": "https://i.ibb.co/GQ6LCnV/share.png"
       },
       {
@@ -1927,7 +1929,7 @@
     "samples": [
       {
         "name": "TLN",
-        "uri": "/dpci2E3xeGAIZhMznZrm78huGtpKc1Om0NKiNaAj5YMAIlbxQilxg6VoIRr5mwpxwQwXV7gmUvtsFLErJau8g==",
+        "uri": "Bxiz1sRKa8YTnDJ4REA2XErxPjh8U2zKyHYBVfPjCmLRid1wZQJQOQ/O5QwJKfrad3tQC4m1ox+01FzxPAHB9w==",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/1223px-Logo_tlnovelas_feb2019.png"
       },
       {
