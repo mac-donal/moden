@@ -2277,6 +2277,106 @@
     ]
   },
   {
+    "name": "COATA RICA",
+    "samples": [
+      { 
+	  	"name": "SMART FUTBOL",
+        "uri": "3BCZog5v+hvxZ8V4w0CoFtrB2LNNz3Fu0DeRxAIz1BR38ZWPez9bie1CMA5jQ0EPkOalNYXXvtfvRRjIFXHqrWiAfyz04g8j9BzzunWEZoeSlhEdMBxQgNXYbnmaWyHnm4P6fkG/vzI+8VIDLQE+FQ==",
+        "icono": "https://img.streann.com/streann-img/61316705e4b0295f87dae396/channel/1707417159270.png"
+      },
+      {
+	  	"name": "JOSUE QUEZADA",
+        "uri": "3BCZog5v+hvxZ8V4w0CoFtrB2LNNz3Fu0DeRxAIz1BR38ZWPez9bie1CMA5jQ0EPkOalNYXXvtfvRRjIFXHqrdDIEzvvS9bUFWGNVidlzw1a4NJcgKC12PrXDZpKv3hpm4P6fkG/vzI+8VIDLQE+FQ==",
+        "icono": "https://img.streann.com/streann-img/61316705e4b0295f87dae396/channel/1707416953919.png"
+      },
+      {
+	  	"name": "JOSUE QUEZADA",
+        "uri": "3BCZog5v+hvxZ8V4w0CoFtrB2LNNz3Fu0DeRxAIz1BR38ZWPez9bie1CMA5jQ0EPkOalNYXXvtfvRRjIFXHqrdDIEzvvS9bUFWGNVidlzw1a4NJcgKC12PrXDZpKv3hpm4P6fkG/vzI+8VIDLQE+FQ==",
+        "icono": "https://img.streann.com/streann-img/61316705e4b0295f87dae396/channel/1707416953919.png"
+      },
+      {
+	  	"name": "EXPER TV",
+        "uri": "F96Wwh+YkS8Vk+xcVzdA9T2sZTAS8zER27nqAesoA8iD4A2EmUVsy/0//R44dBtUSr0hAo21YgRulFJ1CYbHZvJq07XmM/BkXoREYeJkNMp9/2JTmyzDAQMhgIKv8uLuxwQwXV7gmUvtsFLErJau8g==",
+        "icono": "https://img.streann.com/streann-img/61316705e4b0295f87dae396/channel/1694095881489.png"
+      },
+      {
+	  	"name": "GOLES FUTV",
+        "uri": "3BCZog5v+hvxZ8V4w0CoFtrB2LNNz3Fu0DeRxAIz1BR38ZWPez9bie1CMA5jQ0EPkOalNYXXvtfvRRjIFXHqrX7pGJEfHvu2pXf/1/DhrgtkwAmxbZOA9XJSnFJZniIo9yKt9mj0PuwN5RPLvrln8cxD1pw9bXt7ZwlfhVCQ26I+ENGbE/fZRcCMOLbe+XMdPKMqU7I9PmezOcb/uAhchE+m3VdLtOhkPxECli6m6ek=",
+        "icono": "https://img.streann.com/streann-img/61316705e4b0295f87dae396/channel/1694096248928.png"
+      },
+      {
+	    "name": "FUTV",
+        "uri": "qiuwevOcNcJRE2CooP5P/JQzO9UleIrJSoV/S6dmK5VPuMV4T0Xq1Hx5RG/B2Kio8E3v/StJb9RXyWeTSkR/lDhhz4QdDJoOO0TO7IVz01b8YIIqOG8/LGGclEzOXPbEzzOCfm+ETBzkCh+v/3S4oU+AR/xS6oc9hsQ40fjrAXY=",
+        "icono": "https://img.streann.com/streann-img/61316705e4b0295f87dae396/channel/1694103516257.png"
+      },
+      {
+	  	  	"name": "TD+2",
+        "uri": "aPYJLXOb/jSTVAB/3GJDSiBakYIaR5MFur/8ZiNZZbWox5oitjQEgQZBkYwaqlBTM2tg6wrIJRQgLmEb1OTKn5uD+n5Bv78yPvFSAy0BPhU=",
+        "icono": "https://img.streann.com/streann-img/61316705e4b0295f87dae396/channel/1694096325723.png"
+      },
+      {
+	  	"name": "TD+",
+        "uri": "aPYJLXOb/jSTVAB/3GJDSiBakYIaR5MFur/8ZiNZZbX8KyjWSZbuBVFConfyxKWn9EvO6CEZRe4Jp3nNV9+E2JuD+n5Bv78yPvFSAy0BPhU=",
+        "icono": "https://img.streann.com/streann-img/61316705e4b0295f87dae396/channel/1694096363519.png"
+      },
+      {
+	  	"name": "TN7",
+        "uri": "3BCZog5v+hvxZ8V4w0CoFtrB2LNNz3Fu0DeRxAIz1BR38ZWPez9bie1CMA5jQ0EPkOalNYXXvtfvRRjIFXHqrVCWA0e9xkuJiXV48cqFleRuzhy/+Ruj8HhpqyKrTN2Um4P6fkG/vzI+8VIDLQE+FQ==",
+        "icono": "https://img.streann.com/streann-img/61316705e4b0295f87dae396/channel/1694096127778.png"
+      },
+      {
+	    "name": "FUTBOL",
+        "uri": "F96Wwh+YkS8Vk+xcVzdA9T2sZTAS8zER27nqAesoA8h19Klr4+/xxvvjGIxv6waacKcElZzM43Lv5bv0j65IHnNRXUiz6IDSY/Wf9Z6+MjuVAMQcGMB8pkPsaGfX0m3K/eAATSM6oLMxgoCDwVaeZQ==",
+        "icono": "https://dl.dropbox.com/scl/fi/wcqpb6086wlqisoxv71js/Captura-de-pantalla-9.png?rlkey=8a87bw0l36iowycpwlfdbb4en&dl=0"
+      },
+      {
+		"name": "Teletica En Vivo",
+        "uri": "aPYJLXOb/jSTVAB/3GJDSiBakYIaR5MFur/8ZiNZZbVIUtCfY8fDFbjyGjvY3kkgVBs5tPjiClI4r+mfl9oIykQVquWonxi9PlKDlBGfAcI=",
+        "icono": "https://img.streann.com/streann-img/61316705e4b0295f87dae396/channel/1694096091537.png"
+      },
+      {
+        "name": "Nicoya TV ",
+        "uri": "+7g4T36U3Kvyx71AjAGH+3IAxZzMUGPNi2WDZiRfKqDeGOXTdj5SQKl8xhvAi5kRY2/o3pM0aQbc3CZhHLlyk5RgGSBR6+7NLD1u67DaGCM=",
+        "icono": "https://scontent.feze7-2.fna.fbcdn.net/v/t39.30808-6/305405478_479174670884349_3209096736791955454_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=tURbKlsCy-kAX9W7lsj&_nc_oc=AQlc-xoNsz9uMDmAKhspFIUqwkGcL-BGkmpsa4mSdS8QjIeuaNHRUaxxczIrUJPRWYQ&_nc_ht=scontent.feze7-2.fna&oh=00_AfANDnt_wzNRAvva9SLy_AsgbP4ag-0X1-ZC5YNH2jM2NA&oe=65CCA604"
+      },
+      {
+        "name": "SAN JOSE TV",
+        "uri": "wdNmvBtl25+H0RRgkLt8YRArymX05WjjQ6AoXYdQuzFv0CS1KHqO8ztMrBG/hI3caeOQC5B3HMPhPFrje2g56Q==",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5OtmcBh1ijLsUYOVFcK2zkuSLmfNmV-sXKbx_of3Vv5rCVEw5r15tl-_jM9JYSQc6Zwc&usqp=CAU"
+      },
+      {
+        "name": "TELESISTEMA",
+        "uri": "/6K8Z7Ipgmm7nx/TpAs27UUs4VaUmpP2vJWEFrgk/Gp+qS6GujILSHMdjG4fgOXAIhPfKF2XYnN+Uq1rgzaEFw==",
+        "icono": "https://serenotv.com/carga/2022/01/Canal-telesistema-en-vivo.jpg"
+      },
+      {
+        "name": "SANTA CRUZ TV",
+        "uri": "wdNmvBtl25+H0RRgkLt8YXtKO4h8tx3hEId/v+D5bk0P6s8HeRIreX9pIMf8wj6yIhPfKF2XYnN+Uq1rgzaEFw==",
+        "icono": "https://serenotv.com/carga/2022/01/Canal-santa-cruz-en-vivo.jpg"
+      },
+      {
+        "name": "ATB Digital Cochabamba",
+        "uri": "/6K8Z7Ipgmm7nx/TpAs27UUs4VaUmpP2vJWEFrgk/GqFztdTXJPK4c6KOxxO3mPSTZYN7r1cIkUdOvo9EaWdfg==",
+        "icono": "https://i.ibb.co/Kz6w87R/images-q-tbn-ANd9-Gc-Tdg-Z8-M1-TDPHl-SNydapbqj0-Wy-GE1u-Emw-OQh7-Ky-Ca-Uex-SR10r-IT9-GT37-OS560cx-PH.png"
+      },
+      {
+        "name": "TV MAS",
+        "uri": "v7wbLyI2aYLb7OQT5UmO5xrpfYRp3KQcAGqTLtzyZ9NJRX8ctkkUtsxelOtkG/3Nto045rz3w1NR2G+R7LhOLA==",
+        "icono": "https://latinartv.com/sites/default/files/logos/img_2_1692487244827.jpg"
+      },
+      {
+        "name": "TELE UNO",
+        "uri": "rP90CctON0bjoYhhB95/NjEr8xtA1I3Ce9YL6DyOuC9HwTEV9gNZZndvQjv/9aEIRBWq5aifGL0+UoOUEZ8Bwg==",
+        "icono": "https://pbs.twimg.com/profile_images/626211824451457024/jq6sU9MX_400x400.png"
+      },
+      {
+        "name": "MULTIMEDIOS",
+        "uri": "LiKVXD1rvQ31H72wbGhQ0o95+kXTT60s3lhRlMlSxQTzD+LQWaB1ZmntxgjC/gvm+Z1xpPR10nJT6LAol4TdM5RgGSBR6+7NLD1u67DaGCM=",
+        "icono": "https://pbs.twimg.com/profile_images/1510311834800246787/sfWgWmqk_400x400.jpg"
+      }
+    ]
+  },
+  {
     "name": "BOLIVIA",
     "samples": [
       {
