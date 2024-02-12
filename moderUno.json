@@ -87,6 +87,11 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "TQSPBT5fFAmrHLJIeXbfeYWilHZkuMOHLwKPdaZoJekFzeo8gUIZdvMseE8Qxlgw56LkpEj13idhIDlTlNOU9UjzVzEhFpUdtdj0Ml18KsCc5zw4ELKF4ei3qQLIDXGmBfyUaPzYI4aiQsWDIDzthg==",
         "icono": "https://i.ibb.co/ScjYgWj/Logo-Canal26.jpg"
+      },
+      {
+        "name": "IP noticias",
+        "uri": "32la4qC8e9PN7GfAyzzbkcKJOjkCtFxEcaC2tCawXxrE6OHe7TDCqSgdyueqH2I3Bd/L7NHfAUqA35vx3cjTAsxoxStZhJUzf5Eb4GS9cpY96u9aokJkex1H0Pr3Fpoy",
+        "icono": "https://appnew.megainfoapp.com/files/1/IP%20Noticias.jpg"
       }
     ]
   },
@@ -388,11 +393,17 @@
         "icono": "https://i.ibb.co/ScjYgWj/Logo-Canal26.jpg"
       },
       {
+        
         "name": "BRAVO TV",
         "uri": "KusJ5ShfomSLrFIJxHev/lZUC6R71wyEykNA2u1z8lCXfymEfZKVjJaXPcutg/lMILf3YP9cCfhXIP53NOVq0KTxB8/PhtREGUITeNL6Ch8SXTlMJk27zPIk17nibqS+",
         "drm_scheme": "clearkey",
         "drm_license_uri": "TQSPBT5fFAmrHLJIeXbfeS580kgTRX2rSMaKkkFvbG1bM1BHvnNWOjqL0qSpJcB/O6CVsMCy/XiS3zG66Apass+IIWnYjLaimiRKlN02R8qKrGs5dSG/SYWuPqGWpKQk/oyYh8CjSWMaP4LJaEja7g==",
         "icono": "https://i.ibb.co/5nJff9s/cronica-Bravo-TV.jpg"
+      },
+      {
+        "name": "IP noticias",
+        "uri": "32la4qC8e9PN7GfAyzzbkcKJOjkCtFxEcaC2tCawXxrE6OHe7TDCqSgdyueqH2I3Bd/L7NHfAUqA35vx3cjTAsxoxStZhJUzf5Eb4GS9cpY96u9aokJkex1H0Pr3Fpoy",
+        "icono": "https://appnew.megainfoapp.com/files/1/IP%20Noticias.jpg"
       },
       {
         "name": "ARGENTINISIMA SATELITAL",
