@@ -1,6 +1,6 @@
 [
   {
-    "name": "SOLO EVENTOSS",
+    "name": "🏆 EVENTOS",
     "samples": [
       {
         "name": "⚽️futbol py",
@@ -20,7 +20,7 @@
     ]
   },
   {
-    "name": "🌍TV NOTICIAS",
+    "name": "🌎 NOTICIAS",
     "samples": [
       {
         "name": "DW: ACTUALIDAD",
@@ -96,7 +96,7 @@
     ]
   },
   {
-    "name": "⚽PACK FUTBOL ARGENTINO",
+    "name": "⚽ PACK FUTBOL ARGENTINA",
     "samples": [
       {
         "name": "Deportivo Cali (COL) vs. Cerro Porteño (PAR)",
@@ -134,7 +134,7 @@
     ]
   },
   {
-    "name": "⚽DEPORTES",
+    "name": "⚽ DEPORTES",
     "samples": [
       {
         "name": "TNT SPORT HD",
@@ -291,23 +291,8 @@
     ]
   },
   {
-    "name": "TV ARGENTINA",
+    "name": "📺 ARGENTINA",
     "samples": [
-      {
-        "name": "GH EN PRUEBA",
-        "uri": "GKOU0tgJ51o/DjOXTEVtcJDRb4aoJkJ/DZ3Q2o7aq2yPU/7ieR/TrLEjNH++xFKXPElQYR3e2K4pE3zypUnxNHo33SQgvS8bwNtWzEoVHxBbrNJWgG25yGFIP4Z+vYM5lGAZIFHr7s0sPW7rsNoYIw==",
-        "icono": "https://www.rionegro.com.ar/wp-content/uploads/2022/06/62b31c1834da2_900.jpg"
-      },
-      {
-        "name": "GH EN PRUEBA 2",
-        "uri": "GKOU0tgJ51o/DjOXTEVtcJDRb4aoJkJ/DZ3Q2o7aq2yPU/7ieR/TrLEjNH++xFKXTkCIfQSfgmxxzMtmEYe4txmkI+nAaAfkCys4YfgYxr8VEFN/6dg70/waKzF6guNz",
-        "icono": "https://www.rionegro.com.ar/wp-content/uploads/2022/06/62b31c1834da2_900.jpg"
-      },
-      {
-        "name": "GH EN PRUEBA 3",
-        "uri": "GKOU0tgJ51o/DjOXTEVtcJDRb4aoJkJ/DZ3Q2o7aq2yPU/7ieR/TrLEjNH++xFKXTkCIfQSfgmxxzMtmEYe4tyIXGx3sb4GR4/RCj4di6h3NYgKAOW2OJq4fqqKAGR5I",
-        "icono": "https://www.rionegro.com.ar/wp-content/uploads/2022/06/62b31c1834da2_900.jpg"
-      },
       {
         "name": "TELEFE",
         "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmIZ6OOECC0MbUtJngdTvXN9PnuoXPapQmGbMzcf+K9d3V7zIiSOPDW9D+FzWdAO0pz/X3YlT9O2aqNnt/SFCAYS",
@@ -446,7 +431,7 @@
     ]
   },
   {
-    "name": "INTERIOR DE ARGENTINA",
+    "name": "📺 INTERIOR DE ARGENTINA",
     "samples": [
       {
         "name": "CANAL 12 MISIONES",
@@ -598,6 +583,11 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "TQSPBT5fFAmrHLJIeXbfeTxna88WBpHQymuM0nV6q24WRasXDL5hnhRlLbJ8BTD5jVgFIIvrwikB/smkTpgGBWYVFQXy5MoeeyIc9kuj0blAm8UuoFTk1n/SS1PKWh+i0G1QswV6K1YEJBYHr8F16555MAJon6lOaoZOR8mhMec=",
         "icono": "https://i.ibb.co/60sFBfY/og-image.jpg"
+      },
+      {
+        "name": "Canal 7 Neuquén",
+        "uri": "ilOZEuHGYrlxc4gD7mvcvfoi/zoblcmTk1LJGKC78Kl/06qBpMAwHlTzBD5SZjfqz0UqA2G1g7vQTyhbk9OIrJ5lDW5QTfR0ZVsCHdeEgAt2BTmYAa0QSE7BwaoYKp1A",
+        "icono": "https://static.wikia.nocookie.net/logopedia/images/2/20/Telefe_Neuqu%C3%A9n_2001.png/revision/latest?cb=20200304143345"
       },
       {
         "name": "Canal 8 San Juan",
@@ -768,7 +758,7 @@
     ]
   },
   {
-    "name": "🍿PACK-HBO-UNIVERSAL",
+    "name": "🍿 PACK HBO & UNIVERSAL",
     "samples": [
       {
         "name": "HBO",
@@ -888,7 +878,7 @@
     ]
   },
   {
-    "name": "CINES-SERIES",
+    "name": "📺 CINE & SERIES",
     "samples": [
       {
         "name": "GOLDEN PLUS",
@@ -1116,7 +1106,7 @@
     ]
   },
   {
-    "name": "👩‍👦‍👦CANALES INFANTILES",
+    "name": "👨‍👩‍👦 INFANTILES",
     "samples": [
       {
         "name": "Cartoonito",
@@ -1187,7 +1177,7 @@
     ]
   },
   {
-    "name": "📚CULTURA",
+    "name": "📚 CULTURA",
     "samples": [
       {
         "name": "HISTORY",
@@ -1276,7 +1266,7 @@
     ]
   },
   {
-    "name": "🙍🏻‍♀️TV NOVELAS",
+    "name": "📺 NOVELAS",
     "samples": [
       {
         "name": "TLN",
@@ -1315,7 +1305,7 @@
     ]
   },
   {
-    "name": "🍿SERIES ANIMADAS 24/7",
+    "name": "🍿 SERIES ANIMADAS 24/7",
     "samples": [
       {
         "name": "Alf",
@@ -1750,7 +1740,7 @@
     ]
   },
   {
-    "name": "🍿Pluto TV",
+    "name": "🍿 PLUTO",
     "samples": [
       {
         "name": "Guía de canales",
@@ -1975,7 +1965,7 @@
     ]
   },
   {
-    "name": "TV PARAGUAY",
+    "name": "📺 PARAGUAY",
     "samples": [
       {
         "name": "SNT",
@@ -2111,7 +2101,7 @@
     ]
   },
   {
-    "name": "URUGUAY",
+    "name": "📺 URUGUAY",
     "samples": [
       {
         "name": "CANAL 10",
@@ -2170,7 +2160,7 @@
     ]
   },
   {
-    "name": "BRASIL",
+    "name": "📺 BRASIL",
     "samples": [
       {
         "name": "TVAFOLHA",
@@ -2290,7 +2280,7 @@
     ]
   },
   {
-    "name": "COSTA RICA",
+    "name": "📺 COSTA RICA",
     "samples": [
       {
         "name": "SMART FUTBOL",
@@ -2380,7 +2370,7 @@
     ]
   },
   {
-    "name": "BOLIVIA",
+    "name": "📺 BOLIVIA",
     "samples": [
       {
         "name": "RedADvenir Bolivia",
@@ -2440,7 +2430,7 @@
     ]
   },
   {
-    "name": "🎵Canales de Musica radios",
+    "name": "🎼 MUSICA & RADIOS",
     "samples": [
       {
         "name": "MTV HITS",
