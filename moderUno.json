@@ -429,6 +429,11 @@
         "icono": "https://scontent.feze7-2.fna.fbcdn.net/v/t1.6435-9/41450644_1793624647402564_7510341098397499392_n.png?_nc_cat=111&ccb=1-7&_nc_sid=7a1959&_nc_ohc=JSHwX6H5H_4AX8-OZUj&_nc_ht=scontent.feze7-2.fna&oh=00_AfA3J1t64ONKMwyRDjTrQQH_FvzfU-YHbJROe2tLMB8N0g&oe=65D75E04"
       },
       {
+        "name": "Telenord Corrientes",
+        "uri": "5FZ8YaL1kQ3HhE0ml0Uf5KtbSUGapjeuay8CXTxtt9RAzVQJV7FQt87+yKqJQ2yr/eAATSM6oLMxgoCDwVaeZQ==",
+        "icono": "https://i.imgur.com/byxXHzq.png"
+      },
+      {
         "name": " TV Dos Salta | AR",
         "uri": "bak6bVcZjlSIPvXt5mEKlDYQDg99z4fZsqdUtw2e8KxTi9sK2AqxRAddoVaRat2JY4EEXMxQ3vIoQXjf+tjyBAOIE3eKoyp/H0Wz51lVrt8=",
         "icono": "https://pbs.twimg.com/profile_images/1684197718392967170/CwgHsyRG_400x400.jpg"
@@ -452,6 +457,16 @@
         "name": "Canal 9 Mendoza",
         "uri": "8ZJw0UUv0Xe/ExtodpANumJ93vhHcVXcUFVrhh+95S3Zmu72k31JxKqGHMale+nkDS3fM3XoIDXLBEJUA26ETCyyB5kp0iYXuabRPElBjgvc0ch4/mHEDZCGvkJbn1tjto045rz3w1NR2G+R7LhOLA==",
         "icono": "https://yt3.googleusercontent.com/tkzx62qTBGx0M7IGlag3ehgwm29hH14EhsPBpfT1OgOrt7o0XBteV2kpmhVvmekbyoYfwzECtw=s900-c-k-c0x00ffffff-no-rj"
+      },
+      {
+        "name": "Ciudad TV Resistencia (Chaco)",
+        "uri": "+Z2+hWd52l8tnz3QKAcg7rJ4HR8kNFVr8tfh9jtAJp07vgdDOjf00gOyHwE9aEj4to045rz3w1NR2G+R7LhOLA==",
+        "icono": "https://i.imgur.com/oL8SMTL.png"
+      },
+      {
+        "name": "CPEtv",
+        "uri": "ilOZEuHGYrlxc4gD7mvcvRDJgcVmEzF/XsQcdaB7+fCkcWsl4IUWcwi2B4H14P7Y+/fNBIYZeO3AaS44sWmCpQ==",
+        "icono": "https://i.imgur.com/zFgbobO.png"
       },
       {
         "name": "CANAL-7-SALTA",
@@ -678,6 +693,11 @@
         "icono": "https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/09/Canal-10-Cordoba-en-vivo-Online.png?resize=696%2C392&ssl=1"
       },
       {
+        "name": "La Voz de Tucumán",
+        "uri": "xdWTmZoBK7zXb2o4hI/6dXZtj0tQ0aRnNCoOGf9ZdaEkdPvnWJKuJAl/IH/VlyX2aTFlpNfzJmxb2R/w1Qgzcvv3zQSGGXjtwGkuOLFpgqU=",
+        "icono": "https://i.imgur.com/k2r7IeQ.png"
+      },
+      {
         "name": "Chaco TV (720p)",
         "uri": "kL+KOO+fJ/0FD/ErnhwAKhTS6iKflSQCxNXT7ysfWP9j8OMhw3RU5y+wJ1+nUwqPm4P6fkG/vzI+8VIDLQE+FQ==",
         "icono": "https://barranquerasonline.com.ar/wp-content/uploads/2018/05/unnamed.jpg"
@@ -875,6 +895,16 @@
   {
     "name": "📺 CINE & SERIES",
     "samples": [
+      {
+        "name": "Kanal D Drama ",
+        "uri": "eHkRgDAOwOjHg260FkZpTNtTfMkpED2/bMyV90L/u5G5J1WA1q7nnuEDCelFkffStbbgq05hle9rWgpTAEl1MUPU58eqfOhPFXFTN507k7AasAGdjLnTAzhSRuEtGB1em2FSVaCR4wsuPIumsFqKRg==",
+        "icono": "https://i.imgur.com/WIeZMKT.png"
+      },
+      {
+        "name": "Filmstream",
+        "uri": "EArtWwYiFmBMqHLEuDJ1Ij1kC9322IFH3GY6G+RRPYXDJ/VxZuV2ryxiIxyn2ja8+/fNBIYZeO3AaS44sWmCpQ==",
+        "icono": "https://i.imgur.com/DTRPV6B.png"
+      },
       {
         "name": "GOLDEN PLUS",
         "uri": "1TOBYmBE8hdaxWw8rCUzPI0VCurphHD6kxIIMOH3vjLWjz3BA65T1h1KWcXmjeqJd6mrT33iior1kEq5RZYO4/v3zQSGGXjtwGkuOLFpgqU=",
@@ -1302,6 +1332,11 @@
   {
     "name": "🍿 SERIES ANIMADAS 24/7",
     "samples": [
+      {
+        "name": "MAX Anime",
+        "uri": "xEGdckf6e6R1cuqw5ro+r8okoKZIVfzW2+t3QsPZXM0yw1+syeyvCDjhKXZuG5+TWgt1r0tG91cGUvjS8VNxpvIKEJm/dObNvD60tJbB4SloqZN6Am2G3IzvPX3GkiBS",
+        "icono": "https://i.imgur.com/Oj3hEBh.jpg"
+      },
       {
         "name": "Alf",
         "uri": "w4Pgo8FGwSoQJBfmvmQPeoIWAjDJ4F2Z7gwGQBme+Z2DQEVaEFpm2y1HhTJoBy2v",
