@@ -579,7 +579,7 @@
       },
       {
         "name": "Canal 8 San Juan",
-        "uri": "uQqMOW5ZK9orEx4xMTemyLqb3nrKJjRCphW3ZS275i6C9ZTZXNmQQcYWl8P499NFJcdvGdzTaKgxovb+sJaUAqyCZDtNnAiLXftlt5QzeDmoSPkCriXjbDproTrYo6W1",
+        "uri": "LQ53tXTVsIUqMAbWDNzqT0OZcjfbneDolKRaAPf/wWnQv4/YcnetycNoP9KG98ldC7r5s8RYTSp0hOyamml57sm3918t5YD0IHVPn4xPtgY=",
         "icono": "https://static.tvar.io/imagenes/canalochosanjuan.png"
       },
       {
@@ -591,6 +591,16 @@
         "name": "CANAL 4 JUJUY",
         "uri": "5tQn0qO4lqOvTpcynZBBuOG4XjmDqedyIsOFhdcZJP7sTWSrjAjVbXsIKYj23XPKniK2iK4w6xDR3Z6trNxVyJuD+n5Bv78yPvFSAy0BPhU=",
         "icono": "http://static.tvar.io/imagenes/canal4jujuy.png"
+      },
+      {
+        "name": "Canal 79 San Juan",
+        "uri": "31VBNd9Y29PlHTZSxLfOFSdv5qsZczfOvt+w4iElRcrDBz3ATFLdSQAL5udfzG7/lGAZIFHr7s0sPW7rsNoYIw==",
+        "icono": "https://i.imgur.com/HYuSqJy.png"
+      },
+      {
+        "name": "Catamarca TV ",
+        "uri": "ilOZEuHGYrlxc4gD7mvcvbxhxN9McH8MNIAQTiR/UEvi2bc/evevids0ixbAI1OjhoAbdKUD85a8JuwoYCRnbYYMhj9XL3TuDijk3OB6dXlY1VO2/2RCHB613wENxInX",
+        "icono": "https://i.imgur.com/CEuPoqG.png"
       },
       {
         "name": "RTV Neuquen",
