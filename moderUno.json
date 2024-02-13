@@ -1966,7 +1966,7 @@
         "name": "TELEFUTURO",
         "uri": "x/xWkNrovMYmGeIV76G4pOWzEePFvZC2/a11JIOm1xILy6lgTg82e/lNkYWrQirdNax8BtIxs644Ae7NEnLoU6wuGWEd8Coo5YGZqsOKEnq9hIoYvk8umhWYnEyGD00i",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "TQSPBT5fFAmrHLJIeXbfeZQwUNwF+e/4RKdJClQ864TIksWK1r0Hp6d10FMtcuLoM5zpF31RdAQLc7obYVOlQA==",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/51wbedsjyw396ggyw4p3g/key.telefuturo.json?rlkey=ilfqhpg8pldcan6ilwv10p9gc&dl=0",
         "icono": "https://i.ibb.co/NjymhsW/FFFF.jpg"
       },
       {
@@ -2020,11 +2020,6 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "TQSPBT5fFAmrHLJIeXbfeXzK+6X0ykEE2vE81l5QegKV7xKAeNQ2R0yXeZFwMrWz6JPeE5B7ZeGNAD6iP6JDO5f/yDffvVC2yohgJfdx2KWV7eXk8Z1XHoAtMeD2UI5n5HGNyMXzx7g11vvaohglfw==",
         "icono": "https://i.ibb.co/Pg6v5zn/images.png"
-      },
-      {
-        "name": "RTV",
-        "uri": "K/+PF7QWdTmYHq1rhWtL+5Eq208QbwzaAU6BxwyIGISS0GpBxAnZQgF9e69vEUfwHU3RQjtTl1kJHosl6KLZ4Pv3zQSGGXjtwGkuOLFpgqU=",
-        "icono": "https://i.ibb.co/pZtCLv5/descarga-1.jpg"
       },
       {
         "name": "SURTV",
@@ -2104,11 +2099,6 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvB4Yq90lvZ/zVU5WgueYjdcbIB7Ikse1hxz0WUTwjfrbEBUAQQ6t2cxW0aOykdH6kOlMP2nD9tpR079QPwfhdUPpToqiPUFYjYhGW/yZBJP9wzkyo46b6Zrhjk7LSCq2Hg==",
         "icono": "https://static.tvar.io/imagenes/canal4uy.png"
-      },
-      {
-        "name": "LA RED",
-        "uri": "zE2xCI8RkYUlt/FDSKhNkMauJxz4QSzhzWUjKpcCb+ZX/h+pyktwEiG356Lnpi72IhPfKF2XYnN+Uq1rgzaEFw==",
-        "icono": "https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/08/La-Red-Tv-Uruguay-en-vivo-Online.png"
       },
       {
         "name": "TELEDOCE",
@@ -2393,27 +2383,12 @@
       {
         "name": "FTV Red Nacional",
         "uri": "StQm6kWa9/O/XV5ESMY1+6Le2a2nzQom5nMJLjUSPm6TF4qYoBijfDkKK+t7Z6qp",
-        "icono": "https://i.ibb.co/Prct1gv/hqdefault.jpg"
-      },
-      {
-        "name": "MegaTV",
-        "uri": "TDZs2gLUY+OVgbee8LxG87ZyIRbClRvL7Ae6ng7ipGbpx7O2pi9TGIs7nbYi1ZEklKwpOJ9dOAMmS6r2x2hyXoNARVoQWmbbLUeFMmgHLa8=",
-        "icono": "https://www.coolstreaming.us/img/ch/ima19723624875.jpg"
-      },
-      {
-        "name": "Erbol",
-        "uri": "UrXXoncrTbSMU+f458C1QZcsoMv+uz1YHNFtZL2EE/lTcps67rdvJbIvSbzB/nRH1juQALIBjZ2VypJCu8FirA==",
-        "icono": "https://cdn.bolivia.com/canales/-3459.jpg"
+        "icono": "https://i.ibb.co/Prct1gv/hqdefault.jpg""
       },
       {
         "name": "TVLATINA",
         "uri": "StQm6kWa9/O/XV5ESMY1+9tkQ17kNKAtK55WKIb5D9KfZKDI2PeYqmhJC78jOcS8mkPf3heKIkdgC19v25yNTA==",
         "icono": "https://i.ibb.co/QDcfX4Y/1691081718835.jpg"
-      },
-      {
-        "name": "Red Uno",
-        "uri": "TT4eToCYh/wO0f63bVncAMNWQK6k2LHvdyDopbrri9x1t4+xtrplXPouRcpM20ksEyg+ic9BuT421VzFwVlGP4E84BaDSmPJN26XQNv7puffKqRyyWpnYn7KaRh33Kfqq4Udg42UodpTc0kERuabsXBTQuv7CNjhNfH1mE3SjpqQtqhU10a4ADxaxzL3mNO4",
-        "icono": "https://static.wikia.nocookie.net/logopedia/images/a/af/Red_UNO_1985-0.png"
       }
     ]
   },
