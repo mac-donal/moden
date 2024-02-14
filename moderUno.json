@@ -90,8 +90,10 @@
       },
       {
         "name": "IP noticias",
-        "uri": "32la4qC8e9PN7GfAyzzbkcKJOjkCtFxEcaC2tCawXxrE6OHe7TDCqSgdyueqH2I3Bd/L7NHfAUqA35vx3cjTAsxoxStZhJUzf5Eb4GS9cpY96u9aokJkex1H0Pr3Fpoy",
-        "icono": "https://appnew.megainfoapp.com/files/1/IP%20Noticias.jpg"
+        "uri": "kLzT+cququRriT9kOdZAbLuPtqzMT0qIkYh8yAG147CFsoU+pe2m6AlG+tL/abeDPSx/53fEWHTb/0oEIa1s7CQ0P6+Lor1UcDZ2aAkZNv+yF5Hadv27WU/IumRLKAy82jxdt0Z+Uy9DVXtAyIEbUNhoD0Xk8Ryx5qTOdUAgczA=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvFJU7OeYPqpRnHXx6hX0ilnbI7gWGdNpr6z0vuDRQc8aNG1OSBi54LwMojN9vB8TgZb1fcWMT9FqIXSoGro6YY7JHny5Ept2vEPMBuRQqzUUabgy5Pi3qZYIw5F+E9C88w==",
+        "icono": "https://i.ibb.co/GQ6LCnV/share.png"
       }
     ]
   },
@@ -378,9 +380,11 @@
         "icono": "https://i.ibb.co/5nJff9s/cronica-Bravo-TV.jpg"
       },
       {
-        "name": "IP noticias",
-        "uri": "32la4qC8e9PN7GfAyzzbkcKJOjkCtFxEcaC2tCawXxrE6OHe7TDCqSgdyueqH2I3Bd/L7NHfAUqA35vx3cjTAsxoxStZhJUzf5Eb4GS9cpY96u9aokJkex1H0Pr3Fpoy",
-        "icono": "https://appnew.megainfoapp.com/files/1/IP%20Noticias.jpg"
+        "name": "CANAL IP",
+        "uri": "kLzT+cququRriT9kOdZAbLuPtqzMT0qIkYh8yAG147CFsoU+pe2m6AlG+tL/abeDPSx/53fEWHTb/0oEIa1s7CQ0P6+Lor1UcDZ2aAkZNv+yF5Hadv27WU/IumRLKAy82jxdt0Z+Uy9DVXtAyIEbUNhoD0Xk8Ryx5qTOdUAgczA=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvFJU7OeYPqpRnHXx6hX0ilnbI7gWGdNpr6z0vuDRQc8aNG1OSBi54LwMojN9vB8TgZb1fcWMT9FqIXSoGro6YY7JHny5Ept2vEPMBuRQqzUUabgy5Pi3qZYIw5F+E9C88w==",
+        "icono": "https://i.ibb.co/GQ6LCnV/share.png"
       },
       {
         "name": "ARGENTINISIMA SATELITAL",
@@ -1151,9 +1155,11 @@
     "name": "👨‍👩‍👦 INFANTILES",
     "samples": [
       {
-        "name": "Cartoonito",
-        "uri": "32la4qC8e9PN7GfAyzzbkcKJOjkCtFxEcaC2tCawXxrE6OHe7TDCqSgdyueqH2I3Bd/L7NHfAUqA35vx3cjTAvi5FjYNeeN0lqoXfRwniMAaBc3AjG790yNjSLL47/WgaeOQC5B3HMPhPFrje2g56Q==",
-        "icono": "https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/638e566adca18a92729a00d3_cartoonito.jpg"
+        "name": "CARTOONITO",
+        "uri": "kLzT+cququRriT9kOdZAbLuPtqzMT0qIkYh8yAG147DIPZYPOhQ45drhIWQP677HRyqNOMRT+g2LboJW9/0twCMmIlECSIhMyGD2AXJQoxfLqRGdipAmdVUEYSz87+0n",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvN3jFXCMLWV4o9FyyY3EN2Bnehfl5FVie2JIssXJH63pH5boFptwNCTJt2DnkSnskoySt5EDMBkSsGxGV/dknWK3HjmCuMYbEIBiegNGd+sPYYm4dnxt2hy/yNwYJhb79g==",
+        "icono": "https://logowik.com/content/uploads/images/7354-cartoonito.webp"
       },
       {
         "name": "PAKA PAKA",
@@ -2216,7 +2222,7 @@
       },
       {
         "name": "CNN Brasil",
-        "uri": "F/oscLXxg9wOZ2xPb/4BZv3Qlk6hwHRs23XhaaWjiUoBJd2TkLxa7Zn1ZT9H/z82Hqc7xFdjhUTjXI/y9/wo4lBPmXO9JffXXTPGvATEq7o=",
+        "uri": "uQqMOW5ZK9orEx4xMTemyLqb3nrKJjRCphW3ZS275i58Uf3Jx6fyOraF2BNJAx++8MFaXcxC3HtMqNLN60c8TNRn/NJ3BAjM/FdVVccWLoSGDQw05Degfqin+Oj5Aukg",
         "icono": "https://play-lh.googleusercontent.com/8ch6kAhf2Ydd34PPqtOGh-troE-Zee9LxH-xZVlZml7YwNGyA1Nq2xXER-84CZHmoNyw"
       },
       {
