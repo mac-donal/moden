@@ -825,6 +825,13 @@
       },
       {
         "name": "UNIVERSAL CINEMA",
+        "uri": "d+ZE0K9heiaiwdSYKfaXSl7IPfFXiOKWPXorAHM6wIYaKNytob64Kkd5rG+Mq5GjnEjZEQpYhVEgfu5N+AFwH4HV+Q6beXrG0Ognt9ghymU=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvP2YKlfjcIzLyafalMOWlDUTdse8Shf4nmqrnIbEGDRYAEF9NvguB6evusUfSkPfvsgm2TwK97HCNbGt5ZhTtmhIQtvWr+xJkS5YqGy3Iv5cZrobHiaD360MsO89lswE4Q==",
+        "icono": "https://panelssh.com.ar/Img/universalcinema.png"
+      },
+      {
+        "name": "UNIVERSAL CINEMA  OPC 2",
         "uri": "Y7P5Dawn1IhZOPjAmE5MOX4TFw8fVpoQCSBjpchCmT7bdzigR0YMfxZlLMn39YP0",
         "icono": "https://panelssh.com.ar/Img/universalcinema.png"
       },
