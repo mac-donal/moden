@@ -392,6 +392,11 @@
     "name": "🇦🇷 ARGENTINA",
     "samples": [
       {
+        "name": "GH twi",
+        "uri": "uQqMOW5ZK9orEx4xMTemyLqb3nrKJjRCphW3ZS275i58Uf3Jx6fyOraF2BNJAx++SW/SwenVWAR6+tV2b5Ti6xNjN1MolfcUcHz/ZZXggo0=",
+        "icono": "https://media.infocielo.com/p/d7b6f19849cd20bab059321254aa6485/adjuntos/299/imagenes/001/519/0001519763/1200x675/smart/gran-hermanopng.png"
+      },
+      {
         "name": "TELEFE",
         "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmIZ6OOECC0MbUtJngdTvXN9PnuoXPapQmGbMzcf+K9d3V7zIiSOPDW9D+FzWdAO0pz/X3YlT9O2aqNnt/SFCAYS",
         "drm_scheme": "clearkey",
