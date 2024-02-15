@@ -286,109 +286,6 @@
     ]
   },
   {
-    "name": "⚽ DAZN",
-    "samples": [
-      {
-        "name": "DAZN  1  UK",
-        "uri": "XPOuvmv5kgzGYfi9SQEEEKgNozSNEoSgPtL6Jy9l01j0fPrwtc4I668mHz68fpEQKtHw6ANpvSfncHnSzpP1Taa7uZqa7lDh9shAEIQMXYU=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvLHudaVzUPqNg/MVA2118Rwai2XXTb/WrPtAuJsIxMoYJX6sHgnyqDh7uofooBiHqhWVvxhRqPQqe7nC3lRkO0+b1SRupKGzFUqg/WXCKwVAMny0mT87SmQhARzx7E3rOA==",
-        "icono": "https://i.ibb.co/sqWXzxk/unnamed-2.png"
-      },
-      {
-        "name": "DAZN  1  DE",
-        "uri": "XPOuvmv5kgzGYfi9SQEEEKgNozSNEoSgPtL6Jy9l01j0fPrwtc4I668mHz68fpEQjoRCmG8GSQtBDTBQg4UOo6a7uZqa7lDh9shAEIQMXYU=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvLHudaVzUPqNg/MVA2118Rwai2XXTb/WrPtAuJsIxMoYJX6sHgnyqDh7uofooBiHqhWVvxhRqPQqe7nC3lRkO0+b1SRupKGzFUqg/WXCKwVAMny0mT87SmQhARzx7E3rOA==",
-        "icono": "https://i.ibb.co/sqWXzxk/unnamed-2.png"
-      },
-      {
-        "name": "DAZN  2  DE",
-        "uri": "XPOuvmv5kgzGYfi9SQEEEKgNozSNEoSgPtL6Jy9l01j0fPrwtc4I668mHz68fpEQuEb9FdPClmTypMfem/qLuaa7uZqa7lDh9shAEIQMXYU=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0",
-        "icono": "https://i.ibb.co/wsFdGGn/dazn2.png"
-      },
-      {
-        "name": "DAZN  1  ES",
-        "uri": "XPOuvmv5kgzGYfi9SQEEEKgNozSNEoSgPtL6Jy9l01j0fPrwtc4I668mHz68fpEQ8etneOzydZb5uWFy0da1Maa7uZqa7lDh9shAEIQMXYU=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvLHudaVzUPqNg/MVA2118Rwai2XXTb/WrPtAuJsIxMoYJX6sHgnyqDh7uofooBiHqhWVvxhRqPQqe7nC3lRkO0+b1SRupKGzFUqg/WXCKwVAMny0mT87SmQhARzx7E3rOA==",
-        "icono": "https://i.ibb.co/sqWXzxk/unnamed-2.png"
-      },
-      {
-        "name": "DAZN  2  ES",
-        "uri": "XPOuvmv5kgzGYfi9SQEEEKgNozSNEoSgPtL6Jy9l01j0fPrwtc4I668mHz68fpEQVdaiXI22wnlQP/2klVmJ4aa7uZqa7lDh9shAEIQMXYU=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvLHudaVzUPqNg/MVA2118Rwai2XXTb/WrPtAuJsIxMoYJX6sHgnyqDh7uofooBiHqhWVvxhRqPQqe7nC3lRkO0+b1SRupKGzFUqg/WXCKwVAMny0mT87SmQhARzx7E3rOA==",
-        "icono": "https://i.ibb.co/wsFdGGn/dazn2.png"
-      },
-      {
-        "name": "DAZN F1",
-        "uri": "XPOuvmv5kgzGYfi9SQEEEKgNozSNEoSgPtL6Jy9l01j0fPrwtc4I668mHz68fpEQDOiFUe0KjWU2RqvgiPPBwqa7uZqa7lDh9shAEIQMXYU=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvLHudaVzUPqNg/MVA2118Rwai2XXTb/WrPtAuJsIxMoYJX6sHgnyqDh7uofooBiHqhWVvxhRqPQqe7nC3lRkO0+b1SRupKGzFUqg/WXCKwVAMny0mT87SmQhARzx7E3rOA==",
-        "icono": "https://i.ibb.co/bF51zms/1200px-DAZN-F1-logo-svg.png"
-      },
-      {
-        "name": "LA LIGA",
-        "uri": "XPOuvmv5kgzGYfi9SQEEEKgNozSNEoSgPtL6Jy9l01j0fPrwtc4I668mHz68fpEQ5zgjnptWO3pQ5J2xT9cHQqa7uZqa7lDh9shAEIQMXYU=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvLHudaVzUPqNg/MVA2118Rwai2XXTb/WrPtAuJsIxMoYJX6sHgnyqDh7uofooBiHqhWVvxhRqPQqe7nC3lRkO0+b1SRupKGzFUqg/WXCKwVAMny0mT87SmQhARzx7E3rOA==",
-        "icono": "https://i.postimg.cc/vHVLWDcS/DAZN-LA-LIGA.png"
-      },
-      {
-        "name": "LALIGA TV",
-        "uri": "LGwy1csk4lpsIUQmvpOTVb5fkRc0NFhjNrZgzDX8cEqKb3EPuUjQx2OQ5V/IklPLllhYWiqh9kymsnmfEtBOqg==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "TQSPBT5fFAmrHLJIeXbfeZq+C1rzjTZHWmUKrLnA6pRzQf65HKTucmxE4guAA4f45/tvsSb1/bJfzEZXfADM3BzlnNDdr1bBUENogv8J2ckxGCcpCaBuGXXje6jQcR65PpgbCgfd06QSudDSOTwAjw==",
-        "icono": "https://i.ibb.co/HDqc38p/LaLigaTV.png"
-      },
-      {
-        "name": "DAZN  ELEVEN  1",
-        "uri": "XPOuvmv5kgzGYfi9SQEEEKgNozSNEoSgPtL6Jy9l01j0fPrwtc4I668mHz68fpEQW03lRxaquTxEUFIgdC3vuaa7uZqa7lDh9shAEIQMXYU=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvLHudaVzUPqNg/MVA2118Rwai2XXTb/WrPtAuJsIxMoYJX6sHgnyqDh7uofooBiHqhWVvxhRqPQqe7nC3lRkO0+b1SRupKGzFUqg/WXCKwVAMny0mT87SmQhARzx7E3rOA==",
-        "icono": "http://78.47.174.211/logos/elevensports1.png"
-      },
-      {
-        "name": "DAZN  ELEVEN  PRO  1  NL",
-        "uri": "XPOuvmv5kgzGYfi9SQEEEKgNozSNEoSgPtL6Jy9l01j0fPrwtc4I668mHz68fpEQsUsr6CJ0L7Cu3bSOzKp6YKa7uZqa7lDh9shAEIQMXYU=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvLHudaVzUPqNg/MVA2118Rwai2XXTb/WrPtAuJsIxMoYJX6sHgnyqDh7uofooBiHqhWVvxhRqPQqe7nC3lRkO0+b1SRupKGzFUqg/WXCKwVAMny0mT87SmQhARzx7E3rOA==",
-        "icono": "https://i.ibb.co/cDqY46x/dazn-eleven-pro-1.png"
-      },
-      {
-        "name": "DAZN  ELEVEN  PRO 1  FR",
-        "uri": "XPOuvmv5kgzGYfi9SQEEEKgNozSNEoSgPtL6Jy9l01j0fPrwtc4I668mHz68fpEQ+qjlio8uhn8YXRs+BT1NS6a7uZqa7lDh9shAEIQMXYU=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvLHudaVzUPqNg/MVA2118Rwai2XXTb/WrPtAuJsIxMoYJX6sHgnyqDh7uofooBiHqhWVvxhRqPQqe7nC3lRkO0+b1SRupKGzFUqg/WXCKwVAMny0mT87SmQhARzx7E3rOA==",
-        "icono": "https://i.ibb.co/cDqY46x/dazn-eleven-pro-1.png"
-      },
-      {
-        "name": "ZONA DAZN",
-        "uri": "XPOuvmv5kgzGYfi9SQEEEKgNozSNEoSgPtL6Jy9l01j0fPrwtc4I668mHz68fpEQqsaP9qRRYqPFLQyhMPPQAaa7uZqa7lDh9shAEIQMXYU=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvLHudaVzUPqNg/MVA2118Rwai2XXTb/WrPtAuJsIxMoYJX6sHgnyqDh7uofooBiHqhWVvxhRqPQqe7nC3lRkO0+b1SRupKGzFUqg/WXCKwVAMny0mT87SmQhARzx7E3rOA==",
-        "icono": "https://i.ibb.co/gy0k2NC/ZonaDAZN.png"
-      },
-      {
-        "name": "UNBEATEN",
-        "uri": "XPOuvmv5kgzGYfi9SQEEEKgNozSNEoSgPtL6Jy9l01j0fPrwtc4I668mHz68fpEQIG/7IPL2A3NUlRvC4dwpRaa7uZqa7lDh9shAEIQMXYU=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvLHudaVzUPqNg/MVA2118Rwai2XXTb/WrPtAuJsIxMoYJX6sHgnyqDh7uofooBiHqhWVvxhRqPQqe7nC3lRkO0+b1SRupKGzFUqg/WXCKwVAMny0mT87SmQhARzx7E3rOA==",
-        "icono": "https://i.ibb.co/n3sjJ1d/unbeaten.png"
-      },
-      {
-        "name": "DAZN COMBAT",
-        "uri": "gQDxjp4cVlfjnSUCQyxxRUxlf0B36mSKeML7TpVE9mLlPquxY9sjF2pxjNAwAhfYt180qEbQJ71mSKWvfZX5roEibPvlJYxTNhfHx5+dqkI=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvJSUvy+mNCmlDnw1IRqEOFIOnsWvwjJR057sAEaOzQ9GkypIGf/9orSxb59jEH1uE19VXEZAlVswWlqDc8ZnwDOS4dFfBZImiUgtJanGnNTutUQm0TO31JwCCQ5gAWh01A==",
-        "icono": "https://i.ibb.co/vBWdVB3/combat.png"
-      }
-    ]
-  },
-  {
     "name": "🇦🇷 ARGENTINA",
     "samples": [
       {
@@ -682,7 +579,7 @@
       {
         "name": "Canal 10 Norte Visión Satelital",
         "uri": "bak6bVcZjlSIPvXt5mEKlDYQDg99z4fZsqdUtw2e8KyPF73IIGbZCQZzpmOFDrPEdzZnJuvVOUAjLW/lGskR1Q==",
-        "icono": "https://photos.live-tv-channels.org/tv-logo/norte-vision-satelital-4905-w360.webp"
+        "icono": "https://photos.live-tv-channels.org/tv-logo/norte-vision-satelital-4905-w360.webp" 
       },
       {
         "name": "ARGENTINISIMA SATELITAL",
