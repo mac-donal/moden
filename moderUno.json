@@ -988,7 +988,9 @@
       },
       {
         "name": "UNIVERSAL CINEMA  OPC 2",
-        "uri": "Y7P5Dawn1IhZOPjAmE5MOX4TFw8fVpoQCSBjpchCmT7bdzigR0YMfxZlLMn39YP0",
+        "uri": "x/xWkNrovMYmGeIV76G4pOWzEePFvZC2/a11JIOm1xIieviXfRoGOVJD7H5MHqdIsggW3BONRCKH84B5brfl0UlCLOrRtCRF7icQSm/0BgrEseVEn1JIzBUFibFKF2jJ"
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvLjEP7sSskk0GMtwi5d7uhEzM4KMeb40aOjSilf2FS4n3Lk83A6SBU4bwjDuEqeLybb4rIeTz6+sxsI3a3bDuKUYw9rmWMQRc8NyhWZaT+40Qs+pzu3VDlFWll4BD++QDg==",
         "icono": "https://panelssh.com.ar/Img/universalcinema.png"
       },
       {
@@ -1000,7 +1002,9 @@
       },
       {
         "name": "UNIVERSAL COMEDY OPC 2",
-        "uri": "Y7P5Dawn1IhZOPjAmE5MOX4TFw8fVpoQCSBjpchCmT5uXFXU6fAuDFK0MLjAVoN6",
+        "uri": "hgyLEf1obfi7e+6+kI5AQQaAYi2Y9Xnhr4accAf2TnSUmIfu5DmM7s1BXyRV/T/VsYsOioxCcn1Lz26MyV/dKOGdZeKGwTY2DyHKkA+1YB8iB9CGjYiRJhC2DIThV9md"
+        "drm_scheme": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvBokNTAs1nwS8zCpMY1dZ0UxLDoBOObphbJ1rcLgPwX++3NZAty6ar3tFvb3SwEEm+5MC1bAYEf2mhm5wQFNyMQ85PJAHf0BAaPwzbl/TmPkqxqwx5EyUxm8SVQ4aqpCOg==",
+        "drm_license_uri": "https://vercel-php",
         "icono": "http://static.tvar.io/imagenes/uncomedy.png"
       },
       {
@@ -1012,7 +1016,9 @@
       },
       {
         "name": "UNIVERSAL CRIME OPC 2",
-        "uri": "Y7P5Dawn1IhZOPjAmE5MOX4TFw8fVpoQCSBjpchCmT6rJ5MGqqE7ggAgrgc3wSBy",
+        "uri": "hgyLEf1obfi7e+6+kI5AQQaAYi2Y9Xnhr4accAf2TnTg6qK25TJrCOlVDtDEuC0SyP6SK7H9qmhlJw/5EIEoQ+ISFwSe3y0JhZv9RpTgAGlAwWU7mIzdgRPbpr1LHqne"
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvMYEkPzuj70OlUIDYZda55b/m1zWyvM/58Z5WnSXwQVRa5FTR6b2i89bd580ED+x30xs64Oj7Nzx2gLBwEufEeJTBgNUFwwPX69NTAKpfVQUqxqwx5EyUxm8SVQ4aqpCOg==",
         "icono": "http://static.tvar.io/imagenes/uncrime.png"
       },
       {
@@ -1024,7 +1030,9 @@
       },
       {
         "name": "UNIVERSAL PREMIERE OPC 2",
-        "uri": "5NS0G0hRHDKgCsRFe2Ntk2FjXZWcPTIKVfkvuEW7jPmOmwmLji24WyNJ7kTmGZBV",
+        "uri": "hgyLEf1obfi7e+6+kI5AQQaAYi2Y9Xnhr4accAf2TnR/x1FboExrlQFdSBvRdTolIDmkNC2aGI3zN1GoW3f4AJFtjSGDOVFkPT7JXOSyiWn8gMv37chprw9mrkAZakkv"
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvMbEbqaatV34QUY2RZyphfVfeVk9iwJqNubhhrqScuF0CefeUGkWEcpIGsYMn907+e3lVkT40ATnLOsMCCHHeEfRuFpljrTxJCGKLLObJAx84EVe020IUgo3F6y3UKEeVg==",
         "icono": "http://static.tvar.io/imagenes/unpremiere.png"
       },
       {
@@ -1036,7 +1044,9 @@
       },
       {
         "name": "UNIVERSAL REALITY OPC 2",
-        "uri": "5NS0G0hRHDKgCsRFe2Ntk2FjXZWcPTIKVfkvuEW7jPnWh1iYpHh+ua9jGpBiOPon",
+        "uri": "hgyLEf1obfi7e+6+kI5AQQaAYi2Y9Xnhr4accAf2TnSZnWfx58H4NIAPbrv8yhePNrMN8esnT+HrkKxbWCbbcPvjslhYYnTMMCGc6buCZvHRAb+gHScQhSuAtPY8WIYB"
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvJIaNF/KTHaspFCUAe0Pox6iMF7BuATh4mnVyqw9ikhnqEnPJbWaolCYJhm2GdJoI/j6V2LBis0FxuG3Zk7FakeNR+jeJcYW7+Y6/yfcJoThSKSJVo1J0rFtzMblU96/Cw==",
         "icono": "http://static.tvar.io/imagenes/unreality.png"
       }
     ]
