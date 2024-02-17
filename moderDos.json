@@ -1133,7 +1133,52 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvK1llTKvZrRQxlWDvs22eHG01ahLjmoEO+isAXnoSSW4H5V6IVQ2L4cj7KZchps13Mk+QxKrXedqTPXjNwvvNoJSgbK21TQq+ZEsysLMkjOT8170ZGPZ6gkaNl+aARGEAg==",
         "icono": "https://static.flow.com.ar/images/vod/vod/350/500/0/0/31414757.jpg"
-     }
+}
+    ]
+  },
+  {
+    "name": "La primera muerte",
+    "samples": [
+      {
+        "name": "parte 1 ",
+        "uri": "7w23tbAsE65FJGEGSFo90pplFtmjZtvKwPF1Y6rUKSIgsf4sBb/oKvuAHh3l62pjRkLpoaWF/1sN0wpmnJPaug==",
+        "icono": "https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/6/w1280/nNYxOdYGdLd5pJ39vAvTC4XEYh0.jpg"
+      },
+      {
+        "name": "parte 2",
+        "uri": "7w23tbAsE65FJGEGSFo90pplFtmjZtvKwPF1Y6rUKSIgsf4sBb/oKvuAHh3l62pju7dk0JlmQeYLp7d7rEkTog==",
+        "icono": "https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/6/w1280/nNYxOdYGdLd5pJ39vAvTC4XEYh0.jpg"
+      },
+      {
+        "name": "parte 3",
+        "uri": "7w23tbAsE65FJGEGSFo90pplFtmjZtvKwPF1Y6rUKSIgsf4sBb/oKvuAHh3l62pjE287YE/UPk+v69N+vOTU1Q==",
+        "icono": "https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/6/w1280/nNYxOdYGdLd5pJ39vAvTC4XEYh0.jpg"
+      },
+      {
+        "name": "parte 4",
+        "uri": "7w23tbAsE65FJGEGSFo90pplFtmjZtvKwPF1Y6rUKSIgsf4sBb/oKvuAHh3l62pjuDdDOIeN+ECwMkbxWklArw==",
+        "icono": "https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/6/w1280/nNYxOdYGdLd5pJ39vAvTC4XEYh0.jpg"
+      },
+      {
+        "name": "parte 5",
+        "uri": "7w23tbAsE65FJGEGSFo90pplFtmjZtvKwPF1Y6rUKSIgsf4sBb/oKvuAHh3l62pjTDo3yOW89XxWuoNVb4ARTA==",
+        "icono": "https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/6/w1280/nNYxOdYGdLd5pJ39vAvTC4XEYh0.jpg"
+	    },
+      {
+        "name": "parte 6",
+        "uri": "7w23tbAsE65FJGEGSFo90pplFtmjZtvKwPF1Y6rUKSIgsf4sBb/oKvuAHh3l62pj/LG4VA2fsLx5VFzXnaYokw==",
+        "icono": "https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/6/w1280/nNYxOdYGdLd5pJ39vAvTC4XEYh0.jpg"
+      },
+      {
+        "name": "parte 7",
+        "uri": "7w23tbAsE65FJGEGSFo90pplFtmjZtvKwPF1Y6rUKSIgsf4sBb/oKvuAHh3l62pj5LDmO54epLF2vlKE863B5w==",
+        "icono": "https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/6/w1280/nNYxOdYGdLd5pJ39vAvTC4XEYh0.jpg"
+	    },
+      {
+        "name": "parte 7",
+        "uri": "7w23tbAsE65FJGEGSFo90pplFtmjZtvKwPF1Y6rUKSIgsf4sBb/oKvuAHh3l62pj5LDmO54epLF2vlKE863B5w==",
+        "icono": "https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/6/w1280/nNYxOdYGdLd5pJ39vAvTC4XEYh0.jpg"
+      }
     ]
   },
   {
