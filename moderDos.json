@@ -1,7 +1,17 @@
 [
   {
-    "name": "PELICULAS RECIEN AGREGADAS23 ",
+    "name": "PELICULAS RECIEN AGREGADAS ",
     "samples": [
+      {
+        "name": "Proyecto Power (2020)",
+        "uri": "7w23tbAsE65FJGEGSFo90uUpLAxchJ9LW2qfmPHVB0UCOGuqXuZspqDj0Dpl1hc1HIcdARavi/rNkAzx4bp63vYCkpq2MQ2EdjmrFXFg2SNPUYzI86Snf4f1M3RrW4Askl58YnVgGyLzSJeDt8WDzQ==",
+        "icono": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQeFq2wLmat_7DUvRYc8mpyAUL6WoR0m0-5uF3r2GDEG65egvFe"
+      },
+      {
+        "name": "Mulán (2020)",
+        "uri": "7w23tbAsE65FJGEGSFo90uUpLAxchJ9LW2qfmPHVB0UCOGuqXuZspqDj0Dpl1hc1OJzrJ8W83xbqciEb+z5zAC6OeWQ1QwJRUQsCWM/StSe1yMlVeI5ko66eMon0gVEYaeOQC5B3HMPhPFrje2g56Q==",
+        "icono": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSPO5lOKd7RPvg5wdNS6ZYMfC392opn2pGBxlX0My_nmXHf1RSI"
+      },
       {
         "name": "The Champion (2020)tvi",
         "uri": "6mGshunOsomKreILlikTyCNv2h1uLBm1pHixCs0zH5ejtZfypk/TV0vOzhK9PLkF2RzqVJhdAeoFPlY1sGuam9v0orvKkzdz2jGsr+Lpp6LLG0pT2WTvXHqJ8YNnLvuF",
@@ -55,7 +65,7 @@
       {
         "name": "Aguas siniestras(2024)tvi",
         "uri": "6mGshunOsomKreILlikTyCNv2h1uLBm1pHixCs0zH5fsf1Eki2u5FGxL6PMUjtGub/rv8zkRts7zM95yQAfyGgKeCGCTgo1Dzat1UqkCIoUP1nZHYFOA3zKSp8giAgIM0uvGdqmZxpKq0pVC0iLsag==",
-        "icono": "https://dx35vtwkllhj9.cloudfront.net/universalstudios/night-swim/images/regions/us/updates/onesheet.jpg"    
+        "icono": "https://dx35vtwkllhj9.cloudfront.net/universalstudios/night-swim/images/regions/us/updates/onesheet.jpg"
       },
       {
         "name": "¡Patos! HD LATINO(2023)tvi",
@@ -158,7 +168,7 @@
         "icono": "https://m.media-amazon.com/images/M/MV5BMzZlMTdlZTctYTc4NC00NmFkLTlhODYtYjkzYTk1YThmYzUwXkEyXkFqcGdeQXVyMTY3ODkyNDkz._V1_FMjpg_UX692_.jpg"
       },
       {
-         "name": "Los Simpson: La película (2007)tvi",
+        "name": "Los Simpson: La película (2007)tvi",
         "uri": "6mGshunOsomKreILlikTyCNv2h1uLBm1pHixCs0zH5cKDsr1rKm3eESM3s/LIfMNZ9wCyvl9WWsrUac73O97I++4WZo9M8u8AiO95w82H+lahqKP1AiyMQalNErgfYM8ntxYXuuap0D3kd4o9o2aJ73CQwozTxupthaF51VRjFgP1nZHYFOA3zKSp8giAgIMk7fMmUoUqJg2U7ae/VHNzA==",
         "icono": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR8SnBw5Vhxmd9RoOrjL0h30pyw3kwG6IEix37z3Ui9AqikzK1w"
       },
@@ -183,7 +193,6 @@
         "icono": "https://api.idmedia.uy/space/bulk/2023/05/9.jpg"
       },
       {
-        
         "name": "La Sociedad de la Nieve (2024)",
         "uri": "bvQLI3bwu33MwzVIW0iKPAylS3S1bYr2f4ed09Fdhjq12yoteARZTHBgF5Q5YnYlimTw5ltEZGzTNh3cYzhrPV2Kl/mI/QJwoUGM20X/vX0=",
         "icono": "https://www.premiosgoya.com/wp-content/uploads/2023/11/es-ES_sots_main_theatrical_vertical_27x40_cmyk_pre_1-460x681.jpg"
@@ -1163,7 +1172,7 @@
         "name": "parte 5",
         "uri": "pGMHEZgKwMi3YgFB042rBMATLZYheZLgmPQ0GS4b8ioyxyRVC1MiHfKqpqFmLdcxeCWUYc+ZSaREBJUtc03kJQ==",
         "icono": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS0mdiCue7kXtHMVb8dXLxVmefKNYdNTyH5sUJ-oT_uWs5KgVe0"
-	    },
+      },
       {
         "name": "parte 6",
         "uri": "pGMHEZgKwMi3YgFB042rBMATLZYheZLgmPQ0GS4b8ioyxyRVC1MiHfKqpqFmLdcxmlXkA7sd7a40YbiPfhF2/w==",
@@ -1173,7 +1182,7 @@
         "name": "parte 2x1",
         "uri": "pGMHEZgKwMi3YgFB042rBMATLZYheZLgmPQ0GS4b8ioiMm6DvXjoPntZT6lLxLuM6dh8hLgLPVUHeC2pPfJbMA==",
         "icono": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS0mdiCue7kXtHMVb8dXLxVmefKNYdNTyH5sUJ-oT_uWs5KgVe0"
-	    },
+      },
       {
         "name": "parte 2x2",
         "uri": "pGMHEZgKwMi3YgFB042rBMATLZYheZLgmPQ0GS4b8ioiMm6DvXjoPntZT6lLxLuMxecz/EADuVQs/a4HK6+kKg==",
@@ -1208,7 +1217,7 @@
         "name": "parte 5",
         "uri": "7w23tbAsE65FJGEGSFo90pplFtmjZtvKwPF1Y6rUKSIgsf4sBb/oKvuAHh3l62pjTDo3yOW89XxWuoNVb4ARTA==",
         "icono": "https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/6/w1280/nNYxOdYGdLd5pJ39vAvTC4XEYh0.jpg"
-	    },
+      },
       {
         "name": "parte 6",
         "uri": "7w23tbAsE65FJGEGSFo90pplFtmjZtvKwPF1Y6rUKSIgsf4sBb/oKvuAHh3l62pj/LG4VA2fsLx5VFzXnaYokw==",
@@ -1218,7 +1227,7 @@
         "name": "parte 7",
         "uri": "7w23tbAsE65FJGEGSFo90pplFtmjZtvKwPF1Y6rUKSIgsf4sBb/oKvuAHh3l62pj5LDmO54epLF2vlKE863B5w==",
         "icono": "https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/6/w1280/nNYxOdYGdLd5pJ39vAvTC4XEYh0.jpg"
-	    },
+      },
       {
         "name": "parte 7",
         "uri": "7w23tbAsE65FJGEGSFo90pplFtmjZtvKwPF1Y6rUKSIgsf4sBb/oKvuAHh3l62pj5LDmO54epLF2vlKE863B5w==",
