@@ -1143,6 +1143,46 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvK1llTKvZrRQxlWDvs22eHG01ahLjmoEO+isAXnoSSW4H5V6IVQ2L4cj7KZchps13Mk+QxKrXedqTPXjNwvvNoJSgbK21TQq+ZEsysLMkjOT8170ZGPZ6gkaNl+aARGEAg==",
         "icono": "https://static.flow.com.ar/images/vod/vod/350/500/0/0/31414757.jpg"
+     }
+    ]
+  },
+  {
+    "name": "Monarch: El Legado de los Monstruos",
+    "samples": [
+      {
+        "name": "parte 1 ",
+        "uri": "bvQLI3bwu33MwzVIW0iKPHu0icR97j57coopDIE0sMsh9iNEew3eA/DPPbjhtmpELnfSCCw3Z4N8uzbz4/iIEhKQu9jWKik6tAoYZX9xqMu1lu+y0NTzObgHFnSn8zbZ",
+        "icono": "https://dl.dropbox.com/scl/fi/pscuarr1glmt5rjy9ghc8/El_legado_de_los_monstruos.jpg?rlkey=r0902itlqgvmw2uakyuo5k9jf&dl=0"
+      },
+      {
+        "name": "parte 2",
+        "uri": "bvQLI3bwu33MwzVIW0iKPHu0icR97j57coopDIE0sMsh9iNEew3eA/DPPbjhtmpELnfSCCw3Z4N8uzbz4/iIElIPq15IE5g95FWO9xmNqqm1lu+y0NTzObgHFnSn8zbZ",
+        "icono": "https://dl.dropbox.com/scl/fi/pscuarr1glmt5rjy9ghc8/El_legado_de_los_monstruos.jpg?rlkey=r0902itlqgvmw2uakyuo5k9jf&dl=0"
+      },
+      {
+        "name": "parte 3",
+        "uri": "bvQLI3bwu33MwzVIW0iKPHu0icR97j57coopDIE0sMsh9iNEew3eA/DPPbjhtmpELnfSCCw3Z4N8uzbz4/iIEtyeTNNzNmStTezrghfk6HS1lu+y0NTzObgHFnSn8zbZ",
+        "icono": "https://dl.dropbox.com/scl/fi/pscuarr1glmt5rjy9ghc8/El_legado_de_los_monstruos.jpg?rlkey=r0902itlqgvmw2uakyuo5k9jf&dl=0"
+      },
+      {
+        "name": "parte 4",
+        "uri": "bvQLI3bwu33MwzVIW0iKPHu0icR97j57coopDIE0sMsh9iNEew3eA/DPPbjhtmpELnfSCCw3Z4N8uzbz4/iIEqt9WF6Nr2VZs2OT/T8L2JGarKTFWnmDRn6v/GGn0vbf",
+        "icono": "https://dl.dropbox.com/scl/fi/pscuarr1glmt5rjy9ghc8/El_legado_de_los_monstruos.jpg?rlkey=r0902itlqgvmw2uakyuo5k9jf&dl=0"
+      },
+      {
+        "name": "parte 5",
+        "uri": "bvQLI3bwu33MwzVIW0iKPHu0icR97j57coopDIE0sMv9OTfr3wwff4YWQDSyRtEf3uXAj8j3mS+w8pLdxict57CEfi3q4hfPOgv1nI290syS8bKqFInpEPqEutc8E6M3",
+        "icono": "https://dl.dropbox.com/scl/fi/pscuarr1glmt5rjy9ghc8/El_legado_de_los_monstruos.jpg?rlkey=r0902itlqgvmw2uakyuo5k9jf&dl=0"
+	    },
+      {
+        "name": "parte 6",
+        "uri": "bvQLI3bwu33MwzVIW0iKPHu0icR97j57coopDIE0sMsh9iNEew3eA/DPPbjhtmpELnfSCCw3Z4N8uzbz4/iIEiTrlYIOGbOifw4KoMexbliarKTFWnmDRn6v/GGn0vbf",
+        "icono": "https://dl.dropbox.com/scl/fi/pscuarr1glmt5rjy9ghc8/El_legado_de_los_monstruos.jpg?rlkey=r0902itlqgvmw2uakyuo5k9jf&dl=0"
+      },
+      {
+        "name": "parte 2x1",
+        "uri": "bvQLI3bwu33MwzVIW0iKPHu0icR97j57coopDIE0sMsh9iNEew3eA/DPPbjhtmpELnfSCCw3Z4N8uzbz4/iIEorge1LsllTf8lHwenf6ICy1lu+y0NTzObgHFnSn8zbZ",
+        "icono": "https://dl.dropbox.com/scl/fi/pscuarr1glmt5rjy9ghc8/El_legado_de_los_monstruos.jpg?rlkey=r0902itlqgvmw2uakyuo5k9jf&dl=0"
       }
     ]
   },
