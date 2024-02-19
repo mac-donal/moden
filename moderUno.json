@@ -2253,8 +2253,15 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "TQSPBT5fFAmrHLJIeXbfefQaAeWWDUBFxf8xJWYxOMkiQG535Xx1jsKLS0ODTt9+/KPem1vEbdlxLApj0dHrPy8cK2XFmHlesZx2hLIZIscXiJ8x+fRJIJcuhAcatolv375/Gsj6sTlPrXCfv0zFXw==",
         "icono": "https://i.ibb.co/sgRZXh9/NPY-Noticias-Paraguay.png"
+       },
+       {
+        "name": "TV CAMARA",
+        "uri": "kLzT+cququRriT9kOdZAbLuPtqzMT0qIkYh8yAG147CeL0GWiSpDxD1bWymQKxf9q9P+MImjTB1VLyVQLp/Hg775vJYkWxFr3KwWl5z4qhPLqRGdipAmdVUEYSz87+0n",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvC7XBIYDwGn8JwYjTWp/XqOK5lYIA+Yc50WzbYRiyV6ncpUFFMXL0dabOpixW6IwQU+jAnGALvgPG1uCbRfVFHNrKM1X+1DGBXSXHzJELZujU4YyGvvp231ipxvuhxuZMQ==",
+        "icono": "https://i.ibb.co/TkT1Dbm/tvcamara.jpg"
       },
-      {
+      {         
         "name": "PARAVISION",
         "uri": "EkaIwYvYUQmdu8f0KwsOZaLchbLKSm8ry8p59CEOqa2De9Bf244+ovxTZMTmJhi/oFmlcBGYx34Jha9ZLuwsBu1h6OpyncNF3RnG+EpeesCPl6V9L4BJKxn97qOHnx7m",
         "drm_scheme": "clearkey",
