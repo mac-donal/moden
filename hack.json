@@ -9,20 +9,19 @@
       }
     ]
   },
-    {
+  {
     "name": "¡Atención!",
     "samples": [
       {
         "name": "Esta app está hackeada y podría tener virus. Desinstálala ya para proteger tu dispositivo",
-        "uri": "x8PKB2q3mMKurxq1afhjS8naaSE30JCqK+p2EivlUxDSADASDEiE98oXZdic35SrWuDNoQX",
+        "uri": "x8PKB2q3mMKurxq1afhjS8naaSE30JCqK+p2EivlUxEiE98oXZdic35SrWuDNoQX",
         "icono": "https://images.mediotiempo.com/IH9__aQOiS3aHJPY7ePNp8RCQ0w=/958x596/uploads/media/2019/10/30/el-virus-no-se-elimina_0_1_900_560.jpg"
       },
       {
         "name": "Evita usar la plataforma conocida como Mark Castillo para prevenir problemas futuros",
-        "uri": "x8PKB2q3mMKurxq1afhjS8naaSE30JCqK+p2EivlUxDSADASDEiE98oXZdic35SrWuDNoQX",
+        "uri": "x8PKB2q3mMKurxq1afhjS8naaSE30JCqK+p2EivlUxEiE98oXZdic35SrWuDNoQX",
         "icono": "https://images.mediotiempo.com/IH9__aQOiS3aHJPY7ePNp8RCQ0w=/958x596/uploads/media/2019/10/30/el-virus-no-se-elimina_0_1_900_560.jpg"
       }
     ]
   }
-  
 ]
