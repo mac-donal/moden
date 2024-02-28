@@ -578,11 +578,6 @@
         "icono": "https://scontent.feze7-2.fna.fbcdn.net/v/t1.6435-9/41450644_1793624647402564_7510341098397499392_n.png?_nc_cat=111&ccb=1-7&_nc_sid=7a1959&_nc_ohc=JSHwX6H5H_4AX8-OZUj&_nc_ht=scontent.feze7-2.fna&oh=00_AfA3J1t64ONKMwyRDjTrQQH_FvzfU-YHbJROe2tLMB8N0g&oe=65D75E04"
       },
       {
-        "name": "Canal 10 (Rio Negro)",
-        "uri": "ANjcqbsyMfxVdnkcfxFI6HhywAsc8CC1uQHdt8sCj+kNHaatnGOGk2mf1laeXL+Ta53dtWe9qjbEOhFUNgWTtA==",
-        "icono": "https://rionegro.gov.ar/download/images/00058400.jpg"
-      },
-      {
         "name": "Telenord Corrientes",
         "uri": "5FZ8YaL1kQ3HhE0ml0Uf5KtbSUGapjeuay8CXTxtt9RAzVQJV7FQt87+yKqJQ2yr/eAATSM6oLMxgoCDwVaeZQ==",
         "icono": "https://i.imgur.com/byxXHzq.png"
@@ -596,11 +591,6 @@
         "name": "elpringlense",
         "uri": "BwCt2YL2jA0p6g5tNuk+JI8gp8UyG5/4mFWQAmiZwewmsKY3Qz1YTnlO6Vek0uDORjbo6AH2EJnJlQMCHm9uu0M2FyCfzzDHWh+w9lYEhcA=",
         "icono": "https://i.ibb.co/VtK5R3B/Whats-App-Image-2023-08-09-at-8-41-47-PM.jpg"
-      },
-      {
-        "name": "Multivisión Federal",
-        "uri": "ANjcqbsyMfxVdnkcfxFI6EtrZ+u13K7sOz4gOrbZi7uVeCYiPf2QFrsWtBkWLmwZlVcrIZ7hRFf8z3YJ8d8Oig==",
-        "icono": "https://www.altoremix.com.ar/site/images/CANAL-9ok.jpg"
       },
       {
         "name": "Multivision Cable",
@@ -790,21 +780,16 @@
       },
       {
         "name": "TELEFE CORDOBA",
-        "uri": "LX46EnLWmPsTQWzzE5C2pN8578AuYU8BaXP63OyHIHXI14gcUId9dvA55++zUdDgAiQ4l30Es4upKUQwJTyB1j6lqpwQQ9q78MY4JHn5C6SwV9/INSnba/256W37Hvrz",
+        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmJ/yef5lJ+Adlm/ePZDCsxH0OYC4d6S/ZSWCt03pWp66sU8xVsMhsZ+x8cN/eV/l7LoUd3/Ok0KswRl6m3CDVD5",
         "drm_scheme": "clearkey",
         "drm_license_uri": "TQSPBT5fFAmrHLJIeXbfefQaAeWWDUBFxf8xJWYxOMlFguVGQZNbXin526+OmtRKnliXe7FGCHFSe1NZJG7gpOjMiOiiNNYSnO7spJUAgK5GlWXRQAJXbRmI1mJ+Bcnm7rc79x4DEdagBFo+6AqcuWnjkAuQdxzD4Txa43toOek=",
         "icono": "https://static.tvar.io/imagenes/telefecba.png"
       },
       {
         "name": "TELEFE SALTA",
-        "uri": "LX46EnLWmPsTQWzzE5C2pHTkdf04SSydzxlNIAAUkdh9hBxF0mI69sa+6s4oB2BBVMP+2PEMrkxGjL3qZZH0Yeg1c66ypqo9nLpdPsipS3ubA6AWbC9WZbOWXG0hh1xaaeOQC5B3HMPhPFrje2g56Q==",
+        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmJaJU93sW0swfCGCnzOllhZo0OakwScX+x7e7SjfhP0S6NZ/RZJGy9Ta7SsmQTygxOL8ZY949AndWOlKu97okb2",
         "drm_scheme": "clearkey",
         "drm_license_uri": "TQSPBT5fFAmrHLJIeXbfeU5h4JaWeCHTu7SP8I4aUgz5W9K9g8BIWCmsjW+SStFtVQwccjmV/c4+CYMU24fDQtY3bgxlJX/EA9W87du+UXsPJw3Gam9eZmR6oowvztvH5yTy5snNoOz/dTwa08QriQ==",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/1/13/Telefe_Salta_%282018%29.png"
-      },
-      {
-        "name": "TELEFE SALTA OPC 2",
-        "uri": "KDIPuTlK4OQoekDTl/Yu+SVTQkdTm9wT5bRZB6FFldLwGGUomrNUbNFlSQ9iK7KmqHQSNGm9iqSIz/c0yL/IGmnjkAuQdxzD4Txa43toOek=",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/1/13/Telefe_Salta_%282018%29.png"
       },
       {
@@ -850,14 +835,14 @@
       },
       {
         "name": "CANAL 10 TUCUMAN",
-        "uri": "LX46EnLWmPsTQWzzE5C2pPXiNq+e/X0LQQgJ5Zps3669Epz41WToxJu5UCts0Xu7MCRmAKvfrL72zGjjk4IDyOg1c66ypqo9nLpdPsipS3sMToKpfPpds2SwCyrvKAb0aeOQC5B3HMPhPFrje2g56Q==",
+        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmLzXrTCtRa8dImOV+rdKK0D6mDVcUlENc9Lmmq+ufzj7wBCx8sdVVq/5PBoVdLCYf7rIiOHXzq1JDMhmV9uV71l",
         "drm_scheme": "clearkey",
         "drm_license_uri": "TQSPBT5fFAmrHLJIeXbfeVSGlResXQe26+5QWf6x7SG2/b9ZDZbdOA4nlMa5k7uGVZ/ES8sd2oh73RezZzYxNDBd+fiN8WbFiemgMs79RbfUtDrSkg2Pppldsdr9HIL9HmO6g0RBGlvGvNETGiljBg==",
         "icono": "https://www.laizquierdadiario.com/IMG/arton53465.jpg"
       },
       {
         "name": "Canal 9 Litoral",
-        "uri": "LX46EnLWmPsTQWzzE5C2pKknSrgNrnuepyfiGtakUBjI14gcUId9dvA55++zUdDgD2Jau6qPeJnrrMHzIHD2iv8jwjXa0B9lyFoovQxZnvQSUZH7Gac6d92m+4xbah25jCbLJBIaU1e9hBurbDDTQQ==",
+        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmJ/yef5lJ+Adlm/ePZDCsxHvs8c1nnhDDMkP0Ui7ikCLD6lqpwQQ9q78MY4JHn5C6SPsJ489HcPr1L79/PWNRT45FLgOLdmyJMRa8FcrSEHdg==",
         "drm_scheme": "clearkey",
         "drm_license_uri": "TQSPBT5fFAmrHLJIeXbfeT7l7EREuSThslQDK1qvzJ5jAPSF3BdHsEhNHCFkCXttLTWrtXtYJAUmdcJf1dlRoYv+K94NwsbFw2GDaDRDBqKvoGWhd/QavE1APVcKbsL+nc2woQFrCucY50X4LfnOb555MAJon6lOaoZOR8mhMec=",
         "icono": "https://static.tvar.io/imagenes/canal9litoral.png"
@@ -871,7 +856,7 @@
       },
       {
         "name": "CANAL 3 ROSARIO",
-        "uri": "LX46EnLWmPsTQWzzE5C2pN8578AuYU8BaXP63OyHIHXVSobuYZuUtUzEKXfLIKzZAqBZ5UGLTp/NbA9UAc3bKWVvZN72geoIB0LQ0KWKw5tEaM2Gb7bgDIBLdopkcYRVF0rr8qcFKf5hswIAZ3837w==",
+        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmJcVRpNyQ1tjYXHXfgLy9MNlIbH9aTWR+kiHB+Hk9da0Og1c66ypqo9nLpdPsipS3sp32GFZl0hdVYXOaUEeDa2y6kRnYqQJnVVBGEs/O/tJw==",
         "drm_scheme": "clearkey",
         "drm_license_uri": "TQSPBT5fFAmrHLJIeXbfeTXS9KGCs8bOYxSnxdxeWGKBtVzGPpK/9vOlqhfK3vf9We0FhrQZaAnTTi5SkHN1NhkfWaSwmnsZygppO0kq8d/hYwM2ffxkBGiqiq0zK16GyIJiPPVvWfR6/w2qHOxuF2njkAuQdxzD4Txa43toOek=",
         "icono": "https://static.tvar.io/imagenes/canal3rosario.png"
