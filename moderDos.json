@@ -127,40 +127,30 @@
         "name": "The Marvels (2023)cobi",
         "uri": "bvQLI3bwu33MwzVIW0iKPHuxSKN7xDfhm2pPDd/QmGAjkQg8FyRImsA/HgMwHJCeEQRLL4zrGZAfaVR8U4OWC7SVQRtvUGNCZLVi3dz30+c=",
         "icono": "https://m.media-amazon.com/images/M/MV5BM2U2YWU5NWMtOGI2Ni00MGMwLWFkNjItMjgyZWMxNjllNTMzXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UY2500_.jpg"
+
       },
-      {
-        "name": "9 (2021)",
-        "uri": "6mGshunOsomKreILlikTyCNv2h1uLBm1pHixCs0zH5dZ2Tluh0CDhAdrMP2JCM4rmz3MHMwLwxtwprmuLthL7CzGeU258+e84e356A/7RGJhCxMmmYjxrAZPsldYcAkn",
-        "icono": "https://api.idmedia.uy/space/bulk/2023/05/9.jpg"
-      },
-      {
-        
-        "name": "La Sociedad de la Nieve (2024)",
+      {   
+        "name": "La Sociedad de la Nieve (2024)cobi",
         "uri": "bvQLI3bwu33MwzVIW0iKPAylS3S1bYr2f4ed09Fdhjq12yoteARZTHBgF5Q5YnYlimTw5ltEZGzTNh3cYzhrPV2Kl/mI/QJwoUGM20X/vX0=",
         "icono": "https://www.premiosgoya.com/wp-content/uploads/2023/11/es-ES_sots_main_theatrical_vertical_27x40_cmyk_pre_1-460x681.jpg"
       },
       {
-        "name": "Juego de roles (2024)",
+        "name": "Juego de roles (2024)cobi",
         "uri": "bvQLI3bwu33MwzVIW0iKPN5GmkrXPVEe+t7ZFygWfS6kKisEE4EXwI1RQ7x8h8sUgDJRriyebbrEnxGLIKlKiJLxsqoUiekQ+oS61zwTozc=",
         "icono": "https://i.imgur.com/tVSP9lp.jpg"
       },
       {
-        "name": "Otra bala más (2024)",
+        "name": "Otra bala más (2024)cobi",
         "uri": "bvQLI3bwu33MwzVIW0iKPMHUtdWsAPFrAqCBTk/ReQo+MSOiW2d2XFbJK48sKs5ovXqz3Bw/mvzRCZmBS2fEW4AzYXUONA8xWfnqfeyU1LU=",
         "icono": "https://image.tmdb.org/t/p/original/bN7mr1B2InV2ruk1Xy1lIpGYllV.jpg"
       },
       {
-        "name": "Lift: un robo de primera clase (2024) ",
+        "name": "Lift: un robo de primera clase (2024)cobi",
         "uri": "bvQLI3bwu33MwzVIW0iKPDvxd/10Yb36F0l9Nh8XrEFoL6zqHLKUJIw7t8GvnArAEi/DPX0pwPWAnWv6KL60Dr16s9wcP5r80QmZgUtnxFuAM2F1DjQPMVn56n3slNS1",
         "icono": "https://m.media-amazon.com/images/M/MV5BYjk2NzY0NjktNDU3Ny00ZTgyLWExYjYtZDFlMzZlZDEzZDBlXkEyXkFqcGdeQXVyMTE5MTg5NDIw._V1_.jpg"
       },
       {
-        "name": "Otro día para morir(2002)",
-        "uri": "6mGshunOsomKreILlikTyGrh1aQKThH1SURJTZfOolazG2aXbifohGw3XIBRLD0bz1Ogf0jmhY7if8pccaU5fQ==",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8YulNKGmcc9wn2fKK_L15VpmDQZkC_YLb-dPIVbpnOdynWQIv"
-      },
-      {
-        "name": "Napoleón (2023)",
+        "name": "Napoleón (2023)cobi",
         "uri": "bvQLI3bwu33MwzVIW0iKPGUz6X8cAhDI2+EFAPb2hMF3wG3W4BmGog4GtWrJ4+8AIGkUKT4ypHrF7L8x3k3N0McL9QXStVLQUs74aB6+VwY=",
         "icono": "https://m.media-amazon.com/images/M/MV5BMGM5YmRjMGItMmViOS00ZmE3LTk5NmMtMDc5NjFjZTdjMzE1XkEyXkFqcGdeQXVyMzUxNTM4ODc@._V1_FMjpg_UX646_.jpg"
       },
@@ -300,11 +290,6 @@
         "icono": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSvCvNl1pWLKaETGdp-keqPmmD_U2uZVYFpJzYsg2UWWKi5rgSo"
       },
       {
-        "name": "Experimentos Macabros (2019)",
-        "uri": "6mGshunOsomKreILlikTyCNv2h1uLBm1pHixCs0zH5dBp20ZpmN9HKZ1jrw+c1ZHmNDh/RIfIrIZIZUNKD/AINZ24iDCSRKo81StglDqmnnv/LP52Nfs2OXhz+sAylvnXy/6AA1j6izivHNL2IGakg==",
-        "icono": "https://m.media-amazon.com/images/M/MV5BMTFhZjQ1ZDYtYmYxYy00MWQyLTlkZWYtMmY4M2I2NzdmMmMwXkEyXkFqcGdeQXVyMTk4MjcxNTQ@._V1_FMjpg_UY2161_.jpg"
-      },
-      {
         "name": "Las momias y el anillo perdido (2023) cobia",
         "uri": "bvQLI3bwu33MwzVIW0iKPDvxd/10Yb36F0l9Nh8XrEH5y5A/mtvYFNRoEtt9WPWc/LxJ6IJN86xkOqpOTO3LDeOUUo43WUzWoGeqffSQb8WAM2F1DjQPMVn56n3slNS1",
         "icono": "https://cloudfront-us-east-1.images.arcpublishing.com/abccolor/O7Q47SJE5VHRPMDYF4IOLHDDFM.jpg"
@@ -363,11 +348,6 @@
         "name": "All In Eventos (2023) super luchas ",
         "uri": "7w23tbAsE65FJGEGSFo90tYJwtrbujvxJIxhIoGXKlfb95hSvcEYWp8MwsPJ2pUbw0dNr0Ttc3fo2X57y4xEyhMtUVBHbx3w/4sJsepRw7g=",
         "icono": "https://s3.superluchas.com/2023/08/xIh3U8RC-Cobertura-AEW-All-In-2023.jpg"
-      },
-      {
-        "name": "108 costuras (2018)",
-        "uri": "6mGshunOsomKreILlikTyNHcVD0ppZt595SyB9lK3gXZwkI75yrNwHh9tEib4it79b55y9PONa6c40r4NTcOlg==",
-        "icono": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRY0QDvC171vmfmZRygQUYgsvHVGJ3qKNXoJDqJJHJtCW3GTb8m"
       },
       {
         "name": "Nueva York sin salida (2019)",
