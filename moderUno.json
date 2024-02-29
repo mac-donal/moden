@@ -331,34 +331,6 @@
         "icono": "https://i.postimg.cc/vHVLWDcS/DAZN-LA-LIGA.png"
       },
       {
-        "name": "LALIGA TV",
-        "uri": "LGwy1csk4lpsIUQmvpOTVb5fkRc0NFhjNrZgzDX8cEqKb3EPuUjQx2OQ5V/IklPLllhYWiqh9kymsnmfEtBOqg==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "TQSPBT5fFAmrHLJIeXbfeZq+C1rzjTZHWmUKrLnA6pRzQf65HKTucmxE4guAA4f45/tvsSb1/bJfzEZXfADM3BzlnNDdr1bBUENogv8J2ckxGCcpCaBuGXXje6jQcR65PpgbCgfd06QSudDSOTwAjw==",
-        "icono": "https://i.ibb.co/HDqc38p/LaLigaTV.png"
-      },
-      {
-        "name": "DAZN  ELEVEN  1",
-        "uri": "sgWIyarQqaGC/UMLYsdXC6gNozSNEoSgPtL6Jy9l01idwttvGBcuknNR4S3mtcYCRIqfhbtV3JUqHYXe75zeU85eSUtwpbZ099hu9OwkKi8=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvLHudaVzUPqNg/MVA2118Rwai2XXTb/WrPtAuJsIxMoYJX6sHgnyqDh7uofooBiHqhWVvxhRqPQqe7nC3lRkO0+b1SRupKGzFUqg/WXCKwVAMny0mT87SmQhARzx7E3rOA==",
-        "icono": "http://78.47.174.211/logos/elevensports1.png"
-      },
-      {
-        "name": "DAZN  ELEVEN  PRO  1  NL",
-        "uri": "sgWIyarQqaGC/UMLYsdXC6gNozSNEoSgPtL6Jy9l01idwttvGBcuknNR4S3mtcYCEWZOHwmeMhULK2OGufmrD85eSUtwpbZ099hu9OwkKi8=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvLHudaVzUPqNg/MVA2118Rwai2XXTb/WrPtAuJsIxMoYJX6sHgnyqDh7uofooBiHqhWVvxhRqPQqe7nC3lRkO0+b1SRupKGzFUqg/WXCKwVAMny0mT87SmQhARzx7E3rOA==",
-        "icono": "https://i.ibb.co/cDqY46x/dazn-eleven-pro-1.png"
-      },
-      {
-        "name": "DAZN  ELEVEN  PRO 1  FR",
-        "uri": "sgWIyarQqaGC/UMLYsdXC6gNozSNEoSgPtL6Jy9l01j0fPrwtc4I668mHz68fpEQ+qjlio8uhn8YXRs+BT1NS+Tf7CDSItPP1AhC3B9sFPI=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvLHudaVzUPqNg/MVA2118Rwai2XXTb/WrPtAuJsIxMoYJX6sHgnyqDh7uofooBiHqhWVvxhRqPQqe7nC3lRkO0+b1SRupKGzFUqg/WXCKwVAMny0mT87SmQhARzx7E3rOA==",
-        "icono": "https://i.ibb.co/cDqY46x/dazn-eleven-pro-1.png"
-      },
-      {
         "name": "ZONA DAZN",
         "uri": "sgWIyarQqaGC/UMLYsdXC6gNozSNEoSgPtL6Jy9l01j0fPrwtc4I668mHz68fpEQqsaP9qRRYqPFLQyhMPPQAeTf7CDSItPP1AhC3B9sFPI=",
         "drm_scheme": "clearkey",
