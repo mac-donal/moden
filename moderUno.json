@@ -1391,7 +1391,9 @@
       },
       {
         "name": "NAT GEO",
-        "uri": "sr0DqcrZuqgYKcJy3LOSK3WBMPkZO44Q2e4DINLEGmZgLCa2OCkn32M29dYusEH/I1ed6Xfa4hwiZZueUDV3nyP9B9+3p8M75ydC+CFEsu7GzalJM5UiL+UvT5QA24X0JmcE3QFw03vKBkN+q2LHO89K0Gu1pf9jOJFkmZnrBeY=",
+        "uri": "kLzT+cququRriT9kOdZAbLuPtqzMT0qIkYh8yAG147AlBRmZwpxp7CfG2OQAa7QpVGhm6vHrt3XWsDrrOR/wvC90CCerhNuW2MQhY/msBRBVqq/EK3SggKG9VgODszsP",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "TQSPBT5fFAmrHLJIeXbfeYXrgR47pg2k5But/pHMPPe6U8oN8bVs8lL1S0dWWqFR3f8vnDZsG4pAjYRboDmv8wVeCB66yyH/H+4F3j/8kAAEIR6ioja4qXN9gyNbW/CiO5oYoDYn8tvti3ud+ybiXQ==",
         "icono": "https://i.ibb.co/YL79wkw/natgeo-mundo.png"
       },
       {
