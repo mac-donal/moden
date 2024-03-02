@@ -1461,6 +1461,50 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "TQSPBT5fFAmrHLJIeXbfeTbzdpJhBX9d6u4Y84vSOrAePlfMfPLkdC6QqvJ4K/qjkXBmqz8sT2cuf6WoH2d43WhSC6q/n5LEBqAz5guq1KM/6NVhGmPOSco5tZA/H5utwncmSf+UkWNMEa4g4Ahx0bf9PrNzqvJl/uUwKiJVrU4=",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png"
+    }
+    ]
+  },
+  {
+    "name": "🙏🏻 CANALES CRISTIANOS",
+    "samples": [
+      {
+        "name": "EWTN",
+        "uri": "x/xWkNrovMYmGeIV76G4pOWzEePFvZC2/a11JIOm1xJI14TaHdx83Pvl5LHiZw/sAyzXWu1wiQhsxISW6RP29EOVPaKkOT01MhxjpAhi/vA=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "x4jKX5fqrwTrwgpU+iIQoh2VAnIT3cvaDnRtyuEcYJ6sYxEy7d+vXtS2luMnW8ax",
+        "icono": "https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/64.png"
+      },
+      {
+        "name": "MovieFE",
+        "uri": "zq3s+OHnppwzLIcyaN6InmWs/ItxQw/eykVWbIWZFCpv92MAxLnjdfHoxwoflMNKm2FSVaCR4wsuPIumsFqKRg==",
+        "icono": "https://platcon.tv/img/p/4/8/4/484-large_default.jpg"
+      },
+      {
+        "name": "LOGO TV",
+        "uri": "0vusnf1dTwbY9nhbLiZcqC3tkfkgCv4nvLMarD9+iIoVbXeeXA1aLknF2WszOKxmljxDhtoXLdCyMtoJ8JpIwHYFOZgBrRBITsHBqhgqnUA=",
+        "icono": "https://static.vecteezy.com/system/resources/previews/008/349/469/non_2x/tv-logo-design-flat-icon-vector.jpg"
+      },
+      {
+        "name": " CanalLuz ",
+        "uri": "x/xWkNrovMYmGeIV76G4pOWzEePFvZC2/a11JIOm1xJDGOqEAnYYEMFPCMc4ifMpZW9k3vaB6ggHQtDQpYrDm2s6qUYNnh5Zh8bCzNMojQZp45ALkHccw+E8WuN7aDnp",
+		     "drm_scheme": "clearkey",
+        "drm_license_uri": "x4jKX5fqrwTrwgpU+iIQomglH5kIvcZ5ywLSxOGJ5Ad5jAwdIS9N1HZhN4z1oAOL",
+        "icono": "https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/349.png"
+      },
+      {
+        "name": "Eperanza tv",
+        "uri": "Vf0G+U9hN3NGtSh2zGP2wyDL/wFMYuJpDcZvVl9YaA/paXkNfzIlEtjwdP1pxmfU4iywuYxzBFntl6ViJekXdgq7+YugjdBXcMTPOX0Xq/s=",
+        "icono": "https://images.squarespace-cdn.com/content/v1/556da91de4b010ed6e0bddff/1442361594280-58B1XRFMF2CIL5843DQY/image-asset.png"
+      },
+      {
+        "name": "Faro de Santidad",
+        "uri": "8SN1HODLKzaKzw7BPWALOdy3EDTSCHVtK/F32UG3sRPJyvVlPpPMrtkSusdaoAu396OOXMKM201gIQAL80JITLdbW9Htl2OlJvk4GhUrtqXZuPih7u8zKgxjOlbosu1nIhPfKF2XYnN+Uq1rgzaEFw==",
+        "icono": "https://static-media.streema.com/media/cache/92/a6/92a62f1ddf5d1f1f7f34b299faa15bc0.jpg"
+      },
+      {
+        "name": "Misión Vida TV",
+        "uri": "52PlplEvjp+0Zyyf8JhkTzXaTkzOZBAVeQl+xTE+WxtJyoxBEONUtAlgfLEwD0aIBa+D5s/rWV7NGzdf4Oi0bPv3zQSGGXjtwGkuOLFpgqU=",
+        "icono": "https://pbs.twimg.com/profile_images/634219937016467456/BEUuY5T2_400x400.png"
       }
     ]
   },
