@@ -137,6 +137,27 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "TQSPBT5fFAmrHLJIeXbfefWY4OTzX0IPw7dEwpiRL17UAqksF3eNr22TsRrENzut4mNITL+z1nsQHIPxIe76wfzt3/nKBQi/xowIhHwtPxSZ8bAx6d0MK9qamEFLkzMLaXfFv/XicpjOLmsavSaWOvNBU5vzURtFUCLDTUAHqoM=",
         "icono": "https://i.ibb.co/9V3PgZ5/espn-premium-by-jpfr1906-df43pcs-375w-2x.jpg"
+      },
+      {
+        "name": "DIRECTV SPORTS",
+        "uri": "RXgh8CmjtHtCumOteyzprQ5AwTWz+1mWowmExVEsNdFzotrSbfK+JUiuZ1AjX0pQd6LYiOZr7f3lJAOjP0hijL2Eihi+Ty6aFZicTIYPTSI=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvGL82D8ay2iJvlhaAsHwwqW105qNz1n+xZz4rcZgIjoVvtjf4IyJFvCF2NHwrMwL//q39tUhwFQQK4RZ7MAfhrm8BikYQZciWG8NOJmOiWEY4sqla/Cyzv31GsngdNYVAg==",
+        "icono": "https://futbollibrehd.net/img/logo-canal/DirecTV_Sports.png"
+      },
+      {
+        "name": "DIRECTV SPORTS 2",
+        "uri": "RXgh8CmjtHtCumOteyzprQ5AwTWz+1mWowmExVEsNdFzotrSbfK+JUiuZ1AjX0pQq2Fb0tyotJnBjytgL0oRbKIvctu5D6mVFihMXoEHomA=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvKAQyAdL2ni/o4YHGee2wKVdOYh0u79YgTGTkEvVEXMQeqbWniZZJuhRLT9/mAI0YyZtNsfFTrWb4xme+bnxmi2uQXg8RBAIUOp33QUrgHtk2BXxhikqT/TG3mxbkVKcoQ==",
+        "icono": "https://futbollibrehd.net/img/logo-canal/DirecTV_Sports_2.png"
+      },
+      {
+        "name": "DIRECTV SPORTS PLUS",
+        "uri": "RXgh8CmjtHtCumOteyzprQ5AwTWz+1mWowmExVEsNdFzotrSbfK+JUiuZ1AjX0pQKlj5qJrDEGCvySWV3YLoK9unZO8YSqtxY+3NPkgTbl0=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvAzxceZAHyt+2g/TKmyrks1liLM3g08L9GoZTtDTzXeqS9iGo4019sC3ZmG8B2dqRDjeZAiuT6PtlPFhTGRC0BqaD1Y8ILxlNtY6smavCh5ajHD4JokeNm2x+o56geno7Q==",
+        "icono": "http://78.47.174.211/logos/directvsportsplus.png"
       }
     ]
   },
