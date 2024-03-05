@@ -3,6 +3,51 @@
     "name": "PELICULAS RECIEN AGREGADAS45",
     "samples": [
       {
+        "name": "Rápidos y furiosos 10",
+        "uri": "1mHdscnSaPBrhFQNZgeuvBPACyTxg6E3p9jSJfKQJcSO/JTv9dfSME/wC2s//UXocbq1warcQlrgejhFJZkH4Q==",
+        "icono": "https://image.tmdb.org/t/p/w500/1E5baAaEse26fej7uHcjOgEE2t2.jpg"
+      },
+      {
+        "name": "The flash",
+        "uri": "1mHdscnSaPBrhFQNZgeuvLb9F5oXwmdM4YHPHt1/atzNDQvZLmLf64c8lC4+SR9PgNxSK7oY3WeI+Q0kxzELOw==",
+        "icono": "https://image.tmdb.org/t/p/w500/rktDFPbfHfUbArZ6OOOKsXcv0Bm.jpg"
+      },
+      {
+        "name": "Elemental",
+        "uri": "1mHdscnSaPBrhFQNZgeuvF/diMkfFdHsafHMcnyz78DpzractbWTTmOArEMawRzvgNxSK7oY3WeI+Q0kxzELOw==",
+        "icono": "https://image.tmdb.org/t/p/w500/8riWcADI1ekEiBguVB9vkilhiQm.jpg"
+      },
+      {
+        "name": "El pacto",
+        "uri": "1mHdscnSaPBrhFQNZgeuvBrr+4WMOxQfjJG+VbonWQqe1ayEXf6+peAVuI4vfsLraeOQC5B3HMPhPFrje2g56Q==",
+        "icono": "https://image.tmdb.org/t/p/w500/7ibI5KJmdEYQnCcuDMk0clCrz1C.jpg"
+      },
+      {
+        "name": "Cuiden a maya",
+        "uri": "1mHdscnSaPBrhFQNZgeuvM7K62mBZLCQKNT/YngvS3t58beyc0wvP6MU4o+YgI2g8HlH/oqbC+22ldb2jnfqmQ== ",
+        "icono": "https://image.tmdb.org/t/p/w500/ktpoqsz2O5xz8SPxc358YXmmzHU.jp"
+      },
+      {
+        "name": "The Black clover la espada del rey",
+        "uri": "1mHdscnSaPBrhFQNZgeuvGLPPxlo2T21DEz5v/5HXqbpDahJi/hMEZX/Fua9NOnMYHhKOh9cSWTGEX4F/Rb8MMLq86RqZs/WVP2cQ7nlh4I=",
+        "icono": "https://image.tmdb.org/t/p/w500/9YEGawvjaRgnyW6QVcUhFJPFDco.jpg"
+      },
+      {
+        "name": "Maquillame otra vez",
+        "uri": "1mHdscnSaPBrhFQNZgeuvOMLRxpfUyqxAfKqBiBNoN3CaWSQKDeSGxAfeFPYGSaQmO2Iff/VuU7QZtxVWvY+OA==",
+        "icono": "https://image.tmdb.org/t/p/w500/hAKV3WLdHOL313IImAoR2GFWC1W.jpg"
+      },
+      {
+        "name": "Ofrenda al demonio",
+        "uri": "1mHdscnSaPBrhFQNZgeuvA724Au27z1lJOgofJch7l3cI6h42QKM6Tt9abuMiWQSp2mTfJ5g2NMBLpk+PRwXLQ==",
+        "icono": "https://image.tmdb.org/t/p/w500/tbaTFgGIaTL1Uhd0SMob6Dhi5cK.jpg"
+      },
+      {
+        "name": "El mejor del mundo",
+        "uri": "1mHdscnSaPBrhFQNZgeuvHa4Gc8UxxdhuNlH+BTc0VvT2k94ouC0GlAdNeZkRJ5osxa24PqZdwicpDLG1U3Opw==",
+        "icono": "https://image.tmdb.org/t/p/w500/9xvEhZZMOmLIkqe4khrtF5TkOnO.jpg"
+      },
+      {
         "name": "Relatos salvajes(2014)",
         "uri": "+uxbpBfclyfWWOaC7i4TRNe/C7ZGn/hJn5QXKg6tX3SsMeuK+0/CoUH9Skoa5fisupOfhzoNuxqrYIorCewKFB02F9oMJjmgKPzh+W0q088Pcyf8bWyTQC6qFVSfJHc+",
         "icono": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQfQLe-7nnWM87HAykKl-lySTO4pVKyMDBVH2HXMjuA82EmlwnT"
