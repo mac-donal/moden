@@ -13,7 +13,7 @@
         "icono": "https://4.bp.blogspot.com/-6BQv5SOuxn4/XEs537Yz01I/AAAAAAABT-c/aol0uy0p_l8gSbrYVLhz4qu5-GpyGG3lQCLcBGAs/s1600/Copa%2Bde%2BPrimera.png"
       },
       {
-         "name": "⚽️FUTBOL PY 3",
+        "name": "⚽️FUTBOL PY 3",
         "uri": "F3JUJfZ/FwBCK3tW6+FDPuZIXT8FT3q22MUuVShntTrNSuhdP9k3cHOtCAjFl+cjmwq4sQA1e/WOProYJbmIng==",
         "icono": "https://4.bp.blogspot.com/-6BQv5SOuxn4/XEs537Yz01I/AAAAAAABT-c/aol0uy0p_l8gSbrYVLhz4qu5-GpyGG3lQCLcBGAs/s1600/Copa%2Bde%2BPrimera.png"
       },
@@ -33,8 +33,8 @@
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/MLS_crest_logo_RGB_-_Inter_Miami_CF.svg/969px-MLS_crest_logo_RGB_-_Inter_Miami_CF.svg.png"
       },
       {
-        "name": "⚽️Barcelona vs Napoli",
-        "uri": "dV7Aj/K9Gxm3NFLtHVAkbkANjWxk7fBIIg1iEnBB3SD3XqkiJFCb15AouNutjxYclGAZIFHr7s0sPW7rsNoYIw==",
+        "name": "⚽️MLS OPC 3",
+        "uri": "dV7Aj/K9Gxm3NFLtHVAkbkANjWxk7fBIIg1iEnBB3SDk3lWoccveWs+gHEmLnA7m",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/MLS_crest_logo_RGB_-_Inter_Miami_CF.svg/969px-MLS_crest_logo_RGB_-_Inter_Miami_CF.svg.png"
       },
       {
@@ -126,6 +126,27 @@
     "name": "⚽ PACK FUTBOL ARGENTINA",
     "samples": [
       {
+        "name": "River Plate vs. Estudiantes",
+        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmLiXRhB6As37Tr551IbxBSZHP6HyROJeWBxubQseJGrtZCd789/cVAX8Q+2DXbpFdTLqRGdipAmdVUEYSz87+0n",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "TQSPBT5fFAmrHLJIeXbfeXNaoO2zoIs0S67yBwuB8o8SUN2SbQrs+PV0vK0GYv+sQE5miGl8gjpnZwbnYOq3bhgLN7FPSowlniSa0xQZ+9VTpNS+yvcKaoUZGJJJY76HDPx/i9bgoG4xGcDwWSHMcA==",
+        "icono": "https://media.c5n.com/p/11f8e7aac60666c06039a30b3b3935f0/adjuntos/326/imagenes/000/253/0000253314/1200x675/smart/supercopa-2024-river-estudiantes.jpg"
+      },
+      {
+        "name": "River Plate vs. Estudiantes 2",
+        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmLiXRhB6As37Tr551IbxBSZHP6HyROJeWBxubQseJGrtZCd789/cVAX8Q+2DXbpFdTLqRGdipAmdVUEYSz87+0n",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "TQSPBT5fFAmrHLJIeXbfeXNaoO2zoIs0S67yBwuB8o8SUN2SbQrs+PV0vK0GYv+sQE5miGl8gjpnZwbnYOq3bhgLN7FPSowlniSa0xQZ+9VTpNS+yvcKaoUZGJJJY76HDPx/i9bgoG4xGcDwWSHMcA==",
+        "icono": "https://media.c5n.com/p/11f8e7aac60666c06039a30b3b3935f0/adjuntos/326/imagenes/000/253/0000253314/1200x675/smart/supercopa-2024-river-estudiantes.jpg"
+      },
+      {
+        "name": "River Plate vs. Estudiantes 3",
+        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmLiXRhB6As37Tr551IbxBSZHP6HyROJeWBxubQseJGrtZCd789/cVAX8Q+2DXbpFdTLqRGdipAmdVUEYSz87+0n",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "TQSPBT5fFAmrHLJIeXbfeXNaoO2zoIs0S67yBwuB8o8SUN2SbQrs+PV0vK0GYv+sQE5miGl8gjpnZwbnYOq3bhgLN7FPSowlniSa0xQZ+9VTpNS+yvcKaoUZGJJJY76HDPx/i9bgoG4xGcDwWSHMcA==",
+        "icono": "https://media.c5n.com/p/11f8e7aac60666c06039a30b3b3935f0/adjuntos/326/imagenes/000/253/0000253314/1200x675/smart/supercopa-2024-river-estudiantes.jpg"
+      },
+      {
         "name": "TNT SPORT ARGENTINA HD",
         "uri": "EkaIwYvYUQmdu8f0KwsOZR8yWC89PDk3VQR4XAhg7klz1ZzaOmfr58dAcdKDqlXDzqd55S/lncg5MX/ad+tk7DJUU/HUV2wCnCLp7ER6vI4qCbexk8uxiMbYWn28FniL",
         "drm_scheme": "clearkey",
@@ -141,7 +162,7 @@
       },
       {
         "name": "ESPN PREMIUM",
-       "uri": "x/xWkNrovMYmGeIV76G4pOWzEePFvZC2/a11JIOm1xIEZ36QJDQCgY3XaXT05ijvV3rdJTYV2PQmJ2ALqD9F8/hJn9os5wcH6Y3wxai6y8NXNRPd/UNwx82jcNk6UTYjZ2McLPgWBC7Ul8AV33ftaw==",
+        "uri": "x/xWkNrovMYmGeIV76G4pOWzEePFvZC2/a11JIOm1xIEZ36QJDQCgY3XaXT05ijvV3rdJTYV2PQmJ2ALqD9F8/hJn9os5wcH6Y3wxai6y8NXNRPd/UNwx82jcNk6UTYjZ2McLPgWBC7Ul8AV33ftaw==",
         "drm_scheme": "clearkey",
         "drm_license_uri": "TQSPBT5fFAmrHLJIeXbfeYExg6JqpKsB7UfJBdzUr0SUr8immyLwFUXbfieCDNHleEFVKSZBCyU4aB3dbGOPQE9VQHwUz69JLqu5nlUyH7tVrFJHkss/UVWhircirHaKP+j0lbpStzN53UaEtvE3mg==",
         "icono": "https://i.ibb.co/9V3PgZ5/espn-premium-by-jpfr1906-df43pcs-375w-2x.jpg"
