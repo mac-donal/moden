@@ -141,9 +141,9 @@
       },
       {
         "name": "ESPN PREMIUM",
-        "uri": "0ESsfCc2QuT+y60FrruAKvkYlyVrg5YEW0i8GTxQVfUSwnVc1uCCSyf6GcQ8FLCLc+VbV5Qskd/1RGtuxnIzcgt16IzFTH0taMapqD+wHo8UgkWPSVU0gH39WZMb/u9hjCbLJBIaU1e9hBurbDDTQQ==",
+       "uri": "x/xWkNrovMYmGeIV76G4pOWzEePFvZC2/a11JIOm1xIEZ36QJDQCgY3XaXT05ijvV3rdJTYV2PQmJ2ALqD9F8/hJn9os5wcH6Y3wxai6y8NXNRPd/UNwx82jcNk6UTYjZ2McLPgWBC7Ul8AV33ftaw==",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "TQSPBT5fFAmrHLJIeXbfefWY4OTzX0IPw7dEwpiRL17UAqksF3eNr22TsRrENzut4mNITL+z1nsQHIPxIe76wfzt3/nKBQi/xowIhHwtPxSZ8bAx6d0MK9qamEFLkzMLaXfFv/XicpjOLmsavSaWOvNBU5vzURtFUCLDTUAHqoM=",
+        "drm_license_uri": "TQSPBT5fFAmrHLJIeXbfeYExg6JqpKsB7UfJBdzUr0SUr8immyLwFUXbfieCDNHleEFVKSZBCyU4aB3dbGOPQE9VQHwUz69JLqu5nlUyH7tVrFJHkss/UVWhircirHaKP+j0lbpStzN53UaEtvE3mg==",
         "icono": "https://i.ibb.co/9V3PgZ5/espn-premium-by-jpfr1906-df43pcs-375w-2x.jpg"
       },
       {
@@ -209,17 +209,10 @@
       },
       {
         "name": "ESPN PREMIUM",
-        "uri": "0ESsfCc2QuT+y60FrruAKvkYlyVrg5YEW0i8GTxQVfUSwnVc1uCCSyf6GcQ8FLCLc+VbV5Qskd/1RGtuxnIzcgt16IzFTH0taMapqD+wHo8UgkWPSVU0gH39WZMb/u9hjCbLJBIaU1e9hBurbDDTQQ==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "TQSPBT5fFAmrHLJIeXbfeYYVrux8d2t4QaTqrWrhyQZ8YlknXznLb7Mh4WvuFvl6ecaxCxknFPBCZPj4lcToWfzt3/nKBQi/xowIhHwtPxS5GYUjOxdas1D8z2s/h8YY6dKUsCISO3dzYcpG+O5+PvNBU5vzURtFUCLDTUAHqoM=",
-        "icono": "https://i.ibb.co/9V3PgZ5/espn-premium-by-jpfr1906-df43pcs-375w-2x.jpg"
-      },
-      {
-        "name": "ESPN PREMIUM 2",
         "uri": "x/xWkNrovMYmGeIV76G4pOWzEePFvZC2/a11JIOm1xIEZ36QJDQCgY3XaXT05ijvV3rdJTYV2PQmJ2ALqD9F8/hJn9os5wcH6Y3wxai6y8NXNRPd/UNwx82jcNk6UTYjZ2McLPgWBC7Ul8AV33ftaw==",
         "drm_scheme": "clearkey",
         "drm_license_uri": "TQSPBT5fFAmrHLJIeXbfeYExg6JqpKsB7UfJBdzUr0SUr8immyLwFUXbfieCDNHleEFVKSZBCyU4aB3dbGOPQE9VQHwUz69JLqu5nlUyH7tVrFJHkss/UVWhircirHaKP+j0lbpStzN53UaEtvE3mg==",
-        "icono": "https://static.tvar.io/imagenes/espnpremium.png"
+        "icono": "https://i.ibb.co/9V3PgZ5/espn-premium-by-jpfr1906-df43pcs-375w-2x.jpg"
       },
       {
         "name": "ESPN",
