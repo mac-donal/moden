@@ -77,12 +77,12 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvPgpUVkJPIfYdLhHlazjK372ZlbeLwZNxiIlq/XgRaCCqCKVjlWop721LJ7jCNDA5jHf86CDpl77i4XXJrwXAjWWRuKbB8YfXf737V5Tmye9xL3D3Q2XT9ZSyjnHcBijAA==",
         "icono": "https://i.ibb.co/vvptksh/maxresdefault.jpg"
-      },
+          },
       {
         "name": "C5N",
-        "uri": "kLzT+cququRriT9kOdZAbLuPtqzMT0qIkYh8yAG147B9TU2WVIxNbAI9jTGADSgLZW9k3vaB6ggHQtDQpYrDm9AUewr+Y4Hdp8MU7kyiqbg=",
+        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmI3k0s7brdvQZPFAUTeEn9IJYcMEM1i03IU+Vk6RK5DsyLHotHl/IG3YB4Y0lKYSiU=",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "TQSPBT5fFAmrHLJIeXbfeUXTDhaXhiKsrbw/a14Xn8yRIKPsKyV4mOM6PuyhMGVjMYFrNnqLDKBIncskkjch83U99SlC4g4MVMjYTXDkbI9jSYeNuxSKpvoZczc3StieAJfH3W1gV7xSCLKmiovbYg==",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvNSoXpJctC1/u+LAVRXMTcj0slL5iSK2Xx97BhSOhcvt7Uwazt7RYgoMjphNwA7YxWwMy+RVJgdpE3yGE1F96R5sLSSyw346Ajr+rZinotb2vS82+kou4vct3pGYIPgG9A==",
         "icono": "https://i.ibb.co/WsDVtKJ/AATXAJxna-EZa9-Kmw-LXr-Yq-Dc-MZTf88wo-Sug34-Gkqy5u-E-5-Q-s900-c-k-c0xffffffff-no-rj-mo.jpg"
       },
       {
@@ -96,14 +96,14 @@
         "name": "LN+ - LA NACION",
         "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmL7KHJKttrEFcsvgnFowusvP8U9gqVyChcTF73B54Cjck9+zYy8uDFTiGy4dRt86uZI0f03vYAU4XYtje5lHOuz",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "TQSPBT5fFAmrHLJIeXbfef3V34QEuYXLXSSJpHnvVanfKQAM11h708hdRTQ8Db3UU9Nf0vQer1PrVPTnkbHK1jLx4uoMMITpYbZKoZ64YfrRskahDsXQG1WtN4YXHt7TKz6YRdIgj8TuRybeg61eZQ==",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvDrvYuj3fhORC+rJDM0t2lOWMEDRcDwn+TOp6bOdDcc6Felemvq59dXgkci0EmxN71eR91ALCygyFnqJU/AB2zclIQiHz4c95QOeG3zbOhWFZv0dTxnntpKPiSPqYQ4Rug==",
         "icono": "https://www.conclusion.com.ar/wp-content/uploads/2016/11/la-nacion-m%C3%A1s.jpg"
       },
       {
         "name": "A24",
         "uri": "kLzT+cququRriT9kOdZAbLuPtqzMT0qIkYh8yAG147C4IkzTfyvJpA91pQ5Moqzb3fikbC8Eyv4DdhPgqgHP/4MON8GeXeiaEA1YvbcClnqZ982i4+HjSZ9ydNdzGx/q",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvB1GNq6beNiuucOe0WXWM1fqaZXOEMYeAWjLjNsO4muskyFRilW7Rx4IS93S3PZxJrwpvFfig2cvHjpHOSDZTYgryvIBHTECoCdNhlKrogJcQmIAUyC9wtvn4xLgeiHjMA==",
+        "drm_license_uri": "x4jKX5fqrwTrwgpU+iIQovuznZo9riyYCEU6mQjySE7cGBhY9o7EXm7gHcNcAFE+",
         "icono": "https://i.ibb.co/z2QvG13/Logo-a24.jpg"
       },
       {
@@ -402,7 +402,7 @@
       },
       {
         "name": "C5N",
-        "uri": "kLzT+cququRriT9kOdZAbLuPtqzMT0qIkYh8yAG147B9TU2WVIxNbAI9jTGADSgLZW9k3vaB6ggHQtDQpYrDm9AUewr+Y4Hdp8MU7kyiqbg=",
+        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmI3k0s7brdvQZPFAUTeEn9IJYcMEM1i03IU+Vk6RK5DsyLHotHl/IG3YB4Y0lKYSiU=",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvNSoXpJctC1/u+LAVRXMTcj0slL5iSK2Xx97BhSOhcvt7Uwazt7RYgoMjphNwA7YxWwMy+RVJgdpE3yGE1F96R5sLSSyw346Ajr+rZinotb2vS82+kou4vct3pGYIPgG9A==",
         "icono": "https://i.ibb.co/WsDVtKJ/AATXAJxna-EZa9-Kmw-LXr-Yq-Dc-MZTf88wo-Sug34-Gkqy5u-E-5-Q-s900-c-k-c0xffffffff-no-rj-mo.jpg"
@@ -432,7 +432,7 @@
         "name": "A24",
         "uri": "kLzT+cququRriT9kOdZAbLuPtqzMT0qIkYh8yAG147C4IkzTfyvJpA91pQ5Moqzb3fikbC8Eyv4DdhPgqgHP/4MON8GeXeiaEA1YvbcClnqZ982i4+HjSZ9ydNdzGx/q",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvB1GNq6beNiuucOe0WXWM1fqaZXOEMYeAWjLjNsO4muskyFRilW7Rx4IS93S3PZxJrwpvFfig2cvHjpHOSDZTYgryvIBHTECoCdNhlKrogJcQmIAUyC9wtvn4xLgeiHjMA==",
+        "drm_license_uri": "x4jKX5fqrwTrwgpU+iIQovuznZo9riyYCEU6mQjySE7cGBhY9o7EXm7gHcNcAFE+",
         "icono": "https://i.ibb.co/z2QvG13/Logo-a24.jpg"
       },
       {
