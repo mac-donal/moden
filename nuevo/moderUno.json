@@ -823,7 +823,7 @@
         "name": "HBO XTREME",
         "uri": "x/xWkNrovMYmGeIV76G4pOWzEePFvZC2/a11JIOm1xIxVdo8kctqgOEzCPD+tMUw5rJlCoAe9VAyd9g8emUkCrLvpWYgBrewh4aeZ4Tm+dCMJsskEhpTV72EG6tsMNNB",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "TQSPBT5fFAmrHLJIeXbfeYQtGXzY6iNOHSUlvHKPiKj0b8LCn2JoXRcoSjd/Vmknw3ydmQn4US1/Y+pqJoHljNkpU2+38Pjk0nvYmowlYtewE/iMuRSk0+NUm61IXWMiip7CQ2+Z6NGKZEeo3N/h6w==",
+        "drm_license_uri": "Ye6hKDznXXGTKOm2LtaO9uvCC1Yjqnk4pSum/2UDGY5fhCfJZVu7hzkGJ4c+DJkj",
         "icono": "https://i.ibb.co/Qm692z1/ar-max-prime-panamericano-hd-m.png"
       },
       {
@@ -844,7 +844,7 @@
         "name": "HBO MUNDI",
         "uri": "KusJ5ShfomSLrFIJxHev/qO9585W8+vgOl/77FW3gEJmXBuqeXlq3KAdZYIwvuJQ2eAabbRoJCLCBqEmP3Ai6J+295Rugk/wAM3ip0k94aTkfLXTlrxcKvPRmTI5rmmY",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "TQSPBT5fFAmrHLJIeXbfeSjYSolqbHU4hqAuuz+kYuk8/Uh59jwbQCUl7DvRn5dWzEz/qqzV32/GzH0r2Z2fzKvzIaY4sRKFq7D69FU9iOImUi54NQp524n0WoyKIxG6sHj9o5wQ7PYpvECvFxbLWQ==",
+        "drm_license_uri": "Ye6hKDznXXGTKOm2LtaO9uvCC1Yjqnk4pSum/2UDGY7xBHGMalBIJ4uxqc5ee/EY",
         "icono": "https://i.ibb.co/dJjRPzB/ar-max-m.png"
       },
       {
@@ -858,7 +858,7 @@
         "name": "HBO POP",
         "uri": "EkaIwYvYUQmdu8f0KwsOZaLchbLKSm8ry8p59CEOqa0qoEzVl2VpqCQT846c4eSM3dxbWTHokHQpvnD1eOckXBMYlJ+CAQyjkFb/rAUWakrLqRGdipAmdVUEYSz87+0n",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "TQSPBT5fFAmrHLJIeXbfeVtZXgC2IgxBpiE8vuwB8R4AHk2VgO3QSwpv2rRtXOJlZCXsaSxoVU6wFJYlUd4WO3qoSFUjsDc+TiEA+EZi5pOq48mFl7X5pvPRBwxPqGKn+9xVRatYn5B14WDcxKYwFA==",
+        "drm_license_uri": "Ye6hKDznXXGTKOm2LtaO9uvCC1Yjqnk4pSum/2UDGY7TwUXGOYl40uBgpLt/F+ej",
         "icono": "https://i.ibb.co/VmTj2tv/ar-max-up-m.png"
       },
       {
@@ -877,13 +877,6 @@
       },
       {
         "name": "UNIVERSAL CINEMA",
-        "uri": "d+ZE0K9heiaiwdSYKfaXSl7IPfFXiOKWPXorAHM6wIYaKNytob64Kkd5rG+Mq5GjnEjZEQpYhVEgfu5N+AFwH4HV+Q6beXrG0Ognt9ghymU=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvP2YKlfjcIzLyafalMOWlDUTdse8Shf4nmqrnIbEGDRYAEF9NvguB6evusUfSkPfvsgm2TwK97HCNbGt5ZhTtmhIQtvWr+xJkS5YqGy3Iv5cZrobHiaD360MsO89lswE4Q==",
-        "icono": "https://panelssh.com.ar/Img/universalcinema.png"
-      },
-      {
-        "name": "UNIVERSAL CINEMA  OPC 2",
         "uri": "x/xWkNrovMYmGeIV76G4pOWzEePFvZC2/a11JIOm1xIieviXfRoGOVJD7H5MHqdIsggW3BONRCKH84B5brfl0UlCLOrRtCRF7icQSm/0BgrEseVEn1JIzBUFibFKF2jJ",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvLjEP7sSskk0GMtwi5d7uhEzM4KMeb40aOjSilf2FS4n3Lk83A6SBU4bwjDuEqeLybb4rIeTz6+sxsI3a3bDuKUYw9rmWMQRc8NyhWZaT+40Qs+pzu3VDlFWll4BD++QDg==",
@@ -891,13 +884,6 @@
       },
       {
         "name": "UNIVERSAL COMEDY",
-        "uri": "d+ZE0K9heiaiwdSYKfaXShHFJpO6RTahY/4CULrn/dsaKNytob64Kkd5rG+Mq5GjnEjZEQpYhVEgfu5N+AFwH4HV+Q6beXrG0Ognt9ghymU=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvETEepAGVWzteRd4sb+3/gWEyWGCA31BFhbZMTFhMmfkUy84Txly8chzXezL4iQEmtGkoYopqLF7RcWvFjv3sFhCpIwUQMT4dNhT6z0zNFTwOFprsLg+fG4JZXNCdnFEyw==",
-        "icono": "http://static.tvar.io/imagenes/uncomedy.png"
-      },
-      {
-        "name": "UNIVERSAL COMEDY OPC 2",
         "uri": "hgyLEf1obfi7e+6+kI5AQQaAYi2Y9Xnhr4accAf2TnSUmIfu5DmM7s1BXyRV/T/VsYsOioxCcn1Lz26MyV/dKOGdZeKGwTY2DyHKkA+1YB8iB9CGjYiRJhC2DIThV9md",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvBokNTAs1nwS8zCpMY1dZ0UxLDoBOObphbJ1rcLgPwX++3NZAty6ar3tFvb3SwEEm+5MC1bAYEf2mhm5wQFNyMQ85PJAHf0BAaPwzbl/TmPkqxqwx5EyUxm8SVQ4aqpCOg==",
@@ -911,7 +897,7 @@
         "icono": "http://static.tvar.io/imagenes/uncrime.png"
       },
       {
-        "name": "UNIVERSAL CRIME OPC 2",
+        "name": "UNIVERSAL CRIME",
         "uri": "hgyLEf1obfi7e+6+kI5AQQaAYi2Y9Xnhr4accAf2TnTg6qK25TJrCOlVDtDEuC0SyP6SK7H9qmhlJw/5EIEoQ+ISFwSe3y0JhZv9RpTgAGlAwWU7mIzdgRPbpr1LHqne",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvMYEkPzuj70OlUIDYZda55b/m1zWyvM/58Z5WnSXwQVRa5FTR6b2i89bd580ED+x30xs64Oj7Nzx2gLBwEufEeJTBgNUFwwPX69NTAKpfVQUqxqwx5EyUxm8SVQ4aqpCOg==",
@@ -919,13 +905,6 @@
       },
       {
         "name": "UNIVERSAL PREMIERE",
-        "uri": "d+ZE0K9heiaiwdSYKfaXSgO+SgVBc+Zi/irbR2D/IVCMhck9MR27HXu+GSOpVMdND2dndONLAy4fYK+3YguhwsPofP3VfcNpIOObefeyB2c=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvMIvh6LnR8IOpilJPkftQM4tr/Aw8sm/81JOr4gcMMNWXnytScv85aDzRXZ+7A24xmq1YjwjajFK0DKo1Vm5PPnLxbvOnca7/fX/cGxeMbCAFU6viS9GkGMpwi8GW4UB0g==",
-        "icono": "http://static.tvar.io/imagenes/unpremiere.png"
-      },
-      {
-        "name": "UNIVERSAL PREMIERE OPC 2",
         "uri": "hgyLEf1obfi7e+6+kI5AQQaAYi2Y9Xnhr4accAf2TnR/x1FboExrlQFdSBvRdTolIDmkNC2aGI3zN1GoW3f4AJFtjSGDOVFkPT7JXOSyiWn8gMv37chprw9mrkAZakkv",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvMbEbqaatV34QUY2RZyphfVfeVk9iwJqNubhhrqScuF0CefeUGkWEcpIGsYMn907+e3lVkT40ATnLOsMCCHHeEfRuFpljrTxJCGKLLObJAx84EVe020IUgo3F6y3UKEeVg==",
@@ -933,13 +912,6 @@
       },
       {
         "name": "UNIVERSAL REALITY",
-        "uri": "d+ZE0K9heiaiwdSYKfaXSkR+KSYtaqMIZ2X8B3M0eUt5qRgmWYQu62RIpMLyceeA40JxV/Mr4wx2Aat4ACC779aUN4IxBEmEOwOBmPlZ0Hs=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvB3XW405yHNOWdOmd6GlHBTX6iKAXfrs9l+85MligD7gAQU7HhlP8y0pPJVLKGP/HdHDscPQwfUwoRVSwgtJuQfLeFX4DuLUuYim9OBNMaGrptan7LA8c02BrTjnNaVlxQ==",
-        "icono": "http://static.tvar.io/imagenes/unreality.png"
-      },
-      {
-        "name": "UNIVERSAL REALITY OPC 2",
         "uri": "hgyLEf1obfi7e+6+kI5AQQaAYi2Y9Xnhr4accAf2TnSZnWfx58H4NIAPbrv8yhePNrMN8esnT+HrkKxbWCbbcPvjslhYYnTMMCGc6buCZvHRAb+gHScQhSuAtPY8WIYB",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvJIaNF/KTHaspFCUAe0Pox6iMF7BuATh4mnVyqw9ikhnqEnPJbWaolCYJhm2GdJoI/j6V2LBis0FxuG3Zk7FakeNR+jeJcYW7+Y6/yfcJoThSKSJVo1J0rFtzMblU96/Cw==",
