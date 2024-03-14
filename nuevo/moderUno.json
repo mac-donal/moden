@@ -891,13 +891,6 @@
       },
       {
         "name": "UNIVERSAL CRIME",
-        "uri": "d+ZE0K9heiaiwdSYKfaXSrPWLWpWKGISBne2jZsXOezOVUqc0PZ+ZD2TQcV2gK2sBh9vzt0vB+7x/AMjIQG9m+mt4ygjeZ+rD273cqbHz5A=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvJklv2ZX2IA10vIIwA7FP6hrxnYozkyRk+i4sp9sudO5sqH3K8uNWYv98YL1C7BQJalUZoscX9JbzbcOiWZIZ0yokjChwfwNH2zR5THOc3xrO+5PPyOtXqnAZJ5dqOB9eg==",
-        "icono": "http://static.tvar.io/imagenes/uncrime.png"
-      },
-      {
-        "name": "UNIVERSAL CRIME",
         "uri": "hgyLEf1obfi7e+6+kI5AQQaAYi2Y9Xnhr4accAf2TnTg6qK25TJrCOlVDtDEuC0SyP6SK7H9qmhlJw/5EIEoQ+ISFwSe3y0JhZv9RpTgAGlAwWU7mIzdgRPbpr1LHqne",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvMYEkPzuj70OlUIDYZda55b/m1zWyvM/58Z5WnSXwQVRa5FTR6b2i89bd580ED+x30xs64Oj7Nzx2gLBwEufEeJTBgNUFwwPX69NTAKpfVQUqxqwx5EyUxm8SVQ4aqpCOg==",
@@ -1077,9 +1070,9 @@
       },
       {
         "name": "ISAT",
-        "uri": "KusJ5ShfomSLrFIJxHev/qsLWvM5xUJYjXEAXQYdsNNmXBuqeXlq3KAdZYIwvuJQ5/JsyInDsObTJTnDKf25uCxvH3em1gMoa317ZscryNHkUuA4t2bIkxFrwVytIQd2",
+        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmL7xl1zPq+B+s3yl92udD+I5rJlCoAe9VAyd9g8emUkCthmZI1vKt14ZrNvZnWeNOo=",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvKSFWxJq1MTW2QDLc3wcNGId4aC40teKJPE4x2p4QUEm0sJiXktj7LfSf1HdTqUSwypHLfwpSlxhbrxC7Cv7Oyjd/eCNf04LYYxVXHZACffCSwpWGK3YkYVTERbvpLL9jA==",
+        "drm_license_uri": "Ye6hKDznXXGTKOm2LtaO9nS6WQcjXJ5t2r24WIGxXCJJgJ18zNOjYohtipU5OjEa",
         "icono": "https://i.ibb.co/9NGrPbD/yl4-O9-YOo-400x400.jpg"
       },
       {
@@ -1091,7 +1084,9 @@
       },
       {
         "name": "SYFY",
-        "uri": "32la4qC8e9PN7GfAyzzbkcKJOjkCtFxEcaC2tCawXxrE6OHe7TDCqSgdyueqH2I3Bd/L7NHfAUqA35vx3cjTAseL7Zm4WmKCHR0GwtmntwXQfzvOGHj39/bZb/+C3cgE",
+        "uri": "ejOC8mhnKkUdiM7e04joc9S9H44/OOyhFeCdEVvacGliE9Py+5edqb4m7ejrfwYbUlIkDpXJP3goWLc4lbeGXg==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvC2+jREOdY69+SfMPthXhXO3J+g0MyUi3VL9vkKeE0TEmGFvJP1C3Htf1VKKBMMMUmlshHwSw+OfwxFsg/SJqSrm5jTxM9g+CZO8Wq6ali+86udGRJ9QGmDAJUjg3I71ZQ==",
         "icono": "https://i.ibb.co/0QTGNzm/unnamed-9.jpg"
       },
       {
@@ -1114,11 +1109,6 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvEVlFXg6N94WGlZp/mnIiKtGk/Cs3eTeyBI+rz2O6XodxHkvnjJ4hRg+GVcJ/eNpPqZaaHrvTAlT1WC0hEv+sCwd4ZR7OYRcqhn+g4DypiVNhfsTRFJzIM2LBqV+dAMBYQ==",
         "icono": "https://i.ibb.co/RgWH92w/720x540-1.jpg"
-      },
-      {
-        "name": "TRUTV",
-        "uri": "VJeTCYODF6rq9avPW5hOQGJYbdUdFnJWkRARMhHnQsObMTWv3EGRjISwDxvjOK7dTNeTht+l5Ak4kDsZg+xtBAavbfzdWsz49liC0EWmM14D+VLwJ3tx/XBW09Ec8eaKaeOQC5B3HMPhPFrje2g56Q==",
-        "icono": "https://play-lh.googleusercontent.com/xwnvklLX5on1HIT-c5TP_Q0Cr02Z1vuTx1NFsRJvUTuhSOGZycO8kqJzoK6ah3E4tO8"
       },
       {
         "name": "CINEMA INOLVIDABLE",
