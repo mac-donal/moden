@@ -72,7 +72,7 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvPgpUVkJPIfYdLhHlazjK372ZlbeLwZNxiIlq/XgRaCCqCKVjlWop721LJ7jCNDA5jHf86CDpl77i4XXJrwXAjWWRuKbB8YfXf737V5Tmye9xL3D3Q2XT9ZSyjnHcBijAA==",
         "icono": "https://i.ibb.co/vvptksh/maxresdefault.jpg"
-          },
+      },
       {
         "name": "C5N",
         "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmI3k0s7brdvQZPFAUTeEn9IJYcMEM1i03IU+Vk6RK5DsyLHotHl/IG3YB4Y0lKYSiU=",
@@ -129,7 +129,9 @@
       },
       {
         "name": "TNT SPORT OP2",
-        "uri": "SO7PaqFnX2XeJ1kRo1c/2lLubH7M5HtXe8JNuwGW79a6PSlGJ/oRvx5sQ5u2iGJp6+K+e1Pn+etnbPOGMkzGqA==",
+        "uri": "O+0EFfg/3liYjnYX4xHVOfJP919wGjGgflZxoWRpDHfrvIjr8D3pry9rx5YVnvJRtKnabK1oInLqQkIunlqNlDGQvImhhYhWDZN3L7R4GJXVrpYHQhmJAJb3oYPMISa/5mnVAcE75bWgRZVWaimxFjerDgB2BePfKR9ipwPoWCg=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvGAiDcZDpGg4nC33mL/0P6FMXitJPO3okikLWMnkGyNvRiPh/5ZxHN1uqwlniSf4fOe2r1SCZjpLhMG2f6gWpvlV8shTOY1c/Dex2unwlUtzIazv2J+/9YLh0AekNlNv1A==",
         "icono": "https://i.postimg.cc/kMkS5BVf/TNT-SPORTS-ARGENTINA.png"
       },
       {
@@ -359,7 +361,7 @@
         "icono": "https://media.infocielo.com/p/d7b6f19849cd20bab059321254aa6485/adjuntos/299/imagenes/001/519/0001519763/1200x675/smart/gran-hermanopng.png"
       },
       {
-       "name": "GH",
+        "name": "GH",
         "uri": "SUb6OoBf1vm+qkGW6acGx5j9S55E3yWRaLnJ0Cw2kgCfzheOcXO4Rp/cKIkYvdCA4m4tOV6wePl6zpg0+m1s+Q==",
         "icono": "https://media.infocielo.com/p/d7b6f19849cd20bab059321254aa6485/adjuntos/299/imagenes/001/519/0001519763/1200x675/smart/gran-hermanopng.png"
       },
@@ -506,13 +508,13 @@
         "name": " TV Dos Salta | AR",
         "uri": "bak6bVcZjlSIPvXt5mEKlDYQDg99z4fZsqdUtw2e8KxTi9sK2AqxRAddoVaRat2JY4EEXMxQ3vIoQXjf+tjyBAOIE3eKoyp/H0Wz51lVrt8=",
         "icono": "https://pbs.twimg.com/profile_images/1684197718392967170/CwgHsyRG_400x400.jpg"
-     },
-     {
-       "name": "CANAL NUEVE TELEVIDA",
-       "uri": "8ZJw0UUv0Xe/ExtodpANumJ93vhHcVXcUFVrhh+95S3Zmu72k31JxKqGHMale+nkDS3fM3XoIDXLBEJUA26ETCyyB5kp0iYXuabRPElBjgveOSvc3ZxXLrYLtp5O6l2yto045rz3w1NR2G+R7LhOLA==",
-       "icono": "https://www.elnueve.com/images/logo-canal-9-televida-mendoza.png"
-    },
-    {
+      },
+      {
+        "name": "CANAL NUEVE TELEVIDA",
+        "uri": "8ZJw0UUv0Xe/ExtodpANumJ93vhHcVXcUFVrhh+95S3Zmu72k31JxKqGHMale+nkDS3fM3XoIDXLBEJUA26ETCyyB5kp0iYXuabRPElBjgveOSvc3ZxXLrYLtp5O6l2yto045rz3w1NR2G+R7LhOLA==",
+        "icono": "https://www.elnueve.com/images/logo-canal-9-televida-mendoza.png"
+      },
+      {
         "name": "elpringlense",
         "uri": "BwCt2YL2jA0p6g5tNuk+JI8gp8UyG5/4mFWQAmiZwewmsKY3Qz1YTnlO6Vek0uDORjbo6AH2EJnJlQMCHm9uu0M2FyCfzzDHWh+w9lYEhcA=",
         "icono": "https://i.ibb.co/VtK5R3B/Whats-App-Image-2023-08-09-at-8-41-47-PM.jpg"
@@ -523,12 +525,12 @@
         "icono": "https://multivisioncable.com.ar/imagenes/logo.jpg"
       },
       {
-       "name": "EL PALOMAR",
-      "uri": "cEJe+QuHW0/c9KGA1+OZYdESSp7OnIZJaWgTrbcV6NUwmg34iPcNiwDweF4Of5EQCi6oLZsd+JWbi9mmupz1Sg==",
+        "name": "EL PALOMAR",
+        "uri": "cEJe+QuHW0/c9KGA1+OZYdESSp7OnIZJaWgTrbcV6NUwmg34iPcNiwDweF4Of5EQCi6oLZsd+JWbi9mmupz1Sg==",
         "icono": "https://yt3.googleusercontent.com/ytc/AIdro_nMChmOURsEZY6l0n8IDuipFfnIkmy_fVC4ABj7gQ=s900-c-k-c0x00ffffff-no-rj"
       },
       {
-       "name": "PANCTV TUCUMAN",
+        "name": "PANCTV TUCUMAN",
         "uri": "cEJe+QuHW0/c9KGA1+OZYY5mKa5q4t47ICUOp2Ypai0nI/pMdYdcpCsRuRfwVDmqCi6oLZsd+JWbi9mmupz1Sg==",
         "icono": "https://panelssh.com.ar/Img/panctvtucuman.png"
       },
