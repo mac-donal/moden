@@ -960,9 +960,19 @@
         "icono": "https://i.imgur.com/DTRPV6B.png"
       },
       {
+        "name": "GOLDEN",
+        "uri": "https://linear-408.frequency.stream/dist/vix/408/hls/master/playlist_1024x576.m3u8",
+        "icono": "https://i.ibb.co/SQXYfcb/19d8ad2b2b4e8ec851d2bcbf42691efe.png"
+      },
+      {
         "name": "GOLDEN PLUS",
-        "uri": "1TOBYmBE8hdaxWw8rCUzPI0VCurphHD6kxIIMOH3vjLWjz3BA65T1h1KWcXmjeqJd6mrT33iior1kEq5RZYO4/v3zQSGGXjtwGkuOLFpgqU=",
+        "uri": "1TOBYmBE8hdaxWw8rCUzPI0VCurphHD6kxIIMOH3vjLWjz3BA65T1h1KWcXmjeqJd6mrT33iior1kEq5RZYO4/v3zQSGGXjtwGkuOLFpgqU=8",
         "icono": "https://i.ibb.co/0QygQDg/goldenplus.jpg"
+      },
+	    {
+        "name": "GOLDEN PREMIER EDGE",
+        "uri": "1TOBYmBE8hdaxWw8rCUzPDdodDnUwoTym7aRTMxSLcSqfdtfBjiWoxQuBKiBhWMLd6mrT33iior1kEq5RZYO48Ck8MVG3Z1SU7LHFVC4AgkiE98oXZdic35SrWuDNoQX",
+        "icono": "https://static.wikia.nocookie.net/doblaje/images/b/b9/Golden_Premier_LA_2020.png/revision/latest?cb=20210112175406&path-prefix=es"
       },
       {
         "name": "WARNER CHANNEL",
@@ -1103,13 +1113,6 @@
         "icono": "https://i.ibb.co/SstC2vr/IMV4-Vz3l-400x400.jpg"
       },
       {
-        "name": "ISAT",
-        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmL7xl1zPq+B+s3yl92udD+I5rJlCoAe9VAyd9g8emUkCthmZI1vKt14ZrNvZnWeNOo=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "Ye6hKDznXXGTKOm2LtaO9nS6WQcjXJ5t2r24WIGxXCJJgJ18zNOjYohtipU5OjEa",
-        "icono": "https://i.ibb.co/9NGrPbD/yl4-O9-YOo-400x400.jpg"
-      },
-      {
         "name": "A3SERIES",
         "uri": "KusJ5ShfomSLrFIJxHev/pSQ87z0sDzfCnKl76qh60mXfymEfZKVjJaXPcutg/lMxjIYI60UNCxIYjtNA1J8Yi2Kfdwc6iVFGx0PexhPSdzZQQQf6yKNnZgbmVyCB0Iz",
         "drm_scheme": "clearkey",
@@ -1118,6 +1121,13 @@
       },
       {
         "name": "SYFY",
+        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmK2CY2aU77uInMwWdCQKSCt5rJlCoAe9VAyd9g8emUkCiMtd5pwsVY5Gi7YjlhHiqs=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvI96XpMVs1N8v198MG+bgzWfS7l/sTtNvh+roXhyNxweyPHR8shx3rWeYXxDID1oUCaZ6E2CndrEW/WWVthd1HvR8Dzv3RZgHayoK7nfQHYe2l9JMS5Ka7gwsHIOTfJhng==",
+        "icono": "https://i.ibb.co/0QTGNzm/unnamed-9.jpg"
+      },
+      {
+        "name": "SYFY OPC 2",
         "uri": "ejOC8mhnKkUdiM7e04joc9S9H44/OOyhFeCdEVvacGliE9Py+5edqb4m7ejrfwYbUlIkDpXJP3goWLc4lbeGXg==",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvC2+jREOdY69+SfMPthXhXO3J+g0MyUi3VL9vkKeE0TEmGFvJP1C3Htf1VKKBMMMUmlshHwSw+OfwxFsg/SJqSrm5jTxM9g+CZO8Wq6ali+86udGRJ9QGmDAJUjg3I71ZQ==",
