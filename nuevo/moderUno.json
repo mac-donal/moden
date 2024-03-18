@@ -1281,6 +1281,11 @@
         "icono": "https://images.pluto.tv/channels/6254598f5083f800076d8563/colorLogoPNG.png"
       },
       {
+        "name": "Dragon Ball",
+        "uri": "9ze7zoWeEnlExpv5EF6qZnFVxSTPgNpmXXXDbJdvs8NILzgKYNgywK7e4SfJBcNClGAZIFHr7s0sPW7rsNoYIw==",
+        "icono": "https://fr.web.img2.acsta.net/pictures/22/11/22/14/02/3642167.jpg"
+      },
+      {
         "name": "Los Simpson",
         "uri": "5noj75susS1ViuBglqH1arUTPMtbRENNtK13mFnoU04z03J0t7+o3FB9ubKeFsbnmiEJ0ob5GFa1tI0VSLbUVA==",
         "icono": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ"
@@ -1289,6 +1294,21 @@
         "name": "Tom y Jerry",
         "uri": "qav2igYc/HGz0oyynV3920Ulvksqb+WnWubBVGiR1h9VY953NXkruL6lzvKupKEQto045rz3w1NR2G+R7LhOLA==",
         "icono": "https://es.web.img3.acsta.net/pictures/21/07/02/12/49/5126951.jpg"
+      },
+      {
+        "name": "EL CHAPULIN COLORADO",
+        "uri": "9ze7zoWeEnlExpv5EF6qZnFVxSTPgNpmXXXDbJdvs8MizH3ZESpk2JY+Va04N/2UlGAZIFHr7s0sPW7rsNoYIw==",
+        "icono": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRjR78mrOm9s_hg-PsixcSJ1Rcxa28xvUdiY7sa-AoIru7d6AM4"
+      },
+      {
+        "name": "EL CHAVO DEL 8",
+        "uri": "9ze7zoWeEnlExpv5EF6qZnFVxSTPgNpmXXXDbJdvs8P7YQtpQjJKxwJMcHP0YiVWlGAZIFHr7s0sPW7rsNoYIw==",
+        "icono": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR8aBSvwA5eGpzwrB2elmFM9zsUWUyG1RImLV9sl0c8rqSf0PRx"
+      },
+      {
+        "name": "CHESPIRITO",
+        "uri": "9ze7zoWeEnlExpv5EF6qZnFVxSTPgNpmXXXDbJdvs8PAB+u3L1FxkXxeVAyUAUVZlGAZIFHr7s0sPW7rsNoYIw==",
+        "icono": "https://www.telegratishd.com/imge/chespirito.png"
       },
       {
         "name": "Ben 10",
