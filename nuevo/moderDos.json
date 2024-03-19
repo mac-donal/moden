@@ -1112,6 +1112,56 @@
     ]
   },
   {
+    "name": "El Chapo",
+    "samples": [
+      {
+        "name": "parte 1 ",
+        "uri": "uq7FjfS9mKGNO3AMzJc0Sg2SGXSaOBEW8TRctCVmO+QN0lqr90/whayDLUKHwVUsTDaBI7yqzD2WHW9Ppd1mFQNAjO6uq7dxXHfxZ20+jpA=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZjlhNjE5MTktMjk3Mi00MWE5LTkyMjEtOTQ2N2RkZjg3MzA2XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
+      },
+      {
+        "name": "parte 2",
+        "uri": "uq7FjfS9mKGNO3AMzJc0Sg2SGXSaOBEW8TRctCVmO+QN0lqr90/whayDLUKHwVUs2zG7IPPWb8vgSQOznbnzVgNAjO6uq7dxXHfxZ20+jpA=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZjlhNjE5MTktMjk3Mi00MWE5LTkyMjEtOTQ2N2RkZjg3MzA2XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
+      },
+      {
+        "name": "parte 3",
+        "uri": "uq7FjfS9mKGNO3AMzJc0Sg2SGXSaOBEW8TRctCVmO+QN0lqr90/whayDLUKHwVUsjuYr2pMyyCwsUcclvICf8ANAjO6uq7dxXHfxZ20+jpA=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZjlhNjE5MTktMjk3Mi00MWE5LTkyMjEtOTQ2N2RkZjg3MzA2XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
+      },
+      {
+        "name": "parte 4",
+        "uri": "uq7FjfS9mKGNO3AMzJc0Sg2SGXSaOBEW8TRctCVmO+QN0lqr90/whayDLUKHwVUsdUu5IHjhMknQ1KTpzli23QNAjO6uq7dxXHfxZ20+jpA=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZjlhNjE5MTktMjk3Mi00MWE5LTkyMjEtOTQ2N2RkZjg3MzA2XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
+      },
+      {
+        "name": "parte 5",
+        "uri": "uq7FjfS9mKGNO3AMzJc0Sg2SGXSaOBEW8TRctCVmO+QN0lqr90/whayDLUKHwVUs9Ub8GuE5t3nL28rAAD9EdQNAjO6uq7dxXHfxZ20+jpA=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZjlhNjE5MTktMjk3Mi00MWE5LTkyMjEtOTQ2N2RkZjg3MzA2XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
+      },
+      {
+        "name": "parte 6",
+        "uri": "uq7FjfS9mKGNO3AMzJc0Sg2SGXSaOBEW8TRctCVmO+QN0lqr90/whayDLUKHwVUseSjkx1uKEnauW253qNA4FgNAjO6uq7dxXHfxZ20+jpA=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZjlhNjE5MTktMjk3Mi00MWE5LTkyMjEtOTQ2N2RkZjg3MzA2XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
+      },
+      {
+        "name": "parte 7",
+        "uri": "uq7FjfS9mKGNO3AMzJc0Sg2SGXSaOBEW8TRctCVmO+QN0lqr90/whayDLUKHwVUs5f1WWX+hbqYg2m4OxYph4gNAjO6uq7dxXHfxZ20+jpA=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZjlhNjE5MTktMjk3Mi00MWE5LTkyMjEtOTQ2N2RkZjg3MzA2XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
+      },
+      {
+        "name": "parte 8",
+        "uri": "uq7FjfS9mKGNO3AMzJc0Sg2SGXSaOBEW8TRctCVmO+QN0lqr90/whayDLUKHwVUsmlPqLxjPToPEePlTnMX1OwNAjO6uq7dxXHfxZ20+jpA=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZjlhNjE5MTktMjk3Mi00MWE5LTkyMjEtOTQ2N2RkZjg3MzA2XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
+		 },
+      {
+        "name": "parte 9",
+        "uri": "uq7FjfS9mKGNO3AMzJc0Sg2SGXSaOBEW8TRctCVmO+QN0lqr90/whayDLUKHwVUsKhHYgCQmFsdbO5somTBUtwNAjO6uq7dxXHfxZ20+jpA=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZjlhNjE5MTktMjk3Mi00MWE5LTkyMjEtOTQ2N2RkZjg3MzA2XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
+      }
+    ]
+  },
+  {
     "name": "La Casa de Papel: Corea",
     "samples": [
       {
