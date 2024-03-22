@@ -392,8 +392,13 @@
     "name": "🇦🇷 ARGENTINA",
     "samples": [
       {
-        "name": "GH twi 2",
+        "name": "GH twi 1",
         "uri": "uQqMOW5ZK9orEx4xMTemyLqb3nrKJjRCphW3ZS275i427cEJyQfwURxcjUMv37OTStXQWa45VFjcyfmlZhR97GnjkAuQdxzD4Txa43toOek=",
+        "icono": "https://media.infocielo.com/p/d7b6f19849cd20bab059321254aa6485/adjuntos/299/imagenes/001/519/0001519763/1200x675/smart/gran-hermanopng.png"
+      },
+      {
+       "name": "GH twi 2",
+        "uri": "uQqMOW5ZK9orEx4xMTemyLqb3nrKJjRCphW3ZS275i427cEJyQfwURxcjUMv37OTXPErechIspRva6sX17BRQssRw93pcQXlefIK9t8nTA0=",
         "icono": "https://media.infocielo.com/p/d7b6f19849cd20bab059321254aa6485/adjuntos/299/imagenes/001/519/0001519763/1200x675/smart/gran-hermanopng.png"
       },
       {
