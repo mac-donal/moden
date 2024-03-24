@@ -3,6 +3,11 @@
     "name": "PELICULAS RECIEN AGREGADAS",
     "samples": [
       {
+        "name": "Shang-Chi (2024)",
+        "uri": "cNmj+gJpC7ekEgU4H5ewku/Hc6YLSWuyISsocradGTbbzCzkAw1GGZI6JY5IjfH/cbq1warcQlrgejhFJZkH4Q==",
+        "icono": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/1/10/Shang-Chi_-_Nuevo_Póster.png/revision/latest?cb=20210730153945&path-prefix=es"
+      },
+      {
         "name": "El duro (2024)",
         "uri": "cNmj+gJpC7ekEgU4H5ewku/Hc6YLSWuyISsocradGTaz92joEkC0Nq+A6ikPwBM7",
         "icono": "https://static.wikia.nocookie.net/doblaje/images/1/12/Poster_Road_House_2024.png/revision/latest?cb=20240127055229&path-prefix=es"
