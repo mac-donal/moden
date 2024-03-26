@@ -25,12 +25,22 @@
         "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmJz9OOCqdmo4Lse2lswlTHR6MBOFHQELeiTgbJu2vkvlR6+hFw2fPihR3sQZWFnBm1L0SgFLJFe9FDQWljKsIPt",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvKZBwwmDLZRr6OQdFFikGi0wt6lHbrhgaEntflvYFMFvgWSwlWwHXpzmIQZtX8kHgf0tgdv8VbwdaTIUU0N/klmaY4iYKVuTwtE15EUCy5HU80ra00gS+62LlCZUGCgc+Q==",
-        "icono": "https://static.flow.com.ar/images/7917/CH_LOGO/60/40/0/0/60910208076515.pngg"
+        "icono": "https://static.flow.com.ar/images/7917/CH_LOGO/60/40/0/0/60910208076515.png"
       },
       {
         "name": "⚽️MLS ",
         "uri": "V5QTdanj1zdgcTwcYDYHC0ANjWxk7fBIIg1iEnBB3SD32PzhHnC0oq2N3SERriqG",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/MLS_crest_logo_RGB_-_Inter_Miami_CF.svg/969px-MLS_crest_logo_RGB_-_Inter_Miami_CF.svg.png"
+      },
+      {
+        "name": "⚽️Costa de Marfil vs. Uruguay",
+        "uri": "dV7Aj/K9Gxm3NFLtHVAkbkANjWxk7fBIIg1iEnBB3SCVOpsrwNdQwNkUloTTRmO1IhPfKF2XYnN+Uq1rgzaEFw==",
+        "icono": "https://depor.com/resizer/2yu_denu19_BWZobPafK4UU9GUU=/580x330/smart/filters:format(jpeg):quality(90)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/TPELLAOP75AK5GC2MUZPGBOM6E.jpg"
+      },
+      {
+        "name": "⚽️Spain vs Brazil",
+        "uri": "dV7Aj/K9Gxm3NFLtHVAkbkANjWxk7fBIIg1iEnBB3SCVOpsrwNdQwNkUloTTRmO1IhPfKF2XYnN+Uq1rgzaEFw==",
+        "icono": "https://assets.khelnow.com/news/uploads/2024/03/spain-vs-braxil.jpg"
       },
       {
         "name": "TIGO GUATEMALA",
