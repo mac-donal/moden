@@ -11,7 +11,6 @@
         "name": "⚽️FUTBOL PY 2",
         "uri": "FQupmuKGL86VJV0+005OEoPOIQA3zB1UKF8MtcpipaPSLi/WxDWyJ2gYJzhHa5qt",
         "icono": "https://4.bp.blogspot.com/-6BQv5SOuxn4/XEs537Yz01I/AAAAAAABT-c/aol0uy0p_l8gSbrYVLhz4qu5-GpyGG3lQCLcBGAs/s1600/Copa%2Bde%2BPrimera.png"
-
       },
       {
         "name": "⚽️EVENTOS HD 1 ",
@@ -40,6 +39,16 @@
         "drm_scheme": "widevine",
         "drm_license_uri": "Riv7u0opSQq4BSIFEeSVymSU7NYpethjtBKsmWkyZQPs22hwCOlwZ3HQhG+7TxX8DUB0UQZBzxXJmVhjxjcmyQ==",
         "icono": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/star/ADA27CB6DA45909FA3E7200A34F1BC48BF7CFA1F7B4206DEC9FFDC513B536DB6/scale?width=320"
+      },
+      {
+        "name": "Star+ 1 ",
+        "uri": "EgHO2qA6b9Q0tJyGwiVpfP9tGpyyiawoR+ofiC9bgIpEFWCTHpDaB22PAQ1Mk08XVdtBBTiyq8ZrmakX2EUt6mCNGvXbAEsmpVGneJy6sOu+8NK7z3WKp5C7eQNsGSIY",
+        "icono": "https://i.ibb.co/F5DdB3C/Star-Disney.png"
+      },
+      {
+        "name": "Star+ 2 ",
+        "uri": "EgHO2qA6b9Q0tJyGwiVpfP9tGpyyiawoR+ofiC9bgIpEFWCTHpDaB22PAQ1Mk08XVdtBBTiyq8ZrmakX2EUt6mCNGvXbAEsmpVGneJy6sOtEEr+B/k6s/mgSXFYuq/Cj",
+        "icono": "https://i.ibb.co/F5DdB3C/Star-Disney.png"
       },
       {
         "name": "⚽️MLS ",
@@ -464,7 +473,7 @@
         "icono": "https://media.infocielo.com/p/d7b6f19849cd20bab059321254aa6485/adjuntos/299/imagenes/001/519/0001519763/1200x675/smart/gran-hermanopng.png"
       },
       {
-       "name": "TELEFE",
+        "name": "TELEFE",
         "uri": "LX46EnLWmPsTQWzzE5C2pN8578AuYU8BaXP63OyHIHVz1ZzaOmfr58dAcdKDqlXD3zxFnUQ5EMFlCpCx0p3If1EDbCJGcjGg6FnFCLaeBCl+UEZ3heEI6NEm/9rw8LsY",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvHvog55R7efG+Y3JUfRdAkMyRSdbLwaUtq++PwNnQqDF/5XTuseg/1NGWwcgAa1wbz7nE5t2Ipsv4zSpvjw74AXoJbR6JjD+qxAsWu9czz4cvTHIrUV/EgtGXGChh04imA==",
