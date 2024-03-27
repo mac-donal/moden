@@ -229,6 +229,11 @@
         "icono": "https://i.ibb.co/BzGyKSW/QHU32-CDMLNFGLMLSUM27-NHA5-FU.jpg"
       },
       {
+        "name": "ESPN OPC 2",
+        "uri": "0UySq0nbbyX2bdCzaeX1OK/U2u4UmmhLpbm67kSox+Lv+xZXwmBYLOxMrLGcV4Tzwc1prmpV3kNa0KT/p+NdVQ==",
+        "icono": "https://i.ibb.co/BzGyKSW/QHU32-CDMLNFGLMLSUM27-NHA5-FU.jpg"
+      },
+      {
         "name": "ESPN 2 ",
         "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmIt5hzOA/YnPvVC0KFdfPlPEw5YjLciTsyVqg72itDRQobEFB3ijsNbu/3jmxD7Z95IeG3r5HcQ5Gudsn4HO1nt",
         "drm_scheme": "clearkey",
@@ -236,10 +241,20 @@
         "icono": "https://i.ibb.co/vH8JLS1/espn24510.jpg"
       },
       {
+        "name": "ESPN 2 OPC 2",
+        "uri": "0UySq0nbbyX2bdCzaeX1OK/U2u4UmmhLpbm67kSox+LXqu0shfnHpC38c5VlFy4oy6kRnYqQJnVVBGEs/O/tJw==",
+        "icono": "https://i.ibb.co/vH8JLS1/espn24510.jpg"
+      },
+      {
         "name": "ESPN 3",
         "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmLiXRhB6As37Tr551IbxBSZXDYDxSBX0xq8HzM5ugYYVVN7QUA3PT4WEEdE6Ka87R4=",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvCtMCBUFTgodOK5opui9dAE4OCyTPpWAqO+vCe72TsT10nUnBNKYDIqoYcmjZf4swIQ+VB2ABFtN3rrjW+mHnY+Iq5Zp+2d++IhS4PduenUAL2+hrFw0BYlVDk8te26sNw==",
+        "icono": "https://i.ibb.co/NTHfMGT/ESPN3-CLR-Pos-642x405.jpg"
+      },
+      {
+        "name": "ESPN 3 OPC 2",
+        "uri": "0UySq0nbbyX2bdCzaeX1OK/U2u4UmmhLpbm67kSox+JWo6TJjhpJqKVz3j8BBDlwy6kRnYqQJnVVBGEs/O/tJw==",
         "icono": "https://i.ibb.co/NTHfMGT/ESPN3-CLR-Pos-642x405.jpg"
       },
       {
