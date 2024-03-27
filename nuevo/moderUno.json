@@ -28,31 +28,6 @@
         "icono": "https://static.flow.com.ar/images/7917/CH_LOGO/60/40/0/0/60910208076515.png"
       },
       {
-        "name": "⚽️MLS ",
-        "uri": "V5QTdanj1zdgcTwcYDYHC0ANjWxk7fBIIg1iEnBB3SD32PzhHnC0oq2N3SERriqG",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/MLS_crest_logo_RGB_-_Inter_Miami_CF.svg/969px-MLS_crest_logo_RGB_-_Inter_Miami_CF.svg.png"
-      },
-      {
-        "name": "⚽️Costa de Marfil vs. Uruguay",
-        "uri": "dV7Aj/K9Gxm3NFLtHVAkbkANjWxk7fBIIg1iEnBB3SD+tXSTLnVs7poRDiwMzx5TlGAZIFHr7s0sPW7rsNoYIw==",
-        "icono": "https://depor.com/resizer/2yu_denu19_BWZobPafK4UU9GUU=/580x330/smart/filters:format(jpeg):quality(90)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/TPELLAOP75AK5GC2MUZPGBOM6E.jpg"
-      },
-      {
-        "name": "⚽️Costa de Marfil vs. Uruguay OPC 2",
-        "uri": "dV7Aj/K9Gxm3NFLtHVAkbkANjWxk7fBIIg1iEnBB3SD+tXSTLnVs7poRDiwMzx5TlGAZIFHr7s0sPW7rsNoYIw==",
-        "icono": "https://depor.com/resizer/2yu_denu19_BWZobPafK4UU9GUU=/580x330/smart/filters:format(jpeg):quality(90)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/TPELLAOP75AK5GC2MUZPGBOM6E.jpg"
-      },
-      {
-        "name": "⚽️Spain Vs Brazil",
-        "uri": "aimPjxg28ZZZXruhPMdZfUANjWxk7fBIIg1iEnBB3SAFCAGMNLnTe2VoVbUxRuMf",
-        "icono": "https://assets.khelnow.com/news/uploads/2024/03/spain-vs-braxil.jpg"
-      },
-      {
-        "name": "⚽️Spain Vs Brazil OPC 2",
-        "uri": "uQqMOW5ZK9orEx4xMTemyLqb3nrKJjRCphW3ZS275i5d7g3czMFIv2Hk6UsS2oUK75OMxEosEwEI0W7xf1TEV5BpO19R4HqeBun+T2li4mw=",
-        "icono": "https://assets.khelnow.com/news/uploads/2024/03/spain-vs-braxil.jpg"
-      },
-      {
         "name": "⚽️Bucks vs. Lakers",
         "uri": "v8vUVcLS4XBAAM3L0k/SVSLUhbDAJKnX3WwlbqXPq2LO6ssdSUl+weND4Qs2vzsXbphRhiRMBpXQwvzg7XjMYIIBD/jcRxHY+hh0QHtEatNDYi82zDpYTCidbIbp5k9Icz94szNGUvUasLsIqWQ8cH9tsXe8yNmw/hAbA/Kc81VLMYOoGDfI/MZRiFNd9dT13/+ZCN9PXjH0qk414X8v7A==",
         "drm_scheme": "widevine",
@@ -147,6 +122,11 @@
   {
     "name": "⚽ PACK FUTBOL ARGENTINA",
     "samples": [
+      {
+        "name": "Argentina vs Costa Rica",
+        "uri": "Qq0j074IXC7a54ye8nUp0vw+pdlmiXnuk+Pig2W8T4k/UWnUfVg0+px2OAe47k8tesHK1mKhd3tPNR6/L3U2FvKEVl/x8P4rnjyrZ3hF44cNtYoxGOh3dQ/KwjL1vf6v",
+        "icono": "https://i.ytimg.com/vi/Q6VrMu63vOI/maxresdefault.jpg"
+      },
       {
         "name": "TNT SPORT ARGENTINA HD",
         "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmIW7c8B26HWtij6f1QtNAQwx2Z3Q5zoy6wLRE4bfFkEwc+BWJwadd12eITdRn3e1z4qCbexk8uxiMbYWn28FniL",
