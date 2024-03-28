@@ -8,6 +8,26 @@
         "icono": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/1/10/Shang-Chi_-_Nuevo_Póster.png/revision/latest?cb=20210730153945&path-prefix=es"
       },
       {
+        "name": "Piratas del Caribe 1",
+        "uri": "a+CFgxxgtvVAr5DPMOZgSA7IiURqqC7Mvrz3vOzMeUIbA/RaU3oEc1jhEJcLcXvGvKcWm0AKDG0Tm5cOCYmOfkcp7BK0GeSPcotvFiN57kXELHS0ylSwu8fC8ju3M8bd",
+        "icono": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSOJAX2A7HOH24xQYyUjz6rYZ1U23EfXiUZLZfFmHMznpFNxyIY"
+      },
+      {
+        "name": "Piratas del Caribe 2",
+        "uri": "a+CFgxxgtvVAr5DPMOZgSA7IiURqqC7Mvrz3vOzMeUIbA/RaU3oEc1jhEJcLcXvGvKcWm0AKDG0Tm5cOCYmOfl4FwqYvEp4V05HbW8gqBA/ELHS0ylSwu8fC8ju3M8bd",
+        "icono": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSSCxI6sNpIwAXSsY5zYhaduo1gvxo4bqohTiaDQYWGl1rDvDDF"
+      },
+      {
+        "name": "Piratas del Caribe 3",
+        "uri": "a+CFgxxgtvVAr5DPMOZgSA7IiURqqC7Mvrz3vOzMeUIbA/RaU3oEc1jhEJcLcXvGvKcWm0AKDG0Tm5cOCYmOfsCxHjw0WXOKm34nzsgy/67ELHS0ylSwu8fC8ju3M8bd",
+        "icono": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQAqXZsepSAcODZMMRivzCDPb855HA6WeVLkTKh5lHgbrhROddL"
+      },
+      {
+        "name": "Piratas del Caribe 4",
+        "uri": "a+CFgxxgtvVAr5DPMOZgSA7IiURqqC7Mvrz3vOzMeUIbA/RaU3oEc1jhEJcLcXvGvKcWm0AKDG0Tm5cOCYmOfoOmxYev5C65XAQAbinRttDELHS0ylSwu8fC8ju3M8bd",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV5Ld2OKFdmA3yZJM0jSsUHY1JrKYM6wpe7jKWaA2BFMHZNzMD"
+      },
+      {
         "name": "El duro (2024)",
         "uri": "cNmj+gJpC7ekEgU4H5ewku/Hc6YLSWuyISsocradGTaz92joEkC0Nq+A6ikPwBM7",
         "icono": "https://static.wikia.nocookie.net/doblaje/images/1/12/Poster_Road_House_2024.png/revision/latest?cb=20240127055229&path-prefix=es"
@@ -740,7 +760,7 @@
         "icono": "https://www.themoviedb.org/t/p/w500/sqfMynwPxlgPzba8JsAHphx8pXS.jpg"
       },
       {
-       "name": "007: operación Skyfall",
+        "name": "007: operación Skyfall",
         "uri": "x/xWkNrovMYmGeIV76G4pC/UyMsFDwNuhHP+Wu+CQeGv0t6H/YRbP6ePr53xiroUHkAlE6HBv627QAFtF3LAon8ufINtXeA7fHdSD775yqK52+Mo2bXTA+vfJfSU0oIF7+6MeaWj6vlwoKoKrJCHuK1bykkUaNHeBtz2kNdzyAVKfeAPLz/SFcAbQX0EFIEn",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvAMTItVIt1uoZq4xyMFJvMaJKyQun3DBpewA+0dhM3fjTxxqgdVwqmUun19NC0lJAOP5MOIP+SNFAO4tfrObD/rPwxUFc/IeadM7vcJ3MD4OAAjpHqrtXy60XMXQlwBzsg==",
