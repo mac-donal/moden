@@ -2603,9 +2603,9 @@
       },
       {
         "name": "tvm",
-        "uri": "cNmj+gJpC7ekEgU4H5ewku/Hc6YLSWuyISsocradGTa8zahE5CJlXIaEJo9mletvXxlaaULdtXZO8i+ijt35LwNAjO6uq7dxXHfxZ20+jpA=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvLQPhPc2bxInTp9TpwnwvJR1pG9aNOQoWhuUp4cI/FJKfP9uBWNdg39xjBaM/6T8VhshAbNpBlLQWiESMZiaOsmoznFRabLPgWnmtm/UMY1hnn3zpyniwxLb+mIEfnGqsA==",
+        "uri": "x4jKX5fqrwTrwgpU+iIQoqQwr3MZAxdKlbgUpdu5i9pfVBkIUj7asDyKrfwfWJgoYxGCzHifyFQCKKAUqcXq/FqCqCeg9glC9BA9oUAGb+tI770h888O279lMGAJtVXaz8NeZO9AR2K9tK/jdM/9vUVnyQ5x4DgziymJIDxkYkM++LhmtdZtPCmGYFLzncAbIrb6bHkMyFvnYU4PePtX2UjeGY+bxarGXpZ4k93fmyZUt7eLUoVzpe7ARmgR4EuU",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvFp9Kj1cMclhU6c0kDvPAt7ck36bXtQDfHNJAyahdl9EDtjK0CG9zxQBnAk6AyRKVtb+jCyGsvRFiLmWYFwnHvkG9B9QIdKOClbwzN2oMuy0YFZE7PROfQnEH6KvmT6lmg==",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1200px-Htv_logo.svg.png"
       }
     ]
