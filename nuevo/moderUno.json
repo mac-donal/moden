@@ -116,6 +116,13 @@
     "name": "⚽ PACK FUTBOL ARGENTINA",
     "samples": [
       {
+        "name": "Boca Juniors vs. San Lorenzo",
+        "uri": "v8vUVcLS4XBAAM3L0k/SVSLUhbDAJKnX3WwlbqXPq2LO6ssdSUl+weND4Qs2vzsXbphRhiRMBpXQwvzg7XjMYHLJGh4gMDGkon9tJ5bytEv+INfVBzCDbyHq5p91Sg7yS8zj3LMt0fcQIa5zquiShS6jzTtXk3HRkOEoL+GO9K48dOyfU5JTCHYGbEqSDbBt3/+ZCN9PXjH0qk414X8v7A==",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "Riv7u0opSQq4BSIFEeSVymSU7NYpethjtBKsmWkyZQNRMrocyJyYYjVUIJNwYBScDUB0UQZBzxXJmVhjxjcmyQ==",
+        "icono": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/star/F43259FCCA6463D23C6F20F76EE589C0B8F198F59F452C7957737ACCD46D250B/scale?width=320"
+      },
+      {
         "name": "TNT SPORT ARGENTINA HD",
         "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmIW7c8B26HWtij6f1QtNAQwx2Z3Q5zoy6wLRE4bfFkEwc+BWJwadd12eITdRn3e1z4qCbexk8uxiMbYWn28FniL",
         "drm_scheme": "clearkey",
