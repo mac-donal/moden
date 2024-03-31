@@ -31,53 +31,6 @@
         "name": "TIGO GUATEMALA",
         "uri": "9yVNMCNRxvz5Wnnm0oiLWSDKKVIBvu3lYNMZf65bAKyTnEXsUVT4Pdlq+9SrjNSrd6mrT33iior1kEq5RZYO4/v3zQSGGXjtwGkuOLFpgqU=",
         "icono": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/8e/4f/7c/8e4f7ce7-727e-d147-3a61-abe7c8fd6192/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/460x0w.png"
-   }
-    ]
-  },
-  {
-        "name": "EVENTOS STAR+",
-        "samples": [
-            {
-                "name": "Universidad Cat\u00f3lica vs. Orense",
-                "uri": "v8vUVcLS4XBAAM3L0k/SVSLUhbDAJKnX3WwlbqXPq2LO6ssdSUl+weND4Qs2vzsXbphRhiRMBpXQwvzg7XjMYHLJGh4gMDGkon9tJ5bytEuJ+c6epxMJDxXDkglQFePus0RPuYwErzBjvU3g00Q23zMpweI7V54cQRtuvorhZnDaivzmyIoc32NHfzfrIrPq3/+ZCN9PXjH0qk414X8v7A==",
-                "drm_scheme": "widevine",
-                "icono": "https:\/\/prod-ripcut-delivery.disney-plus.net\/v1\/variant\/star\/2942D6F28218FA64AA5E0007AFA64AEE976DD5EECF12BA70962B7BC9E2898940\/scale?width=320",
-                "drm_license_uri": "http://54.39.21.129/hlsTK/index.m3u8?Riv7u0opSQq4BSIFEeSVymSU7NYpethjtBKsmWkyZQNRMrocyJyYYjVUIJNwYBScDUB0UQZBzxXJmVhjxjcmyQ=="
-            },
-            {
-                "name": "Progreso vs. Deportivo Maldonado",
-                "uri": "v8vUVcLS4XBAAM3L0k/SVSLUhbDAJKnX3WwlbqXPq2LO6ssdSUl+weND4Qs2vzsXbphRhiRMBpXQwvzg7XjMYHLJGh4gMDGkon9tJ5bytEvFVICfL5rQ7rnU7cXLzdvJj/XFSAYPucbgf6RpSIv/0NuvBypLiZNd+z07xto80V48dOyfU5JTCHYGbEqSDbBt3/+ZCN9PXjH0qk414X8v7A==",
-                "drm_scheme": "widevine",
-                "icono": "https:\/\/prod-ripcut-delivery.disney-plus.net\/v1\/variant\/star\/A5CEC4B7B140B6A7CB82186D956E5B69BB2469DE261F08BA80CCB9644F8F0D92\/scale?width=320",
-                "drm_license_uri": "http://54.39.21.129/hlsTK/index.m3u8?Riv7u0opSQq4BSIFEeSVymSU7NYpethjtBKsmWkyZQNRMrocyJyYYjVUIJNwYBScDUB0UQZBzxXJmVhjxjcmyQ=="
-            },
-            {
-                "name": "Olympique Marseille vs. PSG",
-                "uri": "https://live-ftc-na-south-2.media.starott.com/gru1/qb01/starplus/event/2024/03/31/Olympique_de_Marseille_vs_20240331_1711904135116/ctr-all-complete.m3u8",
-                "drm_scheme": "widevine",
-                "icono": "https:\/\/prod-ripcut-delivery.disney-plus.net\/v1\/variant\/star\/B3902AE27528D936F1CE1A1DC9FD12E0E80C972D036D3CF93E534D26E9668624\/scale?width=320",
-                "drm_license_uri": "http://54.39.21.129/hlsTK/index.m3u8?Riv7u0opSQq4BSIFEeSVymSU7NYpethjtBKsmWkyZQNRMrocyJyYYjVUIJNwYBScDUB0UQZBzxXJmVhjxjcmyQ=="
-            },
-            {
-                "name": "Grigor Dimitrov (BUL) vs. Jannik Sinner (ITA) (Final)",
-                "uri": "v8vUVcLS4XBAAM3L0k/SVSLUhbDAJKnX3WwlbqXPq2LO6ssdSUl+weND4Qs2vzsXbphRhiRMBpXQwvzg7XjMYHLJGh4gMDGkon9tJ5bytEtQVbbhujtCBZwjFuIvSuzqmARg2hCyvAXrY/ktMGkGBViLJGhNSkkRvUP+pWMfBE+hyBBTkea6dGopl+Kfi2lB3/+ZCN9PXjH0qk414X8v7A==",
-                "drm_scheme": "widevine",
-                "icono": "https:\/\/prod-ripcut-delivery.disney-plus.net\/v1\/variant\/star\/26418B178F88FED102AF14EC5851CD937C31558BCCF0720019F2FBD52D305065\/scale?width=320",
-                "drm_license_uri": "http://54.39.21.129/hlsTK/index.m3u8?Riv7u0opSQq4BSIFEeSVymSU7NYpethjtBKsmWkyZQNRMrocyJyYYjVUIJNwYBScDUB0UQZBzxXJmVhjxjcmyQ=="
-            },
-            {
-                "name": "Deportivo Cuenca vs. Delfin",
-                "uri": "https://live-ftc-na-south-2.media.starott.com/gru1/qb01/starplus/event/2024/03/31/Deportivo_Cuenca_vs_Delfn_20240331_1711911038023/ctr-all-complete.m3u8",
-                "drm_scheme": "widevine",
-                "icono": "https:\/\/prod-ripcut-delivery.disney-plus.net\/v1\/variant\/star\/D8F293C50EABCE90FDB9759329F48C3AD8C76D464207D327AAE1418D6DA49B23\/scale?width=320",
-                "drm_license_uri": "http://54.39.21.129/hlsTK/index.m3u8?Riv7u0opSQq4BSIFEeSVymSU7NYpethjtBKsmWkyZQNRMrocyJyYYjVUIJNwYBScDUB0UQZBzxXJmVhjxjcmyQ=="
-            },
-            {
-                "name": "Miramar Misiones vs. Cerro",
-                "uri": "https://live-ftc-na-south-2.media.starott.com/gru1/qb01/starplus/event/2024/03/31/Miramar_Misiones_vs_Cerro_20240331_1711910712023/ctr-all-complete.m3u8",
-                "drm_scheme": "widevine",
-                "icono": "https:\/\/prod-ripcut-delivery.disney-plus.net\/v1\/variant\/star\/457F761A2AC97868F6F2170A8AA739524444E3D5AB1747571F552C6095974166\/scale?width=320",
-                "drm_license_uri": "http://54.39.21.129/hlsTK/index.m3u8?Riv7u0opSQq4BSIFEeSVymSU7NYpethjtBKsmWkyZQNRMrocyJyYYjVUIJNwYBScDUB0UQZBzxXJmVhjxjcmyQ=="
       }
     ]
   },
