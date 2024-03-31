@@ -2290,6 +2290,11 @@
         "name": "tv Maroñias",
         "uri": "yPlNBzpjHe1Of0xgReiLghD6/zUq7CuyQKKXHGf+n+rDobaV+OjsLLETRUkIINPk5XkeU08n70qIfUQV1rm4G8B77NUQv4aO66jhnrhb4zU=",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL-1-dxXBLcAQ55qWoyhM4Y1MzpxshuYYh8xRtadrHZw&s?"
+      },
+      {
+        "name": "gol tv",
+        "uri": "WaI57VB80PbWPyTqBvuR4uBcdLkD0WTQsP9siY0HSM52XCFvWD4+fcsjnzj0GWE7",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL-1-dxXBLcAQ55qWoyhM4Y1MzpxshuYYh8xRtadrHZw&s?"
       }
     ]
   },
@@ -2395,26 +2400,6 @@
         "name": "phoenix tv",
         "uri": "l//J2UnxHtTYbCrw2h5Y2swdLSrCwXOx7LWl9OGDkKusV74wqVEuwZDlj5w2SBlgRBWq5aifGL0+UoOUEZ8Bwg==",
         "icono": "https://scontent.feze7-2.fna.fbcdn.net/v/t39.30808-6/300414269_562700385585873_9114388969049269022_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=b_5PdAdfmykAX9CIWny&_nc_ht=scontent.feze7-2.fna&oh=00_AfDcbHKJ3oKYUJblmWVA9HyLStu4NIp8rVbCGkyYWjzYuA&oe=65BA124A"
-      },
-      {
-        "name": "Telecine Premium",
-        "uri": "C/VZY9daHvtYlQjRcDPLueckmgmFeuO6RdVGxtVRpdgxPZPATyWFKqKLihcj1PNfJomnoMtqnBikIG+lg6dXbA==",
-        "icono": "https://i.vimeocdn.com/video/271103422-fbb19f9ff1fea61b2fb23e5dd31d63d38d5a1e21ad196a94c407db3da056852f-d?f=webp"
-      },
-      {
-        "name": "Telecine Pipoca",
-        "uri": "C/VZY9daHvtYlQjRcDPLueckmgmFeuO6RdVGxtVRpdgxPZPATyWFKqKLihcj1PNfZY6U3+l+gLXfrKuNv6xZAg==",
-        "icono": "https://iconape.com/wp-content/files/vb/285009/png/285009.png"
-      },
-      {
-        "name": "telecine action",
-        "uri": "C/VZY9daHvtYlQjRcDPLueckmgmFeuO6RdVGxtVRpdgxPZPATyWFKqKLihcj1PNfZY6U3+l+gLXfrKuNv6xZAg==",
-        "icono": "https://i.pinimg.com/originals/66/b8/00/66b80073cf066f91017a71c61b4a5444.png"
-      },
-      {
-        "name": "telecine touch",
-        "uri": "C/VZY9daHvtYlQjRcDPLueckmgmFeuO6RdVGxtVRpdgxPZPATyWFKqKLihcj1PNfhb67VSrYmabqXrfDoNTqCg==",
-        "icono": "https://i.pinimg.com/originals/c9/32/34/c93234220293ca7928612520d1206671.jpg"
       }
     ]
   },
@@ -2610,9 +2595,7 @@
       },
       {
         "name": "tvm",
-        "uri": "v8vUVcLS4XBAAM3L0k/SVSLUhbDAJKnX3WwlbqXPq2IgzLtNTScF0snc5bl/G4dHis882s7hk5DXfRGzQB27nHLJGh4gMDGkon9tJ5bytEss7gyqjxpYdNYtJHtU4nSZ9x8fNt65RabSsuvRhf5oJoJTOW91/x0snqcy+gGEaqNMexq5AMHK7xVdbpnPlkgG3/+ZCN9PXjH0qk414X8v7A==",
-        "drm_scheme": "widevine",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvFp9Kj1cMclhU6c0kDvPAt7ck36bXtQDfHNJAyahdl9EDtjK0CG9zxQBnAk6AyRKVtb+jCyGsvRFiLmWYFwnHvkG9B9QIdKOClbwzN2oMuy0YFZE7PROfQnEH6KvmT6lmg==",
+        "uri": "8fyjMfPNZQU5Rvyzak3lkqPBffFiV3d4Mkwt977axMKx+bjn7/w5Dg0Lynve6DoDFtlQd2vbUY3XwAxh1FOq/w==",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1200px-Htv_logo.svg.png"
       }
     ]
