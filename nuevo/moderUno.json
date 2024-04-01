@@ -38,44 +38,9 @@
     "name": "EVENTOS STAR+",
     "samples": [
       {
-        "name": "prueba",
+        "name": "EVENTOS EN VIVO",
         "uri": "F3JUJfZ/FwBCK3tW6+FDPuZIXT8FT3q22MUuVShntTq0X0AGMC8j4WnYL6lkAYP6m4P6fkG/vzI+8VIDLQE+FQ==",
-        "icono": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/star/5228974AABDE13935200D14D5DE85F1B036ECBC5C522792411C36CD9B56C1721/scale?width=320"
-      },
-      {
-        "name": "Progreso vs. Deportivo Maldonado",
-        "uri": "v8vUVcLS4XBAAM3L0k/SVSLUhbDAJKnX3WwlbqXPq2LO6ssdSUl+weND4Qs2vzsXbphRhiRMBpXQwvzg7XjMYHLJGh4gMDGkon9tJ5bytEvFVICfL5rQ7rnU7cXLzdvJj/XFSAYPucbgf6RpSIv/0NuvBypLiZNd+z07xto80V48dOyfU5JTCHYGbEqSDbBt3/+ZCN9PXjH0qk414X8v7A==",
-        "drm_scheme": "widevine",
-        "drm_license_uri": "Riv7u0opSQq4BSIFEeSVymSU7NYpethjtBKsmWkyZQNRMrocyJyYYjVUIJNwYBScDUB0UQZBzxXJmVhjxjcmyQ==",
-        "icono": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/star/A5CEC4B7B140B6A7CB82186D956E5B69BB2469DE261F08BA80CCB9644F8F0D92/scale?width=320"
-      },
-      {
-        "name": "Olympique Marseille vs. PSG",
-        "uri": "v8vUVcLS4XBAAM3L0k/SVSLUhbDAJKnX3WwlbqXPq2LO6ssdSUl+weND4Qs2vzsXbphRhiRMBpXQwvzg7XjMYHLJGh4gMDGkon9tJ5bytEupABxYu/eV5ksWmaHPV0H51dPZi086mZBhwjB7JT+BZwc5yTBW0A4wUKIhpf2XWK27uQIXNVX/6w+IMmttVt8j3/+ZCN9PXjH0qk414X8v7A==",
-        "drm_scheme": "widevine",
-        "drm_license_uri": "Riv7u0opSQq4BSIFEeSVymSU7NYpethjtBKsmWkyZQNRMrocyJyYYjVUIJNwYBScDUB0UQZBzxXJmVhjxjcmyQ==",
-        "icono": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/star/B3902AE27528D936F1CE1A1DC9FD12E0E80C972D036D3CF93E534D26E9668624/scale?width=320"
-      },
-      {
-        "name": "Grigor Dimitrov (BUL) vs. Jannik Sinner (ITA) (Final)",
-        "uri": "v8vUVcLS4XBAAM3L0k/SVSLUhbDAJKnX3WwlbqXPq2LO6ssdSUl+weND4Qs2vzsXbphRhiRMBpXQwvzg7XjMYHLJGh4gMDGkon9tJ5bytEtQVbbhujtCBZwjFuIvSuzqmARg2hCyvAXrY/ktMGkGBViLJGhNSkkRvUP+pWMfBE+hyBBTkea6dGopl+Kfi2lB3/+ZCN9PXjH0qk414X8v7A==",
-        "drm_scheme": "widevine",
-        "drm_license_uri": "Riv7u0opSQq4BSIFEeSVymSU7NYpethjtBKsmWkyZQNRMrocyJyYYjVUIJNwYBScDUB0UQZBzxXJmVhjxjcmyQ==",
-        "icono": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/star/26418B178F88FED102AF14EC5851CD937C31558BCCF0720019F2FBD52D305065/scale?width=320"
-      },
-      {
-        "name": "Deportivo Cuenca vs. Delfin",
-        "uri": "v8vUVcLS4XBAAM3L0k/SVSLUhbDAJKnX3WwlbqXPq2LO6ssdSUl+weND4Qs2vzsXbphRhiRMBpXQwvzg7XjMYHLJGh4gMDGkon9tJ5bytEtxzOK1V7guAw/gD0w/Cq8EulVPi/3Ul8ASZBzLWamp8X75vRNZVOpSFLRmJE8UH1WhyBBTkea6dGopl+Kfi2lB3/+ZCN9PXjH0qk414X8v7A==",
-        "drm_scheme": "widevine",
-        "drm_license_uri": "Riv7u0opSQq4BSIFEeSVymSU7NYpethjtBKsmWkyZQNRMrocyJyYYjVUIJNwYBScDUB0UQZBzxXJmVhjxjcmyQ==",
-        "icono": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/star/D8F293C50EABCE90FDB9759329F48C3AD8C76D464207D327AAE1418D6DA49B23/scale?width=320"
-      },
-      {
-        "name": "Miramar Misiones vs. Cerro",
-        "uri": "v8vUVcLS4XBAAM3L0k/SVSLUhbDAJKnX3WwlbqXPq2LO6ssdSUl+weND4Qs2vzsXbphRhiRMBpXQwvzg7XjMYHLJGh4gMDGkon9tJ5bytEsb6tyWwlMyCFVfY3E6jNd92hebQi2PW5lWIiAH20uUls+DXGtb3ScWOVJdEuwsp6uhyBBTkea6dGopl+Kfi2lB3/+ZCN9PXjH0qk414X8v7A==",
-        "drm_scheme": "widevine",
-        "drm_license_uri": "Riv7u0opSQq4BSIFEeSVymSU7NYpethjtBKsmWkyZQNRMrocyJyYYjVUIJNwYBScDUB0UQZBzxXJmVhjxjcmyQ==",
-        "icono": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/star/457F761A2AC97868F6F2170A8AA739524444E3D5AB1747571F552C6095974166/scale?width=320"
+        "icono": "https://www.enter.co/wp-content/uploads/2021/10/STAR-PLUS-1-768x432.jpg"
       }
     ]
   },
