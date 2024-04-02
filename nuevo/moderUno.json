@@ -298,6 +298,27 @@
         "icono": "https://i.ibb.co/27M5YFg/espn-extra.jpg"
       },
       {
+        "name": "ESPN 5",
+        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmJGZeHt2VhJoGFIgx6kp4ecIiWI2Yu0WKNRsoOwLGvPBfBKYbO662oBObP3hP8KXc8=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvO6OyVQ6f9bcBu+JJCC3smQQg44ZGf7YyiMV0EyVV+WiYrkuBRCzT5bima4EhCL8fVUPlfgKBcFioGKsFguVwWwnBxP1tfB/FbLH4torPSbLFefSP9R9Fpgdg8tkk8iSBw==",
+        "icono": "https://static.flow.com.ar/images/8897/CH_LOGO/60/40/0/0/5522598607348.png"
+      },
+      {
+        "name": "ESPN 6",
+        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmIfi4E/y81tM1+Tefrod8PtPRyR6nq3UcJNfYgk1QGgE5LpFVTPB2y/stFuFx5/WlLfXMWyAr2+CGKRDIB1QaNU",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvM38cvatWQDR5nxyKnsPBbnim9aCLK+KMnu2xOivRuk3JLHvxGkv9niF0MUvbCLECRowpSoiuF3SageCXyVZugc9VylwmlI65fl+N1dRMnidnwXqvGcB02NlNd8JjrleeQ==",
+        "icono": "https://static.flow.com.ar/images/9019/CH_LOGO/60/40/0/0/15905984073899.png"
+      },
+      {
+        "name": "ESPN 7",
+        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmIfi4E/y81tM1+Tefrod8PtCc1ZNooPbL7SEWCAdr5RdZLpFVTPB2y/stFuFx5/WlKfRTsSWjcbv6PFWS+WSpRj",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvM38cvatWQDR5nxyKnsPBbnim9aCLK+KMnu2xOivRuk3JLHvxGkv9niF0MUvbCLECRowpSoiuF3SageCXyVZugc9VylwmlI65fl+N1dRMnidnwXqvGcB02NlNd8JjrleeQ==",
+        "icono": "https://static.flow.com.ar/images/9017/CH_LOGO/60/40/0/0/12041360073463.png"
+      },
+      {
         "name": "AMERICA SPORTS",
         "uri": "LX46EnLWmPsTQWzzE5C2pAtiZe9AtFOHaScetMoCK43AQ7+M0TWUd862Kt+nStv0N3SjcfcecGDO/hYIM4ne6aJ6sBtXSLBuYF70RwM6Cxi0p/2uGadm8Se3ZEd1js/95FLgOLdmyJMRa8FcrSEHdg==",
         "drm_scheme": "clearkey",
@@ -347,6 +368,13 @@
         "name": "BEIN SPORTS EXTRA",
         "uri": "TSiX3Ck4D50Cw0qcb5syP06bu4tAhtjpQi+47L4m2a4B/oVnzV1bOK8VIocV/KeNubsj4LGG2kEcyU3AoSAR2ZsKuLEANXv1jj66GCW5iJ4=",
         "icono": "https://i.ibb.co/gJ9z814/o-h-1-895-bein-sports-xtra-1.png"
+      },
+      {
+        "name": "CLARO SPORTS",
+        "uri": "RXgh8CmjtHtCumOteyzprQ5AwTWz+1mWowmExVEsNdEp9uiQPsLNNK3tMhIT7eBdDfAPOjs/++ORCTIymZ5wXORS4Di3ZsiTEWvBXK0hB3Y=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvGfDPC3NTn9Vs8/ZonizU6kShZ2pWTH5hUVvFytyE7hrxaiREvbSl/JoJ/c4uoa8FkQKSroQ20KvQUYUNOzIvNN/zEgUapONeOLgHvDHYExy/cBDmcl7SJftQeiatqt+/g==",
+        "icono": "http://78.47.174.211/logos/clarosports.png"
       },
       {
         "name": "REAL MADRID TV",
@@ -1808,6 +1836,11 @@
         "name": "PLUTO TELENOVELAS ",
         "uri": "At33rBmLbsQ8r1xsklrRUAlQaQsm5nYrQg39iWHK5lXFhPN4xKpBshTPsJn3J5CavLxqXCqCZOFZRIKMawYrsjw8bbwEijgoC8ejjunaXKZWFx25aavD9BAfWioy9a6ihlRFU3803Jhq+BbH/Q1v5shNK0TxW/KdMq3ghZy91wu4BNlbWcvABJFCK5qnvVOMaZR7j+/bZ7Zl2x3FzL9NMNN4j27CAMADS6UmXz0viB2UdpE+9X0D1KLQO8Vki/qj94YXVE0JqnbAfuFfuiCWPmmj0HN4/eyN9HTeKa7JB0u8TAsc9OrV5knTW9mwL5LSk7BnDXHDqbyMg672F1gcuwoVMBy9FpnYy5h0VSy8DOYrVO/unq0+lIaNmIlIPSYLW67aF4B6tey9bFpo+wFD2wsA4AgfbvmHige8nZAEVJ52ed03Xxtoa2lthdpsXyQK3RSqUgCvC51M6gzXRhCY/zQ19mmEIw3eLDsL8wQfv9miyIInP0rTHrSjvQpJQtNzM0gn2ysqBdabH2W62XZ66Z422tkLsRbMk1LeIiTTN3Nue8HbQGEkf+SFHMIv7L5K",
         "icono": "https://www.mundoplus.tv/wiki/_media/logos/plutotelenovelas.png"
+      },
+      {
+        "name": "NOVELAS INOLVIDABLES",
+        "uri": "ebn980AlhpZGrTE9U9jVESdn2kmMQN8orrb2JFCKHIfRVl+zfFF2U+hZ9UHPg/nRg0BFWhBaZtstR4UyaActrw==",
+        "icono": "https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/960x540/channel-novelas-inolvidables-16x9_0.jpg"
       },
       {
         "name": "SONY NOVELAS",
