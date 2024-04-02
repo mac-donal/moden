@@ -951,13 +951,18 @@
     "samples": [
       {
         "name": "Canela Horror",
-        "uri": "ilOZEuHGYrlxc4gD7mvcvegmXjnoW9cwTTNV2qaYLmNdFXrxNVyeJhmqDtlMj9KeYpjEGn3BUTQIXFly1NSNnY0S0rqwuFZb4uoUnEHkXhNIhlRKBg/vtMie2gV7BH8O",
+        "uri": "ilOZEuHGYrlxc4gD7mvcvfZ5vLuZfrxK+I0Uyb1amGM4lzipYuPPtLxTTQKSirK6/BN116aHFnbA1in1IZxpSw==",
         "icono": "https://img2.static-ottera.com/prod/cnm/linear_channel/thumbnails/square/366x206/bba9b402-channel-canela_horror-7x10.jpg"
       },
       {
         "name": "Terror TV ",
         "uri": "6L7uwyiepnXOYcZFkqv0cSSXdVdLuduC6JoOVQ7Sozvv+MnFE/COO8sr3luuT458xwQwXV7gmUvtsFLErJau8g==",
         "icono": "https://cdn.m3u.cl/logo/1420_Terror_TV.png"
+      },
+      {
+        "name": "HORRORFY ",
+        "uri": "EAnUQ0Wd4ZqgD4nObaT4F9tTfMkpED2/bMyV90L/u5ET8gznBn5S/MDsXsjwB+IH53oqxcncekHKqC47CEkunLuP9+SwoFqa8lpOcwzjLiT94ABNIzqgszGCgIPBVp5l",
+        "icono": "https://i.ibb.co/YRw9FtR/freetv-horror-1080x1080-02092024.jpg"
       },
       {
         "name": "HBO",
@@ -1301,6 +1306,91 @@
         "name": "RAKUTEN ROMANCE",
         "uri": "NcVUGPPsSrqEwGyGxVOv9leooCysysPGCaABwSJdxg3Wln6z5BgA/11G+buMYyzMgvrLeQqgis+R26ESFNtwmNB2Dhki4/OYSVV3HXbrlpvraDu3ToStXJQFKZoTRr5eaNzMYL7CzVJFkK5fp/GQYN7NFfOSvokI/uJZKiPGhXRg+v/iOpO7HKFdTtL4cmPRHCdiJxnQ16O06ifmXh5WX/v3zQSGGXjtwGkuOLFpgqU=",
         "icono": "https://yt3.googleusercontent.com/ADq9aOWry6U7Jy3wKni0wCVs8X8PHoOPZeLl9-Z1iPivdpF6ZrCTpZTY--VZ6zxsyvcSOA22=s900-c-k-c0x00ffffff-no-rj"
+         },
+      {
+        "name": "CLARO CINEMA",
+        "uri": "Y7P5Dawn1IhZOPjAmE5MOX4TFw8fVpoQCSBjpchCmT6JWuIkedLhaK0gPS09bz8M",
+        "icono": "https://i.ibb.co/ZxtLpTT/clarocinema.png"
+      },
+      {
+        "name": "AZ CINEMA",
+        "uri": "ilOZEuHGYrlxc4gD7mvcvfZ5vLuZfrxK+I0Uyb1amGM4lzipYuPPtLxTTQKSirK6nF8EjcbqNQKQczsNq60xtA==",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TV_Azteca_Cinema_logo.svg/640px-TV_Azteca_Cinema_logo.svg.png"
+      },
+      {
+        "name": "GRJNGO ",
+        "uri": "N1IDIpfAuig1oiVsBC/kfriPw3/xxK9g5EnnlxAncCejX06gW5fRIwSenguEdjzAxwQwXV7gmUvtsFLErJau8g==",
+        "icono": "https://i.ibb.co/t2w7vtK/grjngo.png"
+      },
+      {
+        "name": "RETRO  PLUS  SEÑAL  3",
+        "uri": "+eflYNKV5YnvNAxnwU5s8zx1SuyOh0ReNUlKhWlWG800WtYnp9oq32J9GeY6eAvmBfejje48kkQgXKO4M28X2qUP/QkLXr/Mez2kWKoDsZI=",
+        "icono": "https://image.roku.com/developer_channels/prod/407b41e3649e464cd4a478c2858e6e2e1b3b85536634ab2188f23eb5402fe438.png"
+      },
+      {
+        "name": "CINEMA+",
+        "uri": "AXiQ0+VV49rbi9Ejv2Al2kUiUlfFUF5+gChkvTAOK12OM2CvXIC2LPeS+YS0Lzrkrhycv12mgMo1zNJvc316vg==",
+        "icono": "https://i.ibb.co/BzKsrjT/cinema.png"
+      },
+      {
+        "name": "FREETV ",
+        "uri": "EAnUQ0Wd4ZqgD4nObaT4F9tTfMkpED2/bMyV90L/u5ET8gznBn5S/MDsXsjwB+IHvoOaaS16ANxHyfoMolWgsGX3LRdgd2NkEVCLECl9rhY7meDk4jcNnHdPcj1230EW",
+        "icono": "https://i.ibb.co/wJrx9sp/freetv-live-1080x1080-02092024.jpg"
+      },
+      {
+        "name": "TU CINE ",
+        "uri": "EAnUQ0Wd4ZqgD4nObaT4F9tTfMkpED2/bMyV90L/u5ET8gznBn5S/MDsXsjwB+IH7qQWG8FjHuJIVVmJJq6J0gHSIGsx8rHe5f7p7f+Odfj94ABNIzqgszGCgIPBVp5l",
+        "icono": "https://i.ibb.co/gR2qKN0/freetv-estelar-1080x1080-02092024-0.jpg"
+      },
+       {
+        "name": "JUNTOS ",
+        "uri": "EAnUQ0Wd4ZqgD4nObaT4F9tTfMkpED2/bMyV90L/u5ET8gznBn5S/MDsXsjwB+IHa6RkF8EbKcIKQnNkBrYOam/rIVQuXeIitMw3ol18v16bCrixADV79Y4+uhgluYie",
+        "icono": "https://i.ibb.co/RPvh6kh/freetv-familia-1080x1080-02092024.jpg"
+      },
+      {
+        "name": "TOP CINE ",
+        "uri": "EAnUQ0Wd4ZqgD4nObaT4F9tTfMkpED2/bMyV90L/u5ET8gznBn5S/MDsXsjwB+IHQcEo/dx0TVJJhi5Hi+A3o7vDg3yR5jsnlmrdZ4ULWX/7980Ehhl47cBpLjixaYKl",
+        "icono": "https://i.ibb.co/pv7MN9Q/freetv-accion-1080x1080-02092024-0.jpg"
+      },
+      {
+        "name": "CINE CLÁSICO ",
+        "uri": "eHkRgDAOwOjHg260FkZpTNtTfMkpED2/bMyV90L/u5FiF5Mb19KodwirCeCJQxF1h1sUouVZnuUmh+0Gg6DEGUkG9VSI59zGMP76xddRobuttmbFVgPQOugyA1yjKY8s/eAATSM6oLMxgoCDwVaeZQ==",
+        "icono": "https://i.ibb.co/R9CMH3V/cine-clasico.jpg"
+      },
+      {
+        "name": "CINE REAL ",
+        "uri": "EAnUQ0Wd4ZqgD4nObaT4F9tTfMkpED2/bMyV90L/u5ET8gznBn5S/MDsXsjwB+IHC2d9Rwn0cDKXTFTXZZGmQsLEsCzd196dEsTnWe1OXkr94ABNIzqgszGCgIPBVp5l",
+        "icono": "https://i.ibb.co/r5cMPq1/freetv-drama-1080x1080-02092024.jpg"
+      },
+      {
+        "name": "CINE SUREÑO ",
+        "uri": "EAnUQ0Wd4ZqgD4nObaT4F9tTfMkpED2/bMyV90L/u5ET8gznBn5S/MDsXsjwB+IHC2d9Rwn0cDKXTFTXZZGmQviU7FMlR3WZ643025GFlSObg/p+Qb+/Mj7xUgMtAT4V",
+        "icono": "https://i.ibb.co/m5kX1M0/freetv-sureno-1080x1080-02092024.jpg"
+      },
+      {
+        "name": "ROMANCE CHANNEL ",
+        "uri": "xLOgpGXCDjOjgkBZs/Gv+Wbx1JuJWhSp0VE7Nd3Y8oJ6Tl1SbJYJQ1fSJddRAKxgO2caNdJ+5ajs+2qSgC0qlSi2DrI7Yst+20nzb45kcXxXAq3d+iXASXNdw38HuUDvCCxCHMYquHIMxVUr0IO2LZthUlWgkeMLLjyLprBaikY=",
+        "icono": "https://i.ibb.co/r2QS9D3/romance-channel-latam.png"
+      },
+      {
+        "name": "CINE ROMÁNTICO ",
+        "uri": "Ja/StWf7OzsqLEUxdXGoERKD3LkBWRy7AOxk4/HNXv8jUf7UiXFr+L9hmquolFJ/QyhTQCQkfd5/qiWailb2h2O4emE1lsEQFVzz7/dt+gofeDgzt74+A/1TcD2/oV4c",
+        "icono": "https://image.xumo.com/v1/channels/channel/99991142/600x337.webp?type=channelTile"
+      },
+      {
+        "name": "FLOU CHANNEL ",
+        "uri": "eHkRgDAOwOjHg260FkZpTNtTfMkpED2/bMyV90L/u5GBJld4+9HLVKZ2RBoh2lJxAKOnrHeMVJntPQzrFYuJoTIyU0Ba/sYS7ljj2FGKKOfa74rcniGfKsEPzwf2GWBrmwq4sQA1e/WOProYJbmIng==",
+        "icono": "https://i.ibb.co/RBs5CHg/flou-channel.png"
+      },
+      {
+        "name": "DE PELÍCULA",
+        "uri": "Ltxx4/rp65hRXHPZ2s8lvYdC2lkl4DuzS2JfSWr3C5gLu9W7X8YYJ0vOUzKy8D0ZKmWniHNRiFC77ReIzlj2Vv3gAE0jOqCzMYKAg8FWnmU=",
+        "icono": "https://i.ibb.co/DCxcBBw/DPel-cula-2021.png"
+      },
+      {
+        "name": "DE PELÍCULA PLUS",
+        "uri": "1TOBYmBE8hdaxWw8rCUzPO0KBEtKAVCARqBKL2kDzf6PzIBEQ1e/dgg7/GNMZsO0KmWniHNRiFC77ReIzlj2Vv3gAE0jOqCzMYKAg8FWnmU=",
+        "icono": "https://i.ibb.co/dkrqJF6/DPel-cula-Plus-2021.png"
       }
     ]
   },
