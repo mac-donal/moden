@@ -11,7 +11,9 @@
       },
       {
         "name": "⚽️FUTBOL PY ",
-        "uri": "MN1/s2RK7PE2WJOpfRiSggeUmpbQm6nnnj43FM0cByO+5m28VyUNuPeDhGGhsKoxto045rz3w1NR2G+R7LhOLA==",
+        "uri": "PiFoloK4zBxLo6GPf/bTSp//4hMA/s5vZ8ukRJ6cNlV6mJt29B/oqSANh0rphCn6poBd8v3LbmJ140D1PdArK+19KO67aJnEqf3FZCkEN3bJUAX1WW7SvJKVFQQD34hU",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvIJCwMm24xCLjRRiQ5CdnWyd3wAKxxOKQMwxOfBLKzQ5Jqu3ZY+HrQFobWbOmJS7WSn6VUU60VN4M3RiSXjByZbxpTHoDZgw82De2TKfdf1QFU6viS9GkGMpwi8GW4UB0g==",
         "icono": "https://4.bp.blogspot.com/-6BQv5SOuxn4/XEs537Yz01I/AAAAAAABT-c/aol0uy0p_l8gSbrYVLhz4qu5-GpyGG3lQCLcBGAs/s1600/Copa%2Bde%2BPrimera.png"
       },
       {
@@ -33,6 +35,13 @@
         "name": "EVENTOS EN VIVO",
         "uri": "F3JUJfZ/FwBCK3tW6+FDPuZIXT8FT3q22MUuVShntTq0X0AGMC8j4WnYL6lkAYP6m4P6fkG/vzI+8VIDLQE+FQ==",
         "icono": "https://www.enter.co/wp-content/uploads/2021/10/STAR-PLUS-1-768x432.jpg"
+      },
+      {
+        "name": "Colo-Colo vs Cerro Porteño",
+        "uri": "PiFoloK4zBxLo6GPf/bTSp//4hMA/s5vZ8ukRJ6cNlV6mJt29B/oqSANh0rphCn6poBd8v3LbmJ140D1PdArK+19KO67aJnEqf3FZCkEN3bJUAX1WW7SvJKVFQQD34hU",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvIJCwMm24xCLjRRiQ5CdnWyd3wAKxxOKQMwxOfBLKzQ5Jqu3ZY+HrQFobWbOmJS7WSn6VUU60VN4M3RiSXjByZbxpTHoDZgw82De2TKfdf1QFU6viS9GkGMpwi8GW4UB0g==",
+        "icono": "https://i.ibb.co/vHCgtLt/lib.jpg"
       },
       {
         "name": "Nacional (URU) vs. Libertad (PAR)",
