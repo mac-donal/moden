@@ -1933,6 +1933,18 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvBdCQKHAf7aVbFlHmMM6GLjSTEQATSv+2+trG3n7okM6H/kBs8p97pbWUV99SJxzVtI4X43KBG9qhy4DqDs7UM619NBGEsjn5VS+gvAyj/lBLa3XwsBb5FyRBv0gtw/cgA==",
         "icono": "https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2016_10/large.580a1b6313b4e_ElGourmet.png.cf460cc629e79e69c235b2da550fcdb8.png"
+      },
+      {
+        "name": "CANAL COCINA",
+        "uri": "cGabVCsds5oM6mQpLF4iAL8GutacH7nzoLPKe0BzhMi0VFwr9IR29k+8rRjKXRkkVYKs1bNX/PI5ZdjjKMU4HxzqbapkWwl//64rLvQGJR/YM7GBOWkGuYFfm9L/XRGf",
+        "icono": "https://yt3.googleusercontent.com/ZH-FZJf7AV0T7nAK_OBw4QNSF-1G8rg1kAXjnxbnuKYWrVvK6XHA4knhE3fb_1m8scy30E6PBw=s900-c-k-c0x00ffffff-no-rj"
+      },
+      {
+        "name": "CANAL COCINA 4K",
+        "uri": "UVWgZKcFl5YndJbOS+GAz6ZJIZpWTLDelsJ4W7XW4XKnKJwUMYMcM2XBkAxw1BkLCUHC33jkmwhgAiMCDry8FtvhXzO1kG38gt/ifTqBZ9Y=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvNqNsVll9URBORB0Ja7erCTnc1bmrSnPSAY2fLxe4sFCNdfYiyJ88fdA62H9n+d61c2j/zQ/dvuCD6L+YhVWLbvL311mX2TPcYa7sigO5BLmpsbiYUeU5D26CwGEr6Lbiw==",
+        "icono": "https://canalcocina.es/medias/images/1703canalcocina4k1600x9001.jpg"
       }
     ]
   },
