@@ -202,11 +202,9 @@
     "name": "⚽ PACK FUTBOL ARGENTINA",
     "samples": [
       {
-        "name": "Deportivo Táchira (VEN) vs. River Plate (ARG)",
-        "uri": "v8vUVcLS4XBAAM3L0k/SVSLUhbDAJKnX3WwlbqXPq2LO6ssdSUl+weND4Qs2vzsXbphRhiRMBpXQwvzg7XjMYJLjLif4rczbxqqmoXJfFMH0c2kYSwGxdstxZAFwkAVnEBSgZKfyJNt+9yFjIh6KrlsSZllHZxFrUzI0gdKjSCcY9KRGtcuyftf+xWd7QneE3/+ZCN9PXjH0qk414X8v7A==",
-        "drm_scheme": "widevine",
-        "drm_license_uri": "Riv7u0opSQq4BSIFEeSVymSU7NYpethjtBKsmWkyZQNRMrocyJyYYjVUIJNwYBScDUB0UQZBzxXJmVhjxjcmyQ==",
-        "icono": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/star/1F8DDE3FBF74058912510FDF7DB65CB74CD405095E8F6BC3D39E4A5E17D87DB9/scale?width=320"
+        "name": "Boca Juniors vs Nacional Potosío",
+        "uri": "WaI57VB80PbWPyTqBvuR4pIaEuGvS0MktNKhICGk0ukowLXHL3g0Ao34a5QY0VB6",
+        "icono": "https://i.ytimg.com/vi/ba8m7nkMIcg/hq720_live.jpg?sqp=CPCxs7AG-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDBbpDrpb4_Td8fyIAjO9lKiBe-Pw"
       },
       {
         "name": "River Plate vs Deportivo Táchira2",
