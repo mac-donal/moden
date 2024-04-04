@@ -12,9 +12,14 @@
       },
       {
         "name": "VENUS",
-        "uri": "LX46EnLWmPsTQWzzE5C2pE+5dA/EmiZ6aOkyhEblREjX+bMl4Gm1Ox0TR4i041csk0u7WgJz7DvHW1yEJryqlsUb3I2JZYYhZH71f+164h/BzWmualXeQ1rQpP+n411V",
+        "uri": "TQSPBT5fFAmrHLJIeXbfeYXKHSGvUWoyl/qUCtl+hcNExVQV9G0f7yNa4xHwEXW3UjArKywixgvsFgb5st8MRPD9b9eQxEblgn0ZVy+05gUlXmeHay1xFp1Pvr7mLDjLK2cy+rVPr5xAQAbWoyQ13WnjkAuQdxzD4Txa43toOek=",
         "drm_scheme": "clearkey",
         "drm_license_uri": "gMIXmHNeVZSsj4D1CTkkipYzZDdR8xIbZ2D0Cknp6OJ17s22Ylb2MNNWePJK86AT2lks0+N9I7pikiN2QbHKeyr0N7o3erBBVG1WOdTfFho=",
+        "icono": "https://cdn.mitvstatic.com/channels/7d8e150e-912c-4b8f-9019-5d1b12f35a55_m.jpg"
+      },
+      {
+        "name": "VENUS OPC 2",
+        "uri": "9ze7zoWeEnlExpv5EF6qZnFVxSTPgNpmXXXDbJdvs8PP0OyewMNF22XB0Eq8vX98lGAZIFHr7s0sPW7rsNoYIw==",
         "icono": "https://cdn.mitvstatic.com/channels/7d8e150e-912c-4b8f-9019-5d1b12f35a55_m.jpg"
       },
       {
