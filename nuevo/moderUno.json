@@ -261,6 +261,13 @@
         "icono": "https://i.ibb.co/vHCgtLt/lib.jpg"
       },
       {
+        "name": "BEIN SPORTS 1",
+        "uri": "cXLkvEIyTHyytLwfjh07B5GM4rJ5O3YfYypwFKRpT5M6ro+TBbLqfUvgig5pbwRUmbxlLhFEtIYVuAo6LBKaGPbigcTP2Iuq2GzuAy06DnY=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvHS7B7LDo8zPzCUTs6v+AxRrOr8pa2sQh2tJYGnD9Mwf5C7KvBvS0bMTW0wR40bkYfVgLnd1AbHcsg+Q3vnM8QARNQaFsrQ4j23GMsFCws7y+1fQsER/XkijDJpgClZ0Xw==",
+        "icono": "https://i.ibb.co/RyGQTHX/bein-sports1.png"
+      },
+      {
         "name": "Univ. César Vallejo (PER) vs. Defensa y Justicia (ARG)",
         "uri": "v8vUVcLS4XBAAM3L0k/SVSLUhbDAJKnX3WwlbqXPq2LO6ssdSUl+weND4Qs2vzsXbphRhiRMBpXQwvzg7XjMYJLjLif4rczbxqqmoXJfFMGhaOXIpTQ8LcBH6H5ZgJwRUSTmgtzt+/5lG3D6S6c4FS7PS+emF8ePBV8rP58jIyFv+IvxyUIjioWk3qXmpsJm3/+ZCN9PXjH0qk414X8v7A==",
         "drm_scheme": "widevine",
