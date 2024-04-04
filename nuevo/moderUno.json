@@ -34,7 +34,14 @@
         "uri": "v8vUVcLS4XBAAM3L0k/SVSLUhbDAJKnX3WwlbqXPq2IgzLtNTScF0snc5bl/G4dHis882s7hk5DXfRGzQB27nJLjLif4rczbxqqmoXJfFMHBrYS7z1GhxWH9ixvbqBE9x1CTQ6v1w1cXgIIzKROzvHod0SKxbeX6mmBY7qfqgT2JqviwahZw9MKD2h0GotvO3/+ZCN9PXjH0qk414X8v7A==",
         "drm_scheme": "widevine",
         "drm_license_uri": "Riv7u0opSQq4BSIFEeSVymSU7NYpethjtBKsmWkyZQNRMrocyJyYYjVUIJNwYBScDUB0UQZBzxXJmVhjxjcmyQ==",
-        "icono": "https://prod-ripcut-delivery.disney-plus.net//v1//variant//star//18C18EBF95F8E094440AF6755ED09DED5C7796D7EC0BE024097DECECFEB83D79//scale?width=320"
+        "icono": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/star/18C18EBF95F8E094440AF6755ED09DED5C7796D7EC0BE024097DECECFEB83D79/scale?width=320"
+      },
+      {
+        "name": "Granada vs. Valencia",
+        "uri": "v8vUVcLS4XBAAM3L0k/SVSLUhbDAJKnX3WwlbqXPq2LO6ssdSUl+weND4Qs2vzsXbphRhiRMBpXQwvzg7XjMYJLjLif4rczbxqqmoXJfFMEZ/aoyDkgU/RJ0P270z1ilBfSYsfzU/eM75Hch8Oh02JDy7mWJFUr81rw+SkdIRWlXvXFOB6ycNavP30aMhqqRIhPfKF2XYnN+Uq1rgzaEFw==",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "Riv7u0opSQq4BSIFEeSVymSU7NYpethjtBKsmWkyZQNRMrocyJyYYjVUIJNwYBScDUB0UQZBzxXJmVhjxjcmyQ==",
+        "icono": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/star/400F7E7EDE544D439590E6B4E85CA31EC1D5940BD7DAFF0CD71DC6354107DFA4/scale?width=320"
       }
     ]
   },
