@@ -21,48 +21,6 @@
         "name": "EVENTOS EN VIVO",
         "uri": "F3JUJfZ/FwBCK3tW6+FDPuZIXT8FT3q22MUuVShntTq0X0AGMC8j4WnYL6lkAYP6m4P6fkG/vzI+8VIDLQE+FQ==",
         "icono": "https://www.enter.co/wp-content/uploads/2021/10/STAR-PLUS-1-768x432.jpg"
-      },
-      {
-        "name": "Talleres (ARG) vs. Sao Paulo (BRA)",
-        "uri": "v8vUVcLS4XBAAM3L0k/SVSLUhbDAJKnX3WwlbqXPq2LO6ssdSUl+weND4Qs2vzsXbphRhiRMBpXQwvzg7XjMYJLjLif4rczbxqqmoXJfFMEcheLoNAJOuq8kgIL7HxRLmY5r9znkwuKqZblz5UvNl8GTQTtA01rbuB7uUoaycaKJqviwahZw9MKD2h0GotvO3/+ZCN9PXjH0qk414X8v7A==",
-        "drm_scheme": "widevine",
-        "drm_license_uri": "Riv7u0opSQq4BSIFEeSVymSU7NYpethjtBKsmWkyZQNRMrocyJyYYjVUIJNwYBScDUB0UQZBzxXJmVhjxjcmyQ==",
-        "icono": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/star/1BA963D1E7014C57300C0E7A9A4F82C3E3C5B2A1CBF75E67EECD60632E1724E6/scale?width=320"
-      },
-      {
-        "name": "Rosario Central (ARG) vs. Pe\u00f1arol (URU)",
-        "uri": "v8vUVcLS4XBAAM3L0k/SVSLUhbDAJKnX3WwlbqXPq2LO6ssdSUl+weND4Qs2vzsXbphRhiRMBpXQwvzg7XjMYJLjLif4rczbxqqmoXJfFMEDOrJWrv5UXjPbVBBJfqVcFi5sgsrXYji41BGXxFr5Vyd2Be0fUnuJ9s7gRLgK7tdlon/DjEjLZAgZ2zspjJZJ3/+ZCN9PXjH0qk414X8v7A==",
-        "drm_scheme": "widevine",
-        "drm_license_uri": "Riv7u0opSQq4BSIFEeSVymSU7NYpethjtBKsmWkyZQNRMrocyJyYYjVUIJNwYBScDUB0UQZBzxXJmVhjxjcmyQ==",
-        "icono": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/star/205D3DBBA7A1D5609574FBFAFFAE5B2C16592F9E798766C672C83C64D77F0FBC/scale?width=320"
-       },
-      {
-        "name": "Deportivo Garcilaso (PER) vs. Metropolitanos (VEN)",
-        "uri": "v8vUVcLS4XBAAM3L0k/SVSLUhbDAJKnX3WwlbqXPq2LO6ssdSUl+weND4Qs2vzsXbphRhiRMBpXQwvzg7XjMYJLjLif4rczbxqqmoXJfFMHu455yDAVhwmhHlYtBcAh+YsgQBjWpLVvqg5BONtNhAr+xrt32rEG4WF7cpRjmMOdLMYOoGDfI/MZRiFNd9dT13/+ZCN9PXjH0qk414X8v7A==",
-        "drm_scheme": "widevine",
-        "drm_license_uri": "Riv7u0opSQq4BSIFEeSVymSU7NYpethjtBKsmWkyZQNRMrocyJyYYjVUIJNwYBScDUB0UQZBzxXJmVhjxjcmyQ==",
-        "icono": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/star/26F06D99FDA7829BE5DD1639C00C29A82FD71950622D7197AA27FC8C365D78DD/scale?width=320"
-      },
-      {
-        "name": "Knicks vs. Kings",
-        "uri": "v8vUVcLS4XBAAM3L0k/SVSLUhbDAJKnX3WwlbqXPq2IgzLtNTScF0snc5bl/G4dHis882s7hk5DXfRGzQB27nJLjLif4rczbxqqmoXJfFMGv9tRMrCAnU3zhOI5cU2l4PZT1+xurAnW1dADQKsA5VJYBz/fbt6ikAC5EWB08zm0BdkK0gM84qb5pm/qugT+n3/+ZCN9PXjH0qk414X8v7A==",
-        "drm_scheme": "widevine",
-        "drm_license_uri": "Riv7u0opSQq4BSIFEeSVymSU7NYpethjtBKsmWkyZQNRMrocyJyYYjVUIJNwYBScDUB0UQZBzxXJmVhjxjcmyQ==",
-        "icono": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/star/9EFA0C5FCB7BECD357F80E17B2AC759763350C287BC2CFE38F5F07A2D905F747/scale?width=320"
-      },
-      {
-        "name": "Sportivo Luque\u00f1o vs. Racing Club",
-        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmLiXRhB6As37Tr551IbxBSZHP6HyROJeWBxubQseJGrtZCd789/cVAX8Q+2DXbpFdTLqRGdipAmdVUEYSz87+0n",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvEBs+hrZq9jIsnP8jkwsuili0rrfchksnTvqYRmHjaKhw2DghBQyLpsCf6esBCRDXZmvNMH7kRQ0TR7aZbJ/yri5cxcw3KlKQspfL/TFPefCMESFQDBJFybL/91IAmO8RQ==",
-        "icono": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/star/4935BECCFFBF6E93174F685FBB2C9759BBDC5D4471C73350DA394E65295F9C4F/scale?width=320"
-      },
-      {
-        "name": "Caracas FC (VEN) vs. Atl\u00e9tico Mineiro (BRA)",
-        "uri": "v8vUVcLS4XBAAM3L0k/SVSLUhbDAJKnX3WwlbqXPq2LO6ssdSUl+weND4Qs2vzsXbphRhiRMBpXQwvzg7XjMYJLjLif4rczbxqqmoXJfFMHzljWTmMUbiqKNZyvPeft41HJI7nisarjCDGQpdvqdUUmU4Z3xbRsrG8cDHeHr/V6vaR10+raUrwHPvpXDUP2B3/+ZCN9PXjH0qk414X8v7A==",
-        "drm_scheme": "widevine",
-        "drm_license_uri": "Riv7u0opSQq4BSIFEeSVymSU7NYpethjtBKsmWkyZQNRMrocyJyYYjVUIJNwYBScDUB0UQZBzxXJmVhjxjcmyQ==",
-        "icono": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/star/8F728ED12B1AC9C1EA33147D09E2E285B9315D1654B5FB8AE7AABAC579F82A63/scale?width=320"
       }
     ]
   },
