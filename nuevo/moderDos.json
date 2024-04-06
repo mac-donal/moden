@@ -3,7 +3,27 @@
     "name": "PELICULAS RECIEN AGREGADAS",
     "samples": [
       {
-        "name": "Godzilla y Kong: el nuevo imperio (2024)",
+        "name": "Atrapados en lo Profundo (2024)",
+        "uri": "eRgCDdmZzaSr5ntMHOvaBuXrWJ4MCJZ4jOL5Vn6Zcn1DY1TFuHVBct8XfQ2rboCunmmYm/3LGpj0ZobZvLL6FuHznzJOrGhhVp0KMprQd3s0lUpvjv+nlQpO87GbF67fto6kwi7zMZJrH9DGcEglfs+x5gJm36qeR/iSS/+P1sZ5Nejcz6udk/GySyqkwxx/NXi9pMd9GvB8gpcan1DtmrcRUB1RIohg35b3ok8UQQAO9TWu4mSktk+6r7oK+OJ4iBKEO4jgEx5t5CQDKA+CAA==",
+        "icono": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjr3F-goKc6wRlqGrIIftuVB_ajoE3kWEcoSnmWAoDV1mtJQMb2PLQsrNk36_KFaUNfeflofVLjiDjUUeY2VN-PYbW11JEFQ6LI9xmdKvn84kuiVej7PRqwqis65icderBl-eeH-m4jutTjAqglU023Cj2hpZmJX23eXxT_Ws-ByGDR_-WSo17WS2qUeNfE/s800/atrapados%20en%20lo%20profundo.jpg"
+      },
+      {
+        "name": "Un ladrón romántico (2024)",
+        "uri": "eRgCDdmZzaSr5ntMHOvaBuXrWJ4MCJZ4jOL5Vn6Zcn1DY1TFuHVBct8XfQ2rboCunmmYm/3LGpj0ZobZvLL6FuHznzJOrGhhVp0KMprQd3s0lUpvjv+nlQpO87GbF67fto6kwi7zMZJrH9DGcEglfs+x5gJm36qeR/iSS/+P1sb3trYAabXmHggs5ugLYTSlG3F2RCKF0r4LeBo2V5nyhbJzfZ110MveJ2MyqMyaK+emWcH0b68/UrAWg7RkgYpwTuKJf/w7pgbQjTdBqI2EOA==",
+        "icono": "https://image.tmdb.org/t/p/w500/kWmQOYhyGPhuya3GnMzdyQ43Q4n.jpg"
+      },
+      {
+        "name": "Diario de mi Vagina (2024)",
+        "uri": "eRgCDdmZzaSr5ntMHOvaBuXrWJ4MCJZ4jOL5Vn6Zcn1DY1TFuHVBct8XfQ2rboCunmmYm/3LGpj0ZobZvLL6FuHznzJOrGhhVp0KMprQd3s0lUpvjv+nlQpO87GbF67fto6kwi7zMZJrH9DGcEglfs+x5gJm36qeR/iSS/+P1sY+hzppuYY3PmOwd2K7FMehFqOBh8QlgFIXtrlFnPIphtPvSLXC5ko2DdkrfvsGYanJrRW4jjPsPV/+9PJrIXIpgcYuY/h/tN2G9sH4DWkUMA==",
+        "icono": "https://static.wikia.nocookie.net/doblaje/images/1/11/Fittinginposterspanish.jpg/revision/latest?cb=20240324232442&path-prefix=es"
+      },
+      {
+        "name": "Cazafantasmas: Apocalipsis Fantasma (2024) CAM",
+        "uri": "eRgCDdmZzaSr5ntMHOvaBuXrWJ4MCJZ4jOL5Vn6Zcn1DY1TFuHVBct8XfQ2rboCunmmYm/3LGpj0ZobZvLL6FuHznzJOrGhhVp0KMprQd3s0lUpvjv+nlQpO87GbF67fto6kwi7zMZJrH9DGcEglfs+x5gJm36qeR/iSS/+P1sauhPd9P73HcGAsOHWhwI0e1qM02RFWkOryxdmuWtTNYN61vnEAfpTR6+IHOJ7gjBVefJgw/XSNU14Jgraiy6IcSbSPPlnfR5+37TLKTIgqwWELEyaZiPGsBk+yV1hwCSc=",
+        "icono": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQfu4raUJqEj_Q8L9PZvb3b1-mzwpixgdq-G_uafdAIYxSMdLdW"
+      },
+      {
+        "name": "Godzilla y Kong: el nuevo imperio (2024) CAM",
         "uri": "eRgCDdmZzaSr5ntMHOvaBuXrWJ4MCJZ4jOL5Vn6Zcn1DY1TFuHVBct8XfQ2rboCunmmYm/3LGpj0ZobZvLL6FuHznzJOrGhhVp0KMprQd3s0lUpvjv+nlQpO87GbF67fto6kwi7zMZJrH9DGcEglfs+x5gJm36qeR/iSS/+P1sYUcCc9gH1Nv1YGmRfUBKQP8Wh7ToYUxlLVQW1ZIgl/CfHp3sDrwO9GNBkka7K7d6aSBTbiPBwzJ1/P8XF/h69DWCgS9+kmMXZX8mmmMmENwy5I2hnnqtbVieJvdslnG6g=",
         "icono": "https://cdn1-production-images-kly.akamaized.net/X2TwL_QHmKMwpIKPRxnTLPW-XjU=/800x1066/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3434129/original/036544100_1618898169-MV5BMjk1MDc2ZGQtNTdkYy00ZTRhLTljNjgtZGVkNWUyZjYyOGFlXkEyXkFqcGdeQXVyMTE5NDQ1MzQ3._V1_FMjpg_UX1080_.jpg"
       },
@@ -447,11 +467,6 @@
         "icono": "https://pelisimg.online/cover/fast-x-2-1684533003.jpg"
       },
       {
-        "name": "RAPIDOS Y FURIOSOS 8",
-        "uri": "PxlJfVUhho8kTYLX3bxSVBSN9T9jS0drjT1d87JvBg6v3c2XmtM0hmZhVcBJgQSRJr/6rPlRjZ4JaPEhc0S9+qFNM7ICWQmVWBz5ogRi6CZpEu9AIwGFWNv+Uo5R5/8eTrIqPHVtR+8zJZlhu3rgDQ==",
-        "icono": "https://pelisimg.online/cover/rapidos-y-furiosos-8.jpg"
-      },
-      {
         "name": "RAPIDOS Y FURIOSOS 7",
         "uri": "1jRqlVTpJsgJz2snRtSx4RSN9T9jS0drjT1d87JvBg4IMtpqTJwL2Zxz/lDHfFrYoETxz/64VA6qT0GVvRUPxp/DdKHfriwr+tvYung3Qk1TcxVmG1MM8cJzSKUQkG8wIhPfKF2XYnN+Uq1rgzaEFw==",
         "icono": "https://pelisimg.online/cover/rapidos-y-furiosos-7.jpg"
@@ -460,11 +475,6 @@
         "name": "RAPIDOS Y FURIOSOS 6",
         "uri": "6b3akWMKtQyV4eccTOgwVBSN9T9jS0drjT1d87JvBg4R+gjOW9g269SWEy14KWK6kOfrA8wr+/RSzcVXUrQ5iOOFXMKYtLe0fZZ9hXrG6yS4TUE/PaEU3A8bt3s+CqSJTrIqPHVtR+8zJZlhu3rgDQ==",
         "icono": "https://pelisimg.online/cover/rapidos-y-furiosos-6.jpg"
-      },
-      {
-        "name": "RAPIDOS Y FURIOSOS 5",
-        "uri": "i9m++SJk3B5ypSo0Noj3ZRSN9T9jS0drjT1d87JvBg4+Ie/rigZoMtruEN2pOr1XxMeZLXxOmVn1SIsj7w/YbWxxX+wCNN37Ilu0oWaUtrO3fWSi4RUwqQD8eROwRiqJTrIqPHVtR+8zJZlhu3rgDQ==",
-        "icono": "https://pelisimg.online/cover/rapidos-y-furiosos-5in-control.jpg"
       },
       {
         "name": "RAPIDOS Y FURIOSOS 4",
