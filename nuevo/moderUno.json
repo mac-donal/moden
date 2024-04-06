@@ -21,13 +21,6 @@
         "name": "EVENTOS EN VIVO",
         "uri": "F3JUJfZ/FwBCK3tW6+FDPuZIXT8FT3q22MUuVShntTq0X0AGMC8j4WnYL6lkAYP6m4P6fkG/vzI+8VIDLQE+FQ==",
         "icono": "https://www.enter.co/wp-content/uploads/2021/10/STAR-PLUS-1-768x432.jpg"
-      },
-      {
-        "name": "Boston River vs. Defensor Sporting",
-        "uri": "v8vUVcLS4XBAAM3L0k/SVSLUhbDAJKnX3WwlbqXPq2LO6ssdSUl+weND4Qs2vzsXbphRhiRMBpXQwvzg7XjMYJLjLif4rczbxqqmoXJfFMGpPg6MQKjCe/oB8cv1QEEzCk7UgFpeLVNLNU/cPdS/oyqVyywITrl8LriLDlGm9/nQInfZR8fsqolAcTwwOCqn3/+ZCN9PXjH0qk414X8v7A==",
-        "drm_scheme": "widevine",
-        "drm_license_uri": "Riv7u0opSQq4BSIFEeSVymSU7NYpethjtBKsmWkyZQNRMrocyJyYYjVUIJNwYBScDUB0UQZBzxXJmVhjxjcmyQ==",
-        "icono": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/star/6B7AB46C2EC3AF6AE16A06ACFB29B4FA87C4C131505CAADF694577F12A53AD2A/scale?width=320"
       }
     ]
   },
@@ -586,17 +579,17 @@
       },
       {
         "name": "TEATRIX TV",
-        "uri": "F3JUJfZ/FwBCK3tW6+FDPuZIXT8FT3q22MUuVShntTofXDgd7QY2G8CKfbOQ7v/bqG22VrWzSxzkqyKKMxeKO2njkAuQdxzD4Txa43toOek=",
-        "icono": "https://i.ibb.co/3kwD39S/descarga-4.jpg"
-      },
-      {
-        "name": "TEATRIX TV",
         "uri": "F3JUJfZ/FwBCK3tW6+FDPuZIXT8FT3q22MUuVShntTp748bEUrm3nNHQSp0IMxpTLtCFZSucOFR9HoLX42nrWw==",
         "icono": "https://i.ibb.co/3kwD39S/descarga-4.jpg"
       },
       {
         "name": "TEATRIX TV",
-        "uri": "F3JUJfZ/FwBCK3tW6+FDPuZIXT8FT3q22MUuVShntToa+wTyc2nKA6HbEOzzaj75/eAATSM6oLMxgoCDwVaeZQ==",
+        "uri": "F3JUJfZ/FwBCK3tW6+FDPuZIXT8FT3q22MUuVShntTpqYmRqmiPL8AZHTnRfCszK/eAATSM6oLMxgoCDwVaeZQ==",
+        "icono": "https://i.ibb.co/3kwD39S/descarga-4.jpg"
+      },
+      {
+        "name": "TEATRIX TV",
+        "uri": "F3JUJfZ/FwBCK3tW6+FDPuZIXT8FT3q22MUuVShntTro1GwYxTVfTAdtAGUlWECz+/fNBIYZeO3AaS44sWmCpQ==",
         "icono": "https://i.ibb.co/3kwD39S/descarga-4.jpg"
       }
     ]
