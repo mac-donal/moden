@@ -625,6 +625,11 @@
     "name": "🇦🇷 INTERIOR DE ARGENTINA",
     "samples": [
       {
+        "name": "Canal Nueve Multivision (AR)",
+        "uri": "QH3/1CrdzZIcoHyMMBqlJvcIIkHaHkYBpfhloNGk86znhtHwStySXEpcR9+ZYI6WsnpgvpMov6BRa9vsBfVmzA==",
+        "icono": "https://play-lh.googleusercontent.com/4KefEkBSbET6Imw1iLMrMd70mG4LP_5b6faSohDm6eKUipnx_ApRrQXAPMaLguA0eoI"
+      },
+      {
         "name": "CANAL 12 MISIONES",
         "uri": "LX46EnLWmPsTQWzzE5C2pHTkdf04SSydzxlNIAAUkdgvXm/Xu4wiB4n1Yl3QMZ4tRTx3u6bTCSuyjGOgv+/uXuJtqx7A3vUxYcbP+61Ty27mtqz6uK8uq2z/vBg8JDMFwc1prmpV3kNa0KT/p+NdVQ==",
         "drm_scheme": "clearkey",
