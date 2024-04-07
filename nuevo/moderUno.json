@@ -33,9 +33,14 @@
     "name": "EVENTOS STAR+",
     "samples": [
       {
-        "name": "EVENTOS URUGUAY+",
+        "name": "Peñarol vs. Deportivo Maldonado URUGUAY+",
         "uri": "F3JUJfZ/FwBCK3tW6+FDPuZIXT8FT3q22MUuVShntTq0X0AGMC8j4WnYL6lkAYP6m4P6fkG/vzI+8VIDLQE+FQ==",
         "icono": "https://www.enter.co/wp-content/uploads/2021/10/STAR-PLUS-1-768x432.jpg"
+      },
+      {
+        "name": "Peñarol vs. Deportivo Maldonado",
+        "uri": "F3JUJfZ/FwBCK3tW6+FDPuZIXT8FT3q22MUuVShntTrNSuhdP9k3cHOtCAjFl+cjmwq4sQA1e/WOProYJbmIng==",
+        "icono": "https://www.enter.co/wp-content/uploads/2021/10/STAR-PLUS-1-768x432.jpg"  
       }
     ]
   },
