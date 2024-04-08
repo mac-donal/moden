@@ -154,8 +154,6 @@
       {
         "name": "DIRECTV SPORTS",
         "uri": "9ze7zoWeEnlExpv5EF6qZnFVxSTPgNpmXXXDbJdvs8OJU6p99zIblO5rBR3cYflcdgU5mAGtEEhOwcGqGCqdQA==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvGL82D8ay2iJvlhaAsHwwqW105qNz1n+xZz4rcZgIjoVvtjf4IyJFvCF2NHwrMwL//q39tUhwFQQK4RZ7MAfhrm8BikYQZciWG8NOJmOiWEY4sqla/Cyzv31GsngdNYVAg==",
         "icono": "https://futbollibrehd.net/img/logo-canal/DirecTV_Sports.png"
       },
       {
@@ -2379,7 +2377,6 @@
         "name": "MISION TV HD",
         "uri": "F3JUJfZ/FwBCK3tW6+FDPuZIXT8FT3q22MUuVShntTo8ewvS/T5y75DKTr2zM5e7RBWq5aifGL0+UoOUEZ8Bwg==",
         "icono": "https://emisorasdelparaguay.com/wp-content/uploads/2023/11/WhatsApp-Image-2024-02-16-at-11.16.19-1024x716.jpeg"
-      },
       }
     ]
   },
