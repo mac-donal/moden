@@ -152,6 +152,13 @@
         "icono": "https://i.ibb.co/9V3PgZ5/espn-premium-by-jpfr1906-df43pcs-375w-2x.jpg"
       },
       {
+        "name": "DIRECTV SPORTS",
+        "uri": "9ze7zoWeEnlExpv5EF6qZnFVxSTPgNpmXXXDbJdvs8OJU6p99zIblO5rBR3cYflcdgU5mAGtEEhOwcGqGCqdQA==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvGL82D8ay2iJvlhaAsHwwqW105qNz1n+xZz4rcZgIjoVvtjf4IyJFvCF2NHwrMwL//q39tUhwFQQK4RZ7MAfhrm8BikYQZciWG8NOJmOiWEY4sqla/Cyzv31GsngdNYVAg==",
+        "icono": "https://futbollibrehd.net/img/logo-canal/DirecTV_Sports.png"
+      },
+      {
         "name": "TYC SPORTS",
         "uri": "kLzT+cququRriT9kOdZAbLuPtqzMT0qIkYh8yAG147Cfrom6nzB9RpFGyIo+mjxkBXR8OumEJEMYGuZuWce0KctZewsHz82xmPWEMyud1r+MJsskEhpTV72EG6tsMNNB",
         "drm_scheme": "clearkey",
@@ -2367,6 +2374,12 @@
         "name": "TV Aire Coronel Oviedo",
         "uri": "i4TZN5siAccqmTrmCy9zxjqWxHetCCltxcIXDlPgEsNqXL9N3aICFeLf2sYc9wQ3GQACgTUpsgngLJQTGXnSyg==",
         "icono": "https://iptv.com.py/wp-content/uploads/2021/06/tvairepng-300x100.png"
+      },
+      {
+        "name": "MISION TV HD",
+        "uri": "F3JUJfZ/FwBCK3tW6+FDPuZIXT8FT3q22MUuVShntTo8ewvS/T5y75DKTr2zM5e7RBWq5aifGL0+UoOUEZ8Bwg==",
+        "icono": "https://emisorasdelparaguay.com/wp-content/uploads/2023/11/WhatsApp-Image-2024-02-16-at-11.16.19-1024x716.jpeg"
+      },
       }
     ]
   },
