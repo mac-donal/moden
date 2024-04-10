@@ -676,6 +676,11 @@
     "name": "🇦🇷 INTERIOR DE ARGENTINA",
     "samples": [
       {
+        "name": "Telediario (AR)",
+        "uri": "8lAhieCamyzuOixCV4fDdPF4aUZ6W/rgaLZ+6XRLZC433fWHgd09FY2VLwdvSAw9",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjKY0su6gw8jfOjkZGPivZDHJY-XqRQGPSYxaGANSIzQ&s"
+      },
+      {
         "name": "Canal Nueve Multivision (AR)",
         "uri": "QH3/1CrdzZIcoHyMMBqlJvcIIkHaHkYBpfhloNGk86znhtHwStySXEpcR9+ZYI6WsnpgvpMov6BRa9vsBfVmzA==",
         "icono": "https://play-lh.googleusercontent.com/4KefEkBSbET6Imw1iLMrMd70mG4LP_5b6faSohDm6eKUipnx_ApRrQXAPMaLguA0eoI"
