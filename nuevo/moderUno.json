@@ -3,12 +3,19 @@
     "name": "🏆 EVENTOS EN VIVO APK 100 % ORIGINAL",
     "samples": [
       {
-        "name": "⚽️FUTBOL PY Cerro Porteño vs Alianza Lima", 
+        "name": "⚽️FUTBOL PY Cerro Porteño vs Alianza Lima",
+        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmIYBVFmQl2oSVaclARVvU72309xw6xvbhaJx3Bglhpbe5NEEMbLpM0R81ZeGfci+8ETQxw0mmGl9mpGrSB85zQh",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvIJCwMm24xCLjRRiQ5CdnWyd3wAKxxOKQMwxOfBLKzQ5Jqu3ZY+HrQFobWbOmJS7WSn6VUU60VN4M3RiSXjByZbxpTHoDZgw82De2TKfdf1QFU6viS9GkGMpwi8GW4UB0g==",
+        "icono": "https://e.rpp-noticias.io/xlarge/2024/04/09/224622_1564538.webp"
+      },
+      {
+        "name": "⚽️FUTBOL PY Cerro Porteño vs Alianza Lima OPC 2", 
         "uri": "F3JUJfZ/FwBCK3tW6+FDPuZIXT8FT3q22MUuVShntTrANt+6OM0AzYc2LvFWsEU7O5ng5OI3DZx3T3I9dt9BFg==",
         "icono": "https://e.rpp-noticias.io/xlarge/2024/04/09/224622_1564538.webp"
       },
       {
-         "name": "⚽️Cerro Porteño vs Alianza Lima OP 2", 
+         "name": "⚽️Cerro Porteño vs Alianza Lima OP 3", 
         "uri": "F3JUJfZ/FwBCK3tW6+FDPuZIXT8FT3q22MUuVShntTrANt+6OM0AzYc2LvFWsEU7O5ng5OI3DZx3T3I9dt9BFg==",
         "icono": "https://e.rpp-noticias.io/xlarge/2024/04/09/224622_1564538.webp"
       },
