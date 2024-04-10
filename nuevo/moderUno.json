@@ -41,7 +41,8 @@
     "samples": [
       {
         "name": "DEFE VS RIVER",
-        "uri": "F3JUJfZ/FwBCK3tW6+FDPuZIXT8FT3q22MUuVShntTq0X0AGMC8j4WnYL6lkAYP6m4P6fkG/vzI+8VIDLQE+FQ==",
+        "uri": "F3JUJfZ/FwBCK3tW6+FDPuZIXT8FT3q22MUuVShntTq0X0AGMC8j4WnYL6lkAYP6m4P6fkG/vzI+8VIDLQE+FQ=="
+       "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/1200px-Flag_of_Uruguay.svg.png"
       }
     ]
   },
@@ -641,6 +642,11 @@
   {
     "name": "🇦🇷 INTERIOR DE ARGENTINA",
     "samples": [
+      {
+        "name": "Canal 12 de puerto madryn (AR)",
+        "uri": "M7YiOVFd8/MYQpGbRQULNirQyzWh8LC1A1/+5jxagqFEEL4Ujfji3prxczeY+F+eYywsh+SI7C90Pt5o7gyaQ5RgGSBR6+7NLD1u67DaGCM=",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW63eB5ZDEXztbvvQzqdVBZkulxCiALOy5lzQ47dE7nQ&s"
+      },
       {
         "name": "Canal Nueve Multivision (AR)",
         "uri": "QH3/1CrdzZIcoHyMMBqlJvcIIkHaHkYBpfhloNGk86znhtHwStySXEpcR9+ZYI6WsnpgvpMov6BRa9vsBfVmzA==",
