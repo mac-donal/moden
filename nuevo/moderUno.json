@@ -2453,6 +2453,13 @@
         "icono": "https://static.tvar.io/imagenes/vtvplus.png?"
       },
       {
+        "name": "VTV EVENTOS",
+        "uri": "KusJ5ShfomSLrFIJxHev/lZUC6R71wyEykNA2u1z8lCXfymEfZKVjJaXPcutg/lMyNVAetl3UCg8K0g32Hf+4bKBtBlrO3Vsr8Zuq1LrcmMeTUEUgDA6ozI+gIWdo2mIaeOQC5B3HMPhPFrje2g56Q==",
+                "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvAr2vc0YSEgPps6GIzsqHnKy+ckKP7XLnBFHFXba9x0nUDKFtN7tDf8Uoprx+LxpSMPSUHH6HKeKQwvy58tJLwikI6D02PA07uy5+lq2i1ABAv+qvFI/UhH2cGi+v9ZqDw==",
+        "icono": "https://static.tvar.io/imagenes/vtvplus.png?"
+      },
+      {
         "name": "VTV PLUS OPC 2",
         "uri": "mkYdbUcrYeGsa8N3BZLz0q7abiHVa2owb3uyS4hDDsP7rVwsFCHCKkLdS7Ur2R00",
         "icono": "https://static.tvar.io/imagenes/vtvplus.png?"
@@ -2770,10 +2777,10 @@
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1200px-Htv_logo.svg.png"
       },
       {
-        "name": "tvm15",
-        "uri": "KusJ5ShfomSLrFIJxHev/lZUC6R71wyEykNA2u1z8lCXfymEfZKVjJaXPcutg/lMyNVAetl3UCg8K0g32Hf+4bKBtBlrO3Vsr8Zuq1LrcmMeTUEUgDA6ozI+gIWdo2mIaeOQC5B3HMPhPFrje2g56Q==",
+        "name": "tvm16",
+        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmILbKGvo/XbatOllNUArPFvkhhGgTowdGJIjAZ0qxortQ0D4M6uTInqnOESCfAwIZVp45ALkHccw+E8WuN7aDnp",
                 "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvAr2vc0YSEgPps6GIzsqHnKy+ckKP7XLnBFHFXba9x0nUDKFtN7tDf8Uoprx+LxpSMPSUHH6HKeKQwvy58tJLwikI6D02PA07uy5+lq2i1ABAv+qvFI/UhH2cGi+v9ZqDw==",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvPKnRVvKqs+2RKVcvGfRDk/wKGIhHaCVbwyDcq2thFb242RKFZpbemhrQh2yljnZSYfgbb2QEv73KFM0zvydzIV7qyk53zY4nXuQzGumYZew3HVOYA1X1BgHsCIW3QacZw==",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1200px-Htv_logo.svg.png"
       }
     ]
