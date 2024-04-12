@@ -121,14 +121,14 @@
     "name": "⚽ PACK FUTBOL ARGENTINA",
     "samples": [
       {
-        "name": "River Plate vs. Nacional",
+        "name": "?????",
         "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmIYBVFmQl2oSVaclARVvU72qFg1SDWXWnezHyZkilPJ2Vo4ZeffaLUqA3S4Agk8awiMJsskEhpTV72EG6tsMNNB",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvKdac3GmfGcWq4swPhlGiWGNE1mUAbefL4YopnM7OhKU4MH7g6+rzboBB1RbuOtKz+YmDyaynkbZwDvK4AbfxqcmJVKveF+NNZpzUBHc3cSLFU6viS9GkGMpwi8GW4UB0g==",
         "icono": "https://www.topmercato.com/wp-content/uploads/2024/04/River-Plate-vs-Nacional.png"
       },
       {
-        "name": "Lanus vs Dep. Garcilaso",
+        "name": "?????",
         "uri": "xLOgpGXCDjOjgkBZs/Gv+Wbx1JuJWhSp0VE7Nd3Y8oJ6Tl1SbJYJQ1fSJddRAKxgO2caNdJ+5ajs+2qSgC0qlSi2DrI7Yst+20nzb45kcXxNvvjRi3hPtZxqqKC56uftNzFMFQ8+PgCQX64YnJDJTQG7hO53kKosv31ngyhsY9EiE98oXZdic35SrWuDNoQX",
         "icono": "https://media.ambito.com/p/018939181842bb3337c7f4dad77a0058/adjuntos/239/imagenes/041/429/0041429205/1200x675/smart/conmebol-copa-sudamericana-lanus-vs-deportivo-garcilaso-grupo-g-fecha-2.png"
       },
@@ -449,20 +449,10 @@
     "name": "🇦🇷 ARGENTINA",
     "samples": [
       {
-        "name": "GH twi 1",
-        "uri": "SUb6OoBf1vm+qkGW6acGx0+5ezcT5C4J4fO0tTcDLft+QL+mNdnW15VfMzds0T1aJJHN20VQWjLhUtGYRODLSmnjkAuQdxzD4Txa43toOek=",
-        "icono": "https://media.infocielo.com/p/d7b6f19849cd20bab059321254aa6485/adjuntos/299/imagenes/001/519/0001519763/1200x675/smart/gran-hermanopng.png"
-      },
-      {
         "name": "TELEFE",
         "uri": "LX46EnLWmPsTQWzzE5C2pN8578AuYU8BaXP63OyHIHVz1ZzaOmfr58dAcdKDqlXD3zxFnUQ5EMFlCpCx0p3If1EDbCJGcjGg6FnFCLaeBCl+UEZ3heEI6NEm/9rw8LsY",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvHvog55R7efG+Y3JUfRdAkMyRSdbLwaUtq++PwNnQqDF/5XTuseg/1NGWwcgAa1wbz7nE5t2Ipsv4zSpvjw74AXoJbR6JjD+qxAsWu9czz4cvTHIrUV/EgtGXGChh04imA==",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Telefe-logo-1.jpg"
-      },
-      {
-        "name": "TELEFE OPC2",
-        "uri": "+OLhs850KUCS/jVMLF03NXsK9iBvb978OmnHCy8K2LZz8CyqS6bFXcrplcljmX8VcUMuOZgAAAARL3Fn/kbTSA==",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Telefe-logo-1.jpg"
       },
       {
