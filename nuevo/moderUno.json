@@ -1935,7 +1935,14 @@
         "icono": "https://i.postimg.cc/SKT2Pm92/telemundo-logo-0-F9-A314635-seeklogo-com.png"
       },
       {
-        "name": "TLN ",
+        "name": "TLN",
+        "uri": "kLzT+cququRriT9kOdZAbLuPtqzMT0qIkYh8yAG147AiwiQmKP2mpYRPS28FK4Fa9utNy35YA261RXBD5nlBD56M8dB0GdFd1ja6jcxMHeiDqPBIJn9vXiQFe+s1WwVl",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvGAiDcZDpGg4nC33mL/0P6F/trlJOF52AwPtvyTWazTikFJ1FjWUexfEs8hbs/nyFzZW3fHp3MDbJz5HZKmByIrkZ8W4VO4f9w0Fq5zk2KrIvS82+kou4vct3pGYIPgG9A==",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/1223px-Logo_tlnovelas_feb2019.png"
+      },
+      {
+        "name": "TLN opc2",
         "uri": "mkYdbUcrYeGsa8N3BZLz0q7abiHVa2owb3uyS4hDDsNVXJRpwyeu3w+Doolr4sAW",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/1223px-Logo_tlnovelas_feb2019.png"
       },
