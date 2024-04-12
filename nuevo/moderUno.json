@@ -2439,6 +2439,13 @@
         "icono": "https://montevideo.gub.uy/sites/default/files/styles/galeriaslideshowcontenido/public/biblioteca/tvciudad.png?itok=jUiNrl5Q"
       },
       {
+        "name": "ESPN (Uruguay)",
+         "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmILbKGvo/XbatOllNUArPFvkhhGgTowdGJIjAZ0qxortQ0D4M6uTInqnOESCfAwIZVp45ALkHccw+E8WuN7aDnp",
+                "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvPKnRVvKqs+2RKVcvGfRDk/wKGIhHaCVbwyDcq2thFb242RKFZpbemhrQh2yljnZSYfgbb2QEv73KFM0zvydzIV7qyk53zY4nXuQzGumYZew3HVOYA1X1BgHsCIW3QacZw==",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_sqcwcbI-QguOi9g7yw0ga3nKfcsxY00bt84h7JPBow&s"
+      },
+      {
         "name": "VTV",
         "uri": "LX46EnLWmPsTQWzzE5C2pM5oVLjLvNyztbnxEbF8X518tKiVTvPojIP/QWrKsG2JMFdOefWwooIZ9Dt2Gb0F7NdTL9ICeEmX8wG6vShrlMOMJsskEhpTV72EG6tsMNNB",
         "drm_scheme": "clearkey",
@@ -2777,10 +2784,10 @@
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1200px-Htv_logo.svg.png"
       },
       {
-        "name": "tvm16",
-        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmILbKGvo/XbatOllNUArPFvkhhGgTowdGJIjAZ0qxortQ0D4M6uTInqnOESCfAwIZVp45ALkHccw+E8WuN7aDnp",
+        "name": "FoxSports2_UY",
+        "uri": "KusJ5ShfomSLrFIJxHev/qO9585W8+vgOl/77FW3gEKXfymEfZKVjJaXPcutg/lM5Z47ljWXWqB0AxYEPU93W8GggOFCuJEpM4e3pM+k4OfVFpu2OmJykuHBBPBMLl1WaeOQC5B3HMPhPFrje2g56Q==Gvo/XbatOllNUArPFvkhhGgTowdGJIjAZ0qxortQ0D4M6uTInqnOESCfAwIZVp45ALkHccw+E8WuN7aDnp",
                 "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvPKnRVvKqs+2RKVcvGfRDk/wKGIhHaCVbwyDcq2thFb242RKFZpbemhrQh2yljnZSYfgbb2QEv73KFM0zvydzIV7qyk53zY4nXuQzGumYZew3HVOYA1X1BgHsCIW3QacZw==",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvM38cvatWQDR5nxyKnsPBbnim9aCLK+KMnu2xOivRuk3JLHvxGkv9niF0MUvbCLECRowpSoiuF3SageCXyVZugc9VylwmlI65fl+N1dRMnidnwXqvGcB02NlNd8JjrleeQ==",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1200px-Htv_logo.svg.png"
       }
     ]
