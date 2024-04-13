@@ -1922,6 +1922,13 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvNqNsVll9URBORB0Ja7erCTnc1bmrSnPSAY2fLxe4sFCNdfYiyJ88fdA62H9n+d61c2j/zQ/dvuCD6L+YhVWLbvL311mX2TPcYa7sigO5BLmpsbiYUeU5D26CwGEr6Lbiw==",
         "icono": "https://canalcocina.es/medias/images/1703canalcocina4k1600x9001.jpg"
+       },
+      {
+        "name": "Food Network",
+        "uri": "EkaIwYvYUQmdu8f0KwsOZcftz2qaHl+MasNHxZe93eEJvdwGkkXiT1Zrv2K85MjBd53Z0aGMtmy4UGZy68wa4G62m4Ec8Erd39qlycYo/tAwToEiHU4iftRNHzlgQJV3",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvGo07tPFnnGHRGk6Pvv+GoZW+UacoRqluZDEmk5FqUyzMkrKX8IsqG7w/cbaU9UyJabh5y4poiTw8jjMDAj/pDPW6zWHWsJwrokciEP7jlpmnRgh9ZWFsIOozmf/TZltvQ==",
+        "icono": "https://static.wikia.nocookie.net/youtube/images/6/6b/Food_Network.jpg/revision/latest?cb=20220209064632"
       }
     ]
   },
