@@ -203,6 +203,13 @@
     "name": "⚽ DEPORTES",
     "samples": [
       {
+        "name": "Show Sports (Córdoba)",
+        "uri": "PiFoloK4zBxLo6GPf/bTSqkzMwvOytGAGi5TMmNihSURz0Yc1yaaNNBESsSEf/mk4pYGqnQgvp1p8aQqQGLS8ug1c66ypqo9nLpdPsipS3ujysCvMKgfoJjSwvFYrVwz",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvH6dWGoA5sOH8qf7XOl/LVGpDuDCCuUF+R/jcGm9Pe0pmem1DiMxZPlbcSXK0ZZsUZlXkr/O4ZlK2GgGfVPKUJky9LWxjqNjCN6hdrc0DvghZBwu/4MXv4stS4KnB13hAA==",
+        "icono": "https://www.dz-techs.com/wp-content/uploads/2017/01/showsport-logo.png"
+      },
+      {
         "name": "TNT SPORT ARGENTINA HD",
         "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmIW7c8B26HWtij6f1QtNAQwx2Z3Q5zoy6wLRE4bfFkEwc+BWJwadd12eITdRn3e1z4qCbexk8uxiMbYWn28FniL",
         "drm_scheme": "clearkey",
