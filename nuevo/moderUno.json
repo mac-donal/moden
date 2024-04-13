@@ -2820,9 +2820,9 @@
       },
       {
         "name": "ts",
-        "uri": "oMs4EieXVh6DI6n0pKCRHsPo6DokhGWPju65iz8MX6loWGB6bnFDUY9/w+HSCRVlv9I6fsKfLWijXM0TJd4P1uV4wFOz4HdaVzeERvMX/j8=",
-                "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvDS1A7hncd4GPjsgzBPytTJ1MzmApCRoZxQK28U5RsMr1md/gx1c47b024VGGSmwe9xj97o0G5YGM8vItxmCzCP/ufdfTwuWTF3TU1AQ87ssHSAFSp7Tnsdp3XvR4L5Blw==",
+        "uri": "o684Ul1zSls8E/zECjoSnQ1ibxKrJneBc7D/s6W4K0KSEYI3+LkG/kBOIaQcT1k/pVR8QmcB8QaVSFNzzXa6GHqWtOwqwFAPozWed/pfWajWfWc9VTu/7FPbp4KdoGDp",
+                "drm_scheme": "widevine",
+        "drm_license_uri": "bRFNZmCDg/trgr9uCnpfH9CoUMklrw/1v1PhVO/X7tElI537lM8hLmDSXtG44DLFCe8yqh86aneO75ZvjAOsRd68UAsI/lIlBQfehr4OVxq9beYjzFCmKD8wvX+MDGst",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1200px-Htv_logo.svg.png"
       }
     ]
