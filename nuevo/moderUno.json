@@ -2819,10 +2819,10 @@
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1200px-Htv_logo.svg.png"
       },
       {
-        "name": "ts",
-        "uri": "o684Ul1zSls8E/zECjoSnQ1ibxKrJneBc7D/s6W4K0KSEYI3+LkG/kBOIaQcT1k/pVR8QmcB8QaVSFNzzXa6GHqWtOwqwFAPozWed/pfWajWfWc9VTu/7FPbp4KdoGDp",
-                "drm_scheme": "widevine",
-        "drm_license_uri": "bRFNZmCDg/trgr9uCnpfH9CoUMklrw/1v1PhVO/X7tElI537lM8hLmDSXtG44DLFCe8yqh86aneO75ZvjAOsRd68UAsI/lIlBQfehr4OVxq9beYjzFCmKD8wvX+MDGst",
+        "name": "tscc",
+        "uri": "8InZdZDixqJ0WTJd/ChheEqSx9o1lkID6Gv2aP2Sq62/3Kyr9f0SIbjruRM+hGfdtKnabK1oInLqQkIunlqNlIcs+LeDbzur29fCPJLsmHAbJ6ZdtFs7OsqMQuDDefiRLI9PrVAAWgFVIWfhSqcNoew+QNYmcPs3DHfPdJrMGug=",
+                "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvF76nmBhuwGfhGKN06TzZziKokpW4TPfcznf/UrOriSrktbt/lryUrf2YR8DXjm/iCjUtywEWdNxMbY9Ik5GtCwq8KFMcNT/vEa4gUXGG4tK/aX/7Bc2djrIY6QLRNAjaw==",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1200px-Htv_logo.svg.png"
       }
     ]
