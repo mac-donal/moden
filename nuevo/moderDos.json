@@ -3,11 +3,6 @@
     "name": "PELICULAS RECIEN AGREGADAS",
     "samples": [
       {
-        "name": "Cuando éramos soldados",
-        "uri": "0SYVzR+jJfCzGh0Wh8o45BVOuJ1ujFks42tdaaKqNt03wbQeuBrzcWMUDtsppTxNXOhc3oKpyZWwrirr/s+AawxpbCJFaZP21DjXCcADePbnGF/BNScstf5J4izNlLMjrTfLZiP5RMXbb9T10FAZaGEOqgPMaeRIEwu/RneIl8TRJo1Rml1ExhqBsXL0odN3LAF42LlRSelGT/eCyzTyyCBdc7W1x/ZymEGo6A2DFn5H5dY1TjrhklTNu9uWBaJrmmT9Z6dV+8LJnewrRIPxzL8oV/ErrfHKtSFyIMmKmeHrwtY0006W95VII0aJGUI6",
-        "icono": "https://es.web.img2.acsta.net/c_310_420/medias/nmedia/18/74/26/04/20078139.jpg"
-      },
-      {
         "name": "EL APRENDIZ DE TIGRE (2024)",
         "uri": "e3DRxA0SeYh8rk33tSVR0kWKHILgduvuCCNbDvQmO3Fk5zaCdeTllXxmnW5WpArAdJo5o467IHAO8TzBTqqWgd2SsqOMDrcfr52vbtqobzY=",
         "icono": "https://image.tmdb.org/t/p/original/acpFrSmVLnTNAIuHxnZArkC3dwU.jpg?language=pt-BR"
@@ -216,6 +211,11 @@
         "name": "Titanic (1997)",
         "uri": "vXDLKTg8LmkPHLU3NPhq5x48pwZbMB8jWDVmOGPs9LOssgDpH9Faf0+351A0vK5JFp6t4OpkrywUTt70+O7mo+qRp/0vYJ/LZSc/p5nSYWSO0ny9o6Cl82iw/g3kkZdzNfLJfc03t7sEZ3BoZhsjrw==",
         "icono": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTO4uDn64PLOGg3ECiPApplZ_SI6n3ZTGYfQLxYpA1GeFPxYqaT"
+      },
+      {
+        "name": "Cuando éramos soldados",
+        "uri": "+uxbpBfclyfWWOaC7i4TRNe/C7ZGn/hJn5QXKg6tX3Q0p3n7lmzdz2C6q3p4DgVIMrrsekFIzOTw+PWZIROb2mhBi6AlGZAk5NgLpfsrJ7gDFcQFhg8MVG62NQmdZA7F",
+        "icono": "https://es.web.img2.acsta.net/c_310_420/medias/nmedia/18/74/26/04/20078139.jpg"
       },
       {
         "name": "Troya (2004)",
