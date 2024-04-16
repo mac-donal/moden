@@ -147,6 +147,13 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvFJU7OeYPqpRnHXx6hX0ilnbI7gWGdNpr6z0vuDRQc8aNG1OSBi54LwMojN9vB8TgZb1fcWMT9FqIXSoGro6YY7JHny5Ept2vEPMBuRQqzUUabgy5Pi3qZYIw5F+E9C88w==",
         "icono": "https://i.ibb.co/GQ6LCnV/share.png"
+      },
+      {
+        "name": "América Televisión",
+        "uri": "RZs3rCi48RHteYcQXVk/BkwY/L+dHsB81Puw15zq+U72m/B58GFlt5I6pgMv3Ilqut/Gl0AJ8eOKDa1JDUnsdGnjkAuQdxzD4Txa43toOek=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvNV1OFL29xGaE5OI7haPNzuCUeA/+LjNotIyZo7QpkZRFf0l6sA0TJY/KKSMw7IAcY5wvu1CHQQ/bmKTZDD3olSW3Tp3LIzeM/EpBFVfIhKG78gGH+Dz+rGTjHt7xM+yCw==",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Am%C3%A9rica_HD.svg"
       }
     ]
   },
@@ -2838,10 +2845,10 @@
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1200px-Htv_logo.svg.png"
       },
       {
-        "name": "ts71",
-        "uri": "RZs3rCi48RHteYcQXVk/BkwY/L+dHsB81Puw15zq+U72m/B58GFlt5I6pgMv3Ilqut/Gl0AJ8eOKDa1JDUnsdGnjkAuQdxzD4Txa43toOek=",
+        "name": "ts72",
+        "uri": "AbWDpiiuPyo+YGsdtbFby/2gDOUD9exe7anAFHyTa7JTNjVzTiEnKqFJeGWY0BxK8cGr2teazGWnrE8C7UX9A9vTi448LV9IZXcpuPBdW5/msmUKgB71UDJ32Dx6ZSQKmcFQ7tQ0Jj3P1ijKGTx31A==",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvNV1OFL29xGaE5OI7haPNzuCUeA/+LjNotIyZo7QpkZRFf0l6sA0TJY/KKSMw7IAcY5wvu1CHQQ/bmKTZDD3olSW3Tp3LIzeM/EpBFVfIhKG78gGH+Dz+rGTjHt7xM+yCw==",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvHvog55R7efG+Y3JUfRdAkMyRSdbLwaUtq++PwNnQqDF/5XTuseg/1NGWwcgAa1wbz7nE5t2Ipsv4zSpvjw74AXoJbR6JjD+qxAsWu9czz4cvTHIrUV/EgtGXGChh04imA==",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1200px-Htv_logo.svg.png"
       }
     ]
