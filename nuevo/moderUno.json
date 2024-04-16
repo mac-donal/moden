@@ -174,7 +174,9 @@
       },
       {
         "name": "TNT SPORT OPC 2",
-        "uri": "0UySq0nbbyX2bdCzaeX1OK/U2u4UmmhLpbm67kSox+KN6wcrVemyhw2y9HQqtfVXWz7ahmjHbJIx6GOxc89cEg==",
+        "uri": "PiFoloK4zBxLo6GPf/bTShKL4AlwZXfSwZwgQmJiQ8RmXBuqeXlq3KAdZYIwvuJQYnRaiNuka+uzQB7BOkwhFncYlWgENV059oYzUoz88o+940GMpgYRJyTTarhtZ3DEaeOQC5B3HMPhPFrje2g56Q==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvEpW6BhZ/Nkg2EAOATMINVhel1jKITWwDKVGHXcqnvVTgpQ0vlnJLUxZMjWW2YoXkI7fEeHljSq27jUb1eaA1FFoSPIu/650/dCmU2lx5oR//nYx02Xp+9tm9LV3P0Qy2A==",
         "icono": "https://i.postimg.cc/kMkS5BVf/TNT-SPORTS-ARGENTINA.png"
       },
       {
@@ -239,7 +241,9 @@
       },
       {
         "name": "TNT SPORT OPC 2",
-        "uri": "0UySq0nbbyX2bdCzaeX1OK/U2u4UmmhLpbm67kSox+KN6wcrVemyhw2y9HQqtfVXWz7ahmjHbJIx6GOxc89cEg==",
+        "uri": "PiFoloK4zBxLo6GPf/bTShKL4AlwZXfSwZwgQmJiQ8RmXBuqeXlq3KAdZYIwvuJQYnRaiNuka+uzQB7BOkwhFncYlWgENV059oYzUoz88o+940GMpgYRJyTTarhtZ3DEaeOQC5B3HMPhPFrje2g56Q==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvEpW6BhZ/Nkg2EAOATMINVhel1jKITWwDKVGHXcqnvVTgpQ0vlnJLUxZMjWW2YoXkI7fEeHljSq27jUb1eaA1FFoSPIu/650/dCmU2lx5oR//nYx02Xp+9tm9LV3P0Qy2A==",
         "icono": "https://i.postimg.cc/kMkS5BVf/TNT-SPORTS-ARGENTINA.png"
       },
       {
@@ -257,7 +261,7 @@
         "icono": "https://i.ibb.co/b1TmtjS/ar-fox-sports-2-m.png"
       },
       {
-        "name": "FOX SPORTS3",
+        "name": "FOX SPORTS 3",
         "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmIYBVFmQl2oSVaclARVvU72309xw6xvbhaJx3Bglhpbe5NEEMbLpM0R81ZeGfci+8ETQxw0mmGl9mpGrSB85zQh",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvIJCwMm24xCLjRRiQ5CdnWyd3wAKxxOKQMwxOfBLKzQ5Jqu3ZY+HrQFobWbOmJS7WSn6VUU60VN4M3RiSXjByZbxpTHoDZgw82De2TKfdf1QFU6viS9GkGMpwi8GW4UB0g==",
@@ -271,20 +275,10 @@
         "icono": "https://i.ibb.co/9V3PgZ5/espn-premium-by-jpfr1906-df43pcs-375w-2x.jpg"
       },
       {
-        "name": "ESPN PREMIUM OPC 2",
-        "uri": "0UySq0nbbyX2bdCzaeX1OK/U2u4UmmhLpbm67kSox+KJ2PYGlziKAteRgWMOqSBw0USNdt0NSCm6ol46D+rXfw==",
-        "icono": "https://i.ibb.co/9V3PgZ5/espn-premium-by-jpfr1906-df43pcs-375w-2x.jpg"
-      },
-      {
         "name": "ESPN",
         "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmLiXRhB6As37Tr551IbxBSZHP6HyROJeWBxubQseJGrtZCd789/cVAX8Q+2DXbpFdTLqRGdipAmdVUEYSz87+0n",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvEBs+hrZq9jIsnP8jkwsuili0rrfchksnTvqYRmHjaKhw2DghBQyLpsCf6esBCRDXZmvNMH7kRQ0TR7aZbJ/yri5cxcw3KlKQspfL/TFPefCMESFQDBJFybL/91IAmO8RQ==",
-        "icono": "https://i.ibb.co/BzGyKSW/QHU32-CDMLNFGLMLSUM27-NHA5-FU.jpg"
-      },
-      {
-        "name": "ESPN OPC 2",
-        "uri": "0UySq0nbbyX2bdCzaeX1OK/U2u4UmmhLpbm67kSox+LXqu0shfnHpC38c5VlFy4oy6kRnYqQJnVVBGEs/O/tJw==",
         "icono": "https://i.ibb.co/BzGyKSW/QHU32-CDMLNFGLMLSUM27-NHA5-FU.jpg"
       },
       {
@@ -295,11 +289,6 @@
         "icono": "https://i.ibb.co/vH8JLS1/espn24510.jpg"
       },
       {
-        "name": "ESPN 2 OPC 2",
-        "uri": "0UySq0nbbyX2bdCzaeX1OK/U2u4UmmhLpbm67kSox+LXqu0shfnHpC38c5VlFy4oy6kRnYqQJnVVBGEs/O/tJw==",
-        "icono": "https://i.ibb.co/vH8JLS1/espn24510.jpg"
-      },
-      {
         "name": "ESPN 3",
         "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmLiXRhB6As37Tr551IbxBSZXDYDxSBX0xq8HzM5ugYYVVN7QUA3PT4WEEdE6Ka87R4=",
         "drm_scheme": "clearkey",
@@ -307,20 +296,10 @@
         "icono": "https://i.ibb.co/NTHfMGT/ESPN3-CLR-Pos-642x405.jpg"
       },
       {
-        "name": "ESPN 3 OPC 2",
-        "uri": "0UySq0nbbyX2bdCzaeX1OK/U2u4UmmhLpbm67kSox+JWo6TJjhpJqKVz3j8BBDlwy6kRnYqQJnVVBGEs/O/tJw==",
-        "icono": "https://i.ibb.co/NTHfMGT/ESPN3-CLR-Pos-642x405.jpg"
-      },
-      {
         "name": "ESPN EXTRA",
         "uri": "LX46EnLWmPsTQWzzE5C2pBvsXPm3gqkAvLdTB+rKTGuDADwVLoL3402uGEmy+00/9CsKb6MyrAUbzIRLtDgMhzk3Ov0Cv0UGAAwMgrciH9SMJsskEhpTV72EG6tsMNNB",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvGOx2XWEnPAaj7XAlWdMW0bnFDD2d3OBykbxxryPFiBf/2Yba85M2E5GjdU1Cwz767UESUrpxDRSwZgA6Vx7ir8b3hG8WcfWj/spUfSU20V5OFprsLg+fG4JZXNCdnFEyw==",
-        "icono": "https://i.ibb.co/27M5YFg/espn-extra.jpg"
-      },
-      {
-        "name": "ESPN EXTRA OPC 2",
-        "uri": "0UySq0nbbyX2bdCzaeX1OK/U2u4UmmhLpbm67kSox+KZye6L8lm7lTR5atrf5KuS6+K+e1Pn+etnbPOGMkzGqA==",
         "icono": "https://i.ibb.co/27M5YFg/espn-extra.jpg"
       },
       {
