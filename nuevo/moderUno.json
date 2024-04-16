@@ -1120,10 +1120,9 @@
     "samples": [
       {
         "name": "Adult Swim",
-        "uri": "SO7PaqFnX2XeJ1kRo1c/2lLubH7M5HtXe8JNuwGW79YJ3pEhk4HBRyJ3bHO9yueU5gn6G/p2kyxNiN6MqMUgupuD+n5Bv78yPvFSAy0BPhU=",
+        "uri": "KusJ5ShfomSLrFIJxHev/tLfRy3Xhd+oME43Te40Gt56mJt29B/oqSANh0rphCn6agycfZsKmmBZEJIYW4LlJ5SwIKDOqM1amlpITvPpVaw6+Ps12v/QFWUHyxS4MxAm",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvKsEh51h/VWWh+DwWzpJfd8XWB69Ha8o52zxuxQ/c63rgcHlXmDCF3vnN9Aa2vL8ATpmyQj+BqoGCREdXT8CSNmL3LE2EZOy/mliGRBGKCPLOlSmuMb019vkz65ncPHKJA==",
-        "icono": "https://p.calameoassets.com/230228031955-307654288a7d6074bd5f3e3d81e74655/p1.jpg"
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvEGxaitBWEHwOrn0jngpXFTwbui+kao65owerzN19FnzTE5SX5Cw6YQaW6Wfwsyr1eo4CrRi1CPpe3aW+JlwHnEt9FAG7jcDzGihM3S8VkI4aV8lFrAokxFCmFft9qCbag==",
       },
       {
         "name": "Kanal D Drama ",
@@ -1532,9 +1531,9 @@
     "samples": [
       {
         "name": "Adult Swim",
-        "uri": "SO7PaqFnX2XeJ1kRo1c/2lLubH7M5HtXe8JNuwGW79YJ3pEhk4HBRyJ3bHO9yueU5gn6G/p2kyxNiN6MqMUgupuD+n5Bv78yPvFSAy0BPhU=",
+        "uri": "KusJ5ShfomSLrFIJxHev/tLfRy3Xhd+oME43Te40Gt56mJt29B/oqSANh0rphCn6agycfZsKmmBZEJIYW4LlJ5SwIKDOqM1amlpITvPpVaw6+Ps12v/QFWUHyxS4MxAm",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvKsEh51h/VWWh+DwWzpJfd8XWB69Ha8o52zxuxQ/c63rgcHlXmDCF3vnN9Aa2vL8ATpmyQj+BqoGCREdXT8CSNmL3LE2EZOy/mliGRBGKCPLOlSmuMb019vkz65ncPHKJA==",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvEGxaitBWEHwOrn0jngpXFTwbui+kao65owerzN19FnzTE5SX5Cw6YQaW6Wfwsyr1eo4CrRi1CPpe3aW+JlwHnEt9FAG7jcDzGihM3S8VkI4aV8lFrAokxFCmFft9qCbag==",
         "icono": "https://p.calameoassets.com/230228031955-307654288a7d6074bd5f3e3d81e74655/p1.jpg"
       },
       {
@@ -2840,7 +2839,7 @@
       {
         "name": "ts70",
         "uri": "KusJ5ShfomSLrFIJxHev/tLfRy3Xhd+oME43Te40Gt56mJt29B/oqSANh0rphCn6agycfZsKmmBZEJIYW4LlJ5SwIKDOqM1amlpITvPpVaw6+Ps12v/QFWUHyxS4MxAm",
-                "drm_scheme": "clearkey",
+        "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvEGxaitBWEHwOrn0jngpXFTwbui+kao65owerzN19FnzTE5SX5Cw6YQaW6Wfwsyr1eo4CrRi1CPpe3aW+JlwHnEt9FAG7jcDzGihM3S8VkI4aV8lFrAokxFCmFft9qCbag==",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1200px-Htv_logo.svg.png"
       }
