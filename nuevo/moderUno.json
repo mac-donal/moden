@@ -43,38 +43,11 @@
         "icono": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1592.png"
       },
       {
-        "name": "LaLiga: Mallorca vs. Real Madrid",
-        "uri": "8InZdZDixqJ0WTJd/ChheEqSx9o1lkID6Gv2aP2Sq62/3Kyr9f0SIbjruRM+hGfdtKnabK1oInLqQkIunlqNlIcs+LeDbzur29fCPJLsmHAbJ6ZdtFs7OsqMQuDDefiRLI9PrVAAWgFVIWfhSqcNoew+QNYmcPs3DHfPdJrMGug=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvF76nmBhuwGfhGKN06TzZziKokpW4TPfcznf/UrOriSrktbt/lryUrf2YR8DXjm/iCjUtywEWdNxMbY9Ik5GtCwq8KFMcNT/vEa4gUXGG4tK/aX/7Bc2djrIY6QLRNAjaw==",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2OgRA0fo0WDzbUKLn_Sk8eDELz5bP8h_BMgvb3UBzUA&s"
-       },
-      {
-        "name": "Cadiz vs FC Barcelona",
-        "uri": "DY0o2S9RvLCH7gsg21jrfYqY1shnZXzcEP/feOAzYN1Ljedx6gTWkq8Na4YVKpPw",
-        "icono": "https://media.lmneuquen.com/p/c2023b477ac1bb80a9d947d95558ec82/adjuntos/195/imagenes/005/592/0005592872/1200x675/smart/barcelona-cadizjpg.jpg"
-      },
-      {
-        "name": " Bourneouth vs Manchester United",
-        "uri": "TMCAuLe8WF0TAHptwFXZ+ITjXFeRNNP2JKi/UuGmg585Lp33/pi4XCWsppqvxcRhCnYGuiYW0ss2doYOMSyjosQBfxHBwOYR+ckbPmTcr352BTmYAa0QSE7BwaoYKp1A",
-        "icono": "https://static.standard.co.uk/s3fs-public/thumbnails/image/2019/10/04/14/plbournemouthmanutdwk11.jpg?width=1200&auto=webp&quality=75"
-      },
-      {
-        "name": " Bourneouth vs Manchester United opc 2",
-        "uri": "F3JUJfZ/FwBCK3tW6+FDPuZIXT8FT3q22MUuVShntToyIfdQ1wOXJe2DjfnU7KXmRBWq5aifGL0+UoOUEZ8Bwg==",
-        "icono": "https://static.standard.co.uk/s3fs-public/thumbnails/image/2019/10/04/14/plbournemouthmanutdwk11.jpg?width=1200&auto=webp&quality=75"
-      },
-      {
-        "name": " Torino vs Juventus",
-        "uri": "9It3ay+QNB/luQjbhRQ8KPrSgPv7lQZkCTajLTBBGMAheAG03h9wzOCWqbj5S24N2gsgwdNV/qjPWFC9ZqgCEDsLKsKfPRuxWZFVlP1bORRqsuDNoI+0o/VOta4X8TPJY9aFr7LncCf9iz87bpqGS16jRWMDAZZfbFepuvWCctQ=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvJlMz0QK0sf8rBkoSNfqaVDTWkLFQwaZvymACie7ul+BCfp+QBtyL0i8UJlu18YJnO+0vONXBXRod0leKTPiIH0UXWQdTgelt7rNCQseyCuN/aX/7Bc2djrIY6QLRNAjaw==",
-        "icono": "https://media.tycsports.com/files/2024/04/11/702424/torino-vs-juventus-en-vivo-como-llegan-al-partido_862x485_wmk.webp"
-      },
-      {
-        "name": " Torino vs Juventus OPC 2",
-        "uri": "7ATO0WHRfpMVhLpXiXtlJNKnNe0mITPXR/K7oxDCspxOqeJbqM17GrnjnxzozkYF",
-        "icono": "https://media.tycsports.com/files/2024/04/11/702424/torino-vs-juventus-en-vivo-como-llegan-al-partido_862x485_wmk.webp"
+        "name": "Borussia Dortmund vs. Atlético Madrid",
+        "uri": "v8vUVcLS4XBAAM3L0k/SVSLUhbDAJKnX3WwlbqXPq2IgzLtNTScF0snc5bl/G4dHis882s7hk5DXfRGzQB27nHnf6DEs/VrrxvrAYa6uead5v9mjVW5NPG9ndwu5St7Zxbrz2nTl/aZZtgEGwQqPQKSjpDUJ+j+/1jIgVTSzkLivaR10+raUrwHPvpXDUP2B3/+ZCN9PXjH0qk414X8v7A==",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "TkpUGS27QzOOHiQScDjuUur5b8JO69FXX9tRqXtgVxns22hwCOlwZ3HQhG+7TxX8DUB0UQZBzxXJmVhjxjcmyQ==",
+        "icono": "https://futbollibre.pe/img/logo-starplus.png"
       }
     ]
   },
