@@ -1003,6 +1003,11 @@
     "name": "🍿 PACK HBO & UNIVERSAL",
     "samples": [
       {
+        "name": "Planeta TV Movies",
+        "uri": "lZkFKIMo+aYib8qIOxTsqYcSc9HJYYkZADLq39Z2JQxEiiZ0eIgGSVh9CZgmDccZ9oCR1sSi1y9bSeZob2Wi8Q==",
+        "icono": "https://latinartv.com/sites/default/files/styles/poster/public/logos/planeta-tv-chile.png?itok=SQuhCR2p"
+      },
+      {
         "name": "Canela Horror",
         "uri": "ilOZEuHGYrlxc4gD7mvcvfZ5vLuZfrxK+I0Uyb1amGM4lzipYuPPtLxTTQKSirK6/BN116aHFnbA1in1IZxpSw==",
         "icono": "https://img2.static-ottera.com/prod/cnm/linear_channel/thumbnails/square/366x206/bba9b402-channel-canela_horror-7x10.jpg"
