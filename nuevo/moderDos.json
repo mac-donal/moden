@@ -1047,6 +1047,51 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvIBJYcuP+oN31LPu6XTUQmpgwtVSHRS1XFVOwPUxKomcqw9uqI2vDi9F3rKnoFLdwP0ElyTEtAZON0zcD/PyQFQQ3eV6lVOKA31i4G39cNWaueiLb5gmFo57xqeIioeQEA==",
         "icono": "https://static.flow.com.ar/images/vod/vod/350/500/0/0/31523000.jpg"
+     }
+    ]
+  },
+  {
+    "name": "halo 2 temporada",
+    "samples": [
+      {
+        "name": "parte 1 ",
+        "uri": "QY/9kzfjVQDVkeD6iyv/k32yr5ZcJX7KDTzdOIy2FrntiyXghA4KyyYT+No5bXViX9+n+sAsa4Jl75n4DYZEXZX03Gz2wu+RLuhyVvJC94MXBRj8tKYsBuBJvj6ONrO4",
+        "icono": "https://elcomercio.pe/resizer/AVqHdronbOBCMkYdSYj4zHHM7vU=/620x0/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/JR4SC2WVMBDL5DX7HJ7EDT6W7Y.jpg"
+      },
+      {
+        "name": "parte 2 ",
+        "uri": "QY/9kzfjVQDVkeD6iyv/k32yr5ZcJX7KDTzdOIy2FrntiyXghA4KyyYT+No5bXViwu2N1HOJuep3Seyczwtc+ZX03Gz2wu+RLuhyVvJC94MXBRj8tKYsBuBJvj6ONrO4",
+        "icono": "https://elcomercio.pe/resizer/AVqHdronbOBCMkYdSYj4zHHM7vU=/620x0/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/JR4SC2WVMBDL5DX7HJ7EDT6W7Y.jpg"
+      },
+      {
+        "name": "parte 3 ",
+        "uri": "QY/9kzfjVQDVkeD6iyv/k32yr5ZcJX7KDTzdOIy2FrntiyXghA4KyyYT+No5bXViT4Ba96o5HAAh/crqkP6eUHVD9dZACZ7qeoZEmsBNBX6I1jcnVqKJ6SogvoIighV2",
+        "icono": "https://elcomercio.pe/resizer/AVqHdronbOBCMkYdSYj4zHHM7vU=/620x0/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/JR4SC2WVMBDL5DX7HJ7EDT6W7Y.jpg"
+      },
+      {
+        "name": "parte 4 ",
+        "uri": "QY/9kzfjVQDVkeD6iyv/k32yr5ZcJX7KDTzdOIy2FrntiyXghA4KyyYT+No5bXViW9W22sgmHaSGe/ynpypFX5X03Gz2wu+RLuhyVvJC94MXBRj8tKYsBuBJvj6ONrO4",
+        "icono": "https://elcomercio.pe/resizer/AVqHdronbOBCMkYdSYj4zHHM7vU=/620x0/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/JR4SC2WVMBDL5DX7HJ7EDT6W7Y.jpg"
+      },
+      {
+        "name": "parte 5 ",
+        "uri": "QY/9kzfjVQDVkeD6iyv/k32yr5ZcJX7KDTzdOIy2FrntiyXghA4KyyYT+No5bXVil1+8H22SQB8gzD2qkmjpCZX03Gz2wu+RLuhyVvJC94MXBRj8tKYsBuBJvj6ONrO4",
+        "icono": "https://elcomercio.pe/resizer/AVqHdronbOBCMkYdSYj4zHHM7vU=/620x0/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/JR4SC2WVMBDL5DX7HJ7EDT6W7Y.jpg"
+      },
+      {
+        "name": "parte 6 ",
+        "uri": "QY/9kzfjVQDVkeD6iyv/k32yr5ZcJX7KDTzdOIy2FrntiyXghA4KyyYT+No5bXVi3Dn8Lj0B72cBoJmtxc80EDDwRhJAj7MZ7DBr5gUQ40ZCrA5NCnNRNzAYpwkhUYdX",
+        "icono": "https://elcomercio.pe/resizer/AVqHdronbOBCMkYdSYj4zHHM7vU=/620x0/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/JR4SC2WVMBDL5DX7HJ7EDT6W7Y.jpg"
+      },
+      {
+        "name": "parte 7 ",
+        "uri": "QY/9kzfjVQDVkeD6iyv/k32yr5ZcJX7KDTzdOIy2FrntiyXghA4KyyYT+No5bXVi3P50V9OXbjFRt3o8d5uP/pX03Gz2wu+RLuhyVvJC94MXBRj8tKYsBuBJvj6ONrO4",
+        "icono": "https://elcomercio.pe/resizer/AVqHdronbOBCMkYdSYj4zHHM7vU=/620x0/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/JR4SC2WVMBDL5DX7HJ7EDT6W7Y.jpg"
+      },
+      {
+        "name": "parte 8 ",
+        "uri": "QY/9kzfjVQDVkeD6iyv/k32yr5ZcJX7KDTzdOIy2FrntiyXghA4KyyYT+No5bXViS+FBujBwPByEbmzQyi9+gJX03Gz2wu+RLuhyVvJC94MXBRj8tKYsBuBJvj6ONrO4",
+        "icono": "https://elcomercio.pe/resizer/AVqHdronbOBCMkYdSYj4zHHM7vU=/620x0/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/JR4SC2WVMBDL5DX7HJ7EDT6W7Y.jpg"
       }
     ]
   },
