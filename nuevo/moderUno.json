@@ -33,6 +33,13 @@
         "icono": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1592.png"
       },
       {
+        "name": "Peñarol vs. Torque",
+        "uri": "https://live-ftc-na-south-2.media.starott.com/gru1/qb01/starplus/event/2024/04/17/Pearol_vs_Montevideo_City_20240417_1713390353030/ctr-all-complete.m3u8",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "0lS6RpwxyU+/W+Tk28DFFcXYwx/MW3S3OSnDPKkrrpKL/EsXIhIO9jiaJjmysF6a",
+        "icono": "https://futbollibre.pe/img/logo-starplus.png"
+      },
+      {
         "name": "Cumbay\u00e1 vs. Libertad",
         "uri": "v8vUVcLS4XBAAM3L0k/SVSLUhbDAJKnX3WwlbqXPq2LO6ssdSUl+weND4Qs2vzsXbphRhiRMBpXQwvzg7XjMYHnf6DEs/VrrxvrAYa6ueae1SUbSNAKWFreRb/GpnTtCCdrBjvsc/egFeoBZH9PrkZRSPZW9WhB2wowdH4vzfM/mPcYKIObLWjxjC/cp/WjOg0BFWhBaZtstR4UyaActrw==",
         "drm_scheme": "widevine",
@@ -42,13 +49,6 @@
       {
         "name": "Manchester City vs. Real Madrid",
         "uri": "v8vUVcLS4XBAAM3L0k/SVSLUhbDAJKnX3WwlbqXPq2LO6ssdSUl+weND4Qs2vzsXbphRhiRMBpXQwvzg7XjMYHnf6DEs/VrrxvrAYa6ueacBBVO9NLgIVJQCrt/J7iBW4Lxe3k9EJcMGg4ujkWx9FEsoSrQlwk60lKagJLHYFOrb1WeHxBSKNNtdvny9c00Y3/+ZCN9PXjH0qk414X8v7A==",
-        "drm_scheme": "widevine",
-        "drm_license_uri": "0lS6RpwxyU+/W+Tk28DFFcXYwx/MW3S3OSnDPKkrrpKL/EsXIhIO9jiaJjmysF6a",
-        "icono": "https://futbollibre.pe/img/logo-starplus.png"
-      },
-      {
-        "name": "Peñarol vs. Torque",
-        "uri": "v8vUVcLS4XBAAM3L0k/SVSLUhbDAJKnX3WwlbqXPq2IgzLtNTScF0snc5bl/G4dHis882s7hk5DXfRGzQB27nHnf6DEs/VrrxvrAYa6ueadhdi/4v6lDGLReSzzoMwtDaC6PrCciQdXIJDxw06nQRYFEcdIryhoA0Zw2q53KxHqI2GPKt31gzyP8Z5waHqqNCi6oLZsd+JWbi9mmupz1Sg==",
         "drm_scheme": "widevine",
         "drm_license_uri": "0lS6RpwxyU+/W+Tk28DFFcXYwx/MW3S3OSnDPKkrrpKL/EsXIhIO9jiaJjmysF6a",
         "icono": "https://futbollibre.pe/img/logo-starplus.png"
