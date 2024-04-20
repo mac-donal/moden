@@ -168,6 +168,20 @@
     "name": "⚽ PACK FUTBOL ARGENTINA",
     "samples": [
       {
+        "name": "Estudiantes vs. Barracas Central",
+        "uri": "v8vUVcLS4XBAAM3L0k/SVSLUhbDAJKnX3WwlbqXPq2LO6ssdSUl+weND4Qs2vzsXbphRhiRMBpXQwvzg7XjMYG2LR6BCW6Gu338oTphkEJ9AIJ2NhplyL5pkmiYlJZH0QEDYohLAJBkrLHGx385rd1BuY7ftYqOZhpIssmi3X3nMCIYFemXPtCZ8OFx5aCS/3/+ZCN9PXjH0qk414X8v7A==",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "0lS6RpwxyU+/W+Tk28DFFcXYwx/MW3S3OSnDPKkrrpKL/EsXIhIO9jiaJjmysF6a",
+        "icono": "https://futbollibre.pe/img/logo-starplus.png"
+      },
+      {
+        "name": "Godoy Cruz vs. V\u00e9lez Sarsfield",
+        "uri": "v8vUVcLS4XBAAM3L0k/SVSLUhbDAJKnX3WwlbqXPq2LO6ssdSUl+weND4Qs2vzsXbphRhiRMBpXQwvzg7XjMYG2LR6BCW6Gu338oTphkEJ8H0nNWoeMGVIKhgY2CItz9m/3HYyun3h+MzbFIsF6a2iVMLH9tnb7uNLuoZ2Ks6mTMCIYFemXPtCZ8OFx5aCS/3/+ZCN9PXjH0qk414X8v7A==",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "0lS6RpwxyU+/W+Tk28DFFcXYwx/MW3S3OSnDPKkrrpKL/EsXIhIO9jiaJjmysF6a",
+        "icono": "https://futbollibre.pe/img/logo-starplus.png"
+      },
+      { 
         "name": "TNT SPORT OPC 2",
         "uri": "PiFoloK4zBxLo6GPf/bTShKL4AlwZXfSwZwgQmJiQ8RmXBuqeXlq3KAdZYIwvuJQYnRaiNuka+uzQB7BOkwhFncYlWgENV059oYzUoz88o+940GMpgYRJyTTarhtZ3DEaeOQC5B3HMPhPFrje2g56Q==",
         "drm_scheme": "clearkey",
