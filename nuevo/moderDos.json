@@ -1162,7 +1162,52 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvIBJYcuP+oN31LPu6XTUQmpgwtVSHRS1XFVOwPUxKomcqw9uqI2vDi9F3rKnoFLdwP0ElyTEtAZON0zcD/PyQFQQ3eV6lVOKA31i4G39cNWaueiLb5gmFo57xqeIioeQEA==",
         "icono": "https://static.flow.com.ar/images/vod/vod/350/500/0/0/31523000.jpg"
-     }
+    }
+    ]
+  },
+  {
+    "name": "Kübra (Serie de TV) 2024",
+    "samples": [
+      {
+        "name": "parte 1 ",
+        "uri": "Bxiz1sRKa8YTnDJ4REA2XP1+NhJIpcISjz/xhoT7f5cTb98W0QWdalCQkxOXQL+veWguuxPoDKvRGPUf4WkTPJp7zAk9nRvN8mFVejTEiaKlE4hbMCKG6VM5jlbz1o28kWA3PKufWvwNqF/Yoi8btMRmZag6qSZLUJ/rkis4e06IM4uyCu8IMh3XrYoKJ3JHaTUcF8ulDCiDUsTghT+iLoqr4eX0V0jD8HwI1y+jqiJQ//q0BNsMZ4dFLlSR2ZXSwzwL5K2JGQvoLUHnEgldoD6+R9lDyI/c30DtrBTbqxsxu153Ad3t/1Kjt1s7K4pW",
+        "icono": "https://m.media-amazon.com/images/M/MV5BMjBmMWUxODctYzg1Ny00MDc2LThhMzctYjIyYWM4MDFjNGEzXkEyXkFqcGdeQXVyNjg2MTk3Njk@._V1_.jpg"
+      },
+      {
+        "name": "parte 2 ",
+        "uri": "Bxiz1sRKa8YTnDJ4REA2XP1+NhJIpcISjz/xhoT7f5cTb98W0QWdalCQkxOXQL+veWguuxPoDKvRGPUf4WkTPJp7zAk9nRvN8mFVejTEiaKlE4hbMCKG6VM5jlbz1o28kWA3PKufWvwNqF/Yoi8btMRmZag6qSZLUJ/rkis4e06IM4uyCu8IMh3XrYoKJ3JHK25X7JZOcmXmNB0kXbTHl4qr4eX0V0jD8HwI1y+jqiJQ//q0BNsMZ4dFLlSR2ZXSwzwL5K2JGQvoLUHnEgldoD6+R9lDyI/c30DtrBTbqxsxu153Ad3t/1Kjt1s7K4pW",
+        "icono": "https://m.media-amazon.com/images/M/MV5BMjBmMWUxODctYzg1Ny00MDc2LThhMzctYjIyYWM4MDFjNGEzXkEyXkFqcGdeQXVyNjg2MTk3Njk@._V1_.jpg"
+      },
+      {
+        "name": "parte 3 ",
+        "uri": "Bxiz1sRKa8YTnDJ4REA2XP1+NhJIpcISjz/xhoT7f5cTb98W0QWdalCQkxOXQL+veWguuxPoDKvRGPUf4WkTPJp7zAk9nRvN8mFVejTEiaKlE4hbMCKG6VM5jlbz1o28kWA3PKufWvwNqF/Yoi8btMRmZag6qSZLUJ/rkis4e06IM4uyCu8IMh3XrYoKJ3JHUZdEArkBF9bhH1QPLMQWs4qr4eX0V0jD8HwI1y+jqiJQ//q0BNsMZ4dFLlSR2ZXSwzwL5K2JGQvoLUHnEgldoD6+R9lDyI/c30DtrBTbqxsxu153Ad3t/1Kjt1s7K4pW",
+        "icono": "https://m.media-amazon.com/images/M/MV5BMjBmMWUxODctYzg1Ny00MDc2LThhMzctYjIyYWM4MDFjNGEzXkEyXkFqcGdeQXVyNjg2MTk3Njk@._V1_.jpg"
+      },
+      {
+        "name": "parte 4 ",
+        "uri": "Bxiz1sRKa8YTnDJ4REA2XP1+NhJIpcISjz/xhoT7f5cTb98W0QWdalCQkxOXQL+veWguuxPoDKvRGPUf4WkTPJp7zAk9nRvN8mFVejTEiaKlE4hbMCKG6VM5jlbz1o28kWA3PKufWvwNqF/Yoi8btMRmZag6qSZLUJ/rkis4e06IM4uyCu8IMh3XrYoKJ3JHRBhpzMM7EgyghBk9/l5hV4qr4eX0V0jD8HwI1y+jqiJQ//q0BNsMZ4dFLlSR2ZXSwzwL5K2JGQvoLUHnEgldoD6+R9lDyI/c30DtrBTbqxsxu153Ad3t/1Kjt1s7K4pW",
+        "icono": "https://m.media-amazon.com/images/M/MV5BMjBmMWUxODctYzg1Ny00MDc2LThhMzctYjIyYWM4MDFjNGEzXkEyXkFqcGdeQXVyNjg2MTk3Njk@._V1_.jpg"
+      },
+      {
+        "name": "parte 5 ",
+        "uri": "Bxiz1sRKa8YTnDJ4REA2XP1+NhJIpcISjz/xhoT7f5cTb98W0QWdalCQkxOXQL+veWguuxPoDKvRGPUf4WkTPJp7zAk9nRvN8mFVejTEiaKlE4hbMCKG6VM5jlbz1o28kWA3PKufWvwNqF/Yoi8btMRmZag6qSZLUJ/rkis4e06IM4uyCu8IMh3XrYoKJ3JHxtJQqP2V5iCCnn/IzoUGxIqr4eX0V0jD8HwI1y+jqiJQ//q0BNsMZ4dFLlSR2ZXSwzwL5K2JGQvoLUHnEgldoD6+R9lDyI/c30DtrBTbqxsxu153Ad3t/1Kjt1s7K4pW",
+        "icono": "https://m.media-amazon.com/images/M/MV5BMjBmMWUxODctYzg1Ny00MDc2LThhMzctYjIyYWM4MDFjNGEzXkEyXkFqcGdeQXVyNjg2MTk3Njk@._V1_.jpg"
+      },
+      {
+        "name": "parte 6 ",
+        "uri": "Bxiz1sRKa8YTnDJ4REA2XP1+NhJIpcISjz/xhoT7f5cTb98W0QWdalCQkxOXQL+veWguuxPoDKvRGPUf4WkTPJp7zAk9nRvN8mFVejTEiaKlE4hbMCKG6VM5jlbz1o28kWA3PKufWvwNqF/Yoi8btMRmZag6qSZLUJ/rkis4e06IM4uyCu8IMh3XrYoKJ3JHiIG5KuEUNqYd1iB+9C0Yboqr4eX0V0jD8HwI1y+jqiJQ//q0BNsMZ4dFLlSR2ZXSwzwL5K2JGQvoLUHnEgldoD6+R9lDyI/c30DtrBTbqxsxu153Ad3t/1Kjt1s7K4pW",
+        "icono": "https://m.media-amazon.com/images/M/MV5BMjBmMWUxODctYzg1Ny00MDc2LThhMzctYjIyYWM4MDFjNGEzXkEyXkFqcGdeQXVyNjg2MTk3Njk@._V1_.jpg"
+      },
+      {
+        "name": "parte 7 ",
+        "uri": "Bxiz1sRKa8YTnDJ4REA2XP1+NhJIpcISjz/xhoT7f5cTb98W0QWdalCQkxOXQL+veWguuxPoDKvRGPUf4WkTPJp7zAk9nRvN8mFVejTEiaKlE4hbMCKG6VM5jlbz1o28kWA3PKufWvwNqF/Yoi8btMRmZag6qSZLUJ/rkis4e06IM4uyCu8IMh3XrYoKJ3JHB75Hqc4MyoTbDrhgXnPkT4qr4eX0V0jD8HwI1y+jqiJQ//q0BNsMZ4dFLlSR2ZXSwzwL5K2JGQvoLUHnEgldoD6+R9lDyI/c30DtrBTbqxsxu153Ad3t/1Kjt1s7K4pW",
+        "icono": "https://m.media-amazon.com/images/M/MV5BMjBmMWUxODctYzg1Ny00MDc2LThhMzctYjIyYWM4MDFjNGEzXkEyXkFqcGdeQXVyNjg2MTk3Njk@._V1_.jpg"
+	   },
+     {
+        "name": "parte 8 ",
+        "uri": "Bxiz1sRKa8YTnDJ4REA2XP1+NhJIpcISjz/xhoT7f5cTb98W0QWdalCQkxOXQL+veWguuxPoDKvRGPUf4WkTPJp7zAk9nRvN8mFVejTEiaKlE4hbMCKG6VM5jlbz1o28kWA3PKufWvwNqF/Yoi8btMRmZag6qSZLUJ/rkis4e06IM4uyCu8IMh3XrYoKJ3JHh/MLgcZD5vSm2j+nPhsv0Iqr4eX0V0jD8HwI1y+jqiJQ//q0BNsMZ4dFLlSR2ZXSwzwL5K2JGQvoLUHnEgldoD6+R9lDyI/c30DtrBTbqxsxu153Ad3t/1Kjt1s7K4pW",
+        "icono": "https://m.media-amazon.com/images/M/MV5BMjBmMWUxODctYzg1Ny00MDc2LThhMzctYjIyYWM4MDFjNGEzXkEyXkFqcGdeQXVyNjg2MTk3Njk@._V1_.jpg"
+      }
     ]
   },
   {
