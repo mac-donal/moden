@@ -26,23 +26,6 @@
         "name": "LIGA URUGUAYA",
         "uri": "F3JUJfZ/FwBCK3tW6+FDPuZIXT8FT3q22MUuVShntTq0X0AGMC8j4WnYL6lkAYP6m4P6fkG/vzI+8VIDLQE+FQ==",
         "icono": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1592.png"
-      },
-      {
-        "name": "River Plate vs. Progreso",
-        "uri": "v8vUVcLS4XBAAM3L0k/SVSLUhbDAJKnX3WwlbqXPq2IgzLtNTScF0snc5bl/G4dHis882s7hk5DXfRGzQB27nG2LR6BCW6Gu338oTphkEJ/YOddJ7vBTZVINOma/Ap+1bn/DTn58CThRoc28JKaGUr36yWxePFbv6AgvOT3j97F8vCNYlA34kABvO+eGrrqZ3/+ZCN9PXjH0qk414X8v7A==",
-        "drm_scheme": "widevine",
-        "drm_license_uri": "0lS6RpwxyU+/W+Tk28DFFcXYwx/MW3S3OSnDPKkrrpKL/EsXIhIO9jiaJjmysF6a",
-        "icono": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1592.png"
-      },
-      {
-        "name": "real Madrid vs Barcelona",
-        "uri": "mVE56NMbim3ctrsycTCxiD5Ef6ZibPXV184s8K6hhbUsIBMpNjIV75ELxYldgARr",
-        "icono": "https://i.ytimg.com/vi/ROknjQUBtBw/maxresdefault.jpg"
-       },
-      {
-        "name": "real Madrid vs Barcelona",
-        "uri": "DY0o2S9RvLCH7gsg21jrfQeUmpbQm6nnnj43FM0cByNLjedx6gTWkq8Na4YVKpPw",
-        "icono": "https://i.ytimg.com/vi/ROknjQUBtBw/maxresdefault.jpg"
       }
     ]
   },
@@ -134,32 +117,6 @@
   {
     "name": "⚽ PACK FUTBOL ARGENTINA",
     "samples": [
-      {
-        "name": "River Plate vs. Boca Juniors",
-        "uri": "PiFoloK4zBxLo6GPf/bTShKL4AlwZXfSwZwgQmJiQ8RmXBuqeXlq3KAdZYIwvuJQYnRaiNuka+uzQB7BOkwhFncYlWgENV059oYzUoz88o+940GMpgYRJyTTarhtZ3DEaeOQC5B3HMPhPFrje2g56Q==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvEpW6BhZ/Nkg2EAOATMINVhel1jKITWwDKVGHXcqnvVTgpQ0vlnJLUxZMjWW2YoXkI7fEeHljSq27jUb1eaA1FFoSPIu/650/dCmU2lx5oR//nYx02Xp+9tm9LV3P0Qy2A==",
-        "icono": "https://i.ytimg.com/vi/ROknjQUBtBw/maxresdefault.jpg"
-      },
-      {
-        "name": "River Plate vs. Boca Juniors 2",
-        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmJ3saV3TPVI5/62bYasmVXbg8+yd4Sxm4uSmVlt7LAJ5LeafC1dbjrsw2+4w9DNLG69tgDN7wtZhPwr0LZuOiq0Rzw50+xaXoPmuKndYAn/lg==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvNSh+Jwg6+9GSjrvdpMfxRk9saQEO8/wEamMOuCk7PhCtVBjHqjV49RfYSex7iVfV+n+Jdu+HpKbQlgmxxE8AcuJolTXGRwH0JgHoshXmF6wpsbiYUeU5D26CwGEr6Lbiw==",
-        "icono": "https://i.ytimg.com/vi/ROknjQUBtBw/maxresdefault.jpg"
-      },
-      {
-        "name": "River Plate vs. Boca Juniors opc 3",
-        "uri": "F3JUJfZ/FwBCK3tW6+FDPuZIXT8FT3q22MUuVShntTq0X0AGMC8j4WnYL6lkAYP6m4P6fkG/vzI+8VIDLQE+FQ==",
-        "icono": "https://i.ytimg.com/vi/ROknjQUBtBw/maxresdefault.jpg"
-      },
-      {
-        "name": "River Plate vs. Boca Juniors opc 4",
-        "uri": "v8vUVcLS4XBAAM3L0k/SVSLUhbDAJKnX3WwlbqXPq2LO6ssdSUl+weND4Qs2vzsXbphRhiRMBpXQwvzg7XjMYG2LR6BCW6Gu338oTphkEJ8BXE59ZjdkeDfncpjTkZBLSQblcGrKv3uWYOf4N8xELC1njeQWdyOvC6Qbcbix6DC4PEWoDscDO4582u2Fcaty4mKz6ggopcfhA8wls4qWzPiF521rn9WweX5G1EQQjq4=",
-        "drm_scheme": "widevine",
-        "drm_license_uri": "0lS6RpwxyU+/W+Tk28DFFcXYwx/MW3S3OSnDPKkrrpKL/EsXIhIO9jiaJjmysF6a",
-        "icono": "https://i.ytimg.com/vi/ROknjQUBtBw/maxresdefault.jpg"
-      },
       {
         "name": "TNT SPORT",
         "uri": "PiFoloK4zBxLo6GPf/bTShKL4AlwZXfSwZwgQmJiQ8RmXBuqeXlq3KAdZYIwvuJQYnRaiNuka+uzQB7BOkwhFncYlWgENV059oYzUoz88o+940GMpgYRJyTTarhtZ3DEaeOQC5B3HMPhPFrje2g56Q==",
