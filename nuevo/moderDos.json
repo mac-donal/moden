@@ -1172,7 +1172,52 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvIBJYcuP+oN31LPu6XTUQmpgwtVSHRS1XFVOwPUxKomcqw9uqI2vDi9F3rKnoFLdwP0ElyTEtAZON0zcD/PyQFQQ3eV6lVOKA31i4G39cNWaueiLb5gmFo57xqeIioeQEA==",
         "icono": "https://static.flow.com.ar/images/vod/vod/350/500/0/0/31523000.jpg"
-    }
+     }
+    ]
+  },
+  {
+    "name": "La paradoja del asesino (Serie de TV) 2024",
+    "samples": [
+      {
+        "name": "parte 1 ",
+        "uri": "Bxiz1sRKa8YTnDJ4REA2XIqGgEXLGDtLdg3MQq63SGn1S8jW6H9GFD4trLiQZcmZqZlT2yv5P/d5MQi8o1PyQ2PtL41IbYyBjDCSsWtofqk30b8gPwJsThEgQJHLGbxdrMbB7ldQYfuW5ZxyRJMFDXgzEPPTCq342zbfsiiQjA/MfAOOKpypF6h0u8+u2ry5KN1ng6pMSfbirRXei0W3yj/TirU5KVWJqVWLOjNKr7I=",
+        "icono": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR3s3r4FfgVtlIPirAVTRuhVhEMP7RpIG2-U3yw5yT2kLbjNQIe"
+      },
+      {
+        "name": "parte 2 ",
+        "uri": "Bxiz1sRKa8YTnDJ4REA2XIqGgEXLGDtLdg3MQq63SGn1S8jW6H9GFD4trLiQZcmZqZlT2yv5P/d5MQi8o1PyQ2PtL41IbYyBjDCSsWtofqk30b8gPwJsThEgQJHLGbxdrMbB7ldQYfuW5ZxyRJMFDUJDlfh+MCKRGk3erPBZay3MfAOOKpypF6h0u8+u2ry5KN1ng6pMSfbirRXei0W3yj/TirU5KVWJqVWLOjNKr7I=",
+        "icono": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR3s3r4FfgVtlIPirAVTRuhVhEMP7RpIG2-U3yw5yT2kLbjNQIe"
+      },
+      {
+        "name": "parte 3 ",
+        "uri": "Bxiz1sRKa8YTnDJ4REA2XIqGgEXLGDtLdg3MQq63SGn1S8jW6H9GFD4trLiQZcmZqZlT2yv5P/d5MQi8o1PyQ2PtL41IbYyBjDCSsWtofqk30b8gPwJsThEgQJHLGbxdrMbB7ldQYfuW5ZxyRJMFDTEd9GcS1xeUvbFtKD5DmFrMfAOOKpypF6h0u8+u2ry5KN1ng6pMSfbirRXei0W3yj/TirU5KVWJqVWLOjNKr7I=",
+        "icono": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR3s3r4FfgVtlIPirAVTRuhVhEMP7RpIG2-U3yw5yT2kLbjNQIe"
+      },
+      {
+        "name": "parte 4 ",
+        "uri": "Bxiz1sRKa8YTnDJ4REA2XIqGgEXLGDtLdg3MQq63SGn1S8jW6H9GFD4trLiQZcmZqZlT2yv5P/d5MQi8o1PyQ2PtL41IbYyBjDCSsWtofqk30b8gPwJsThEgQJHLGbxdrMbB7ldQYfuW5ZxyRJMFDSuvDhEYjx/KfqZfcRrXVn7MfAOOKpypF6h0u8+u2ry5KN1ng6pMSfbirRXei0W3yj/TirU5KVWJqVWLOjNKr7I=",
+        "icono": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR3s3r4FfgVtlIPirAVTRuhVhEMP7RpIG2-U3yw5yT2kLbjNQIe"
+      },
+      {
+        "name": "parte 5 ",
+        "uri": "Bxiz1sRKa8YTnDJ4REA2XIqGgEXLGDtLdg3MQq63SGn1S8jW6H9GFD4trLiQZcmZqZlT2yv5P/d5MQi8o1PyQ2PtL41IbYyBjDCSsWtofqk30b8gPwJsThEgQJHLGbxdrMbB7ldQYfuW5ZxyRJMFDfzZXUnPnV7c6HQ577qfJsXMfAOOKpypF6h0u8+u2ry5KN1ng6pMSfbirRXei0W3yj/TirU5KVWJqVWLOjNKr7I=",
+        "icono": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR3s3r4FfgVtlIPirAVTRuhVhEMP7RpIG2-U3yw5yT2kLbjNQIe"
+      },
+      {
+        "name": "parte 6 ",
+        "uri": "Bxiz1sRKa8YTnDJ4REA2XIqGgEXLGDtLdg3MQq63SGn1S8jW6H9GFD4trLiQZcmZqZlT2yv5P/d5MQi8o1PyQ2PtL41IbYyBjDCSsWtofqk30b8gPwJsThEgQJHLGbxdrMbB7ldQYfuW5ZxyRJMFDa76yyuFNvs/YDq3LmN0R7TMfAOOKpypF6h0u8+u2ry5KN1ng6pMSfbirRXei0W3yj/TirU5KVWJqVWLOjNKr7I=",
+        "icono": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR3s3r4FfgVtlIPirAVTRuhVhEMP7RpIG2-U3yw5yT2kLbjNQIe"
+      },
+      {
+        "name": "parte 7 ",
+        "uri": "Bxiz1sRKa8YTnDJ4REA2XIqGgEXLGDtLdg3MQq63SGn1S8jW6H9GFD4trLiQZcmZqZlT2yv5P/d5MQi8o1PyQ2PtL41IbYyBjDCSsWtofqk30b8gPwJsThEgQJHLGbxdrMbB7ldQYfuW5ZxyRJMFDdFE+uQUwLjsIB925Se0yCjMfAOOKpypF6h0u8+u2ry5KN1ng6pMSfbirRXei0W3yj/TirU5KVWJqVWLOjNKr7I=",
+        "icono": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR3s3r4FfgVtlIPirAVTRuhVhEMP7RpIG2-U3yw5yT2kLbjNQIe"
+      },
+      {
+        "name": "parte 8 ",
+        "uri": "Bxiz1sRKa8YTnDJ4REA2XIqGgEXLGDtLdg3MQq63SGn1S8jW6H9GFD4trLiQZcmZqZlT2yv5P/d5MQi8o1PyQ2PtL41IbYyBjDCSsWtofqk30b8gPwJsThEgQJHLGbxdrMbB7ldQYfuW5ZxyRJMFDfiOND20SSU1yaa++XZ+YPbMfAOOKpypF6h0u8+u2ry5KN1ng6pMSfbirRXei0W3yj/TirU5KVWJqVWLOjNKr7I=",
+        "icono": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR3s3r4FfgVtlIPirAVTRuhVhEMP7RpIG2-U3yw5yT2kLbjNQIe"
+      }
     ]
   },
   {
