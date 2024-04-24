@@ -160,6 +160,11 @@
     "name": "⚽ PACK FUTBOL ARGENTINA",
     "samples": [
       {
+        "name": "Coquimbo Unido vs. Racing Club",
+        "uri": "F3JUJfZ/FwBCK3tW6+FDPuZIXT8FT3q22MUuVShntTq0X0AGMC8j4WnYL6lkAYP6m4P6fkG/vzI+8VIDLQE+FQ==",
+        "icono": "https://www.ole.com.ar/images/2024/04/16/vjxlp4mLYx_1580x750__1.jpg"
+      },
+      {
         "name": "TNT SPORT",
         "uri": "PiFoloK4zBxLo6GPf/bTShKL4AlwZXfSwZwgQmJiQ8RmXBuqeXlq3KAdZYIwvuJQYnRaiNuka+uzQB7BOkwhFncYlWgENV059oYzUoz88o+940GMpgYRJyTTarhtZ3DEaeOQC5B3HMPhPFrje2g56Q==",
         "drm_scheme": "clearkey",
