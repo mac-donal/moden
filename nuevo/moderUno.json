@@ -3034,10 +3034,17 @@
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1200px-Htv_logo.svg.png"
       },
       {
+        "name": " CanalLuz ",
+        "uri": "x/xWkNrovMYmGeIV76G4pOWzEePFvZC2/a11JIOm1xJDGOqEAnYYEMFPCMc4ifMpZW9k3vaB6ggHQtDQpYrDm2s6qUYNnh5Zh8bCzNMojQZp45ALkHccw+E8WuN7aDnp",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "Ye6hKDznXXGTKOm2LtaO9vRHDvS79/4dFsG0xt/BVg5MUMwrjA1onSYaH01JRlZG",
+        "icono": "https://www.coicom.com/wp-content/uploads/2022/08/Canal-Luz-2022.jpg"
+      },
+      {
         "name": "ts756",
         "uri": "yCNk5k720pqjqSipKpqYKcnsvlJHe/soWdzSekhICgk/mTICIi5cwbwq/vwuQ4Z2XDGoGEjBwgp0FZhwFekr1qkrKHkoz7XbuAEGzCBZr7k=",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvPLWYcv3RiEnqTsRj0zmqO8k/MexpKvAVp8H3i9lF0J9dDrlSkbZNulGIm/5hFh8+eKKam8u7WjvmLWgIOKysJiWM2CR6ztp4hy1RMVZJW3ouxayEcWORN4TkqcU0thvag==",
+        "drm_license_uri": "Ye6hKDznXXGTKOm2LtaO9vRHDvS79/4dFsG0xt/BVg5MUMwrjA1onSYaH01JRlZG",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1200px-Htv_logo.svg.png"
       }
     ]
