@@ -635,6 +635,11 @@
     "name": "🇦🇷 ARGENTINA",
     "samples": [
       {
+        "name": "G H TELEFE",
+        "uri": "SSIdEJyRgZyZDG/GD+b9RWN/XfRCDdGO0o9fHp6FaXI6lu3e187whZcILpIcM5+bWiviQCOd5Pt+DfidiUUOihm5n5Ua5kvOFGPt/JPXpUvypUMYtZJh1r3INyjEy+NA",
+        "icono": "https://i.ibb.co/NyvdPGp/granhermano.jpg"
+      },
+      {
         "name": "TELEFE",
         "uri": "LX46EnLWmPsTQWzzE5C2pN8578AuYU8BaXP63OyHIHVz1ZzaOmfr58dAcdKDqlXD3zxFnUQ5EMFlCpCx0p3If1EDbCJGcjGg6FnFCLaeBCl+UEZ3heEI6NEm/9rw8LsY",
         "drm_scheme": "clearkey",
