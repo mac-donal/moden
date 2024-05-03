@@ -161,6 +161,21 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "TQSPBT5fFAmrHLJIeXbfedDUWvSmPfL8M7ABGZETTOgq6eG0eG/6KfI+viGgA9GQdyACVJkYxVw30YI4COVYM7Ru++PUOxta6w8Ws4kd5iUJSRKt2+GOn4R7XDpHth9TqbG4fpDUJkmWybSNaSeMUA==",
         "icono": "https://i.ibb.co/DQVCfDv/channels4-profile-2.jpg"
+	    },
+      {
+        "name": "DIRECTV SPORTS",
+        "uri": "cX6k/BqWAA7QMYsGN4vPzLorcbPtxPY9z7Jwx38V2ii23yH/qz0+/2V3LxLQeesINJ1MuMKH4Dyi5mNP8oFeMXGMRuXqy3Cs+KZXtzxi2Ig=",
+        "icono": "https://i.ibb.co/rp0rp5k/Direc-TV-Sports.png"
+      },
+      {
+        "name": "DIRECTV SPORTS 2",
+        "uri": "cX6k/BqWAA7QMYsGN4vPzLorcbPtxPY9z7Jwx38V2ii23yH/qz0+/2V3LxLQeesINJ1MuMKH4Dyi5mNP8oFeMRV4Jm8igo91QYhhVlgveiw=",
+        "icono": "https://i.ibb.co/fq7hDfV/Direc-TV-Sports-2.png"
+      },
+      {
+        "name": "DIRECTV SPORTS PLUS",
+        "uri": "cX6k/BqWAA7QMYsGN4vPzLorcbPtxPY9z7Jwx38V2ii23yH/qz0+/2V3LxLQeesINJ1MuMKH4Dyi5mNP8oFeMVuY926eVuWM7+jk/JACIz0=",
+        "icono": "https://i.ibb.co/FWN7wFQ/Direc-TV-Sports-Plus.png"
       },
       {
         "name": "TUDN (MX)",
