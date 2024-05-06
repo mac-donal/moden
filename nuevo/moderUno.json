@@ -16,18 +16,6 @@
         "name": "⚽️MLS ",
          "uri": "artPRaWhxdj12Nq+OU1BnmLWhZgrOrwCMFYOrZGIcE6ohSg+hHZS0gQqNazGnUwbYKMdN9hI6Hn48ski9FiQkyIT3yhdl2JzflKta4M2hBc=",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/MLS_crest_logo_RGB_-_Inter_Miami_CF.svg/969px-MLS_crest_logo_RGB_-_Inter_Miami_CF.svg.png"
-      },
-      {
-        "name": " canelo",
-        "uri": "ejOC8mhnKkUdiM7e04joc9S9H44/OOyhFeCdEVvacGmFXLEUCNyrCooKyt4HF20cxVC2H9gH/nX6r5eDn7HicowmyyQSGlNXvYQbq2ww00E=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvIfMT+GpLhhxs0cnFdCTtFDcTYNOkObyQ82VnfWF21+AMy1ynRySIIIcLvZpxzLTPiiCP6tIhE06AF0Yj9Y3cXlaZHhuQP3PmMjsApMomfWNvTHIrUV/EgtGXGChh04imA==",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/MLS_crest_logo_RGB_-_Inter_Miami_CF.svg/969px-MLS_crest_logo_RGB_-_Inter_Miami_CF.svg.png"
-      },
-      {
-        "name": "TIGO GUATEMALA",
-        "uri": "AXiQ0+VV49rbi9Ejv2Al2kUiUlfFUF5+gChkvTAOK12rTYN65L+6B1vpFeudKTE+K6RtpyLxHdzMnELb1e9a0JRgGSBR6+7NLD1u67DaGCM=",
-        "icono": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/8e/4f/7c/8e4f7ce7-727e-d147-3a61-abe7c8fd6192/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/460x0w.png"
       }
     ]
   },
@@ -48,6 +36,13 @@
         "name": "DW: ACTUALIDAD",
         "uri": "Qf5eBSeQqsi70omJTrO17oDI0hT53hs6O+JQ5ki13pYNVBVlg19OflgsxrpYS+V3mwqPpfLFWLJp4mRsuJL2Ivte5t7NJBVAGiktqdNu7QqRCbg0CVFjja468O0Ww5q/",
         "icono": "https://www.infobae.com/new-resizer/_oR7hsVt9U6Qe8eVIHFocJ_iznQ=/992x992/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/LPNB3QLSPVE7JGHYNDXJBD4GAE.jpg"
+      },
+      {
+        "name": "TVE",
+        "uri": "ejOC8mhnKkUdiM7e04joc9S9H44/OOyhFeCdEVvacGmFXLEUCNyrCooKyt4HF20cxVC2H9gH/nX6r5eDn7HicowmyyQSGlNXvYQbq2ww00E=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvIfMT+GpLhhxs0cnFdCTtFDcTYNOkObyQ82VnfWF21+AMy1ynRySIIIcLvZpxzLTPiiCP6tIhE06AF0Yj9Y3cXlaZHhuQP3PmMjsApMomfWNvTHIrUV/EgtGXGChh04imA==",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/1200px-Logo_TVE-Internacional.svg.png"
       },
       {
         "name": "CNN ESP",
