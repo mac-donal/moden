@@ -38,11 +38,18 @@
         "icono": "https://www.infobae.com/new-resizer/_oR7hsVt9U6Qe8eVIHFocJ_iznQ=/992x992/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/LPNB3QLSPVE7JGHYNDXJBD4GAE.jpg"
       },
       {
-        "name": "TVE",
+        "name": "TV ESPAÑA",
+        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmLbqu2BXNJwhWhdErCLPSniVBpzzizGJZnnFMuJ7SCHW9YFXt0JamwKmg/FRjn9UYfZX/xyNpfAN9q+LD+RRZZu",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvGTUpDQIWM4id40UFHpn+yqaAHxeJx7H9i5GDCT6EYjd9cZ5ErsJoNAzVMibfOe50HANv67STwJi9q0KEmvym09LbjhWLi3685Pzd/qM2C/3UoUopTzvYZTo/taKk+v6Ag==",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TVE.svg/800px-TVE.svg.png"
+      },
+      {
+        "name": "RTVE",
         "uri": "ejOC8mhnKkUdiM7e04joc9S9H44/OOyhFeCdEVvacGmFXLEUCNyrCooKyt4HF20cxVC2H9gH/nX6r5eDn7HicowmyyQSGlNXvYQbq2ww00E=",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvIfMT+GpLhhxs0cnFdCTtFDcTYNOkObyQ82VnfWF21+AMy1ynRySIIIcLvZpxzLTPiiCP6tIhE06AF0Yj9Y3cXlaZHhuQP3PmMjsApMomfWNvTHIrUV/EgtGXGChh04imA==",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/1200px-Logo_TVE-Internacional.svg.png"
+        "icono": "https://yt3.googleusercontent.com/ytc/AIdro_kbUogYAMt4zNR7yq8JAh5DfwnDLaFhXqPOVzjXwWjJBm4=s900-c-k-c0x00ffffff-no-rj"
       },
       {
         "name": "CNN ESP",
