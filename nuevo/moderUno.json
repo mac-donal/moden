@@ -867,6 +867,20 @@
         "icono": "https://play-lh.googleusercontent.com/-PKExuOlYu5MTFNI6avFdwDyAkU58ipz2NSp3U6w7Ii1RWmahAybkwgddctHeZFk2Q"
       },
       {
+        "name": "SOMOS SALTA",
+        "uri": "kLzT+cququRriT9kOdZAbLuPtqzMT0qIkYh8yAG147AIVlBgd9B0dJsJFhPunhQQ5nJ0aSYghwIL6w2uBqhOICToDAHYTPBrflQVdhkaH8aQiQrreV2hrhBUZwLuCSNi",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvJatlatHcjvn2MXNE7lizn0sbNQ4mwNl5BcDvO8Su042pmB9xjunIKYsJBmdf4WRBwhd68d99QoFEPDA+k34S1t1WnKSFtAeTXleA02760qp4E8dqZ8tQxZw/CDx4aGvTg==",
+        "icono": "https://i.ibb.co/qnXjFGd/somos-salta.png"
+      },
+      {
+        "name": "CANAL C ARG",
+        "uri": "kLzT+cququRriT9kOdZAbLuPtqzMT0qIkYh8yAG147CwOLD/T3M5qMbBAjPBMwjSR8mDVMycLVSECjgdZcc3K88vrzlnKefIolwJNi5ywSQ=",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "TKTvsoxXqhUPckfmw9KaJ1BJjz5Qp1hMqmbGpmW/pKbPYoF5piKrK9Fr9acRoNv5DCvFlNGMVrQSxvUa5G8dtMU/rP5LeR2bGUb23pzbGKke/c5x2BZfsl1uS5xjiJvV",
+        "icono": "https://i.ibb.co/F6bXsYs/canal-c.png"
+      },
+      {
         "name": "EL 8 TUCUMAN",
         "uri": "hgyLEf1obfi7e+6+kI5AQbwUdREYZArH4PwL1nSbyW0qHb1tjShzSe4O8k8lIc79pKz+FpbfWp7de5N7932HeLRX8r/eQaztuHy3rw3c0l3YJI+r+4srZnbOFswlSxuA",
         "drm_scheme": "clearkey",
