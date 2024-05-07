@@ -3,7 +3,12 @@
     "name": "PELICULAS RECIEN AGREGADAS",
     "samples": [
       {
-	"name": "AQUAMAN 2 2024",
+        "name": "AQUAMAN 2 2024",
+        "uri": "5noj75susS1ViuBglqH1ak9ta5zICWr28tMTDU3st70na02ImJHewRtX3JWFgrjX+WamBU/H7lgrBCC/kakacgNAjO6uq7dxXHfxZ20+jpA=",
+        "icono": "https://sm.ign.com/t/ign_es/movie/a/aquaman-1/aquaman-1_y9wr.300.jpg"
+      },
+      {         
+	"name": "AQUAMAN 2 2024 OPC 2",
         "uri": "cNmj+gJpC7ekEgU4H5ewku/Hc6YLSWuyISsocradGTZkY6LpO1/HtvKxJRhjkTtmqjiMDdS9TIZJmqcnKIDHjQ==",
         "icono": "https://sm.ign.com/t/ign_es/movie/a/aquaman-1/aquaman-1_y9wr.300.jpg"
       },
