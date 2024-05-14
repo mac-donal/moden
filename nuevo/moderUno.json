@@ -1777,7 +1777,7 @@
   {
     "name": "🍿 SERIES ANIMADAS 24/7",
     "samples": [
-      {
+      {    
         "name": "Adult Swim",
         "uri": "KusJ5ShfomSLrFIJxHev/tLfRy3Xhd+oME43Te40Gt56mJt29B/oqSANh0rphCn6agycfZsKmmBZEJIYW4LlJ5SwIKDOqM1amlpITvPpVaw6+Ps12v/QFWUHyxS4MxAm",
         "drm_scheme": "clearkey",
@@ -2338,6 +2338,11 @@
         "icono": "https://images.pluto.tv/channels/5e793a7cfbdf780007f7eb75/colorLogoPNG.png"
       },
       {
+        "name": "Mac Gyver",
+        "uri": "7REUD0PgpH9fPxJEPTLfjq9xSSMbFftUgGW9LLGUMu6DgKVZMl2t76eoOYmK05tmbxSnuol6edrjfIHCYmtHLw==",
+        "icono": "https://images.pluto.tv/channels/63eb95baa99571000898a078/colorLogoPNG.png"
+      },
+      {       
         "name": "Pluto TV Star Trek",
         "uri": "psaYwdVcQdINxjjYiBwoBs7aHxCH9Yyhs9CntfejWWMBOhyGyDkwEXQvDUVIJzgjiWZJAX8CZ6vIonllLxCN9pnwijkJoDxyU/5bB4SZ2Ej0ygMKSHnIlx8pq1ywgBPd564LSSqsSDeJRw6UmzxbB5CYQicH3Q6N87s4ZfqhwP1pDycAM347UhVTwzbnI7+YY9Bg7z/VFXJXqoqslxmcLhBEP27A8tHrowCKvA5kRif81i03y4RnxDaT3CFIojYfjU+Kwqf5lXF2ugKcPyV2j1FJLlPOySsyvAfEdKmb6RnXbIyU6uatc1YCD+4+jHywSfZgDdvPRDJ3MQMyy7CX9w==",
         "icono": "https://images.pluto.tv/channels/5ec5761aabe4690007f6e047/colorLogoPNG.png"
