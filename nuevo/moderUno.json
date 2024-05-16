@@ -179,6 +179,11 @@
     "name": "⚽ PACK FUTBOL ARGENTINA",
     "samples": [
       {  
+	"name": "Racing vs Coquimbo Unido",
+        "uri": "WaI57VB80PbWPyTqBvuR4pIaEuGvS0MktNKhICGk0ukowLXHL3g0Ao34a5QY0VB6",
+        "icono": "https://elcrackdeportivo.com.ar/__export/1713819780281/sites/elcrackdeportivo/img/2024/04/22/racing-coquimbo-unido.jpg_577958938.jpg"
+      },
+      {      
         "name": "TNT SPORT",
         "uri": "PiFoloK4zBxLo6GPf/bTShKL4AlwZXfSwZwgQmJiQ8RmXBuqeXlq3KAdZYIwvuJQYnRaiNuka+uzQB7BOkwhFncYlWgENV059oYzUoz88o+940GMpgYRJyTTarhtZ3DEaeOQC5B3HMPhPFrje2g56Q==",
         "drm_scheme": "clearkey",
