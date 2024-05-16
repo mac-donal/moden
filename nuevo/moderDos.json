@@ -2,7 +2,12 @@
   {
     "name": "PELICULAS RECIEN AGREGADAS",
     "samples": [
-      {     
+      {  
+	"name": "Jaque Mate (2024)",
+        "uri": "Bxiz1sRKa8YTnDJ4REA2XD4fbo9GSU5PpGp5kMQPxN8AulSCfQThMuxYRNyp97hEmb8yywtMPB5+0yNzirENyJ7AeWnfuClAPS43/9RUOqLTmJE7ovcgoSArLKtkv4jqAq/rz2HrK7APG7sHRs/OJjUtjBiR+Q+QhNYkEUxwrr14xPxeD9U4GumZFjBDGEw0xB8uujYdptVQSPnt23ea4w==",
+        "icono": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBH5m5jcijeuWsUeJfTTwZWXpRH0sDeL1vgnURQGZK_auKz05mX5-f1bhDQf_bDqQXAWEjgInuGLzHrENopY-ihMcfE3lm9cHE1qljHG7F14-se8G0p4Vxcku6foYOrMqOrLgi6RIapaCmuEUsdWjniF2x1t1jnew6eD3oBiG7sr5mxKOeg57du2K80oc/s320/gdfgdfgdfg.jpg"      
+      },
+      {      
 	"name": "El arca de Noé (2024) Animación",
         "uri": "Bxiz1sRKa8YTnDJ4REA2XA3T8mS5fgdIErVIKOL4Ohp8bVRxnK+ZVLl2aCcqCTBYGJ+RhkhWKlrAB0Zr4aby+lD/+rQE2wxnh0UuVJHZldLDPAvkrYkZC+gtQecSCV2g5snU1Ucra3wrmZ+V0KlAfqUyRC+VjlyCZP/H6bRdNmlgSuQqsD0giPjUBYFyLzvUm+dNO1uJdXU6zZoLvzlJxy91G5LTPOvOdzkcJI6fsiY=",
         "icono": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR9DuwzqhZELs3PpbOuvXS0McltsP451sBdFqtnAnpaNwN9ThJQ"      
