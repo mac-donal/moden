@@ -2,7 +2,7 @@
   {
     "name": "PELICULAS RECIEN AGREGADAS",
     "samples": [
-      {
+      {     
 	"name": "El arca de Noé (2024) Animación",
         "uri": "Bxiz1sRKa8YTnDJ4REA2XA3T8mS5fgdIErVIKOL4Ohp8bVRxnK+ZVLl2aCcqCTBYGJ+RhkhWKlrAB0Zr4aby+lD/+rQE2wxnh0UuVJHZldLDPAvkrYkZC+gtQecSCV2g5snU1Ucra3wrmZ+V0KlAfqUyRC+VjlyCZP/H6bRdNmlgSuQqsD0giPjUBYFyLzvUm+dNO1uJdXU6zZoLvzlJxy91G5LTPOvOdzkcJI6fsiY=",
         "icono": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR9DuwzqhZELs3PpbOuvXS0McltsP451sBdFqtnAnpaNwN9ThJQ"      
@@ -32,7 +32,12 @@
         "uri": "Bxiz1sRKa8YTnDJ4REA2XN2aDCp4uveUmfds8HO/6isV7KjrqlV0punJ9s3oMBdNbYW/9Xb+ggnBCfTMI7n/2hQhxRH7Wsf/bntjE3fWJKpDitELGtQegHVfqeLvx/l6garDN8Dt7ibRjSyOaXT1el1tyoOFCDF8OkiHN+6Bl8KFQpWOTFV0CoRa2YbKkv8uUP/6tATbDGeHRS5UkdmV0sM8C+StiRkL6C1B5xIJXaDN9rTGsRjNyNztskhz+sGt",
         "icono": "https://prensaeventos.cl/wp-content/uploads/2024/04/fvdf.jpg"
       },
-      {      
+      { 
+        "name": "Arthur: Una amistad sin límites (2024)",
+        "uri": "Bxiz1sRKa8YTnDJ4REA2XOFdZ+IZLyqsNkcfBN66gR5+lC5PdCIZNio+tKohZOpenAR1MxiIZ7ZVyJxalSp51L6NUBd++K24vlHRpXuf+KSqtf/A0QjEWswRaWSoz3iuVsdJ/Y++feBvGF7rNE+fb5n9b3pAnKxsgGsUeonabF7W1jg6T9JrNxf+LlEkbqOsfJlbPgopvzwlOWZapfI9NSeUiWsPknk2+PdJF/kNccXd6IeR9o02Oi8V6yH5qNWS8xOks0NCFUCXFKFXSUYd+Q==",
+        "icono": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS7N2pNxeN5vZOT-Ji0l3S68WRALMzIkEBDvoj2VX74EKiRTxoF"      
+      },
+      {         
 	"name": " El corazón del cazador (2024)",
         "uri": "Bxiz1sRKa8YTnDJ4REA2XPuMoxY+xRLK5D4HC8puuzypSmWPfDj1AQY+izfaV3q5aB+YR720b52ohqefkxnTnHByiplfWSmofBRtyRgz824nV2wWv+LZ0PoJzz/dxFM0FoCCoPilolRzqKdfd0NN5CR/Gaub4u8FhkjEsCujzIX/ZePVzdqug1SxlaJfu+dbT8FQgn0Il/OFntiMQZKeGLpkjp57s5cy70im7VOUnStYVFb2V8SBKHc/RYrVyVJn",
         "icono": "https://pics.filmaffinity.com/El_corazaon_del_cazador-225887290-large.jpg"      
