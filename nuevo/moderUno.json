@@ -3,21 +3,17 @@
     "name": "🏆 EVENTOS EN VIVO",
     "samples": [
       {
-        "name": "⚽️Fluminense vs Cerro Porteño",
-         "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmIYBVFmQl2oSVaclARVvU72eKqfQUlHPI7niWQyYV3hN5NEEMbLpM0R81ZeGfci+8GMLfhZv8q+mFmQbWNkDJBs",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvILRYrUnCOwYR+rkEfb9b3BhGG6CG43o+1qnbgSsB3YhUtOgZz4jjKVU/XRQLjZxwI6eymx86NgWp4iZ3V/NNsfZAKQUP4Esj5ggPuuc3E5bceawU0xrV65Kn/B+oM/beQ==",
+        "name": "⚽️FUTBOL PY ",
+         "uri": "2ZqcMgifZHO9FnZkx29T1jfoZjjmWJ3kC3QqhVv83ewmGV05HP+D5DJI1XKK9t0RWMU7YuuiZXHE1S4MQhTuEQvTdd6SfUQ+zysQyUzcvxkyP5dnxNSIGAwhaCD4ZgVCeHehCw7WPxILyQIrhfVPYVjLQpEb9094+10una/XUhQfigk2WkJy4bs8vU7owP33/D+/LNLPcLjvhZjbaI8Xj88c44SB1Fmva1xomNTXvk5EOjmW0ad+1urM90TKHebT5u//xSDdmPj6BXge4OZfRQ8BAVKL51uGlEJH8nUmFyh8cNutm6Gqyn+1t0dmWuR2g8bjciEJ3qI2A6FvR7IZxKWu6U650XRKmTGL4SsAKXTq6kKPaRlpNqnWfRuyDUpuSuxoZS4aduQpoHGfA/bw3YmfbSMrouH+V4AFoJ38rGZq3BEszS46CWrXk9+uZ/WrYa3dPdabOu8lPQL47oaqzoLXvgtRFS2WL/h+pFP4pg500KOqbnR2wdxMi9/Hj1MACjbmAdROfpsshDncAmfVJqCaY3SpILuBSIy/E+PseRitIu2ro6KVRdpUolTiQtwb0yfeyG5GKwkYyPaKLlCaSL6tbroS97uSvjtC8M8La5E=",
         "icono": "https://pbs.twimg.com/profile_images/450290479574167553/zuArPE05_400x400.jpeg"
       },
       {
-        "name": "⚽️FUTBOL PYY ",
-        "uri": "pvysU7BimsBQN21dqcJ7N2I8ilJmDg58NyxFqyf4zkmE4NJsUBN7yw65FElXO0SEz+otnFdQZHKZjRLRvsnIGC/oE8I+P2QK5VzI1IzsEmw=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvNTF3n78vobe2bIJpnKbsJp7CjeMft6JAwFwnekdVjsOaI2snZbzqDY23RZ9zY584D+8tQA8LAPX0Wnr6e5Uqc/J0aO/HFYTmZeOpxANS0MhIY9aPOTx2hrFewbOWW94Aw==",
+        "name": "⚽️FUTBOL PY ",
+        "uri": "2ZqcMgifZHO9FnZkx29T1jfoZjjmWJ3kC3QqhVv83ewmGV05HP+D5DJI1XKK9t0RWMU7YuuiZXHE1S4MQhTuEQvTdd6SfUQ+zysQyUzcvxkyP5dnxNSIGAwhaCD4ZgVCeHehCw7WPxILyQIrhfVPYVjLQpEb9094+10una/XUhQfigk2WkJy4bs8vU7owP33/D+/LNLPcLjvhZjbaI8Xj88c44SB1Fmva1xomNTXvk5EOjmW0ad+1urM90TKHebT5u//xSDdmPj6BXge4OZfRQ8BAVKL51uGlEJH8nUmFyh8cNutm6Gqyn+1t0dmWuR2g8bjciEJ3qI2A6FvR7IZxKWu6U650XRKmTGL4SsAKXTq6kKPaRlpNqnWfRuyDUpuSuxoZS4aduQpoHGfA/bw3YmfbSMrouH+V4AFoJ38rGZq3BEszS46CWrXk9+uZ/WrYa3dPdabOu8lPQL47oaqzoLXvgtRFS2WL/h+pFP4pg500KOqbnR2wdxMi9/Hj1MACjbmAdROfpsshDncAmfVJqCaY3SpILuBSIy/E+PseRitIu2ro6KVRdpUolTiQtwb0yfeyG5GKwkYyPaKLlCaSL6tbroS97uSvjtC8M8La5E=",
         "icono": "https://pbs.twimg.com/profile_images/450290479574167553/zuArPE05_400x400.jpeg"
       },
       {
-        "name": "⚽️FUTBOL PY   HD",
+        "name": "⚽️FUTBOL PY",
         "uri": "2c1fqlNYtfrAM16q06pRNiuKBsMp98njbItDKa772H76cnSYBOQDr5H0go7JdKYkaOxUIZqpyI06Qr82MeQG9yj4TM6uZZ5AwsCW1Xyl/Zcm2341hxi2EXKaagzw9VNZid+6cO1ra3oTvP2eFp7CaOVGjsQPzmtAZuOVCh2kVpGeAi1CN+8TNYIOCndvzUnhaAvfVOhNn1iH9Lp8kq12ruWLllMd++JXJSUs7XbtVux9ypDM4X1qlVTu68JxhXB+LrrEb73xHtPQ7VfFMkaH/4NARVoQWmbbLUeFMmgHLa8=",
         "icono": "https://pbs.twimg.com/profile_images/450290479574167553/zuArPE05_400x400.jpeg"
       },
