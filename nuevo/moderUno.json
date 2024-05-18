@@ -41,8 +41,14 @@
     "samples": [
       {
         "name": "LIGA URUGUAYA",
-        "uri": "artPRaWhxdj12Nq+OU1BnmLWhZgrOrwCMFYOrZGIcE6ohSg+hHZS0gQqNazGnUwbYKMdN9hI6Hn48ski9FiQkyIT3yhdl2JzflKta4M2hBc=",
+        "uri": "HXLZvryt0QB8DnbKrdtWsiuKBsMp98njbItDKa772H6l6swHmKLM2x6fO+z+hc1+eEC0dpvjwna8DpGnH4Q80oSMA/FJBU0U5kL6kfakcKvruLvXbbome13odWM9JjoCpEDpwaHzPd8YG608ns8sASTpfMmp/efX1BNJmepnaUFm2HPmWTI6hVsZcA49FTNC4C3Jb6GK58ZSuq1wM9oP8UEwb2iKTQp6sWyY31XUCwCsM9hfKvxT/de0/DRldq00VBA5nzCX7lXFpb/HWnwoaiIT3yhdl2JzflKta4M2hBc=",
         "icono": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1592.png"
+      },
+      {
+        "name": "TV ESPAÑA",
+	"uri": "artPRaWhxdj12Nq+OU1BnmLWhZgrOrwCMFYOrZGIcE6ohSg+hHZS0gQqNazGnUwbYKMdN9hI6Hn48ski9FiQkyIT3yhdl2JzflKta4M2hBc=",      
+        "uri": "LIGA URUGUAYA",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TVE.svg/800px-TVE.svg.png"     
       }
     ]
   },
