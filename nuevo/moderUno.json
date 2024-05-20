@@ -190,11 +190,11 @@
         "icono": "https://i.postimg.cc/kMkS5BVf/TNT-SPORTS-ARGENTINA.png"
       },
       {
-       "name": "TNT SPORTS PREMIUM",
-      "uri": "jCFn60lGyrpC3OASX2w9NMHc/MjBPWmsMJKdw+83FubY3m1B6EAQFt5DE8cEONkkiIcv3CaXxBbi+t3E6LEMxgSVlWFgHKBXMcYSw4QGgPM=",
-      "drm_scheme": "clearkey",
-      "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvJAV/UGIXapPMgNqiADB8/RrGRcemwsuN0IYIFNFjbckh3f9QmUBlaQUsf6eqqbxi5ASCINVi0G5zNmHGuOD0+u/fOoJRrwNNEVYBtqqnIgwM7xkJG9WO8xNvR4wHR7pCg==",
-      "icono": "https://i.ibb.co/F6CQqJk/tnt-sports-premium.png"
+       "name": "TNT SPORTS opc 2",
+         "uri": "hgyLEf1obfi7e+6+kI5AQQaAYi2Y9Xnhr4accAf2TnQ3HPrTa+sTZt5ExG6zTFmRt5p8LV1uOuzDb7jD0M0sblw/NzqYSE2YreqNDhQs9WsNuPNOMeUKefnG+plOojGm",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "TKTvsoxXqhUPckfmw9KaJ1BJjz5Qp1hMqmbGpmW/pKbjMV/Qk1td8XUVv0XaldPoUNDX/RcRpbHq0SgitA0mNiYeb/JyFW/Y1KkCFMMgDI1EN/z+9HykWZ25reb4ot/g",
+      "icono": "https://i.postimg.cc/kMkS5BVf/TNT-SPORTS-ARGENTINA.png"
       },
       {
         "name": "TNT SPORTS 3 ",
@@ -257,17 +257,10 @@
       },
       {
         "name": "TNT SPORT OPC 2",
-        "uri": "PiFoloK4zBxLo6GPf/bTShKL4AlwZXfSwZwgQmJiQ8RmXBuqeXlq3KAdZYIwvuJQYnRaiNuka+uzQB7BOkwhFncYlWgENV059oYzUoz88o+940GMpgYRJyTTarhtZ3DEaeOQC5B3HMPhPFrje2g56Q==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvEpW6BhZ/Nkg2EAOATMINVhel1jKITWwDKVGHXcqnvVTgpQ0vlnJLUxZMjWW2YoXkI7fEeHljSq27jUb1eaA1FFoSPIu/650/dCmU2lx5oR//nYx02Xp+9tm9LV3P0Qy2A==",
+        "uri": "hgyLEf1obfi7e+6+kI5AQQaAYi2Y9Xnhr4accAf2TnQ3HPrTa+sTZt5ExG6zTFmRt5p8LV1uOuzDb7jD0M0sblw/NzqYSE2YreqNDhQs9WsNuPNOMeUKefnG+plOojGm",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "TKTvsoxXqhUPckfmw9KaJ1BJjz5Qp1hMqmbGpmW/pKbjMV/Qk1td8XUVv0XaldPoUNDX/RcRpbHq0SgitA0mNiYeb/JyFW/Y1KkCFMMgDI1EN/z+9HykWZ25reb4ot/g",
         "icono": "https://i.postimg.cc/kMkS5BVf/TNT-SPORTS-ARGENTINA.png"
-      },
-      {
-       "name": "TNT SPORTS PREMIUM",
-      "uri": "yCNk5k720pqjqSipKpqYKfSOleMvIUh7PSoZtzO3ZZbotBAnCk1THfyaoPcWG6soza0Qc5u3q/kl36GTOhMyJBmasOGodPWzYZuBKZFf5ew=",
-      "drm_scheme": "clearkey",
-      "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvJAV/UGIXapPMgNqiADB8/RrGRcemwsuN0IYIFNFjbckh3f9QmUBlaQUsf6eqqbxi5ASCINVi0G5zNmHGuOD0+u/fOoJRrwNNEVYBtqqnIgwM7xkJG9WO8xNvR4wHR7pCg==",
-      "icono": "https://i.ibb.co/F6CQqJk/tnt-sports-premium.png"
       },
       {
         "name": "FOX SPORTS 1",
