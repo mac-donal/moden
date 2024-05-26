@@ -1740,6 +1740,13 @@
       },
       {
         "name": "Nick Jr",
+        "uri": "hgyLEf1obfi7e+6+kI5AQQaAYi2Y9Xnhr4accAf2TnQ/39sBPLjSy6aXdrj/BXpLr0xKC9jRR2M2ltnuaQj52kjVqgJR1BnZr13sMnsQIKE=",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "TKTvsoxXqhUPckfmw9KaJ1BJjz5Qp1hMqmbGpmW/pKbjMV/Qk1td8XUVv0XaldPoUNDX/RcRpbHq0SgitA0mNiYeb/JyFW/Y1KkCFMMgDI1EN/z+9HykWZ25reb4ot/g",
+        "icono": "https://i.postimg.cc/h41czR0h/image.png" 
+       },
+      {
+        "name": "Nick Jr opc2",
         "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmLLlNrzLZgth5vzp+sA8JM5YKmmJnhOMNIaZboUll/hyAbUjmf3rTQWrC8r00y7szRp45ALkHccw+E8WuN7aDnp",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvLzNbLc/ZQy1RVEqwr4CsEVGjzqJ0lJ908JvYrTBATAL11W4bCQIOWoo50tlgCwiF/DK5QP24TK+7UMdFVJbdvYW17MWU9vxWqy3xchCUcuyUL3ZZvcq2yA9W/evtCsVxA==",
