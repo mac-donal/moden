@@ -643,6 +643,11 @@
     "name": "🇦🇷 ARGENTINA",
     "samples": [
       {
+        "name": "GH",
+        "uri": "lYcC9TK6JzfKhwqx1PxTij8vLNDS79FSitFAZ0fYI8TL4q0sKm8Zj5WpW8eS8hPGkSidsgixApVMoKwP5O8TspRgGSBR6+7NLD1u67DaGCM=",
+        "icono": "https://media.ambito.com/p/65603cac7cfaf8562c734d319ce49ce1/adjuntos/239/imagenes/041/440/0041440154/1200x675/smart/gran-hermano-logo.jpg"
+      },
+      {      
         "name": "FLOW MUSIC",
         "uri": "hgyLEf1obfi7e+6+kI5AQbwUdREYZArH4PwL1nSbyW03U+O1Lb/fPkjeXylJo3Tz5rJlCoAe9VAyd9g8emUkCtIhrVk560dFvsV4PDGjE27BzWmualXeQ1rQpP+n411V",
         "drm_scheme": "clearkey",
