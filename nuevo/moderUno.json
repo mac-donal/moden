@@ -2243,7 +2243,12 @@
     "name": "📺 NOVELAS",
     "samples": [
       {
-        "name": "TELEMUNDO ",
+	 "name": "TELEMUNDO",
+        "uri": "6cyGTHCJHouDyVOj1V3TSh9gliP7xFfkaxl/O/NomF7jjSMwuxuaB8rIP0pltYClYcNJFNqgMo0SR34jL0TUcZWaaK7lhB6VLUB6qovX3rs=",
+        "icono": "https://i.postimg.cc/SKT2Pm92/telemundo-logo-0-F9-A314635-seeklogo-com.png"
+      },
+      {      
+        "name": "TELEMUNDO OPC 2 ",
         "uri": "naesvCySKo8f+hdww3SWgDXZ+OBCBaBecy457O72dhRMs+7tLSt32CTmC50RDzKGDI0L1XqUf12VjlEWLxKoOvzKa6/o9A5UFXWVq983FPOmlbkl6rVHyjvHrtS07GNh",
         "icono": "https://i.postimg.cc/SKT2Pm92/telemundo-logo-0-F9-A314635-seeklogo-com.png"
       },
@@ -2253,11 +2258,6 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvMqTbK1T9nXLpH7BZx2oYy4GrNV/tLVbox919ewvRm9igHHtLfMoqCIR4zC9mHJAnTq+I/xKiYpRvOBU6bHBbevwVdOaRFkpBUZEZbWveb20nRgh9ZWFsIOozmf/TZltvQ==",
         "icono": "http://imgfz.com/i/cuq0V9R.png"
-      },
-      {
-        "name": "TELEMUNDO AL DÍA ",
-        "uri": "Dh9IVOo/2ayKQhtYOBbaKwEP81JO9LPFuC5NWFJoE1VXAK/KJV4IuoGN2zHKAt22LPDLmAS5N7mzsGYBSa4sf2TtVkfPRDIm6EdfX0dag5B+jCoXL4lMDOxN9oA9ap3VaeOQC5B3HMPhPFrje2g56Q==",
-        "icono": "https://i.postimg.cc/SKT2Pm92/telemundo-logo-0-F9-A314635-seeklogo-com.png"
       },
       {
         "name": "TLN",
