@@ -1251,26 +1251,6 @@
     "name": "🍿 PACK HBO & UNIVERSAL",
     "samples": [
       {
-        "name": "Canal Visión Doradas",
-        "uri": "uK8eeeyACUwqNPs0uLWLLh1vZTrH9YqwaT/Z2UcYn9Yuv8kmjZePqLlM7IryoESMIhPfKF2XYnN+Uq1rgzaEFw==",
-        "icono": "https://yt3.googleusercontent.com/Rqfsf2XWcptA-zIfCHW18mLM-ThAOkm9Vkrr5EmxtChK18ehbTpyCxkYKv7uzAwNq4Xlkuql17Y=s900-c-k-c0x00ffffff-no-rj"
-      },
-      {
-        "name": "Canela Horror",
-        "uri": "ilOZEuHGYrlxc4gD7mvcvfZ5vLuZfrxK+I0Uyb1amGM4lzipYuPPtLxTTQKSirK6/BN116aHFnbA1in1IZxpSw==",
-        "icono": "https://img2.static-ottera.com/prod/cnm/linear_channel/thumbnails/square/366x206/bba9b402-channel-canela_horror-7x10.jpg"
-      },
-      {
-        "name": "Terror TV ",
-        "uri": "6L7uwyiepnXOYcZFkqv0cSSXdVdLuduC6JoOVQ7SozvghOZnwlhRIEyz8Frsqrc+dgU5mAGtEEhOwcGqGCqdQA==",
-        "icono": "https://cdn.m3u.cl/logo/1420_Terror_TV.png"
-      },
-      {
-        "name": "HORRORFY ",
-        "uri": "EAnUQ0Wd4ZqgD4nObaT4F9tTfMkpED2/bMyV90L/u5ET8gznBn5S/MDsXsjwB+IH53oqxcncekHKqC47CEkunLuP9+SwoFqa8lpOcwzjLiT94ABNIzqgszGCgIPBVp5l",
-        "icono": "https://i.ibb.co/YRw9FtR/freetv-horror-1080x1080-02092024.jpg"
-      },
-      {
         "name": "HBO",
         "uri": "x/xWkNrovMYmGeIV76G4pOWzEePFvZC2/a11JIOm1xLpSufNdZ9OjLpRFBblzlkevCkrhfyviYEjNZsjJryydP9fdiVP07Zqo2e39IUIBhI=",
         "drm_scheme": "clearkey",
@@ -1393,6 +1373,31 @@
     "name": "📺 CINE & SERIES",
     "samples": [
       {
+	"name": "NARCO CINE MEXICANO",
+        "uri": "ilOZEuHGYrlxc4gD7mvcvfZ5vLuZfrxK+I0Uyb1amGM4lzipYuPPtLxTTQKSirK6zNKZFShTr117l7dafp0mKw==",
+        "icono": "https://i0.wp.com/fandompelicula.com/wp-content/uploads/2021/02/NARCOS-MEX-9.jpg?fit=1719%2C2325&ssl=1"
+      },
+      {       
+        "name": "ESTRELLAS TV",
+        "uri": "tqFWW/XJKQI0bXss6x/Wg9NHQHncyXJ1vYzlNrybFDS6hzOdnCLxV8UkvtXsIfPXzIXlqPbFYbxnaC3pYPZq/g==",
+        "icono": "https://play-lh.googleusercontent.com/GH6uk17KaI_yKY18JDjLl6Q7VdRfZSiN62QaDveOK-RgZbpXgTmV9s3ZNFtvHuXdcQ"
+      },
+      {    
+        "name": "Canela Horror",
+        "uri": "ilOZEuHGYrlxc4gD7mvcvfZ5vLuZfrxK+I0Uyb1amGM4lzipYuPPtLxTTQKSirK6/BN116aHFnbA1in1IZxpSw==",
+        "icono": "https://img2.static-ottera.com/prod/cnm/linear_channel/thumbnails/square/366x206/bba9b402-channel-canela_horror-7x10.jpg"
+      },
+      {
+        "name": "Terror TV ",
+        "uri": "6L7uwyiepnXOYcZFkqv0cSSXdVdLuduC6JoOVQ7SozvghOZnwlhRIEyz8Frsqrc+dgU5mAGtEEhOwcGqGCqdQA==",
+        "icono": "https://cdn.m3u.cl/logo/1420_Terror_TV.png"
+      },
+      {
+        "name": "HORRORFY ",
+        "uri": "EAnUQ0Wd4ZqgD4nObaT4F9tTfMkpED2/bMyV90L/u5ET8gznBn5S/MDsXsjwB+IH53oqxcncekHKqC47CEkunLuP9+SwoFqa8lpOcwzjLiT94ABNIzqgszGCgIPBVp5l",
+        "icono": "https://i.ibb.co/YRw9FtR/freetv-horror-1080x1080-02092024.jpg"
+      },
+      {      
         "name": "Adult Swim",
         "uri": "KusJ5ShfomSLrFIJxHev/tLfRy3Xhd+oME43Te40Gt56mJt29B/oqSANh0rphCn6agycfZsKmmBZEJIYW4LlJ5SwIKDOqM1amlpITvPpVaw6+Ps12v/QFWUHyxS4MxAm",
         "drm_scheme": "clearkey",
@@ -2311,6 +2316,11 @@
     "name": "🙏🏻 CANALES CRISTIANOS",
     "samples": [
       {
+	"name": "Canal Visión Doradas",
+        "uri": "uK8eeeyACUwqNPs0uLWLLh1vZTrH9YqwaT/Z2UcYn9Yuv8kmjZePqLlM7IryoESMIhPfKF2XYnN+Uq1rgzaEFw==",
+        "icono": "https://yt3.googleusercontent.com/Rqfsf2XWcptA-zIfCHW18mLM-ThAOkm9Vkrr5EmxtChK18ehbTpyCxkYKv7uzAwNq4Xlkuql17Y=s900-c-k-c0x00ffffff-no-rj"
+      },
+      {    
         "name": "Santa María TV",
         "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmLbxjDbkJjtbrwDPL00t9LU3FdZb+F8yxImaIv7OLstCHyK1xYWuTi5oktKEbIEWbzma4O+T6ujjeEnnwUjfOPz",
         "drm_scheme": "clearkey",
