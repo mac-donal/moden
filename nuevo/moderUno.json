@@ -2846,26 +2846,16 @@
         "icono": "https://static.tvar.io/imagenes/vtvplus.png?"
       },
       {
+        "name": "VTV PLUS OPC 3",
+        "uri": "fnQZDq6hMsbgJK4Zub77dRYkGWfwduZNM7iZb/CqQB2pASLf0+/n8T4ZOPQDepW+QkOfruJL92DuQsj28Lw06Q==",
+        "icono": "https://static.tvar.io/imagenes/vtvplus.png?"      
+      },
+      {      
         "name": "VTV EVENTOS",
         "uri": "KusJ5ShfomSLrFIJxHev/lZUC6R71wyEykNA2u1z8lCXfymEfZKVjJaXPcutg/lMyNVAetl3UCg8K0g32Hf+4bKBtBlrO3Vsr8Zuq1LrcmMeTUEUgDA6ozI+gIWdo2mIaeOQC5B3HMPhPFrje2g56Q==",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvAr2vc0YSEgPps6GIzsqHnKy+ckKP7XLnBFHFXba9x0nUDKFtN7tDf8Uoprx+LxpSMPSUHH6HKeKQwvy58tJLwikI6D02PA07uy5+lq2i1ABAv+qvFI/UhH2cGi+v9ZqDw==",
         "icono": "https://static.tvar.io/imagenes/vtvplus.png?"
-      },
-      {
-        "name": "VTV PLUS OPC 2",
-        "uri": "mkYdbUcrYeGsa8N3BZLz0q7abiHVa2owb3uyS4hDDsP7rVwsFCHCKkLdS7Ur2R00",
-        "icono": "https://static.tvar.io/imagenes/vtvplus.png?"
-      },
-      {
-        "name": "VTV PLUS OPC 3",
-        "uri": "cX6k/BqWAA7QMYsGN4vPzJI2ype263O95t8HHI7aqXV/pJGMT2sw0aoMHps0R6F5FI1qG5LUF3dtTcfXN0orN6h1HH9ILvJfDUL3qQsWzDs=",
-        "icono": "https://static.tvar.io/imagenes/vtvplus.png?"
-      },
-      {
-        "name": "gol tv",
-        "uri": "m8tLNBiikbJEkQix1umYfh8BNbWEN3SHpogNzSYURsevXpzvSLC4WVLPc7vbbIB0J5jctb2LN895yEjFTsxKtQeoPP3i/zj9U8jVoqimhpQ=",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL-1-dxXBLcAQ55qWoyhM4Y1MzpxshuYYh8xRtadrHZw&s?"
       }
     ]
   },
