@@ -105,6 +105,11 @@
         "icono": "https://www.telemadrid.es/static/BB3HTML/app/images/logos/logo.png?hash=dcdede14b767968b29028761f31fe79e"
       },
       {
+        "name": "Canal Sur Andalucia",
+        "uri": "GhBjKQI8EH7APDVfieR4ohexNFHisYyO+buRaD/WQOaaM8ktB1twIjG3NNt84GOR7dyMC4Tit4l11pDDDFpl75RgGSBR6+7NLD1u67DaGCM=",
+        "icono": "https://yt3.googleusercontent.com/ytc/AIdro_mhU2bI-iGWToJUbUJqWiP9r0z6EIEcH38m-O8UguYMVg=s900-c-k-c0x00ffffff-no-rj"
+      },
+      {
         "name": "TELECINCO ESP",
         "uri": "LGwy1csk4lpsIUQmvpOTVb5fkRc0NFhjNrZgzDX8cEqPyhEXrsm7W0ptWj76SPQfHuo5QDooMb6zF5t+Q9BfNA==",
         "drm_scheme": "clearkey",
