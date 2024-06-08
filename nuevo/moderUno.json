@@ -517,6 +517,11 @@
     "name": "⚽DEPORTES BRASIL",
     "samples": [
       {
+        "name": "BAND",
+        "uri": "wisu88x5hrOXK3Os38U4RCGWh0NhHseKok/XQMauqQSw7mZOx39XR8uoaKGcWZ+RRBWq5aifGL0+UoOUEZ8Bwg==",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTphqiHY96AUznO3T9HES858PcRGhgh-l9IEA&s"
+      },
+      {       
         "name": "BAND SPORTS",
         "uri": "7YyJ0bTMMpA6ZPEd5Ozn3QcnS9oSblvO5lNPd09nqwaKfkcCVQtZynZD89KotPwgdgU5mAGtEEhOwcGqGCqdQA==",
         "icono": "https://i.ibb.co/WWrRh4X/Band-Sports.png"
@@ -2840,6 +2845,11 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvM38cvatWQDR5nxyKnsPBbnim9aCLK+KMnu2xOivRuk3JLHvxGkv9niF0MUvbCLECRowpSoiuF3SageCXyVZugc9VylwmlI65fl+N1dRMnidnwXqvGcB02NlNd8JjrleeQ==",
         "icono": "https://forounivers.com/uploads/monthly_2024_02/large.ESPN7.png.375178ffb0546e7726739cc46c854e09.png"
+      },
+      {
+        "name": "A+V HD",
+        "uri": "KDrsbaJOfbd6VsUGfR9PHp2/u1cC58YOf2Gll6k415hXN/d7DopDByKFe2wIfY0XSPYbLbH6hV0XrdZbkmz0If9Dq10Q4aEcoI3as4foqs8nm07FR+TFlILnGfMwTF6M",
+        "icono": "https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/04/av.png?fit=800%2C500&ssl=1"
       },
       {
         "name": "CHARRÚA TV",
