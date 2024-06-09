@@ -2889,6 +2889,11 @@
     "name": "🇧🇷 BRASIL",
     "samples": [
       {
+	"name": "CNN Brasil",
+        "uri": "bJQa8KiQqfpZHkZ+kOyvWtLvSmGks+2iRGjUeivBw2qaYh0+VTpLBIuOYyWw1lVTgXVhz92/mdEyx1asTlSClQ==",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1200px-CNN_Brasil.svg.png"
+      },
+      {        
         "name": "GLOBO TV",
         "uri": "wisu88x5hrOXK3Os38U4RCGWh0NhHseKok/XQMauqQSw7mZOx39XR8uoaKGcWZ+RRBWq5aifGL0+UoOUEZ8Bwg==",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTphqiHY96AUznO3T9HES858PcRGhgh-l9IEA&s"
@@ -2921,6 +2926,11 @@
       {
         "name": "RECORD TV",
         "uri": "wisu88x5hrOXK3Os38U4RCGWh0NhHseKok/XQMauqQRb/Q7d9kydMeYA5s0feCCTm4P6fkG/vzI+8VIDLQE+FQ==",
+        "icono": "https://brazil.mom-gmr.org/typo3temp/_processed_/a/4/csm_7013-1071_import_63c9374854.png"
+      },
+      {
+        "name": "RECORD TV OPC 2",
+        "uri": "ilOZEuHGYrlxc4gD7mvcvfZ5vLuZfrxK+I0Uyb1amGM4lzipYuPPtLxTTQKSirK6d8HA+4YKjpA0tZjVV30+NQ==",
         "icono": "https://brazil.mom-gmr.org/typo3temp/_processed_/a/4/csm_7013-1071_import_63c9374854.png"
       },
       {
