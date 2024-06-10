@@ -2989,16 +2989,6 @@
     "name": "🇨🇷 COSTA RICA",
     "samples": [
       {
-        "name": "CANAL 6 COSTA RICA",
-        "uri": "2c1QkkHHBXsBjUmIoLzZaQAaDcv6Rsaibk2KSZMwa2+gzs2VJAGdAK7nLOpCAgM2RsBwAzNi+wpRBTpa87e2IU/QdAyOeGnkkYFfRkHamHUzhADxkIJtL4BRIpFGAEG2Hf+O5lI7TbCMyv5G3VX36SIT3yhdl2JzflKta4M2hBc=",
-        "icono": "https://img.streann.com/streann-img/61316705e4b0295f87dae396/channel/1709228795285.png?quality=80&width=456&optimize=high&auto=webp&fit=bounds"
-      },
-      {
-        "name": "COSTA RICA CHANNEL",
-        "uri": "TSMBTBLsup3JK3KK5SkIOtCbfQleeX18csBoQVkeKAd5lP07scLi7395Y/pdrilsm4P6fkG/vzI+8VIDLQE+FQ==",
-        "icono": "https://lh3.googleusercontent.com/p/AF1QipNt9gOX3b8qGs8Gm8ToWq-tCT-2SDNllknu2h5D=s680-w680-h510"
-      },
-      {
         "name": "SMART FUTBOL",
         "uri": "3BCZog5v+hvxZ8V4w0CoFtrB2LNNz3Fu0DeRxAIz1BR38ZWPez9bie1CMA5jQ0EPkOalNYXXvtfvRRjIFXHqrWiAfyz04g8j9BzzunWEZoeSlhEdMBxQgNXYbnmaWyHnm4P6fkG/vzI+8VIDLQE+FQ==",
         "icono": "https://img.streann.com/streann-img/61316705e4b0295f87dae396/channel/1707417159270.png"
@@ -3019,64 +3009,14 @@
         "icono": "https://img.streann.com/streann-img/61316705e4b0295f87dae396/channel/1694096248928.png"
       },
       {
-        "name": "FUTV",
-        "uri": "aPYJLXOb/jSTVAB/3GJDSiBakYIaR5MFur/8ZiNZZbXDuZdGVcipRnYCN5coIrm8zvAtSTrzQ7WSLyaeh0tu4ZthUlWgkeMLLjyLprBaikY=",
-        "icono": "https://img.streann.com/streann-img/61316705e4b0295f87dae396/channel/1694103516257.png"
-      },
-      {
-        "name": "TD+2",
-        "uri": "aPYJLXOb/jSTVAB/3GJDSiBakYIaR5MFur/8ZiNZZbWox5oitjQEgQZBkYwaqlBTM2tg6wrIJRQgLmEb1OTKn5uD+n5Bv78yPvFSAy0BPhU=",
-        "icono": "https://img.streann.com/streann-img/61316705e4b0295f87dae396/channel/1694096325723.png"
-      },
-      {
-        "name": "TD+",
-        "uri": "aPYJLXOb/jSTVAB/3GJDSiBakYIaR5MFur/8ZiNZZbX8KyjWSZbuBVFConfyxKWn9EvO6CEZRe4Jp3nNV9+E2JuD+n5Bv78yPvFSAy0BPhU=",
-        "icono": "https://img.streann.com/streann-img/61316705e4b0295f87dae396/channel/1694096363519.png"
-      },
-      {
-        "name": "TN7",
-        "uri": "3BCZog5v+hvxZ8V4w0CoFtrB2LNNz3Fu0DeRxAIz1BR38ZWPez9bie1CMA5jQ0EPkOalNYXXvtfvRRjIFXHqrVCWA0e9xkuJiXV48cqFleRuzhy/+Ruj8HhpqyKrTN2Um4P6fkG/vzI+8VIDLQE+FQ==",
-        "icono": "https://img.streann.com/streann-img/61316705e4b0295f87dae396/channel/1694096127778.png"
-      },
-      {
-        "name": "FUTBOL",
-        "uri": "F96Wwh+YkS8Vk+xcVzdA9T2sZTAS8zER27nqAesoA8h19Klr4+/xxvvjGIxv6waacKcElZzM43Lv5bv0j65IHnNRXUiz6IDSY/Wf9Z6+MjuVAMQcGMB8pkPsaGfX0m3K/eAATSM6oLMxgoCDwVaeZQ==",
-        "icono": "https://dl.dropbox.com/scl/fi/wcqpb6086wlqisoxv71js/Captura-de-pantalla-9.png?rlkey=8a87bw0l36iowycpwlfdbb4en&dl=0"
-      },
-      {
-        "name": "Teletica En Vivo",
-        "uri": "aPYJLXOb/jSTVAB/3GJDSiBakYIaR5MFur/8ZiNZZbVIUtCfY8fDFbjyGjvY3kkgVBs5tPjiClI4r+mfl9oIykQVquWonxi9PlKDlBGfAcI=",
-        "icono": "https://img.streann.com/streann-img/61316705e4b0295f87dae396/channel/1694096091537.png"
-      },
-      {
-        "name": "Nicoya TV ",
-        "uri": "+7g4T36U3Kvyx71AjAGH+3IAxZzMUGPNi2WDZiRfKqDeGOXTdj5SQKl8xhvAi5kRY2/o3pM0aQbc3CZhHLlyk5RgGSBR6+7NLD1u67DaGCM=",
-        "icono": "https://scontent.feze7-2.fna.fbcdn.net/v/t39.30808-6/305405478_479174670884349_3209096736791955454_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=tURbKlsCy-kAX9W7lsj&_nc_oc=AQlc-xoNsz9uMDmAKhspFIUqwkGcL-BGkmpsa4mSdS8QjIeuaNHRUaxxczIrUJPRWYQ&_nc_ht=scontent.feze7-2.fna&oh=00_AfANDnt_wzNRAvva9SLy_AsgbP4ag-0X1-ZC5YNH2jM2NA&oe=65CCA604"
-      },
-      {
         "name": "SAN JOSE TV",
         "uri": "wdNmvBtl25+H0RRgkLt8YRArymX05WjjQ6AoXYdQuzFv0CS1KHqO8ztMrBG/hI3caeOQC5B3HMPhPFrje2g56Q==",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5OtmcBh1ijLsUYOVFcK2zkuSLmfNmV-sXKbx_of3Vv5rCVEw5r15tl-_jM9JYSQc6Zwc&usqp=CAU"
       },
       {
-        "name": "TELESISTEMA",
-        "uri": "/6K8Z7Ipgmm7nx/TpAs27UUs4VaUmpP2vJWEFrgk/Gp+qS6GujILSHMdjG4fgOXAIhPfKF2XYnN+Uq1rgzaEFw==",
-        "icono": "https://serenotv.com/carga/2022/01/Canal-telesistema-en-vivo.jpg"
-      },
-      {
         "name": "SANTA CRUZ TV",
         "uri": "wdNmvBtl25+H0RRgkLt8YXtKO4h8tx3hEId/v+D5bk0P6s8HeRIreX9pIMf8wj6yIhPfKF2XYnN+Uq1rgzaEFw==",
         "icono": "https://serenotv.com/carga/2022/01/Canal-santa-cruz-en-vivo.jpg"
-      },
-      {
-        "name": "ARB TV",
-        "uri": "/6K8Z7Ipgmm7nx/TpAs27UUs4VaUmpP2vJWEFrgk/GqFztdTXJPK4c6KOxxO3mPSTZYN7r1cIkUdOvo9EaWdfg==",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2vYXw5h8VsBNEckk9QhFTUwa3Z72xUK_WYKR0BJagQg&s"
-      },
-      {
-        "name": "TELE UNO",
-        "uri": "rP90CctON0bjoYhhB95/NjEr8xtA1I3Ce9YL6DyOuC9HwTEV9gNZZndvQjv/9aEIRBWq5aifGL0+UoOUEZ8Bwg==",
-        "icono": "https://pbs.twimg.com/profile_images/626211824451457024/jq6sU9MX_400x400.png"
       },
       {
         "name": "MULTIMEDIOS",
