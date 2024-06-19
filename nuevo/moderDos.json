@@ -3,6 +3,16 @@
     "name": "PELICULAS RECIEN AGREGADAS",
     "samples": [
       {
+        "name": "IntensaMente 2",
+        "uri": "/Q/rtwP6Y2j6pp8uES+vGag9tUSHNt6FXuTJ5QehzkHsX01HCNIFOZXUtEvEdIbM5jSNvylhZgXC9ORsNsywiQPRPWnxCiiAEN3wMtxF4Wd9t++8fRs2TmTrQErMNGBaPeY1bcqf1H0nEZjlg7XjDmXeN4fnMgH1KfU2BGoGAQ8=",
+        "icono": "https://image.tmdb.org/t/p/w342/2PuAY3xSvbchQWqpSiXw08Yt0NP.jpg"
+      },
+      {
+        "name": "IntensaMente 1",
+        "uri": "cNmj+gJpC7ekEgU4H5ewku/Hc6YLSWuyISsocradGTYveeLqKC+qHDOgAtUV0xxPoUY6eW0YHu54HMayTdeS5g==",
+        "icono": "https://mx.web.img3.acsta.net/pictures/17/08/07/21/43/466493.jpg"
+      },
+      {
         "name": "Kill Boy (2023)",
         "uri": "QY/9kzfjVQDVkeD6iyv/k32yr5ZcJX7KDTzdOIy2FrmWq78uMGnFcrGp0rKYZoINp+/hP7bvY1B4AaaCOvFGwQVvtvsdzRLkgtAD73xOBZAQ0mH4LzuQX3UMLwmWqfPoiNY3J1aiiekqIL6CIoIVdg==",
         "icono": "https://m.media-amazon.com/images/M/MV5BNmYyM2VhM2UtYmEzNi00M2RmLTkzYWQtZGQ5MjI2MzQzMWMyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg"
