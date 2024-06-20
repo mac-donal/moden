@@ -475,11 +475,14 @@
       },
       {
         "name": "TUDN",
-        "uri": "vA1klyGH+vPjcssIcgD28IrjPnc+racSZimt+I09iw9PJF6LqTaxywxJWc9LlvppQyJhJzo5JdP3WL0TlE/EaB6XvmYKO9GvJlSxGoB9ob2uzh8udIgoqPK+KY3xEjg7",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvDYbeVMs7krAgI0ABbUQxoGmH+pulIwXgRCYTVi8MO0siF0K8M3uC5Lwv6VAu0dlJ6s4M6h7FJwVecjbja+vY87TkAN5NuwDIuK6cm+oFAStMbAOJZiv7kUnR815lpKFDg==",
+        "uri": "Ltxx4/rp65hRXHPZ2s8lvXNRpQYm8hAbnQ5KFowRaSITp9OYik4Zys7bSmCxfZJRhhSp/ArMW4FAcAQB34yyzP3gAE0jOqCzMYKAg8FWnmU=",
         "icono": "https://corporate.univision.com/wp-content/uploads/2019/05/TUDN_LOGO_COLOR.png"
-	    },
+      },
+      {
+        "name": "TUDN OPC 2",
+        "uri": "7REUD0PgpH9fPxJEPTLfjiTsatmUR0EvlyIeUwK8V+2yuleWVz1EoUtX8s5NjlnGg0BFWhBaZtstR4UyaActrw==",
+        "icono": "https://corporate.univision.com/wp-content/uploads/2019/05/TUDN_LOGO_COLOR.png"
+      },
       {
         "name": "BEIN SPORTS EXTRA",
         "uri": "sc236tYMvtOlZXp4ZFTatLvhrWC5N38Dw3N+GDPvgJO8DWSXIYf68+NyywhyAPbwiuM+dz6tpxJmKa34jT2LD08kXoupNrHLDElZz0uW+mmq+bzAm9d5NDg6taHc5IydC507gLx46P9Vih9K4VCsU3z2C7xiMg1X8IRy5AboDMU=",
