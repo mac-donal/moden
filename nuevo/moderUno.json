@@ -84,7 +84,9 @@
       },
       {   
         "name": "COPA 5",
-        "uri": "i8zCqfKpzNXsXuHQnR0xx8h1Evau6vE3NqF8aH2FvtiYp7zNBYHtOlAa/TONy9xcz6y0IOZJE1/ID3YcDOWlaVXfTN/hTjmOmWkmOP+njbE85SLTiwZ6SxSXZxsm0PYInOnQeSg/cIsEEVtjQ9cfY60J6r7/C6Y+rKOaEIkDsfP0zUoamo97Wz/toj5TKoIa",
+        "uri": "R15IztLO+/oHKpsglwYlZzmM+E86QweLTwjR9QcQ6Bo+Gk5x4G0F7vyxcMJsv39YboTjMVIjey2L5mane806FKcJGhGxwKF3scNxc+3iCwA=",
+	"drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvKGGBP7rN+gqkEJhBCbx7tnfUcvysPuR+U/ablgixX19pt9spiOyiDb2E8wKDLCn+VI2hzgg/JOSVkJXoovP/LvE6ptyL1tfl+mqcQdddLT+apiBJGnDlBRmtdNrFouYuA==",
         "icono": "https://cdn.conmebol.com/wp-content/uploads/2024/05/CopaAmerica2024_PRINCIPAL_RGB_Full-color_FondoClaro.png"
       }
     ]
@@ -3287,10 +3289,10 @@
         "icono": "https://www.coicom.com/wp-content/uploads/2022/08/Canal-Luz-2022.jpg"
       },
       {
-        "name": "pruebas64",
-        "uri": "Z70lfg0JrhijL3+AHw63ZPOkn3f+UJymg2nTZxbFmN3w1G+JKd/QaZe5vK4vv1G15glR/AdPA4tLQRyFBZlxcTpq0eyEwbI+Z5cq9s0M/OcTlomupzzWz9w7eXilKFe+sz6wG6kSlPQa9oJVZo/MKQ==",
+        "name": "pruebas65",
+        "uri": "R15IztLO+/oHKpsglwYlZzmM+E86QweLTwjR9QcQ6Bo+Gk5x4G0F7vyxcMJsv39YboTjMVIjey2L5mane806FKcJGhGxwKF3scNxc+3iCwA=",
 	"drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvHOUpoB6lS2/vD6IGfJ6ZW7SN77q3HC6muuuBRHq9PcU18vYh/iEJCmRVlt+IKuorBDvcgfRPud6RmEa7pDCR9DPhJQeMFu1XKYXFoSeeUkIWqGE33QtxOuJbba2Um45ZA==",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvKGGBP7rN+gqkEJhBCbx7tnfUcvysPuR+U/ablgixX19pt9spiOyiDb2E8wKDLCn+VI2hzgg/JOSVkJXoovP/LvE6ptyL1tfl+mqcQdddLT+apiBJGnDlBRmtdNrFouYuA==",
         "icono": "https://www.coicom.com/wp-content/uploads/2022/08/Canal-Luz-2022.jpg"
       },
       {
