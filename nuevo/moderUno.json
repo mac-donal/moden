@@ -57,7 +57,10 @@
         "uri": "1f2CSXaOvwHIeDRauiR0xSgjiwRgROEOonwcZHCxt7uKtJDvBdz0kTLsWTFH+4E8/LV81dYZH271nQfJGrHyH0y8HpTnyYP279qPAhE1ptTArkKKzrdHXm5zyz7KjmqJEg3PwAj2fYxkq05vC9r+41Ct36wjQv1W6YtZvRkKLeCyNLXfsCU7aayP43XdB4XK",
         "icono": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1592.png"
       },
-      {    
+      {   
+        "name": "COPA AMERICA",
+        "uri": "c5KxXJGSOA1+kgXAwC02Yb8KGIlyPtsgq/d3o5qM7wKtU29VJHcmvWqiP4H/XSapBGCw340ZUH9eAinfK1Yd19aizktWEtfSfMrtgoT5LM0UuDXLA0iTaAVd8XFx0x+8CLbIYkvXdaQFoF/9x/oxxg==",
+        "icono": "https://cdn.conmebol.com/wp-content/uploads/2024/05/CopaAmerica2024_PRINCIPAL_RGB_Full-color_FondoClaro.png" 
         "name": "COPA 1",
         "uri": "1f2CSXaOvwHIeDRauiR0xSgjiwRgROEOonwcZHCxt7srKKEDIJWYtnrnD2cvG2FFyRienBZGjI5YVXUFNGW3rV5LUyzK04ioJEFVYrqNyunuXPPTA7+ffcwAOrNMpJnglvO9vCyCh8eXpCWmZGyvx8w/i7hUQ83WW96tjz3xWBeX41M2/kQ+LFz6iGerz8Pr",
         "icono": "https://cdn.conmebol.com/wp-content/uploads/2024/05/CopaAmerica2024_PRINCIPAL_RGB_Full-color_FondoClaro.png"
@@ -78,11 +81,6 @@
         "icono": "https://cdn.conmebol.com/wp-content/uploads/2024/05/CopaAmerica2024_PRINCIPAL_RGB_Full-color_FondoClaro.png"
       },
       {   
-        "name": "COPA 5",
-        "uri": "c5KxXJGSOA1+kgXAwC02Yb8KGIlyPtsgq/d3o5qM7wKtU29VJHcmvWqiP4H/XSapBGCw340ZUH9eAinfK1Yd19aizktWEtfSfMrtgoT5LM0UuDXLA0iTaAVd8XFx0x+8CLbIYkvXdaQFoF/9x/oxxg==",
-        "icono": "https://cdn.conmebol.com/wp-content/uploads/2024/05/CopaAmerica2024_PRINCIPAL_RGB_Full-color_FondoClaro.png"
-      },
-      {
         "name": "EVENTOS STAR",
         "uri": "QA16eDaLX8RFPUV1t69xKOwpPgzgKp8SeCmNlY/Gu6exjH/JgZn52Kk5t9SIjDA56f/RF6IwaiEcdSH+WOZDSv9u+ytgDH+Jyuxor/ROWCI=",
         "drm_scheme": "clearkey",
