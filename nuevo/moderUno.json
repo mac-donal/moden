@@ -2,13 +2,20 @@
   {
     "name": "🏆 EVENTOS EN VIVO",
     "samples": [
-      {   
-        "name": "⚽️Copa América: Colombia vs. Paraguay",
+      {  
+	"name": "Copa América: Colombia vs. Paraguay",
+        "uri": "EkaIwYvYUQmdu8f0KwsOZaLchbLKSm8ry8p59CEOqa1zNSwpiY8o8ZH8QMPKV3hWtVVrW7BMQBSRISJ2FEaUYbdtk1gOXw+SgFeuxXGgqAzkUuA4t2bIkxFrwVytIQd2",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvFMJ5UCXW/AUt7MWkY6QE2TyLkfTs3HK1+LPQuSsFqj0BetU2ThDTxLqGRlSYXRl4L4rUmn141tvPGRiCeITMmYLyzk3i9mmm5cOiM85i93u2l5hxkCldVq0XbNOATprjw==",
+        "icono": "https://pbs.twimg.com/profile_images/450290479574167553/zuArPE05_400x400.jpeg"
+      },
+      {      
+        "name": "⚽️Copa América: Colombia vs. Paraguay 2",
          "uri": "c5KxXJGSOA1+kgXAwC02Yb8KGIlyPtsgq/d3o5qM7wKtU29VJHcmvWqiP4H/XSapBGCw340ZUH9eAinfK1Yd19aizktWEtfSfMrtgoT5LM0UuDXLA0iTaAVd8XFx0x+8CLbIYkvXdaQFoF/9x/oxxg==",
         "icono": "https://pbs.twimg.com/profile_images/450290479574167553/zuArPE05_400x400.jpeg"
       },
       {
-	"name": "⚽️Copa América: Colombia vs. Paraguay 2",
+	"name": "⚽️Copa América: Colombia vs. Paraguay 3",
          "uri": "i8zCqfKpzNXsXuHQnR0xx8h1Evau6vE3NqF8aH2FvtiYp7zNBYHtOlAa/TONy9xcz6y0IOZJE1/ID3YcDOWlaVXfTN/hTjmOmWkmOP+njbE85SLTiwZ6SxSXZxsm0PYIJv5V1uHoHIKbIWuRgfsHOQ==",
         "icono": "https://pbs.twimg.com/profile_images/450290479574167553/zuArPE05_400x400.jpeg"
       },
