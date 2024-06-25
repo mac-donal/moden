@@ -40,19 +40,26 @@
         "name": "LIGA URUGUAYA 2",
         "uri": "mzBHFZTO5OrTE1MccUc1x+XquZlH6iFApY8rhXl9cp7NQ849gEeEAwUGOgubZlLv2e9H+6PDfiC1C09Q/p4CV3YFOZgBrRBITsHBqhgqnUA=",
         "icono": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1592.png"
-      },
-      {     
+       },
+      {
         "name": "Peru vs Canada",
-        "uri": "/h23LHqVqNPWimP7TpXp00M0hGATsaXZCK1Osea7uH3v1S2XBApMb2Ono3bYah5HVo5WrjdhqTz88RjflHQddH6h18Sa5PVP07xs/053IkW6hOeyDmZquocQcPnW4275cveGQHNiGfZz7JP8r3y8Dx4r4rYGjqzgr7qpjuhxq2Xge8IK1Cz7GLtDfXm6g5EMJmn+9mgP3PHLoaygAAR3EL1GnRnKWCg3MBA3PtC4+IIUeUloeLkspZmXv0GCUyWP2oJjp7tELmJme6cdgbfG1Q==",
-        "icono": "https://cdn.conmebol.com/wp-content/uploads/2024/05/CopaAmerica2024_PRINCIPAL_RGB_Full-color_FondoClaro.png" 
+        "uri": "IkhXerJEfmDkaV5hhmH0fAo0VeYbI2wrz9dWvuhIVttCf1GUjfb4MMlMACA0DxAGIyO+OpyHEAbEqIm02Lvq2+S9M/W5yGsD+koj5PJl8cEZmrDhqHT1s2GbgSmRX+Xs",
+	"drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvA1kp49JYTx5O/hfgqDQUT3xwsIzvzgxhshXjohSXtxA+IROZyjKdH5sGt6G+kSU1Y7+xofz4gj5haTRiqCHS/MtNU2DZrvsjfFVJTUjW8sxnkorAolbpBfEGtTAQ6YRuA==",
+        "icono": "https://cdn.conmebol.com/wp-content/uploads/2024/05/CopaAmerica2024_PRINCIPAL_RGB_Full-color_FondoClaro.png"
       },
-      {     
-        "name": "Peru vs Canada opc 2",
+      { 
+        "name": "Peru vs Canada 2",
         "uri": "/h23LHqVqNPWimP7TpXp00M0hGATsaXZCK1Osea7uH3v1S2XBApMb2Ono3bYah5HVo5WrjdhqTz88RjflHQddH6h18Sa5PVP07xs/053IkW6hOeyDmZquocQcPnW4275cveGQHNiGfZz7JP8r3y8Dx4r4rYGjqzgr7qpjuhxq2Xge8IK1Cz7GLtDfXm6g5EMJmn+9mgP3PHLoaygAAR3EL1GnRnKWCg3MBA3PtC4+IIUeUloeLkspZmXv0GCUyWP2oJjp7tELmJme6cdgbfG1Q==",
         "icono": "https://cdn.conmebol.com/wp-content/uploads/2024/05/CopaAmerica2024_PRINCIPAL_RGB_Full-color_FondoClaro.png" 
       },
       {     
         "name": "Peru vs Canada opc 3",
+        "uri": "/h23LHqVqNPWimP7TpXp00M0hGATsaXZCK1Osea7uH3v1S2XBApMb2Ono3bYah5HVo5WrjdhqTz88RjflHQddH6h18Sa5PVP07xs/053IkW6hOeyDmZquocQcPnW4275cveGQHNiGfZz7JP8r3y8Dx4r4rYGjqzgr7qpjuhxq2Xge8IK1Cz7GLtDfXm6g5EMJmn+9mgP3PHLoaygAAR3EL1GnRnKWCg3MBA3PtC4+IIUeUloeLkspZmXv0GCUyWP2oJjp7tELmJme6cdgbfG1Q==",
+        "icono": "https://cdn.conmebol.com/wp-content/uploads/2024/05/CopaAmerica2024_PRINCIPAL_RGB_Full-color_FondoClaro.png" 
+      },
+      {     
+        "name": "Peru vs Canada opc 4",
         "uri": "mzBHFZTO5OrTE1MccUc1x7bKsW3VUzEErGPtoSkht96ADt9FL7vwphp33+sNO3VJKVSGh7cfyRRkU9CrByLwJ4NARVoQWmbbLUeFMmgHLa8=",
         "icono": "https://cdn.conmebol.com/wp-content/uploads/2024/05/CopaAmerica2024_PRINCIPAL_RGB_Full-color_FondoClaro.png" 
       },
