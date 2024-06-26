@@ -3,10 +3,10 @@
     "name": "🏆 EVENTOS EN VIVO",
     "samples": [
       {  
-	"name": "Copa América: Colombia vs. Paraguay",
-        "uri": "EkaIwYvYUQmdu8f0KwsOZaLchbLKSm8ry8p59CEOqa1zNSwpiY8o8ZH8QMPKV3hWtVVrW7BMQBSRISJ2FEaUYbdtk1gOXw+SgFeuxXGgqAzkUuA4t2bIkxFrwVytIQd2",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvFMJ5UCXW/AUt7MWkY6QE2TyLkfTs3HK1+LPQuSsFqj0BetU2ThDTxLqGRlSYXRl4L4rUmn141tvPGRiCeITMmYLyzk3i9mmm5cOiM85i93u2l5hxkCldVq0XbNOATprjw==",
+	"name": "Copa América",
+        "uri": "IkhXerJEfmDkaV5hhmH0fAo0VeYbI2wrz9dWvuhIVttCf1GUjfb4MMlMACA0DxAGIyO+OpyHEAbEqIm02Lvq2+S9M/W5yGsD+koj5PJl8cEZmrDhqHT1s2GbgSmRX+Xs",
+	"drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvA1kp49JYTx5O/hfgqDQUT3xwsIzvzgxhshXjohSXtxA+IROZyjKdH5sGt6G+kSU1Y7+xofz4gj5haTRiqCHS/MtNU2DZrvsjfFVJTUjW8sxnkorAolbpBfEGtTAQ6YRuA==",
         "icono": "https://pbs.twimg.com/profile_images/450290479574167553/zuArPE05_400x400.jpeg"
       },
       {      
@@ -37,8 +37,8 @@
         "icono": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1592.png"
       },
       {      
-        "name": "LIGA URUGUAYA 2",
-        "uri": "mzBHFZTO5OrTE1MccUc1x+XquZlH6iFApY8rhXl9cp7NQ849gEeEAwUGOgubZlLv2e9H+6PDfiC1C09Q/p4CV3YFOZgBrRBITsHBqhgqnUA=",
+        "name": "COPÁ AMERICA",
+        "uri": "c5KxXJGSOA1+kgXAwC02Yb8KGIlyPtsgq/d3o5qM7wKtU29VJHcmvWqiP4H/XSapBGCw340ZUH9eAinfK1Yd19aizktWEtfSfMrtgoT5LM0UuDXLA0iTaAVd8XFx0x+8CLbIYkvXdaQFoF/9x/oxxg==",
         "icono": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1592.png"
        },
       {
@@ -460,8 +460,10 @@
         "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg"
       },
       {
-        "name": "NO FUNCIONA TYC SPORT (PLAY 14)",
-        "uri": "Riv7u0opSQq4BSIFEeSVymSU7NYpethjtBKsmWkyZQO3IwOBzt9M4YMSEWwRpdxA8v1Cf2jvskj3oquxiSP4bA==",
+        "name": "TYC SPORT (PLAY 14)",
+        "uri": "IkhXerJEfmDkaV5hhmH0fAo0VeYbI2wrz9dWvuhIVttCf1GUjfb4MMlMACA0DxAGIyO+OpyHEAbEqIm02Lvq2+S9M/W5yGsD+koj5PJl8cEZmrDhqHT1s2GbgSmRX+Xs",
+	"drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvA1kp49JYTx5O/hfgqDQUT3xwsIzvzgxhshXjohSXtxA+IROZyjKdH5sGt6G+kSU1Y7+xofz4gj5haTRiqCHS/MtNU2DZrvsjfFVJTUjW8sxnkorAolbpBfEGtTAQ6YRuA==",
         "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg"
       },
       {
