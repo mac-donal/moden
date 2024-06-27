@@ -26,23 +26,10 @@
       },
       {      
         "name": "COPÁ AMERICA",
-        "uri": "c5KxXJGSOA1+kgXAwC02Yb8KGIlyPtsgq/d3o5qM7wKtU29VJHcmvWqiP4H/XSapBGCw340ZUH9eAinfK1Yd19aizktWEtfSfMrtgoT5LM0UuDXLA0iTaAVd8XFx0x+8CLbIYkvXdaQFoF/9x/oxxg==",
+        "uri": "IkhXerJEfmDkaV5hhmH0fAo0VeYbI2wrz9dWvuhIVttCf1GUjfb4MMlMACA0DxAGIyO+OpyHEAbEqIm02Lvq2+S9M/W5yGsD+koj5PJl8cEZmrDhqHT1s2GbgSmRX+Xs",
+	"drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvA1kp49JYTx5O/hfgqDQUT3xwsIzvzgxhshXjohSXtxA+IROZyjKdH5sGt6G+kSU1Y7+xofz4gj5haTRiqCHS/MtNU2DZrvsjfFVJTUjW8sxnkorAolbpBfEGtTAQ6YRuA==",
         "icono": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1592.png"
-       },
-      {
-        "name": "Ucrania vs Belgica",
-        "uri": "mzBHFZTO5OrTE1MccUc1x9KXJ5epYkz7/Iw91CRkusOADt9FL7vwphp33+sNO3VJKVSGh7cfyRRkU9CrByLwJ4NARVoQWmbbLUeFMmgHLa8=",
-        "icono": "https://cdn.conmebol.com/wp-content/uploads/2024/05/CopaAmerica2024_PRINCIPAL_RGB_Full-color_FondoClaro.png"
-      },
-      {   
-        "name": "Ucrania vs Belgica",
-        "uri": "mzBHFZTO5OrTE1MccUc1x9KXJ5epYkz7/Iw91CRkusOADt9FL7vwphp33+sNO3VJKVSGh7cfyRRkU9CrByLwJ4NARVoQWmbbLUeFMmgHLa8=",
-        "icono": "https://cdn.conmebol.com/wp-content/uploads/2024/05/CopaAmerica2024_PRINCIPAL_RGB_Full-color_FondoClaro.png" 
-      },
-      {   
-        "name": "Eslovaquia vs Rumania",
-        "uri": "mzBHFZTO5OrTE1MccUc1x4yy90x4kUYP3OhXROLsjlSADt9FL7vwphp33+sNO3VJKVSGh7cfyRRkU9CrByLwJ4NARVoQWmbbLUeFMmgHLa8=",
-        "icono": "https://cdn.conmebol.com/wp-content/uploads/2024/05/CopaAmerica2024_PRINCIPAL_RGB_Full-color_FondoClaro.png"      
       }
     ]
   },
