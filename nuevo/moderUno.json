@@ -3241,7 +3241,7 @@
       {
         "name": "pruebas502",
         "uri": "qqbhflwYRsrkT3GeUJ4JJt0R8xoMi3IUFxVy5f9kI52XbGT/IDrTPmtOh6WJ1p5WJT31OtPMXnM9AI8KGRC1aFYYKmSRbAhTNvqNvVSfssCU3esxOxKbxhhgyufax5pJ9eQvzbOHOnfh8f+/pyPXta7OHy50iCio8r4pjfESODs=",
-	"drm_scheme": "widevine",
+	"drm_scheme": "clearkey",
         "drm_license_uri": "8tBTy9meTePQNs5XbK6v42HFTmn11CQRj8gyJWG6Z05MBRnmWHFBjA9ninQZjUea",
         "icono": "https://www.coicom.com/wp-content/uploads/2022/08/Canal-Luz-2022.jpg"
       },
