@@ -47,7 +47,9 @@
       },
       {    
         "name": "COPA AMERICA",
-        "uri": "9TlABLOm9klEcDckeOXLkJjNau4spwSCQtetiWobQsY=",
+        "uri": "/m+o3N/cYlwiqHkF+FtVcWPKin7EbfQjpsYemh/Wfe9HkAIZrzTWgzT9l2KQEBq9A6i47Of1dPI1Ljew/MIicUW6ddmTekkzm5gB9DjU+iX/bvsrYAx/icrsaK/0Tlgi",
+	"drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvF2fEnOC7oV4IWRfU+9bo1YSMbZPXwgmqYlcyquFKKTtrd89O3sSlackmEzUI2fqD+oZx58Hs64S90Lo1fOOLyBTBN4/toK2qS+KMCkhN1CUCbSVe39Q23HY5dwTT78BEg==",
         "icono": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1592.png"      
       }
     ]
