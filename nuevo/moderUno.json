@@ -308,7 +308,7 @@
         "uri": "sc236tYMvtOlZXp4ZFTatLvhrWC5N38Dw3N+GDPvgJO8DWSXIYf68+NyywhyAPbwiuM+dz6tpxJmKa34jT2LD08kXoupNrHLDElZz0uW+mmq+bzAm9d5NDg6taHc5IydC507gLx46P9Vih9K4VCsU3z2C7xiMg1X8IRy5AboDMU=",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvDMFkWyDrOjm8TtJc5oQ+k6HlgPO49M5LZHuxuOUmIHw7J8eHVmBvjLeSFZz/qQAeG+TGkPjp6GSSjmAueOnS1+GofsEZ5E3YStyKs+Boim3pgafMbHBS7/mwbRwnlE19g==",
-        "icono": "https://i.ibb.co/gJ9z814/o-h-1-895-bein-sports-xtra-1.png"
+        "icono": "https://i.ibb.co/gJ9z814/o-h-1-895-bein-sports-xtra-1.png"	      
       }
     ]
   },
@@ -586,20 +586,22 @@
   {
     "name": "⚽DEPORTES BRASIL",
     "samples": [
-      {
+      {      
         "name": "BAND",
         "uri": "wisu88x5hrOXK3Os38U4RCGWh0NhHseKok/XQMauqQSw7mZOx39XR8uoaKGcWZ+RRBWq5aifGL0+UoOUEZ8Bwg==",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTphqiHY96AUznO3T9HES858PcRGhgh-l9IEA&s"
       },
-      {       
+      {         
         "name": "BAND SPORTS",
         "uri": "7YyJ0bTMMpA6ZPEd5Ozn3QcnS9oSblvO5lNPd09nqwaKfkcCVQtZynZD89KotPwgdgU5mAGtEEhOwcGqGCqdQA==",
         "icono": "https://i.ibb.co/WWrRh4X/Band-Sports.png"
       },
-      {     
-        "name": "BAND SPORTS OPC 2",
-        "uri": "OaFh98aJl0jvQaG5/qpawpEb1imxyllH0lY/FtGoe9kcnQYQtUEJ2DNn4CXqoei3",
-        "icono": "https://i.ibb.co/WWrRh4X/Band-Sports.png"
+      {    
+        "name": "V Sports",
+        "uri": "/m+o3N/cYlwiqHkF+FtVcWPKin7EbfQjpsYemh/Wfe9HkAIZrzTWgzT9l2KQEBq9A6i47Of1dPI1Ljew/MIicUW6ddmTekkzm5gB9DjU+iX/bvsrYAx/icrsaK/0Tlgi",
+	"drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvF2fEnOC7oV4IWRfU+9bo1YSMbZPXwgmqYlcyquFKKTtrd89O3sSlackmEzUI2fqD+oZx58Hs64S90Lo1fOOLyBTBN4/toK2qS+KMCkhN1CUCbSVe39Q23HY5dwTT78BEg==",
+        "icono": "https://pbs.twimg.com/profile_images/948616709375590400/y7mEAPwy_400x400.jpg"  
       },
       {
         "name": "BR NEWS SPORT",
