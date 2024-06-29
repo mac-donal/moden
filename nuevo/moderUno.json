@@ -70,9 +70,9 @@
       },
       {    
         "name": "COPÁ AMERICA",
-        "uri": "x/xWkNrovMYmGeIV76G4pOWzEePFvZC2/a11JIOm1xJXeVi/N9Knx4JHi7N6/rMC/yPCNdrQH2XIWii9DFme9EKqgItfBdwmpITR2hxvwtk=",
-        "drm_scheme": "widevine",
-        "drm_license_uri": "TKTvsoxXqhUPckfmw9KaJ1BJjz5Qp1hMqmbGpmW/pKbjMV/Qk1td8XUVv0XaldPoUNDX/RcRpbHq0SgitA0mNiYeb/JyFW/Y1KkCFMMgDI1EN/z+9HykWZ25reb4ot/g",
+        "uri": "kLzT+cququRriT9kOdZAbLuPtqzMT0qIkYh8yAG147Cfrom6nzB9RpFGyIo+mjxkBXR8OumEJEMYGuZuWce0KctZewsHz82xmPWEMyud1r+MJsskEhpTV72EG6tsMNNB",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "TQSPBT5fFAmrHLJIeXbfedDUWvSmPfL8M7ABGZETTOgq6eG0eG/6KfI+viGgA9GQdyACVJkYxVw30YI4COVYM7Ru++PUOxta6w8Ws4kd5iUJSRKt2+GOn4R7XDpHth9TqbG4fpDUJkmWybSNaSeMUA==",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1ofRK-yK342xejmufie4HwL6tQzk3DSLYxg&s"
       },
       {  
