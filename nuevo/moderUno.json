@@ -1349,11 +1349,16 @@
         "icono": "https://barranquerasonline.com.ar/wp-content/uploads/2018/05/unnamed.jpg"
       },
       {
-        "name": "TELEFE SANTA FE",
+        "name": "Televisión Santafesina",
         "uri": "LX46EnLWmPsTQWzzE5C2pKknSrgNrnuepyfiGtakUBjI14gcUId9dvA55++zUdDgB+sF3cDP0u4J9kAqpp90beg1c66ypqo9nLpdPsipS3uKp9jBp2/g3jx/mKleUChcaeOQC5B3HMPhPFrje2g56Q==",
         "drm_scheme": "clearkey",
         "drm_license_uri": "Ye6hKDznXXGTKOm2LtaO9qFLkq5WCXIt6en2Wq44wSxikmnnlzCobwDRVVTPEabY",
         "icono": "https://static.tvar.io/imagenes/telefesfe.png"
+      },
+      {
+        "name": "SANTAFE CANAL",
+        "uri": "zDHHGNxDnEgTHK6vTo0oda+n6v3n3IBI/IBP4dfsOzggfP/SFX2OlfoBSMv78yWE4uMquXJNmiYS2F7mxYealQ2xNLbuLfzqaPaV5O5EbJ8=",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/7/71/Santa_Fe_Canal.png"
       },
       {
         "name": "CANAL 10 TUCUMAN",
