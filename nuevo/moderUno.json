@@ -559,33 +559,26 @@
         "uri": "7YyJ0bTMMpA6ZPEd5Ozn3QcnS9oSblvO5lNPd09nqwaKfkcCVQtZynZD89KotPwgdgU5mAGtEEhOwcGqGCqdQA==",
         "icono": "https://i.ibb.co/WWrRh4X/Band-Sports.png"
       },
-      {           
+      {             
         "name": "V SPORT 1",
-        "uri": "CYlQWvgrBt33TVbofiuilCnODtrTtvoEDKmy2vg6Q2TK+PSGUMRkBUOgNzl0cp2wGQNZd5aOozQce25EJWfrFcN+DzO93OBEKmuswVuNgGSTMgDf9fn3wqB5GZ5avw9Dy6kRnYqQJnVVBGEs/O/tJw==",
-	    "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvF/f1qi3MmxtEGZTVgOMr3EOAVzrohhdC4ReGZjxmR9/o2SIcTjY1+xpm4i8aBV55awG2pnfCfoQyYBBsLhMS4gzHeYxIthzL6Pzf1Jy1i/4IDdO+KxsH1kHPjVw3qeZpw==",     
-        "icono": "https://www.lyngsat.com/logo/tv/vv/v-sport-live-1.svg"
-      },
-      {    
-        "name": "V SPORT 1 OPC 2",
         "uri": "/m+o3N/cYlwiqHkF+FtVcWPKin7EbfQjpsYemh/Wfe9HkAIZrzTWgzT9l2KQEBq9A6i47Of1dPI1Ljew/MIicUW6ddmTekkzm5gB9DjU+iX/bvsrYAx/icrsaK/0Tlgi",
 	    "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvF2fEnOC7oV4IWRfU+9bo1YSMbZPXwgmqYlcyquFKKTtrd89O3sSlackmEzUI2fqD+oZx58Hs64S90Lo1fOOLyBTBN4/toK2qS+KMCkhN1CUCbSVe39Q23HY5dwTT78BEg==",     
-        "icono": "https://www.lyngsat.com/logo/tv/vv/v-sport-live-1.svg"
+        "icono": "https://www.connecttv.se/app/uploads/2021/11/vsport_logo_vert_cmyk_pos-1920x1738.png"
       },
       {                
         "name": "V SPORT 2",
          "uri": "/m+o3N/cYlwiqHkF+FtVcWPKin7EbfQjpsYemh/Wfe9HkAIZrzTWgzT9l2KQEBq9A6i47Of1dPI1Ljew/MIicYh9SHe/u77VXKyDaERw4hf/bvsrYAx/icrsaK/0Tlgi",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvBjApzM2JqNMmh2mAkZpDexKNXYZGAoS1uyn7DySRAU1LttetSN8go0TELOuuq15jXXhZte1FBtbvBB8RYwsFe66ts+iNhujD0n/UPsYf46SZBwu/4MXv4stS4KnB13hAA==",
-        "icono": "https://www.lyngsat.com/logo/tv/vv/v-sport-live-2.svg"
+        "icono": "https://www.connecttv.se/app/uploads/2021/11/vsport_logo_vert_cmyk_pos-1920x1738.png"
       },
       {                
         "name": "V SPORT 3",
          "uri": "/m+o3N/cYlwiqHkF+FtVcWPKin7EbfQjpsYemh/Wfe9HkAIZrzTWgzT9l2KQEBq9XRzcakLMniIRNi/zYNoxvqXXVRicjUerCNFzU9FhAY//bvsrYAx/icrsaK/0Tlgi",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvHxSPxBUlkHN4ulD16eskDC3gbQUccouF/NMYIMcURPHC0MBN/4MWtPJXT66xKsuLma/3s8bDlH9H5pGwwGSU6vOF43V8e83zTKVQIEJofAn78gGH+Dz+rGTjHt7xM+yCw==",
-        "icono": "https://www.lyngsat.com/logo/tv/vv/v-sport-live-3.svg"
+        "icono": "https://www.connecttv.se/app/uploads/2021/11/vsport_logo_vert_cmyk_pos-1920x1738.png"
       },
       {  
         "name": "BR NEWS SPORT",
