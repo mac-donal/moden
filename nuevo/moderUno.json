@@ -503,19 +503,7 @@
       },
       {
         "name": "BEIN SPORTS EXTRA",
-        "uri": "sc236tYMvtOlZXp4ZFTatLvhrWC5N38Dw3N+GDPvgJO8DWSXIYf68+NyywhyAPbwiuM+dz6tpxJmKa34jT2LD08kXoupNrHLDElZz0uW+mmq+bzAm9d5NDg6taHc5IydC507gLx46P9Vih9K4VCsU3z2C7xiMg1X8IRy5AboDMU=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvDMFkWyDrOjm8TtJc5oQ+k6HlgPO49M5LZHuxuOUmIHw7J8eHVmBvjLeSFZz/qQAeG+TGkPjp6GSSjmAueOnS1+GofsEZ5E3YStyKs+Boim3pgafMbHBS7/mwbRwnlE19g==",
-        "icono": "https://i.ibb.co/gJ9z814/o-h-1-895-bein-sports-xtra-1.png"
-      },
-      {
-        "name": "BEIN SPORTS EXTRA op2 ",
         "uri": "+9TpcUU3jJLN9QFf4xYLhpHY2/3xWlSePNXfC++pm3clNsfOXGgBrmJWLMCgSYMvIhPfKF2XYnN+Uq1rgzaEFw==",
-        "icono": "https://i.ibb.co/gJ9z814/o-h-1-895-bein-sports-xtra-1.png"
-      },
-      {
-        "name": "BEIN SPORTS EXTRA OPC 3",
-        "uri": "tejgWTHYksmE8yjAljB0xyDKKVIBvu3lYNMZf65bAKzmVq6SWyyjvj8xYCc9A2hud6mrT33iior1kEq5RZYO4/v3zQSGGXjtwGkuOLFpgqU=",
         "icono": "https://i.ibb.co/gJ9z814/o-h-1-895-bein-sports-xtra-1.png"
       },
       {
@@ -774,9 +762,9 @@
         "icono": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Telefe-logo-1.jpg"
       },
       {
-        "name": "TELEFE OPC 2",
+        "name": "TELEFEE OPC 2",
         "uri": "hgyLEf1obfi7e+6+kI5AQQaAYi2Y9Xnhr4accAf2TnRkE72k0sqO+itovB662yOaG6JoTEav7tiOxyYI+/yN15sbpGLraiBI3O3GQ0RkhiBp45ALkHccw+E8WuN7aDnp",
-        "drm_scheme": "clearkey",
+        "drm_scheme": "widevine",
         "drm_license_uri": "TKTvsoxXqhUPckfmw9KaJ1BJjz5Qp1hMqmbGpmW/pKbPYoF5piKrK9Fr9acRoNv5DCvFlNGMVrQSxvUa5G8dtMU/rP5LeR2bGUb23pzbGKke/c5x2BZfsl1uS5xjiJvV",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Telefe-logo-1.jpg"
       },
