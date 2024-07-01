@@ -45,7 +45,12 @@
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvPcRPtDk1rjOyvl4Dw3uXaAK6gTjs3DkPGxE7+IWExAhygW/eA15NgYTSUplIrZ+bvr0dT4ZHaMMmi8dyxs7s3b480Qsogj0kjWSZTUsmesIqsS5kWZsuIgWLDLpUrTfIg==",     
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1ofRK-yK342xejmufie4HwL6tQzk3DSLYxg&s"
       },
-      {                
+      {    
+        "name": "Eurocopa 2024 OPC 4",
+        "uri": "1f2CSXaOvwHIeDRauiR0xSgjiwRgROEOonwcZHCxt7sgK5SLtTIgn3JESsG/HVcGTWzmel8AUg4kBcnjS5nEHsFXrmiY2080z7md1yjmp8xXHKFL/dpFdxM7Xy37+hxvSHSbEqQRMOGalyc5VoYf6exx4S5DCKxNjWQE6W9Dclpyvndn4xIogVPTmipLhhL3",   
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1ofRK-yK342xejmufie4HwL6tQzk3DSLYxg&s"
+      },
+      {                 
         "name": "COPÁ AMERICA",
          "uri": "kLzT+cququRriT9kOdZAbLuPtqzMT0qIkYh8yAG147Cfrom6nzB9RpFGyIo+mjxkBXR8OumEJEMYGuZuWce0KctZewsHz82xmPWEMyud1r+MJsskEhpTV72EG6tsMNNB",
         "drm_scheme": "clearkey",
@@ -61,7 +66,9 @@
       },
       {    
         "name": "COPÁ AMERICA OPC 3",
-        "uri": "1f2CSXaOvwHIeDRauiR0xSgjiwRgROEOonwcZHCxt7sgK5SLtTIgn3JESsG/HVcGTWzmel8AUg4kBcnjS5nEHsFXrmiY2080z7md1yjmp8xXHKFL/dpFdxM7Xy37+hxvSHSbEqQRMOGalyc5VoYf6exx4S5DCKxNjWQE6W9Dclpyvndn4xIogVPTmipLhhL3",
+        "uri": "IkhXerJEfmDkaV5hhmH0fAo0VeYbI2wrz9dWvuhIVttCf1GUjfb4MMlMACA0DxAGIyO+OpyHEAbEqIm02Lvq2+S9M/W5yGsD+koj5PJl8cEZmrDhqHT1s2GbgSmRX+Xs",
+	"drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvA1kp49JYTx5O/hfgqDQUT3xwsIzvzgxhshXjohSXtxA+IROZyjKdH5sGt6G+kSU1Y7+xofz4gj5haTRiqCHS/MtNU2DZrvsjfFVJTUjW8sxnkorAolbpBfEGtTAQ6YRuA==",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1ofRK-yK342xejmufie4HwL6tQzk3DSLYxg&s"
       },
       {     
