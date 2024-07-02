@@ -26,11 +26,18 @@
       },
       {
         "name": "Estados Unidos vs Uruguay",
-        "uri": "3WGD9hqQsvZFytSIkZnRZgL2NOX651GA5Xm667Rpm4w2TurXojsv2pnpB3XQLDhecggr5nDhg6h0F07e8MHLrtJlGjNMdvjgT9DwSD/nas6jNqY1NwQpbHTPNY2rNHlWOF+mRYAO1n6w4quceO5IPpRgGSBR6+7NLD1u67DaGCM=",
+        "uri": "kLzT+cququRriT9kOdZAbLuPtqzMT0qIkYh8yAG147Cfrom6nzB9RpFGyIo+mjxkBXR8OumEJEMYGuZuWce0KctZewsHz82xmPWEMyud1r+MJsskEhpTV72EG6tsMNNB",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "TQSPBT5fFAmrHLJIeXbfedDUWvSmPfL8M7ABGZETTOgq6eG0eG/6KfI+viGgA9GQdyACVJkYxVw30YI4COVYM7Ru++PUOxta6w8Ws4kd5iUJSRKt2+GOn4R7XDpHth9TqbG4fpDUJkmWybSNaSeMUA==",
         "icono": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1592.png"
       },
       {
         "name": "Estados Unidos vs Uruguay OPC 2",
+        "uri": "3WGD9hqQsvZFytSIkZnRZgL2NOX651GA5Xm667Rpm4w2TurXojsv2pnpB3XQLDhecggr5nDhg6h0F07e8MHLrtJlGjNMdvjgT9DwSD/nas6jNqY1NwQpbHTPNY2rNHlWOF+mRYAO1n6w4quceO5IPpRgGSBR6+7NLD1u67DaGCM=",
+        "icono": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1592.png"
+      },
+      {
+        "name": "Estados Unidos vs Uruguay OPC 3",
         "uri": "3WGD9hqQsvZFytSIkZnRZgL2NOX651GA5Xm667Rpm4w2TurXojsv2pnpB3XQLDhecggr5nDhg6h0F07e8MHLrtJlGjNMdvjgT9DwSD/nas6jNqY1NwQpbHTPNY2rNHlWmd7hHOmKd4y+kc0WCImG3ZRgGSBR6+7NLD1u67DaGCM=",
         "icono": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1592.png"
       },
