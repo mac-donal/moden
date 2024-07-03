@@ -3356,15 +3356,18 @@
         "drm_scheme": "widevine",
         "drm_license_uri": "TKTvsoxXqhUPckfmw9KaJ1BJjz5Qp1hMqmbGpmW/pKY9EM+J3g58qbPQ2HadNdbgUTbd4EGuxQHQkkDgLnq0LrO8Q2fE7pI+BPznmjtbdml3iKMm4KDS1CWr5sc2nKNh",
         "icono": "https://static.flow.com.ar/images/9497/CH_LOGO/350/500/0/0/49781180078327.png"
-      },
-      {
-        "name": "USA 28",
-        "uri": "KusJ5ShfomSLrFIJxHev/lZUC6R71wyEykNA2u1z8lCXfymEfZKVjJaXPcutg/lMyNVAetl3UCg8K0g32Hf+4bKBtBlrO3Vsr8Zuq1LrcmMeTUEUgDA6ozI+gIWdo2mIaeOQC5B3HMPhPFrje2g56Q==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvAr2vc0YSEgPps6GIzsqHnKy+ckKP7XLnBFHFXba9x0nUDKFtN7tDf8Uoprx+LxpSMPSUHH6HKeKQwvy58tJLwikI6D02PA07uy5+lq2i1ABAv+qvFI/UhH2cGi+v9ZqDw==",
-        "icono": "https://static.flow.com.ar/images/9497/CH_LOGO/350/500/0/0/49781180078327.png"
-      },
-      {
+    },
+    {
+      "name": "USA",
+      "uri": "I7HO2vaDEGf6CRpjqrwYus8syo3fu/icCIdhd2x8IdoQgWo6mt2y/eSB18yE8lZ+QtInbRkbE14LBmh0t7dwK4c9xyUW3L1eK6P3bHCe0NY=",
+      "web": "no",
+      "icono": "usanet",
+      "license": "ZXVhsIXESYvKc82xtn7xtXGXSBg7DQMxZsqcuDiVWK71/aRRiahUJpo4J4TCICLNhv5Wvk7bO3cdsW/VCnkOdnjK8YRt86YNeeoVHVbrcozLwOFaHqVy/VxSzreIp5sf",
+      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-3)",
+      "origin": "",
+      "referer": "1+HZcuuQ8b633MbAvJbH1WupJ1sE3jYLQvpDQhbP8kI="
+    },
+    {
         "name": "flow",
         "uri": "hgyLEf1obfi7e+6+kI5AQaxOXVMZEWPu63kQb/frwLTusMIjYmmEE1Z0+w1SWGhGKfRGfx8145jABGMZZQICPHtAnN+gG7ei+/A++ufE/yI=",
         "drm_scheme": "clearkey",
