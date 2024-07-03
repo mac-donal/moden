@@ -3356,15 +3356,9 @@
         "drm_scheme": "widevine",
         "drm_license_uri": "TKTvsoxXqhUPckfmw9KaJ1BJjz5Qp1hMqmbGpmW/pKY9EM+J3g58qbPQ2HadNdbgUTbd4EGuxQHQkkDgLnq0LrO8Q2fE7pI+BPznmjtbdml3iKMm4KDS1CWr5sc2nKNh",
         "icono": "https://static.flow.com.ar/images/9497/CH_LOGO/350/500/0/0/49781180078327.png"
-    },
-    {
-      "name": "USA",
-      "uri": "I7HO2vaDEGf6CRpjqrwYus8syo3fu/icCIdhd2x8IdoQgWo6mt2y/eSB18yE8lZ+QtInbRkbE14LBmh0t7dwK4c9xyUW3L1eK6P3bHCe0NY=",
-      "license": "ZXVhsIXESYvKc82xtn7xtXGXSBg7DQMxZsqcuDiVWK71/aRRiahUJpo4J4TCICLNhv5Wvk7bO3cdsW/VCnkOdnjK8YRt86YNeeoVHVbrcozLwOFaHqVy/VxSzreIp5sf",
-      "icono": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1592.png"
-      "referer": "1+HZcuuQ8b633MbAvJbH1WupJ1sE3jYLQvpDQhbP8kI=",
-    },
-    {
+     },
+     {
+
         "name": "flow",
         "uri": "hgyLEf1obfi7e+6+kI5AQaxOXVMZEWPu63kQb/frwLTusMIjYmmEE1Z0+w1SWGhGKfRGfx8145jABGMZZQICPHtAnN+gG7ei+/A++ufE/yI=",
         "drm_scheme": "clearkey",
