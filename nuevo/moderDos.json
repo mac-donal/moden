@@ -3,6 +3,11 @@
     "name": "PELICULAS RECIEN AGREGADAS",
     "samples": [
       {
+        "name": "Indiana Jones 5",
+        "uri": "1mHdscnSaPBrhFQNZgeuvFzVwZueQJP6ZGJINwOsd4UtTnLFgCpf6XaeNnOTWXdYwurzpGpmz9ZU/ZxDueWHgg==",
+        "icono": "https://image.tmdb.org/t/p/w500/Af4bXE63pVsb2FtbW8uYIyPBadD.jpg"
+      },
+      {
         "name": "El secreto del reino perdido",
         "uri": "e3DRxA0SeYh8rk33tSVR0kWKHILgduvuCCNbDvQmO3HVgGg5vgYKQNDZ2ADgFcg6",
         "icono": "https://mx.web.img3.acsta.net/c_310_420/pictures/20/12/12/03/57/0334802.png"
