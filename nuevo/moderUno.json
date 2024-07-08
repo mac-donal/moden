@@ -10,11 +10,6 @@
         "icono": "https://pbs.twimg.com/profile_images/450290479574167553/zuArPE05_400x400.jpeg"
       },
       {
-       "name": "Independiente - Olimpia ",
-        "uri": "bJQa8KiQqfpZHkZ+kOyvWtLvSmGks+2iRGjUeivBw2qsEYWzU4TjRlxv5iFl2lhPzZOlxa/L1DF6qD+8ZA/DzQ==",
-        "icono": "https://pbs.twimg.com/profile_images/450290479574167553/zuArPE05_400x400.jpeg"
-      },
-      {
         "name": "⚽️MLS",
         "uri": "Riv7u0opSQq4BSIFEeSVymSU7NYpethjtBKsmWkyZQOADVmPtsR7CCYyIw7HVen2YNrAd4MEUYWjOJVdq+TcIQ==",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/MLS_crest_logo_RGB_-_Inter_Miami_CF.svg/969px-MLS_crest_logo_RGB_-_Inter_Miami_CF.svg.png"
@@ -604,6 +599,11 @@
         "name": "TYC SPORT (PLAY 16)",
         "uri": "2QzJxNnfTqijFENHBcenR9L1dAINkUjO7m+zO3aARrrn8BEb5CKAa0/H8AC+3c4pKRVjQY4Bqw1tuiDuxK6yHg==",
         "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg"
+     },
+     {
+       "name": "Independiente - Olimpia ",
+        "uri": "bJQa8KiQqfpZHkZ+kOyvWtLvSmGks+2iRGjUeivBw2qsEYWzU4TjRlxv5iFl2lhPzZOlxa/L1DF6qD+8ZA/DzQ==",
+        "icono": "https://pbs.twimg.com/profile_images/450290479574167553/zuArPE05_400x400.jpeg"
       },
       {
         "name": "TUDN",
