@@ -589,8 +589,13 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvA1kp49JYTx5O/hfgqDQUT3xwsIzvzgxhshXjohSXtxA+IROZyjKdH5sGt6G+kSU1Y7+xofz4gj5haTRiqCHS/MtNU2DZrvsjfFVJTUjW8sxnkorAolbpBfEGtTAQ6YRuA==",
         "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg"
-     },
-     {
+      },
+      {
+        "name": "TYC SPORT (PLAY 15)",
+        "uri": "Riv7u0opSQq4BSIFEeSVymSU7NYpethjtBKsmWkyZQOjIi/NxAqz3FAmN0s3fzerzfju0t9UeEgn8AMU7XaeNw==",
+        "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg"
+      },
+      {
        "name": "Independiente - Olimpia ",
         "uri": "Riv7u0opSQq4BSIFEeSVymSU7NYpethjtBKsmWkyZQOjIi/NxAqz3FAmN0s3fzerzfju0t9UeEgn8AMU7XaeNw==",
         "icono": "https://pbs.twimg.com/profile_images/450290479574167553/zuArPE05_400x400.jpeg"
@@ -781,21 +786,6 @@
         "name": "PREMIERE 11 ",
         "uri": "c5KxXJGSOA1+kgXAwC02Yb8KGIlyPtsgq/d3o5qM7wKtU29VJHcmvWqiP4H/XSapBGCw340ZUH9eAinfK1Yd19aizktWEtfSfMrtgoT5LM0UuDXLA0iTaAVd8XFx0x+8CLbIYkvXdaQFoF/9x/oxxg==",
         "icono": "https://i.ibb.co/Sf3Fz0L/premiere.png"
-      },
-      {
-        "name": "SPORT TV 1",
-        "uri": "cX6k/BqWAA7QMYsGN4vPzJI2ype263O95t8HHI7aqXV/pJGMT2sw0aoMHps0R6F5FI1qG5LUF3dtTcfXN0orN71EGUMSseFu9WyD/FD5xrSwlU60AH1CzGhFhAsmekJLYn2MvCx3iCZ9P+ZPg63L6g==",
-        "icono": "https://afftvvolei.com.br/wp-content/uploads/2023/01/SporTV1.jpg"
-      },
-      {
-        "name": "SPORT TV 2",
-        "uri": "cX6k/BqWAA7QMYsGN4vPzJI2ype263O95t8HHI7aqXV/pJGMT2sw0aoMHps0R6F5FI1qG5LUF3dtTcfXN0orN7jGbn04usLURCYzX6OghvCwlU60AH1CzGhFhAsmekJLYn2MvCx3iCZ9P+ZPg63L6g==",
-        "icono": "https://afftvvolei.com.br/wp-content/uploads/2023/01/SporTV2.jpg"
-      },
-      {
-        "name": "SPORT TV 3",
-        "uri": "cX6k/BqWAA7QMYsGN4vPzJI2ype263O95t8HHI7aqXV/pJGMT2sw0aoMHps0R6F5FI1qG5LUF3dtTcfXN0orN5IWaTjgyV8rQ8btFnzlSaCwlU60AH1CzGhFhAsmekJLYn2MvCx3iCZ9P+ZPg63L6g==",
-        "icono": "https://afftvvolei.com.br/wp-content/uploads/2023/01/SporTV3.jpg"
       }
     ]
   },
