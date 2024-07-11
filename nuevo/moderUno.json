@@ -897,7 +897,7 @@
       },
       {
         "name": "CANAL 9 OPC2",
-        "uri": "HjDuBMh5stLomH2pnmVe+9DZr+XPTlAlqlitE7CL0TNnKq5D7MeOn3fg79bH449yu8oV6D/ddDdD7hwtnnLKcXYFOZgBrRBITsHBqhgqnUA=",
+        "uri": "SO7PaqFnX2XeJ1kRo1c/2lLubH7M5HtXe8JNuwGW79YQnAFenriLLeqTTyU5/J9LO5ng5OI3DZx3T3I9dt9BFg==",
         "icono": "https://argentina.mom-gmr.org/uploads/tx_lfrogmom/media/16014-1639_import.png"
       },
       {
@@ -909,6 +909,13 @@
       },
       {
         "name": "AMERICA TV OPC2",
+        "uri": "SO7PaqFnX2XeJ1kRo1c/2lLubH7M5HtXe8JNuwGW79boVcBHpOCrFyJXKj9V57WGmXQegwFC0QKGzNWyZ64BKw==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvNOz+gkQBn1UH2tDZXG1U7rVUKUcxK6crXvQa/1c7qOyIig0ThhEWAVg7a6qmLQU1aFUM9J8NlcKZ4cTcxuU10kqF68n27NCERSxh8FtlNE7uOwFeVFJ1mELeTocxicKoQ==",
+        "icono": "https://i.ibb.co/BrzJD0D/Logotipo-de-America.jpg"
+      },
+      {
+        "name": "AMERICA TV OPC 3",
         "uri": "8pWqonRwaClodoNuhgOgMuyjf99sU1a7tJGs58aRTi8fBwq+tOSEuUEljL6Uwd9B",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvNOz+gkQBn1UH2tDZXG1U7rVUKUcxK6crXvQa/1c7qOyIig0ThhEWAVg7a6qmLQU1aFUM9J8NlcKZ4cTcxuU10kqF68n27NCERSxh8FtlNE7uOwFeVFJ1mELeTocxicKoQ==",
