@@ -3,6 +3,13 @@
     "name": "🏆 EVENTOS EN VIVO",
     "samples": [
       {
+        "name": "prueba 1",
+        "uri": "KusJ5ShfomSLrFIJxHev/j5By7uj1sKtBL7rUGi+Xwx6mJt29B/oqSANh0rphCn6vNSX784qcWXo2+DJDe7iFgbTiwAqsvHP8WuIcFMJiEJge0WxMMW18vWtOmNkCOIz",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvNOz+gkQBn1UH2tDZXG1U7rVUKUcxK6crXvQa/1c7qOyIig0ThhEWAVg7a6qmLQU1aFUM9J8NlcKZ4cTcxuU10kqF68n27NCERSxh8FtlNE7uOwFeVFJ1mELeTocxicKoQ==",
+        "icono": "https://pbs.twimg.com/profile_images/450290479574167553/zuArPE05_400x400.jpeg"
+      },
+      {
         "name": "Copa América",
         "uri": "IkhXerJEfmDkaV5hhmH0fAo0VeYbI2wrz9dWvuhIVttCf1GUjfb4MMlMACA0DxAGIyO+OpyHEAbEqIm02Lvq2+S9M/W5yGsD+koj5PJl8cEZmrDhqHT1s2GbgSmRX+Xs",
         "drm_scheme": "clearkey",
