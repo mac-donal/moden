@@ -1161,11 +1161,6 @@
       },
       {
         "name": "Canal 10 Televisión Salteña",
-        "uri": "DBb8xNzsja39cqJe6Zqn4V505DKZt9wIThAE0hkBbJcuqG2fvk6ZEE2UcZRpD+2L4zD2+4hf2yshcdQiBwFl1U2P/4KJXplCT9hv6yp53QV23pEU7pbTiPe9Ez1/vs5jAdlfsSogUFoQWj7LkCQaVMXOinIaClGUDs5pyccKiI3V+XWWC3wbHPdSTlb6Zo7f",
-        "icono": "https://i.imgur.com/don0WSG.png"
-      },
-      {
-        "name": "Canal 10 Televisión Salteña",
         "uri": "ajBQHD9edjWmR3VhDB8DGt184RSsFBkFgOE6+G40ELBhtEQE2tFr/mLHW9jsbYKfqlDc4JF50SgpRCvy+Bms+Cc7iKnWvBu1vf62wjFyNw8=",
         "icono": "https://i.imgur.com/don0WSG.png"
       },
@@ -1196,9 +1191,9 @@
       },
       {
         "name": "CANAL 12 MISIONES",
-        "uri": "LX46EnLWmPsTQWzzE5C2pHTkdf04SSydzxlNIAAUkdgvXm/Xu4wiB4n1Yl3QMZ4tRTx3u6bTCSuyjGOgv+/uXuJtqx7A3vUxYcbP+61Ty27mtqz6uK8uq2z/vBg8JDMFwc1prmpV3kNa0KT/p+NdVQ==",
+        "uri": "hgyLEf1obfi7e+6+kI5AQXpNamYVy6ynelbGkCMqVz2IW0l+DRVQ8w2m+2FMjslhHXzdiUgkZ17bpH50KOHdlJwdNkK3TosE2xUInpuoj/KMJsskEhpTV72EG6tsMNNB",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "Ye6hKDznXXGTKOm2LtaO9vRHDvS79/4dFsG0xt/BVg56BSkzNGdoqTYOt4QQLynLWKLRBFKf6nilABrl8P8fag==",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvHYQC2JLqqKC0mZAVU9ndDEP5Q7YagD9GbwNFDxjrHvFDMqF0nnj5pHKhh/R3YVQShUgVVMRABQ3hoAfxy6X8LbE2f24JLxx6Jm8w3699ODmKuzzKLCkosJ9MnhHegF+pQ==",
         "icono": "https://play-lh.googleusercontent.com/-PKExuOlYu5MTFNI6avFdwDyAkU58ipz2NSp3U6w7Ii1RWmahAybkwgddctHeZFk2Q"
       },
       {
@@ -1212,7 +1207,7 @@
         "name": "CANAL C ARG",
         "uri": "kLzT+cququRriT9kOdZAbLuPtqzMT0qIkYh8yAG147CwOLD/T3M5qMbBAjPBMwjSR8mDVMycLVSECjgdZcc3K88vrzlnKefIolwJNi5ywSQ=",
         "drm_scheme": "widevine",
-        "drm_license_uri": "TKTvsoxXqhUPckfmw9KaJ1BJjz5Qp1hMqmbGpmW/pKatiF9rkHQmlxoOD0aouE6cWZXdfVT7Mg9oH2ii8UcbhQEwNKZyLi0+kfjuQWWK6AIovYv+lb6t14rV21tTKQDB",
+        "drm_license_uri": "TKTvsoxXqhUPckfmw9KaJ1BJjz5Qp1hMqmbGpmW/pKZvofeFsBAy3XiY+yvWSaey4R1XOnZQzoj/WeTZ2gXk7zZjwO3PjSr7Xxz42gRRX+WVxIv17oj8pTz/hX/NmFM2",
         "icono": "https://i.ibb.co/F6bXsYs/canal-c.png"
       },
       {
@@ -1275,11 +1270,6 @@
         "icono": "https://pbs.twimg.com/profile_images/928235234625228801/PrGLNPSS_400x400.jpg"
       },
       {
-        "name": "elpringlense",
-        "uri": "BwCt2YL2jA0p6g5tNuk+JI8gp8UyG5/4mFWQAmiZwewmsKY3Qz1YTnlO6Vek0uDORjbo6AH2EJnJlQMCHm9uu0M2FyCfzzDHWh+w9lYEhcA=",
-        "icono": "https://i.ibb.co/VtK5R3B/Whats-App-Image-2023-08-09-at-8-41-47-PM.jpg"
-      },
-      {
         "name": "Canal 10 Norte Vision Satelital",
         "uri": "bak6bVcZjlSIPvXt5mEKlDYQDg99z4fZsqdUtw2e8KyPF73IIGbZCQZzpmOFDrPEdzZnJuvVOUAjLW/lGskR1Q==",
         "icono": "https://yt3.googleusercontent.com/uBHyM2CWWRmlkojyatNovJFluIyXhEP4ekYcU85-oJcoNm-1sqHqNy-SvxexeZ0_c70i3X8mT0o=s900-c-k-c0x00ffffff-no-rjp"
@@ -1290,24 +1280,14 @@
         "icono": "https://multivisioncable.com.ar/imagenes/logo.jpg"
       },
       {
-        "name": "EL PALOMAR",
-        "uri": "cEJe+QuHW0/c9KGA1+OZYdESSp7OnIZJaWgTrbcV6NUwmg34iPcNiwDweF4Of5EQCi6oLZsd+JWbi9mmupz1Sg==",
-        "icono": "https://yt3.googleusercontent.com/ytc/AIdro_nMChmOURsEZY6l0n8IDuipFfnIkmy_fVC4ABj7gQ=s900-c-k-c0x00ffffff-no-rj"
-      },
-      {
         "name": "PANCTV TUCUMAN",
-        "uri": "cEJe+QuHW0/c9KGA1+OZYY5mKa5q4t47ICUOp2Ypai0nI/pMdYdcpCsRuRfwVDmqCi6oLZsd+JWbi9mmupz1Sg==",
+        "uri": "6L7uwyiepnXOYcZFkqv0cSwjUyoIJg9cvuNK2Aoev564SfejZ7HRsLSHC84kmkuxto045rz3w1NR2G+R7LhOLA==",
         "icono": "https://panelssh.com.ar/Img/panctvtucuman.png"
       },
       {
         "name": "Ciudad TV Resistencia (Chaco)",
         "uri": "+Z2+hWd52l8tnz3QKAcg7rJ4HR8kNFVr8tfh9jtAJp07vgdDOjf00gOyHwE9aEj4to045rz3w1NR2G+R7LhOLA==",
         "icono": "https://i.imgur.com/oL8SMTL.png"
-      },
-      {
-        "name": "Canal Nueve Litoral",
-        "uri": "ilOZEuHGYrlxc4gD7mvcvZ0UYoNbYkgC9tG9ehal0gTOVm1fdpVOg/XWuS1LKgtmI1KpeR+hjFeHGPv0b+j8gTuZ4OTiNw2cd09yPXbfQRY=",
-        "icono": "https://9digital.com.ar/wp-content/uploads/2024/03/logo-mi9-3d.png"
       },
       {
         "name": "CPEtv",
@@ -1427,9 +1407,11 @@
         "icono": "https://static.wikia.nocookie.net/tvficticia/images/9/94/Canal22.png/revision/latest?cb=20230606194222&path-prefix=es"
       },
       {
-        "name": "SOMOS TV SAN JUAN",
-        "uri": "VEIXoEaKoBhaHfwvFPl8j7F9OPZCDhIy5PmfeF26cfTH2ih7/4dMRi56ZSzX35U/",
-        "icono": "https://www.radio.es/images/broadcasts/af/83/36918/1/c300.png"
+        "name": "SOMOS",
+        "uri": "ejOC8mhnKkUdiM7e04joc9S9H44/OOyhFeCdEVvacGnbVVK7YbLECDtuCL/GVFQSKsyKf60sC3wGvq2kSoc3c2njkAuQdxzD4Txa43toOek=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvNG99urnxC9dBfad2z8dbodZpzsrXXHOKIolPJvPGlVHq0ETwsOcKRH23lfiWhJuZWu8P8S0NcQ+nEkFkCFhg57Vm+5x+nJVn2RCQ7SoF/B82fnmZZOUwGti27pFE1Wg3w==",
+        "icono": "https://i.ibb.co/cvY8pZZ/SOMOS.png"
       },
       {
         "name": "Canal 34 San juan",
@@ -1447,7 +1429,7 @@
         "name": "TELEFE SALTA",
         "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmJaJU93sW0swfCGCnzOllhZo0OakwScX+x7e7SjfhP0S6NZ/RZJGy9Ta7SsmQTygxOL8ZY949AndWOlKu97okb2",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "Ye6hKDznXXGTKOm2LtaO9qFLkq5WCXIt6en2Wq44wSzHDp838QCCJbhl715EXWp9",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvB3KkA7Gi0mdFCi0yYOlvO4uN785NEU5Qo0L5ogTl3plRhMdT2TQz7sdnWQS67vZklEwOWk8rsyCuUv2F4nmGeIsazxXH5QmGZDha62b0OfN6q/iFGnxPdwRyYb/13uL8g==",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/1/13/Telefe_Salta_%282018%29.png"
       },
       {
