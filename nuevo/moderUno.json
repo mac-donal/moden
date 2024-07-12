@@ -3467,8 +3467,8 @@
       {
         "name": "CANAL 12 CÓRDOBA",
         "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmJa58eVRGA9f7DD0n2T4PXArrJThK2z7yoJ44TjtuiU+MwyW8507sXZSZy8RdJj44NwHjUozAqVrrdUpaZn1G5d",
-        "drm_scheme": "widevine",
-        "drm_license_url": "TKTvsoxXqhUPckfmw9KaJ7uPtqzMT0qIkYh8yAG147DWxZ+C67vLBjGq5Ysbabqpr30f1q2NlEMzMQqbnfCOS5dpXI4rHQqYda4Q2zYpqA7jSMRqDl0n2GsJQFrjRw2Q",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "TKTvsoxXqhUPckfmw9KaJ7uPtqzMT0qIkYh8yAG147DWxZ+C67vLBjGq5Ysbabqpr30f1q2NlEMzMQqbnfCOS5dpXI4rHQqYda4Q2zYpqA7jSMRqDl0n2GsJQFrjRw2Q",
         "icono": "https://static.flow.com.ar/images/9497/CH_LOGO/350/500/0/0/49781180078327.png"
       },
       {
