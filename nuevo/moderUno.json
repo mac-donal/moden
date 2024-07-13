@@ -1515,9 +1515,9 @@
       },
       {
         "name": "Canal Siete Bahía Blanca",
-        "uri": "LX46EnLWmPsTQWzzE5C2pM5oVLjLvNyztbnxEbF8X53VSobuYZuUtUzEKXfLIKzZa2pVHhfJ4NrnIsitm5gx2Wmzomg2Kr9G7BBH33w6i609hbgo3unhvbLRaha9XWaTqJ3+45WauKYe0lo1sKevYg==",
-        "drm_scheme": "widevine",
-        "drm_license_uri": "TKTvsoxXqhUPckfmw9KaJ1BJjz5Qp1hMqmbGpmW/pKZvofeFsBAy3XiY+yvWSaey4R1XOnZQzoj/WeTZ2gXk7zZjwO3PjSr7Xxz42gRRX+WVxIv17oj8pTz/hX/NmFM2",
+        "uri": "hgyLEf1obfi7e+6+kI5AQaxOXVMZEWPu63kQb/frwLR7EuGPI304BpRDX3tdyL8KOxT2eStOKwDtp7GGU6kqQuFBK02ReUC/WihpwUVj+yMwDP2e8yS7eP0L6mRKOf+3aeOQC5B3HMPhPFrje2g56Q==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvGqi1aduPSGEDKzFq+ZuB1wmUgStI4qyK8IBLtL2TOb3dDpPekzorm8ExMg9aBjNcsdYiwhd0DfrujpdbuhepbxZWw8BWQwnp28I2r8LXKItD5UFBITqjkuwXbDHVcXS6A==",
         "icono": "https://static.tvar.io/imagenes/canal7bahia.png"
       }
     ]
