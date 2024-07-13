@@ -1509,15 +1509,15 @@
       {
         "name": "TELEFE BAHIA BLANCA",
         "uri": "LX46EnLWmPsTQWzzE5C2pHNONr3XIsO1eY5U2d88uo/VSobuYZuUtUzEKXfLIKzZYuf5tvx4CGDKhg0G+KT58Gmzomg2Kr9G7BBH33w6i60CsI+N2SDIX4NU1miHh1dgqJ3+45WauKYe0lo1sKevYg==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "Ye6hKDznXXGTKOm2LtaO9qFLkq5WCXIt6en2Wq44wSwkNpgwhHV5wcoedXLsUYNiWKLRBFKf6nilABrl8P8fag==",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "TKTvsoxXqhUPckfmw9KaJ1BJjz5Qp1hMqmbGpmW/pKZvofeFsBAy3XiY+yvWSaey4R1XOnZQzoj/WeTZ2gXk7zZjwO3PjSr7Xxz42gRRX+WVxIv17oj8pTz/hX/NmFM2",
         "icono": "https://static.tvar.io/imagenes/telefebahia.png"
       },
       {
         "name": "Canal Siete Bahía Blanca",
         "uri": "LX46EnLWmPsTQWzzE5C2pM5oVLjLvNyztbnxEbF8X53VSobuYZuUtUzEKXfLIKzZa2pVHhfJ4NrnIsitm5gx2Wmzomg2Kr9G7BBH33w6i609hbgo3unhvbLRaha9XWaTqJ3+45WauKYe0lo1sKevYg==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "Ye6hKDznXXGTKOm2LtaO9vRHDvS79/4dFsG0xt/BVg6xDecNcG47vOfN1XLP3HQk+AYpN6yzHvzVV1to12shXQ==",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "TKTvsoxXqhUPckfmw9KaJ1BJjz5Qp1hMqmbGpmW/pKZvofeFsBAy3XiY+yvWSaey4R1XOnZQzoj/WeTZ2gXk7zZjwO3PjSr7Xxz42gRRX+WVxIv17oj8pTz/hX/NmFM2",
         "icono": "https://static.tvar.io/imagenes/canal7bahia.png"
       }
     ]
