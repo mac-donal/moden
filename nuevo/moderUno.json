@@ -1507,10 +1507,10 @@
         "icono": "https://static.tvar.io/imagenes/13maxdigital.png"
       },
       {
-        "name": "TELEFE BAHIA BLANCA",
+        "name": "TELEFE BAHIA BLANCAa",
         "uri": "LX46EnLWmPsTQWzzE5C2pHNONr3XIsO1eY5U2d88uo/VSobuYZuUtUzEKXfLIKzZYuf5tvx4CGDKhg0G+KT58Gmzomg2Kr9G7BBH33w6i60CsI+N2SDIX4NU1miHh1dgqJ3+45WauKYe0lo1sKevYg==",
-        "drm_scheme": "widevine",
-        "drm_license_uri": "TKTvsoxXqhUPckfmw9KaJ1BJjz5Qp1hMqmbGpmW/pKZvofeFsBAy3XiY+yvWSaey4R1XOnZQzoj/WeTZ2gXk7zZjwO3PjSr7Xxz42gRRX+WVxIv17oj8pTz/hX/NmFM2",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvO/qkJnSYOC4UFjkvnJlOMRzfow11BbwkWthxMuk83QDyGksB713O3RdaBlb+qi7iHh9ZIdNUrybZAzIyZ+i48In73xjr+0fSmfNXG68xM7k8BDa9sg2BsXSmbGxnomjvA==",
         "icono": "https://static.tvar.io/imagenes/telefebahia.png"
       },
       {
