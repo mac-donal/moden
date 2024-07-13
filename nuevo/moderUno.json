@@ -1482,16 +1482,16 @@
       },
       {
         "name": "TELEFE ROSARIO",
-        "uri": "LX46EnLWmPsTQWzzE5C2pKknSrgNrnuepyfiGtakUBgvXm/Xu4wiB4n1Yl3QMZ4td9jVHDhEKEeSeUvKsXeemWVvZN72geoIB0LQ0KWKw5tf5TnB9Ne/Q0U0xjlwrfvpF0rr8qcFKf5hswIAZ3837w==",
+        "uri": "hgyLEf1obfi7e+6+kI5AQXpNamYVy6ynelbGkCMqVz3JHZwOZPNh86z+V8r1SnLPudyB4UOG58G1IIZ9r8p+R01Dr3MejmE8DdMLrKbSQSLUq5XmXo7OXphv/TvkLO8t",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "Ye6hKDznXXGTKOm2LtaO9qFLkq5WCXIt6en2Wq44wSy6uLR8zo/Jke4iH3RedV8W",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvApwQ+25vILJXC0BL3rTYpo1EDNj3vWvVBAGXdxbagh9ygKl6ZtQIA9r2FerOkjMXVS9idqki4x5eGfMfTrYEH5uIEQxLxJxyJ53noTlftRUXhV5ot4rW191aZGlwq6zWA==",
         "icono": "https://static.tvar.io/imagenes/teleferosario.png"
       },
       {
-        "name": "CANAL 3 ROSARIO",
+        "name": "CANAL 3 ROSARIO0",
         "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmJcVRpNyQ1tjYXHXfgLy9MNlIbH9aTWR+kiHB+Hk9da0Og1c66ypqo9nLpdPsipS3sp32GFZl0hdVYXOaUEeDa2y6kRnYqQJnVVBGEs/O/tJw==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "Ye6hKDznXXGTKOm2LtaO9vRHDvS79/4dFsG0xt/BVg7+TtuXCJJ/RzPBpFNuFDjk",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "TKTvsoxXqhUPckfmw9KaJ1BJjz5Qp1hMqmbGpmW/pKZvofeFsBAy3XiY+yvWSaey4R1XOnZQzoj/WeTZ2gXk7zZjwO3PjSr7Xxz42gRRX+WVxIv17oj8pTz/hX/NmFM2",
         "icono": "https://static.tvar.io/imagenes/canal3rosario.png"
       },
       {
