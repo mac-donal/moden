@@ -1715,27 +1715,17 @@
       },
       {
         "name": "GOLDEN",
-        "uri": "kLzT+cququRriT9kOdZAbLuPtqzMT0qIkYh8yAG147DkUh8aAGvdVuyXAk7M2xiMalPkRFLPmwpbdax/wh69/B7qsvBDrY6FNuDM+NaqcjQ=",
-        "drm_scheme": "widevine",
-        "drm_license_uri": "TKTvsoxXqhUPckfmw9KaJ1BJjz5Qp1hMqmbGpmW/pKbn6ZWWlQpZTrIC9m/h69NXSoBJtbUy+FRWJk/siqYkXz+42xnZirmFWwM+gsjtmWFbQvNXTxY2dIK17Qiy5k3s",
-        "icono": "https://i.ibb.co/SQXYfcb/19d8ad2b2b4e8ec851d2bcbf42691efe.png"
-      },
-      {
-        "name": "GOLDEN OPC 2",
         "uri": "hgyLEf1obfi7e+6+kI5AQQaAYi2Y9Xnhr4accAf2TnTXSaTdTD8TFUZeiThL6VEqBHLjxgIV6GdERPiY9msFCF+UlPiZdDjgHCn1uteK8rk=DkUh8aAGvdVuyXAk7M2xiMalPkRFLPmwpbdax/wh69/B7qsvBDrY6FNuDM+NaqcjQ=",
         "drm_scheme": "clearkey",
         "drm_license_uri": "TQSPBT5fFAmrHLJIeXbfed63ux4azXitKyqGmQf0j0IipYV6xwuuhiG0v84TdIwsO1zexOuI1Qnudne1SGfIZ/B4+h0mXxdMitHcEGeq+kZzrdk8BCWFuDQdbC06FtwrUecCm34k83fmH9dEkMqrwQ==",
         "icono": "https://i.ibb.co/SQXYfcb/19d8ad2b2b4e8ec851d2bcbf42691efe.png"
       },
       {
-        "name": "NO FUNCIONA GOLDEN EDGE",
-        "uri": "9ze7zoWeEnlExpv5EF6qZnFVxSTPgNpmXXXDbJdvs8O3eiGRP1azi74oi4cySWj6dgU5mAGtEEhOwcGqGCqdQA==",
-        "icono": "https://static.wikia.nocookie.net/doblaje/images/b/b9/Golden_Premier_LA_2020.png/revision/latest?cb=20210112175406&path-prefix=es"
-      },
-      {
-        "name": "NO FUNCIONA GOLDEN PLUS",
-        "uri": "ewIjVHFXnSXh1ys9fxStpB4bF+9sffpEg5vqPQapkXgvZo0rLvWDXY+cdtttapy8YpZ+oUio0IBdkaqIo0NB0A==",
-        "icono": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2qFlFV3NZaCw7URyeIuFi33_TBrG-OI-Frm4dok3ci1UaZ4Ev5CKduyScYpz7l4tmxw-JCIeXBajM2pw5Oyqc5MFYTOrThlhdnzaxriIMA5z7i1dXnzYWRzcGMlru-yixvdaZPVrIJsPVfYqgE7dG25meRHex8etzoyvVIEUDWWUqzPazJJvmKMN6/s1600/golden-plus.png"
+        "name": "GOLDEN OPC 2",
+        "uri": "kLzT+cququRriT9kOdZAbLuPtqzMT0qIkYh8yAG147DkUh8aAGvdVuyXAk7M2xiMalPkRFLPmwpbdax/wh69/B7qsvBDrY6FNuDM+NaqcjQ=",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "TKTvsoxXqhUPckfmw9KaJ1BJjz5Qp1hMqmbGpmW/pKZvofeFsBAy3XiY+yvWSaey4R1XOnZQzoj/WeTZ2gXk7zZjwO3PjSr7Xxz42gRRX+WVxIv17oj8pTz/hX/NmFM2",
+        "icono": "https://i.ibb.co/SQXYfcb/19d8ad2b2b4e8ec851d2bcbf42691efe.png"
       },
       {
         "name": "WARNER CHANNEL",
