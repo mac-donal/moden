@@ -3139,6 +3139,11 @@
     "name": "🇧🇷 BRASIL",
     "samples": [
       {
+        "name": "GLOBO TV",
+        "uri": "gIwfqtzFbDc848A+VSJseP7IRVmNYnDAREyAjx5qxmbtd8ajko3uWzeTl9zppPgfo7UgnGUGKMi5WyGQs2OcdLoNcOf+d2MVF4lb0yxnR3exBjT2GcVzqqPUIGT5TOWSofCm6S/jOjoyEVm624Jk+GnjkAuQdxzD4Txa43toOek=",
+        "icono": "https://i.ibb.co/CVr3QGv/fe7f8998db53725ac48f0deedc773692-anniversary-logo-visual-identity.jpg"
+      },
+      {
         "name": "New Brasil",
         "uri": "x/xWkNrovMYmGeIV76G4pOWzEePFvZC2/a11JIOm1xJdOj4X6fP4Y6kbIR8JGP6fHXzdiUgkZ17bpH50KOHdlF8XUWTn65m+by9X3jem+r/LqRGdipAmdVUEYSz87+0n",
         "drm_scheme": "widevine",
@@ -3167,7 +3172,7 @@
       },
       {
         "name": "BAND SPORTS OPC 2",
-        "uri": "OaFh98aJl0jvQaG5/qpawpEb1imxyllH0lY/FtGoe9kcnQYQtUEJ2DNn4CXqoei3",
+        "uri": "7YyJ0bTMMpA6ZPEd5Ozn3QcnS9oSblvO5lNPd09nqwaKfkcCVQtZynZD89KotPwgdgU5mAGtEEhOwcGqGCqdQA==",
         "icono": "https://i.ibb.co/WWrRh4X/Band-Sports.png"
       },
       {
