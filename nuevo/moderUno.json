@@ -28,8 +28,8 @@
       },
       {
         "name": "⚽️MLSS",
-        "uri": "H4wJygHc9n0Kz/zGVuau4YfEVuvQuKOgRI/pzUvzILoGMj/RGAChwjP7Q1+cb+RM",
-        "icono": "n3KlmJOObwnLWhB2RY0R6/O+24uIbt9nolA5pMHVY5Ttw2XZeoKWeYBkS5zOsi0ZjFP+xNd6KUrJDIEnI8yKvw=="
+        "uri": "n3KlmJOObwnLWhB2RY0R6/O+24uIbt9nolA5pMHVY5Ttw2XZeoKWeYBkS5zOsi0ZjFP+xNd6KUrJDIEnI8yKvw==",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/MLS_crest_logo_RGB_-_Inter_Miami_CF.svg/969px-MLS_crest_logo_RGB_-_Inter_Miami_CF.svg.png"
       }
     ]
   },
@@ -144,6 +144,11 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvGTUpDQIWM4id40UFHpn+yqaAHxeJx7H9i5GDCT6EYjd9cZ5ErsJoNAzVMibfOe50HANv67STwJi9q0KEmvym09LbjhWLi3685Pzd/qM2C/3UoUopTzvYZTo/taKk+v6Ag==",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TVE.svg/800px-TVE.svg.png"
+      },
+      {
+        "name": "TV Azteca",
+        "uri": "H4wJygHc9n0Kz/zGVuau4YfEVuvQuKOgRI/pzUvzILoGMj/RGAChwjP7Q1+cb+RM",
+        "icono": "https://www.grupoisos.com/wp-content/uploads/2024/05/Imagen-TV-AZTECA.jpg"
       },
       {
         "name": "RTVE",
