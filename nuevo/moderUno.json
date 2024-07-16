@@ -3389,15 +3389,15 @@
       },
       {
         "name": "CANAL 12 CÓRDOBA",
-        "uri": "O+0EFfg/3liYjnYX4xHVOfJP919wGjGgflZxoWRpDHfrvIjr8D3pry9rx5YVnvJRtKnabK1oInLqQkIunlqNlFn6AtsUZfR6Nsh77CD+Qu3VMqTry+x3jt6kF1fUfsWl0vyO0X9ZQJZIxFzwNAdquPMeRTVuLo2De/zmOLWEzEQ=",
+        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmK+EtTF/XB9yPozJSmHBnqGVZWZ8Fr/7NRBkGPFYy5iJz6lqpwQQ9q78MY4JHn5C6QG4ax8HkM93AOc7yWciwqZ5FLgOLdmyJMRa8FcrSEHdg==",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "n3KlmJOObwnLWhB2RY0R65T22rLK4Y1MgCJ8a2QZXUuHd+1gQ8ddsYv2oCpCmkJG98YAWxzXUHTHiftXWkrXc0BRzIpYOS5oJW8L47gSXQM8lzcM+AQNl9/rFcKPaYa+viUVxwcbJIvCPslGFzsAbjzzr8eLRPRiwVXV3JStzwo=",
+        "drm_license_uri": "hYCTuz7qkCB1WSOjumUcp+28WHptBdzpDdDI+pgCpI6g8qDCARhgxMS8bQ/vivqG",
         "icono": "https://static.flow.com.ar/images/9497/CH_LOGO/350/500/0/0/49781180078327.png"
       },
       {
-        "name": "(Uruguay)",
+        "name": "(Uruguay)2",
         "uri": "I7HO2vaDEGf6CRpjqrwYus8syo3fu/icCIdhd2x8IdoQgWo6mt2y/eSB18yE8lZ+ZifR4B9Voc24dRXem/gFz/rjBj3RWDlSnnboPC4IdCw=",
-        "drm_scheme": "clearkey",
+        "drm_scheme": "widevine",
         "drm_license_uri": "TQSPBT5fFAmrHLJIeXbfeWsKht5oXqnKAnCsBGP3DN6ilyjz3BIHJQlkCLVgx6cmLsmnZybUGeXwZeBPSeTeuB2nnR90XOMkbyvHrTx4u+X31QyYYX18q9cvE8tT2kMa0l9nvFlK8MtmQJig3FsoEA==",
         "icono": "https://forounivers.com/uploads/monthly_2024_02/large.ESPN7.png.375178ffb0546e7726739cc46c854e09.png"
       },
