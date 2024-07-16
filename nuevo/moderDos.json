@@ -3,6 +3,11 @@
     "name": "PELICULAS RECIEN AGREGADAS",
     "samples": [
       {
+        "name": "Furiosa: De la Saga Mad Max (2024)",
+        "uri": "Oyx9Ecl33wjrDcJEOibw9pn3szTJRDOoF4QoSJq2NFR7PoBPOMOTXWTfJzD/J/2b",
+        "icono": "https://pics.filmaffinity.com/Furiosa_De_la_saga_Mad_Max-943403371-large.jpg"
+      },
+      {
         "name": "Indiana Jones 5",
         "uri": "1mHdscnSaPBrhFQNZgeuvFzVwZueQJP6ZGJINwOsd4UtTnLFgCpf6XaeNnOTWXdYwurzpGpmz9ZU/ZxDueWHgg==",
         "icono": "https://image.tmdb.org/t/p/w500/Af4bXE63pVsb2FtbW8uYIyPBadD.jpg"
