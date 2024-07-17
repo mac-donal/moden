@@ -3,6 +3,11 @@
     "name": "PELICULAS RECIEN AGREGADAS",
     "samples": [
       {
+        "name": "Goyo (2024)",
+        "uri": "e3DRxA0SeYh8rk33tSVR0kWKHILgduvuCCNbDvQmO3Gf3XTf0adkW5wdeHUl0fS2o2yRoB8ZTHZpcnRRL6qNdA==",
+        "icono": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSOnoG3kygwA6pH95YIpxUAPHK2aNJtruCt2GDif9i8Br86RGeo"
+      },
+      { 
         "name": "ATLAS (2024)",
         "uri": "e3DRxA0SeYh8rk33tSVR0kWKHILgduvuCCNbDvQmO3E6YH1w846X6TOXoeRC9cVyrKxlhR9jqLt/Oc4LfL6suw==",
         "icono": "https://pics.filmaffinity.com/atlas-570877983-large.jpg"
