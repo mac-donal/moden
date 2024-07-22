@@ -1137,25 +1137,18 @@
       },
       {
         "name": "TEATRIX TV 1",
-        "uri": "IkhXerJEfmDkaV5hhmH0fAo0VeYbI2wrz9dWvuhIVttCf1GUjfb4MMlMACA0DxAGIyO+OpyHEAbEqIm02Lvq2+S9M/W5yGsD+koj5PJl8cEZmrDhqHT1s2GbgSmRX+Xs",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvA1kp49JYTx5O/hfgqDQUT3xwsIzvzgxhshXjohSXtxA+IROZyjKdH5sGt6G+kSU1Y7+xofz4gj5haTRiqCHS/MtNU2DZrvsjfFVJTUjW8sxnkorAolbpBfEGtTAQ6YRuA==",
-        "icono": "https://i.ibb.co/3kwD39S/descarga-4.jpg"
-      },
-      {
-        "name": "TEATRIX TV 3",
         "uri": "H/6DU7jZ0tLE5RwXeJ/HDptZPrVdiZSjvLwHfN1myzMCQplgr4NgaMFOakc/of9X6qDXJyg2PE6xKMcBXUNUF+sJr+w3wQHCMaQU58Y+eywZmrDhqHT1s2GbgSmRX+Xs",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvCUd5Lo5sR6MsVn3g+hJ8LdDdo8ulkhJhNYUxnRg2JEaXxD9viC/FYC9312U1ellyplXY2ASD3JNSyNv2+UF9J6jHBsoJgawP5dvGHJrn+tXDL8SJaXG4DS6J5woDkah0w==",
         "icono": "https://i.ibb.co/3kwD39S/descarga-4.jpg"
       },
       {
-        "name": "TEATRIX TV 4",
+        "name": "TEATRIX TV 2",
         "uri": "EDGEOk9OkrQYjnyiGNwL/2tofRTU9K3RqBbx22xJpG+UYBkgUevuzSw9buuw2hgj",
         "icono": "https://i.ibb.co/3kwD39S/descarga-4.jpg"
       },
       {
-        "name": "TEATRIX TV 5",
+        "name": "TEATRIX TV 3",
         "uri": "Riv7u0opSQq4BSIFEeSVymSU7NYpethjtBKsmWkyZQNH3X3xq1NYO0uP+QXRqdlNf1+W5T6/y00uy0/+ZcoeWA==",
         "icono": "https://i.ibb.co/3kwD39S/descarga-4.jpg"
       }
