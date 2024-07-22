@@ -3,6 +3,11 @@
     "name": "PELICULAS RECIEN AGREGADAS",
     "samples": [
       {
+        "name": "🎬 Hombre Lobo por la Noche",
+        "uri": "gazmm/BFpj3ST9n5uerDrAb8l1Dlk13Sda4oZUfTkcEQUa/8Ob8QznLpUw6lj7HC",
+        "icono": "https://image.tmdb.org/t/p/original/l1ORpdYr8uFZ9MNYKoq1p6fIc4M.jpg"
+      },
+      {
         "name": "🎬 Buenos Muchachos (1990)",
         "uri": "XVjYJIJW/XXtBZDmCF4vuKqhn0z2JdZ7+g/GWI9VwxOTs9mJsCDI136N/yjzvJypaEoOLOGanm0KFs4eQR/v9EKPQ5SDczWPLFsUeR6AHZ3GtlEaGvXIGcNB+uh4QK4097er3wnjgWA6FbXlAttf2w==",
         "icono": "https://i.ytimg.com/vi/7pSBh10ueMs/hqdefault.jpg"
