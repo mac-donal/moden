@@ -445,10 +445,10 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "TQSPBT5fFAmrHLJIeXbfedDUWvSmPfL8M7ABGZETTOgq6eG0eG/6KfI+viGgA9GQdyACVJkYxVw30YI4COVYM7Ru++PUOxta6w8Ws4kd5iUJSRKt2+GOn4R7XDpHth9TqbG4fpDUJkmWybSNaSeMUA==",
         "icono": "https://i.ibb.co/DQVCfDv/channels4-profile-2.jpg"
-    },
-    {
+      },
+      {
         "name": "TYC SPORTS 2",
-              "uri": "hgyLEf1obfi7e+6+kI5AQaxOXVMZEWPu63kQb/frwLTusMIjYmmEE1Z0+w1SWGhGKfRGfx8145jABGMZZQICPHtAnN+gG7ei+/A++ufE/yI=",
+        "uri": "hgyLEf1obfi7e+6+kI5AQaxOXVMZEWPu63kQb/frwLTusMIjYmmEE1Z0+w1SWGhGKfRGfx8145jABGMZZQICPHtAnN+gG7ei+/A++ufE/yI=",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvFXB0OTaoy/UN0Gzt2eXXrKHYuyEAp7SIpq/76Am+vsAMGsUoDMgniPH0yYZAjD1ail3aQMEmPZPVq1RTkpk2QYaHa8cii6Uf3CusC71q7TM8AJOqeF613gM/YAE6ITgXQ==",
         "icono": "https://i.ibb.co/DQVCfDv/channels4-profile-2.jpg"
@@ -1030,7 +1030,6 @@
         "name": "TEATRIX",
         "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdv+tF7Vjd0FoVQvRWAVEzGwpokpcEim8zrxWekoT1/iPoMeNCW83jqx1u72XGpU2mlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzZLOwfQZCzfP1zAg+eDHhzQ==",
         "icono": "https://i.ibb.co/3kwD39S/descarga-4.jpg"
-
       },
       {
         "name": "TEATRIX TV HD ",
@@ -1579,7 +1578,7 @@
     "samples": [
       {
         "name": "USAA",
-         "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmLN7Cp9laIGpM7u2yCm7C12Fjvw+65k/CANUsZAPTyvKgkvXgLbEP+gX4C9NGURbxzIknU0d7+4jo4ysU3f+QtW",
+        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmLN7Cp9laIGpM7u2yCm7C12Fjvw+65k/CANUsZAPTyvKgkvXgLbEP+gX4C9NGURbxzIknU0d7+4jo4ysU3f+QtW",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvKyxD7T15nwg2vYUyyORiay6fgdijMg4lqVm0CXmHS8Yy2Qja3TSoygU/M4tA71lOjjBKRbhU2Jrfs/H0V6MnMbfuBnhC2NTMCxjZkNhjHXh4sqla/Cyzv31GsngdNYVAg==",
         "icono": "https://static.flow.com.ar/images/9497/CH_LOGO/350/500/0/0/49781180078327.png"
@@ -3067,7 +3066,6 @@
         "icono": "https://i.ibb.co/CVr3QGv/fe7f8998db53725ac48f0deedc773692-anniversary-logo-visual-identity.jpg"
       },
       {
-        
         "name": "New Brasil",
         "uri": "x/xWkNrovMYmGeIV76G4pOWzEePFvZC2/a11JIOm1xJdOj4X6fP4Y6kbIR8JGP6fHXzdiUgkZ17bpH50KOHdlF8XUWTn65m+by9X3jem+r/LqRGdipAmdVUEYSz87+0n",
         "drm_scheme": "widevine",
@@ -3287,7 +3285,8 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "Ye6hKDznXXGTKOm2LtaO9vRHDvS79/4dFsG0xt/BVg5MUMwrjA1onSYaH01JRlZG",
         "icono": "https://www.coicom.com/wp-content/uploads/2022/08/Canal-Luz-2022.jpg"
- 
+      },
+      {
         "name": "flow",
         "uri": "hgyLEf1obfi7e+6+kI5AQaxOXVMZEWPu63kQb/frwLTusMIjYmmEE1Z0+w1SWGhGKfRGfx8145jABGMZZQICPHtAnN+gG7ei+/A++ufE/yI=",
         "drm_scheme": "clearkey",
