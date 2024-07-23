@@ -2072,68 +2072,61 @@
         "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmJW0zotH4Ms5WvI+4ZUx2NHW6W4zFZ1EMH0vORNzIXx6F8JipqcPaQtwL+6rWuR1GQPLLtqm28wIjDV9yuadvi0",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvN+Jq27jDx5ju2fJUb0ZR/qdQQTABsn+x1rAeXtpUjNApwCWwAuuwbyKWavelCfBcnPRoTyk/GEjehmWc5s9/BGKBBfw8s/bcMRJWahq6b6en/MBKky1LTqLkmBTh222EQ==",
-        "icono": "https://i.postimg.cc/761GJTfR/maxresdefault.jpg"
+        "icono": "https://images.pagina12.com.ar/styles/focal_content_1200x1050/public/2018-10/na37fo01_0.jpg?h=c93f0e62&itok=G1KQiIyA"
       },
       {
         "name": "CartoonNetwork",
         "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmKQHZJGN6meWuNEUVFouOftWCulyxVXzQxVqcyINWjSaTTuElPrz2yFFG+KhTcz5PTQpbAzXM9gwMz38bRwDxAS5FLgOLdmyJMRa8FcrSEHdg==",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvNZj3O1PJTobFILJXxZzYN3IRJgcfaACFovM/rnXL4PNbfezp2u9YJZhMvNF1klMg0k4QeQFvIWsNgBXL4022YnD7Kc+Xnwns0wT0B5IPQzopgafMbHBS7/mwbRwnlE19g==",
-        "icono": "https://i.postimg.cc/brdSzHKx/240px-Cartoon-Network-2010-logo-svg.png"
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1594px-Cartoon_Network_2010_logo.svg.png"
       },
       {
         "name": "Nick Jr",
-        "uri": "hgyLEf1obfi7e+6+kI5AQQaAYi2Y9Xnhr4accAf2TnQ/39sBPLjSy6aXdrj/BXpLr0xKC9jRR2M2ltnuaQj52kjVqgJR1BnZr13sMnsQIKE=",
-        "drm_scheme": "widevine",
-        "drm_license_uri": "TKTvsoxXqhUPckfmw9KaJ1BJjz5Qp1hMqmbGpmW/pKbjMV/Qk1td8XUVv0XaldPoUNDX/RcRpbHq0SgitA0mNiYeb/JyFW/Y1KkCFMMgDI1EN/z+9HykWZ25reb4ot/g",
-        "icono": "https://i.postimg.cc/h41czR0h/image.png"
-      },
-      {
-        "name": "Nick Jr opc2",
         "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmLLlNrzLZgth5vzp+sA8JM5YKmmJnhOMNIaZboUll/hyAbUjmf3rTQWrC8r00y7szRp45ALkHccw+E8WuN7aDnp",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvLzNbLc/ZQy1RVEqwr4CsEVGjzqJ0lJ908JvYrTBATAL11W4bCQIOWoo50tlgCwiF/DK5QP24TK+7UMdFVJbdvYW17MWU9vxWqy3xchCUcuyUL3ZZvcq2yA9W/evtCsVxA==",
-        "icono": "https://i.postimg.cc/h41czR0h/image.png"
+        "icono": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fa%2Fa1%2FNick_Jr._logo_2009.svg%2F1280px-Nick_Jr._logo_2009.svg.png&f=1&nofb=1"
       },
       {
         "name": "Tooncast",
         "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmLDEM6Ybp+h/Vj9mzHUxJnpcQ0x1rSJ58T0Q9LbqBZG/6+7/ZwFOBSmHppzGqgLc2Cuzh8udIgoqPK+KY3xEjg7",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvEbsSnzm7pJHOlNucwUI4WuTGhE4VN2KfFFSho7wUVAkV4nLHAHUyV7XWtZ+t9VtyPjPtwdQtfPEDPV8rHqMeWVBAcB5dXha1fPlKmxFCdB8BYZ91b5mzuE3iNhEs9JlFQ==",
-        "icono": "https://i.postimg.cc/3Nmh9zsf/image.png"
+        "icono": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette.wikia.nocookie.net%2Ftvcable%2Fimages%2Ff%2Fff%2FTooncas_logo_jpg.png%2Frevision%2Flatest%3Fcb%3D20140720173926%26path-prefix%3Des&f=1&nofb=1"
       },
       {
         "name": "Disney Channel",
         "uri": "LX46EnLWmPsTQWzzE5C2pHNONr3XIsO1eY5U2d88uo9J7GSGEUnX3xOSGGVRaTFwo19s6FyTYmaPCtGihz5DTCn0Rn8fNeOYwARjGWUCAjzdP7ugknvwwivyWjursurhy6kRnYqQJnVVBGEs/O/tJw==",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvJ0oUEiePMA9Fs0NxFsM2BITolbNxnaI/JvU3OR5jEiqeFVfsLGRPjKgOxlhk6TRbvi43HAnBgiYdR5YWKiIrVPW/HxSRdXU9ab4FIt/qw5ZEbAnC6Na7bFwtiE1VTibpw==",
-        "icono": "https://i.postimg.cc/RZfs2zG4/Disney-Channel-2014-HD.png"
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/7/78/Disney_Channel_Germany_Logo_2014.png"
       },
       {
         "name": "Discovery Kids",
         "uri": "LX46EnLWmPsTQWzzE5C2pHNONr3XIsO1eY5U2d88uo/xazMl6G+9SZGUHrgCmnnyEvBDeZ2eA6lLYPKoImZej8VFSxEen1NvzHd4qIH9OJqmjwQN1WxQPGtoyqrfxr1M5FLgOLdmyJMRa8FcrSEHdg==",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvAYYCOyKC3P7YNOrjhVHhIiDvVmXF5ly5DiNRkjeOCONcEYqvuOQnNnacL6C0o66u2gyFxF19sgFI5+8OBdkbSS9MOho+WK3C7Pz2DqS/aRe9UsFtwsnEhRSkmp5gbpJDQ==",
-        "icono": "https://i.postimg.cc/hj7f1pcy/Discovery-kids-logo.png"
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png"
       },
       {
         "name": "Nickelodeon",
         "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmLqKYbeX2gnCNjqKEu9YU9bIpBaNUo90dTR0CSHoV1lW/8Klu0x0hoQH3lA8IwtrCn3L6fj+mjIReNV+z+6I4om",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvFyfR+6KRjh89FluZs/PnM9PwZ1WeJzkgtQIGsHSHXeLvZ/9+y41iMPponS/xj2z94JtQCGlv3ZF9SLYVXoD13CSDHTg9iGD7cMPV0CLFOAZlq+8aPRJhtMAXmMvUBzWdg==",
-        "icono": "https://i.postimg.cc/25R4KWLH/1014321.png"
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png"
       },
       {
         "name": "Boomerang",
         "uri": "LX46EnLWmPsTQWzzE5C2pHNONr3XIsO1eY5U2d88uo+z8p3g6K1ohO2ynYaQ3dz7w3Px83lSSXXvMIqhiMeMVd3xomjZpArSfwHStJbmRNu8lRfNIuyU90PRVP2qUcOe",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvN3jFXCMLWV4o9FyyY3EN2Bnehfl5FVie2JIssXJH63pH5boFptwNCTJt2DnkSnskoySt5EDMBkSsGxGV/dknWK3HjmCuMYbEIBiegNGd+sPYYm4dnxt2hy/yNwYJhb79g==",
-        "icono": "https://i.postimg.cc/6Q8dFVBR/1200px-Boomerang-2014-logo-svg.png"
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png"
       },
       {
         "name": "DIOS TE VE",
-        "uri": "pbMrEJTnutbqAYCg0UhbVuyJQChVtnTRLpbolhHuw77QF8NiL5LbSeRNhnvVtZ827nB0TeVDtjVceNvcIr4IzQ==",
-        "icono": "https://i.postimg.cc/qMvdmtPQ/b0564acdb9c67295acae4e5cf3978ed35795180f9728f21080885a8733d124cd.png"
+        "uri": "YtoYruFcbeONwiMybiokl3xelLv8PZ+T+UwKX2QsIE9hGGvduXQVJbBhTYpYEYmjaeOQC5B3HMPhPFrje2g56Q==",
+        "icono": "https://play-lh.googleusercontent.com/-4OhvRG-BNBSloTMXVTKIax7uGElDnybRLC7qw0waJHUWafazWoprNyQbhG_n0MMRMg=w240-h480-rw"
       }
     ]
   },
