@@ -166,8 +166,13 @@
       },
       {
         "name": "PERU ATV",
+        "uri": "JYS73y308QzCpS2K/S7Q/0NJDzH5H5RL0Em3orojHf6MVariIJUXP0fGvnrTIJLT+V+1LWzCBD2+bPEKP6+CZoNARVoQWmbbLUeFMmgHLa8=",
+        "icono": "https://www.atv.pe/wp-content/uploads/2020/09/nothumb.jpg"
+      },
+      {
+        "name": "PERU ATV+",
         "uri": "JYS73y308QzCpS2K/S7Q/8hqwj+4uAz3548xocs3BsYOntNnniJ5T/JMqCVEPxsMi0CXxjFZHEzeQMumxRzHg4NARVoQWmbbLUeFMmgHLa8=",
-        "icono": "https://pbs.twimg.com/card_img/1807761422450827264/OcdwHwN6?format=jpg&name=900x900"
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV0EkyQYAl261B7tmkUJtiITUAmcYsNGdsvw&s"
       },
       {
         "name": "PERU EXITOSA TV",
