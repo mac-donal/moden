@@ -1,14 +1,39 @@
 [
   {
-    "name": "LEER INFORMACION INPORTANTE",
+    "name": "*¡Advertencia!*",
     "samples": [
+      {
+        "name": "Instalar aplicaciones clonadas o modificadas",
+        "uri": "lb6yQEUHg2gkzT7k9FbzSjYuw1EFpZrPEF5HcL7sYZ/7XbWbRUVxRlH+z537j+tpbotK8Io5n2I3AGpTyn5j8A==",
+        "icono": "https://as1.ftcdn.net/v2/jpg/00/83/39/90/1000_F_83399090_FRyuq3PYK1am811fxpiUOswo17Yp8gVD.jpg"
+      },
+      {
+        "name": "peligroso para tu dispositivo y tu información personal.*",
+        "uri": "lb6yQEUHg2gkzT7k9FbzSjYuw1EFpZrPEF5HcL7sYZ/7XbWbRUVxRlH+z537j+tpbotK8Io5n2I3AGpTyn5j8A==",
+        "icono": "https://as1.ftcdn.net/v2/jpg/00/83/39/90/1000_F_83399090_FRyuq3PYK1am811fxpiUOswo17Yp8gVD.jpg"
+      },
+      {
+        "name": "*Riesgo de malware*: Las aplicaciones clonadas o modificadas a menudo contienen",
+        "uri": "lb6yQEUHg2gkzT7k9FbzSjYuw1EFpZrPEF5HcL7sYZ/7XbWbRUVxRlH+z537j+tpbotK8Io5n2I3AGpTyn5j8A==",
+        "icono": "https://as1.ftcdn.net/v2/jpg/00/83/39/90/1000_F_83399090_FRyuq3PYK1am811fxpiUOswo17Yp8gVD.jpg"
+      },
+      {
+        "name": "malware que puede robar tus datos personales, acceder a tus contraseñas",
+        "uri": "lb6yQEUHg2gkzT7k9FbzSjYuw1EFpZrPEF5HcL7sYZ/7XbWbRUVxRlH+z537j+tpbotK8Io5n2I3AGpTyn5j8A==",
+        "icono": "https://as1.ftcdn.net/v2/jpg/00/83/39/90/1000_F_83399090_FRyuq3PYK1am811fxpiUOswo17Yp8gVD.jpg"
+      },
+      {
+        "name": "o incluso dañar tu dispositivo.",
+        "uri": "lb6yQEUHg2gkzT7k9FbzSjYuw1EFpZrPEF5HcL7sYZ/7XbWbRUVxRlH+z537j+tpbotK8Io5n2I3AGpTyn5j8A==",
+        "icono": "https://as1.ftcdn.net/v2/jpg/00/83/39/90/1000_F_83399090_FRyuq3PYK1am811fxpiUOswo17Yp8gVD.jpg"
+      },
       {
         "name": "Estimado usuario, si estás utilizando esta aplicación sin contraseña o una copia",
         "uri": "lb6yQEUHg2gkzT7k9FbzSjYuw1EFpZrPEF5HcL7sYZ/7XbWbRUVxRlH+z537j+tpbotK8Io5n2I3AGpTyn5j8A==",
         "icono": "https://as1.ftcdn.net/v2/jpg/00/83/39/90/1000_F_83399090_FRyuq3PYK1am811fxpiUOswo17Yp8gVD.jpg"
       },
       {
-        "name": "has sido estafado. Si deseas la versión original",
+        "name": "has sido estafado. Si deseas la versión original,",
         "uri": "lb6yQEUHg2gkzT7k9FbzSjYuw1EFpZrPEF5HcL7sYZ/7XbWbRUVxRlH+z537j+tpbotK8Io5n2I3AGpTyn5j8A==",
         "icono": "https://as1.ftcdn.net/v2/jpg/00/83/39/90/1000_F_83399090_FRyuq3PYK1am811fxpiUOswo17Yp8gVD.jpg"
       },
