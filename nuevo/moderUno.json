@@ -40,6 +40,12 @@
     "name": " EVENTOS INTERNACIONALES",
     "samples": [
       {
+        "name": "Athletico Paranaense (BRA) vs. Cerro Porteño (PAR)",
+        "uri": "Bh7UUkGijJMqxlm0DG19rBAf26Ms07bnwJChyshyA4+5nzJnWxVHp91CaHlQv0Ax8hqCM4C5lzyNcwZSpWSwmwW43sgfIjMKsBcqGuM+kVQq3/4BPck2EC9uES1ATBkEz3Qh1FcytER5rsNJuSDyFPp6JtaQkeYvfgSjgztVkc12hZMdSEzE+4QEKuyXAD70wd0+LSJUdG3g3zfTKU4QL12X8NKyO1dlWgEIqqTTgLR7658cb+k3q/80lK2ZpsV2NBFoByZCflgSQV4MwtAmL/Kw2EIm7IbYJddoCHkYuqozinldTEQhbeMyPDq4VnuVOWwd1qF/C0KAoAKCNI8XVfS+Reb14qYW38yI4kSEeC0=",
+        "drm_scheme": "widevine",
+        "icono": "https://i.ibb.co/3kwD39S/descarga-4.jpg"
+      },
+      {
         "name": "LIGA URUGUAY",
         "uri": "Riv7u0opSQq4BSIFEeSVymSU7NYpethjtBKsmWkyZQNF3on0c3PwVYauBSztCZmyrwF2P/FXQNzaZMtNYKnfLw==",
         "icono": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1592.png"
@@ -1012,6 +1018,12 @@
       {
         "name": "TEATRIX",
         "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdv+tF7Vjd0FoVQvRWAVEzGwpokpcEim8zrxWekoT1/iPoMeNCW83jqx1u72XGpU2mlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzZLOwfQZCzfP1zAg+eDHhzQ==",
+        "icono": "https://i.ibb.co/3kwD39S/descarga-4.jpg"
+      },
+      {
+        "name": "Athletico Paranaense (BRA) vs. Cerro Porteño (PAR)",
+        "uri": "Bh7UUkGijJMqxlm0DG19rBAf26Ms07bnwJChyshyA4+5nzJnWxVHp91CaHlQv0Ax8hqCM4C5lzyNcwZSpWSwmwW43sgfIjMKsBcqGuM+kVQq3/4BPck2EC9uES1ATBkEz3Qh1FcytER5rsNJuSDyFPp6JtaQkeYvfgSjgztVkc12hZMdSEzE+4QEKuyXAD70wd0+LSJUdG3g3zfTKU4QL12X8NKyO1dlWgEIqqTTgLR7658cb+k3q/80lK2ZpsV2NBFoByZCflgSQV4MwtAmL/Kw2EIm7IbYJddoCHkYuqozinldTEQhbeMyPDq4VnuVOWwd1qF/C0KAoAKCNI8XVfS+Reb14qYW38yI4kSEeC0=",
+        "drm_scheme": "widevine",
         "icono": "https://i.ibb.co/3kwD39S/descarga-4.jpg"
       },
       {
