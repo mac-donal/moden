@@ -268,6 +268,13 @@
     "name": "⚽ PACK FUTBOL ARGENTINA",
     "samples": [
       {
+        "name": "Athletico Paranaense (BRA) vs. Cerro Porteño (PAR)",
+        "uri": "Bh7UUkGijJMqxlm0DG19rBAf26Ms07bnwJChyshyA4+5nzJnWxVHp91CaHlQv0Ax8hqCM4C5lzyNcwZSpWSwmwW43sgfIjMKsBcqGuM+kVQq3/4BPck2EC9uES1ATBkEz3Qh1FcytER5rsNJuSDyFPp6JtaQkeYvfgSjgztVkc12hZMdSEzE+4QEKuyXAD70wd0+LSJUdG3g3zfTKU4QL12X8NKyO1dlWgEIqqTTgLR7658cb+k3q/80lK2ZpsV2NBFoByZCflgSQV4MwtAmL/Kw2EIm7IbYJddoCHkYuqozinldTEQhbeMyPDq4VnuVOWwd1qF/C0KAoAKCNI8XVfS+Reb14qYW38yI4kSEeC0=",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "yrLqYCHSIZVAWe4urMZwb+IcW5yYtyMR7flp+hRHFBkWyOlcPU80FK7brrFIvw8qA7ybYk6XDTefEBb5Jx7IbQ==",
+        "icono": "https://i.ibb.co/3kwD39S/descarga-4.jpg"
+      },
+      {
         "name": "TNT SPORT",
         "uri": "PiFoloK4zBxLo6GPf/bTShKL4AlwZXfSwZwgQmJiQ8RmXBuqeXlq3KAdZYIwvuJQYnRaiNuka+uzQB7BOkwhFncYlWgENV059oYzUoz88o+940GMpgYRJyTTarhtZ3DEaeOQC5B3HMPhPFrje2g56Q==",
         "drm_scheme": "clearkey",
@@ -1022,6 +1029,7 @@
         "name": "Athletico Paranaense (BRA) vs. Cerro Porteño (PAR)",
         "uri": "Bh7UUkGijJMqxlm0DG19rBAf26Ms07bnwJChyshyA4+5nzJnWxVHp91CaHlQv0Ax8hqCM4C5lzyNcwZSpWSwmwW43sgfIjMKsBcqGuM+kVQq3/4BPck2EC9uES1ATBkEz3Qh1FcytER5rsNJuSDyFPp6JtaQkeYvfgSjgztVkc12hZMdSEzE+4QEKuyXAD70wd0+LSJUdG3g3zfTKU4QL12X8NKyO1dlWgEIqqTTgLR7658cb+k3q/80lK2ZpsV2NBFoByZCflgSQV4MwtAmL/Kw2EIm7IbYJddoCHkYuqozinldTEQhbeMyPDq4VnuVOWwd1qF/C0KAoAKCNI8XVfS+Reb14qYW38yI4kSEeC0=",
         "drm_scheme": "widevine",
+        "drm_license_uri": "yrLqYCHSIZVAWe4urMZwb+IcW5yYtyMR7flp+hRHFBkWyOlcPU80FK7brrFIvw8qA7ybYk6XDTefEBb5Jx7IbQ==",
         "icono": "https://i.ibb.co/3kwD39S/descarga-4.jpg"
       },
       {
