@@ -3291,6 +3291,13 @@
         "icono": "https://www.coicom.com/wp-content/uploads/2022/08/Canal-Luz-2022.jpg"
       },
       {
+        "name": "prueba3",
+        "uri": "dxDrk9GDgR3UBdQmFRBhDtPULy+sO0hNnzC8GkuOwmZUw588+dfkq9oaW7GTHNmgcrtoBNPmbHVPpxC6Tm890CnHWnbNG+7ywM3Hze+zF6pnN/gdiIY6wkDfRIGbM5AkltiW4mESd4iNcxI5p0nLG5Tq25ZfaJZF7wfwmM6h3IrwMt61t2cMj6yAt97tF8B6JGVeFRw3gyue5hOJnhIWErD2xasLjcq9RdOn+xJVlDSnRXs60aYCYhWXNzdlEMjUgAtHa7Q5UpTDYMV2XKT7a/TpgHA+RVFsaGZ7/RZtVTpHSo/mULIvRVFnBbE3a+fCnj7G63zyFpjyHcZlkWGRkY3l4CPsEoRn+j+pOlzZS6N42tGsZ2HHwkCPTYqU5mDZjiUYwe1Ssr1Rvj6iUBP6tQgcoAOLzIBLx03MHUV0SpS8UA2H1sC4/lvJNBQfeiKXCCDUDcT6hBxCRZTW0qFQ1d+rT2EhIL6pxPUryC0aLsdOKaGRUL0GfEmtW82hbeDR2aJF0FCi5Oox9gygYr+lVHcxtVme472z4HFdF+tQGFs0BYecA/v7A7mrLDpDcFgzX84muMZjoX7NNcd/sKeS1KpqSbQaxqO2UjMDcUhM6cT2PikPaJ61eg7Tc1kmn+0884yumg031B+2gFJvnC3+8QeKTFOVKFWnqCriBC274gG4R+zZqw2DlCymmpt5lUok578zXyeCCZ0ReC0WVr0486y7rOTVIGng9SQmabVDn4acbPh/bLGCwib23puu94qtk8MXfszQl671ym8eSNtA0Jyz3SoWw4SK0FHj3nY1KpFsty+jRpph9hndM8eSuDgj",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "yrLqYCHSIZVAWe4urMZwb+IcW5yYtyMR7flp+hRHFBkWyOlcPU80FK7brrFIvw8qA7ybYk6XDTefEBb5Jx7IbQ==",
+        "icono": "https://www.coicom.com/wp-content/uploads/2022/08/Canal-Luz-2022.jpg"
+      },
+      {
         "name": "flow14",
         "uri": "dnhlTZo/4dYJWx4M6WyVco5USTsIDycHyOUcsstm3Izu+twA547k/ItMrBoLpk9Pa/sXo4CVwwJgcCTG3OQhGMwhIBvxTQ0uUeM/PS4J892/1OeFewsqojbwtBboXrjxq1QHVhRqdyaEspIFLUCQFi2vNeimKXja8dgqyi/Gy23kUuA4t2bIkxFrwVytIQd2",
         "drm_scheme": "clearkey",
