@@ -1326,6 +1326,46 @@
     ]
   },
   {
+    "name": "🎬Pedro el escamoso",
+    "samples": [
+      {
+        "name": "🎬EP.1 ",
+        "uri": "gm74A3xvtmbRKbsoiP8abmiSb7Cb+1kG+wwsj0gNLEmwBhNEZldpLbAv3/tKwcp9p4Fpg2x1vYpqqqRk5Ki43Haczr9XgpsOqGOGt6wsjF10d1OZa/sqXu7xQOeq55UVOnNLTF2sQfCzM7xLUIRU6uxEKD+FLh0eb9RdEMMvXjTPxnxq/uxtdPggQmeGdB9XVl4O969d3E+kWDILR4QcSqg69QuK957FtrmkVDbkvaL+4gCSe3R+RoYcZR8i+hDl8wfr2VSzOXnbVbAN1BwEWnwYvGeBYhiiud0+BrKSaHp8iksR7aTX780RzpjWTWHKJ8U323+x8hdTxRM7DUEXe82jiqlf/7mGWkpcRJ7B7qKXW92nopIf0gQkt4lAN1Ls2Dr8A1/VFrWX8n8Iv10DtZ6O55ABjLimdTuDBFmN/aK2IIz2eKaN2uBNFZluOeax1B+RfdLhvdGU5K0zRkmpH3cXNVW2OP+WMcN3UsyQWzsqz/ARauJBBmKtrLJ5flZ0k57qbbI9estFdHiQFREVJHltYGYVOFNq6mlHq1aawcDmfT2JaF7tOdmXW089lMvq5EA+oOEIluN73zy/+BbndVEG+12aaDYA2POLdxpr/+XM53ck+b8xGxU3BOc7SQFVoDSMEgtNSSdIFdAkX9JzQ1++4mtcva2txapFNzUJ1Kqe7AXF49/10Q8PcfHtNndi2cqtXjsi/BzXqTthdSVHB6jY/Udy7V4fbbiD4kxUuh45ujkNejFQyiX82+g9lajimwGQP8gcXp+EjMBMc1zMLxhdyae/DFzIRcBrWJ0rI3VM3d4Qo8/mZMJrgAKBuGfx",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "yrLqYCHSIZVAWe4urMZwb+IcW5yYtyMR7flp+hRHFBkWyOlcPU80FK7brrFIvw8qA7ybYk6XDTefEBb5Jx7IbQ==",
+        "icono": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcREcao8UYKfzfCWxcczHj5DBp9CT1g3jGEthKd6DBz68TYgJFfx"
+      },
+      {
+        "name": "🎬EP.2 ",
+        "uri": "y0oyATwtVgLQMVX9fcGEqTK5wIGiKgK0/BnzfPn//AaYExkuaQFeNM8Kt85e8CF5zIH2RrjFHYnZr/OQgvDBMkLk4FA97/3/EjorvZ/syhw7e/H6AZdCVZXGN4NQGvJAE8y6iNA71TiiAgmpWf1Fdos9VcojE/GoWrVsntXicYoRLDCMzKXxNEJHRKuy1EkCemJkxCrZ/HIjb3b9MQM7ecPrSVfDR6LSWZL/TVZjOgYXu1R1UbcTk2BFj2ltM4k4IAKZkTbFBsqniR3TwjKU054q9GCzWOl67V5N0o3ShMUIykaaB3fb8id+wRgANyvWw3qM8NlKv/0irhFYiBXXt2ECBePEyyltiaKL+ySyTdQrVTYYWx+H3cRxHMco/EZmV7prRDIwgia+jD+mtqNdKowwOMzKS4pkd0NzUCz1xfFZbCMVM381CfBGHopW8szXR5eaLfzS8JeMtEmVJW9eT57UsNcshCd9b38msdnXfTLvhX9tdQ7b2Ii5QXfcdLmDcFJfMqGewrotvgFR1RVebVQLaOTSDn01l7r4Lxtx2f3e1OSxOb86HbzyRTQsIqig8FTSCX3TIwPC99MTPAeQHY+lerKvX6NLsbRVAlBSE3ouLBZU/OZxu7Slu7uEyBZpVRK/dK+KRiPOKfoP7SoBqzMOK0Pc7G0NsVE4/mHRjzxO8jnU1B7oldwLWT2Jk+BDTFXOYmkrC7n6MvCDmeYmCpIUki9sfehL6ad7BGvmQmDUHJVfRXMApPuhVGqnGtjfanulgJsgjhGKIKkXu500daKsNpWNvPeuuSOzjKsUZfWLOdc9Ty1F4ownSY1dlCVf",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "yrLqYCHSIZVAWe4urMZwb+IcW5yYtyMR7flp+hRHFBkWyOlcPU80FK7brrFIvw8qA7ybYk6XDTefEBb5Jx7IbQ==",
+        "icono": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcREcao8UYKfzfCWxcczHj5DBp9CT1g3jGEthKd6DBz68TYgJFfx"
+      },
+      {
+        "name": "🎬EP.3 ",
+        "uri": "dxDrk9GDgR3UBdQmFRBhDtPULy+sO0hNnzC8GkuOwmZUw588+dfkq9oaW7GTHNmgcrtoBNPmbHVPpxC6Tm890CnHWnbNG+7ywM3Hze+zF6pnN/gdiIY6wkDfRIGbM5AkltiW4mESd4iNcxI5p0nLG5Tq25ZfaJZF7wfwmM6h3IrwMt61t2cMj6yAt97tF8B6JGVeFRw3gyue5hOJnhIWErD2xasLjcq9RdOn+xJVlDSnRXs60aYCYhWXNzdlEMjUgAtHa7Q5UpTDYMV2XKT7a/TpgHA+RVFsaGZ7/RZtVTpHSo/mULIvRVFnBbE3a+fCnj7G63zyFpjyHcZlkWGRkY3l4CPsEoRn+j+pOlzZS6N42tGsZ2HHwkCPTYqU5mDZjiUYwe1Ssr1Rvj6iUBP6tQgcoAOLzIBLx03MHUV0SpS8UA2H1sC4/lvJNBQfeiKXCCDUDcT6hBxCRZTW0qFQ1d+rT2EhIL6pxPUryC0aLsdOKaGRUL0GfEmtW82hbeDR2aJF0FCi5Oox9gygYr+lVHcxtVme472z4HFdF+tQGFs0BYecA/v7A7mrLDpDcFgzX84muMZjoX7NNcd/sKeS1KpqSbQaxqO2UjMDcUhM6cT2PikPaJ61eg7Tc1kmn+0884yumg031B+2gFJvnC3+8QeKTFOVKFWnqCriBC274gG4R+zZqw2DlCymmpt5lUok578zXyeCCZ0ReC0WVr0486y7rOTVIGng9SQmabVDn4acbPh/bLGCwib23puu94qtk8MXfszQl671ym8eSNtA0Jyz3SoWw4SK0FHj3nY1KpFsty+jRpph9hndM8eSuDgj",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "yrLqYCHSIZVAWe4urMZwb+IcW5yYtyMR7flp+hRHFBkWyOlcPU80FK7brrFIvw8qA7ybYk6XDTefEBb5Jx7IbQ==",
+        "icono": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcREcao8UYKfzfCWxcczHj5DBp9CT1g3jGEthKd6DBz68TYgJFfx"
+      },
+      {
+        "name": "🎬EP.4 ",
+        "uri": "gm74A3xvtmbRKbsoiP8abjStCS4iqkmlHgK03vKBL5ewBhNEZldpLbAv3/tKwcp9p4Fpg2x1vYpqqqRk5Ki43Haczr9XgpsOqGOGt6wsjF1lF1p/XuWpGQ+Z6plBD9pKOnNLTF2sQfCzM7xLUIRU6i+7nMJSmNIPfDPdJAk4s+dQ2s/WSYaRWnGARVutAc6KAvz0Wo+7JaA4wVkhPif+awgxnNk48mKLoHSCVXrAmg8J+Yr03ai9mdFwoUmmyqa2GDtydlGqZkrT2VbSPkjjhnwYvGeBYhiiud0+BrKSaHp8iksR7aTX780RzpjWTWHKJ8U323+x8hdTxRM7DUEXe82jiqlf/7mGWkpcRJ7B7qKXW92nopIf0gQkt4lAN1LsMnY9y4exEFGlaleG5OuDtBQPtbadlvtjE9HzdlSoVT6f/X9GuPTWYspjRxWYqqcmauNAh7Fic5++TgpiO4miljOkPKkWzeGodul7xCnaNpzCfHxScsANO/Sb4hcUvGW4tU2TbGcQKCPQtAS2LOhQGbN66D9GgQ5yRtTsWH9d7WuGjrG716VRBOyduB9IQFwOCCf57l95MXehg+F9VIapb5MJWvWXyIceKplPmSE5ZLgwOehf1DbFjcBawmtCJ5Orbqy0Z4hERZJya+n0Ul+nnW0Vs6IZ51xS3m6fReMZDJxxsSOG0qoXFKn0F/WUHKWcZJm8UV4qrJY32Y+UazQ1LEMH7dcgUAbeAI9NciZDuJc5ujkNejFQyiX82+g9lajimwGQP8gcXp+EjMBMc1zMLxhdyae/DFzIRcBrWJ0rI3VM3d4Qo8/mZMJrgAKBuGfx",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "yrLqYCHSIZVAWe4urMZwb+IcW5yYtyMR7flp+hRHFBkWyOlcPU80FK7brrFIvw8qA7ybYk6XDTefEBb5Jx7IbQ==",
+        "icono": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcREcao8UYKfzfCWxcczHj5DBp9CT1g3jGEthKd6DBz68TYgJFfx"
+      },
+      {
+        "name": "🎬EP.5 ",
+        "uri": "9ZI+bpDC+hweF5IT8TPCMKLAVHEL/ZUtjJ3ARRUCXWDNktfLjiygDPxG5VTDFG2jKnYOPMpUj6df9lm0ppKK+qnX4Z1WmrPJq0jp0izdYTNyn4zcHnBvRG5PFfjZcSQHg8j/3xbhRvY3GPKZ1by8KaohGsnZyMts4lkik/RZR31AJUHjOeGJ9GMudAnt953GmuFxy6ysBPY1U+9wN4Fq4vP2Esax09nkMjbccKlxjS9rmQZWpW/m9PIA7cVcvzrYKG5EoWoVu4ERxtetqoc6VZdNEc01BfZK8W/U3K3evvLTN2UC6esjobzWh/xD/ct6Z5Pry0SObbk843APqIoFXaTvQJ0rw9nxEo1IMkMjrEuHVx3ubu4sH2ENBsQsvOS4Eyx05N4Dg8OP7lqyoO2HoR+5ZTBIiLuzBhQTz4ucNDWGxz0qY+09RGH2PZtf5FgWWi2vKv2GBfuWcHfRRGeTzaD8LIz8Z1+u8PpgUI6THY9rdf4jmFMELq0YYMCp3hEHFyqsMwZUJULEfWAnSBrz0qLECmrB+QlU33ermWlnMqF8KM9h9eGqQUHRhGV+Ui827ZoAKIpNrrQiVVJsY9VnjiPAXs77mUP3xoZ1nkCuxXEQlkejROIqnUKvwbjr3r7hY+nrnnYFqWAtSY2L7Py6QPDOR+Upx9ucYYk+SLraUxAxFpFJYi2xbP9TQh8lZdd5aDch3bSjwiIGHWIAhNVWCEwXBpbPoau3pu2AXbmE9pDpD93DbWPKF+UnWCVqt4+ASkTu10bX9tk/rqKW3CUyeA==",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "yrLqYCHSIZVAWe4urMZwb+IcW5yYtyMR7flp+hRHFBkWyOlcPU80FK7brrFIvw8qA7ybYk6XDTefEBb5Jx7IbQ==",
+        "icono": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcREcao8UYKfzfCWxcczHj5DBp9CT1g3jGEthKd6DBz68TYgJFfx"
+      }
+    ]
+  },
+  {
     "name": "🎬El Encargado T3",
     "samples": [
       {
