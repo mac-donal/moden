@@ -3283,6 +3283,11 @@
     "name": "🎼 MUSICA & RADIOS",
     "samples": [
       {
+        "name": "la-popu",
+        "uri": "1RH7vyytXEwcdihy+015TUIDrUj5tC2pEcz37IFM/AZhQeEKq1wtsoetWBxYl0yKaeOQC5B3HMPhPFrje2g56Q==",
+        "icono": "https://www.lapopu.com.ar/img/logo-la-popu.png"
+      },
+      {
         "name": "Rock24",
         "uri": "bak6bVcZjlSIPvXt5mEKlDYQDg99z4fZsqdUtw2e8KzlPRa0FSPL0kSGgApDANyPdgU5mAGtEEhOwcGqGCqdQA==",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0T9KnUS_T7jLjPIET0RndRnMuHwiW1qqwAA&s"
