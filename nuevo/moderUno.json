@@ -1087,6 +1087,11 @@
     "name": "🇦🇷 INTERIOR DE ARGENTINA",
     "samples": [
       {
+        "name": "ELONCE Paraná",
+        "uri": "bJQa8KiQqfpZHkZ+kOyvWtLvSmGks+2iRGjUeivBw2p4e02Ixs8BiAk4B6f28DLGjPMX1GfXAbeIx6vcK8Ms0g==",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Logo_ELONCE_Paran%C3%A1.png/800px-Logo_ELONCE_Paran%C3%A1.png"
+      },
+      {
         "name": "Canal 6 ERTV",
         "uri": "yC5Ho3svNM9trJ+yDmsnmIGB9V+qz46W+kv+RasHp+s=",
         "icono": "https://static.wikia.nocookie.net/logopedia/images/9/93/C6ERTV_2018_2.png/revision/latest/scale-to-width-down/801?cb=20230723175732&path-prefix=es"
