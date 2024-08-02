@@ -823,6 +823,13 @@
         "icono": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Telefe-logo-1.jpg"
       },
       {
+        "name": "TELEFE OPC 4",
+        "uri": "u5YEICSd2gZJCyNsh/UszR0mqnPQ12OntLAnuQ5Fsr3zEPaPr5TkFdTJ6XVivNR4aeOQC5B3HMPhPFrje2g56Q==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvHvog55R7efG+Y3JUfRdAkMyRSdbLwaUtq++PwNnQqDF/5XTuseg/1NGWwcgAa1wbz7nE5t2Ipsv4zSpvjw74AXoJbR6JjD+qxAsWu9czz4cvTHIrUV/EgtGXGChh04imA==",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Telefe-logo-1.jpg"
+      },
+      {
         "name": "TELEFE INTERNACIONAL",
         "uri": "x/xWkNrovMYmGeIV76G4pOWzEePFvZC2/a11JIOm1xJK8P+YpadtFc+emjQH0RQ0KixlCGKJqhCtzJRvAoL1/eg3qoA1RRG8tLoGCtjjXZARZV/eT+Kwd18Ao6HTVSOiy6kRnYqQJnVVBGEs/O/tJw==",
         "drm_scheme": "widevine",
@@ -941,6 +948,13 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvPgpUVkJPIfYdLhHlazjK372ZlbeLwZNxiIlq/XgRaCCqCKVjlWop721LJ7jCNDA5jHf86CDpl77i4XXJrwXAjWWRuKbB8YfXf737V5Tmye9xL3D3Q2XT9ZSyjnHcBijAA==",
         "icono": "https://i.ibb.co/vvptksh/maxresdefault.jpg"
+       },
+      {
+        "name": "CRONICA TV OPC 2",
+        "uri": "u5YEICSd2gZJCyNsh/UszR0mqnPQ12OntLAnuQ5Fsr3Ly9v6B+SwnReMVakP8xstaeOQC5B3HMPhPFrje2g56Q==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvPgpUVkJPIfYdLhHlazjK372ZlbeLwZNxiIlq/XgRaCCqCKVjlWop721LJ7jCNDA5jHf86CDpl77i4XXJrwXAjWWRuKbB8YfXf737V5Tmye9xL3D3Q2XT9ZSyjnHcBijAA==",
+        "icono": "https://i.ibb.co/vvptksh/maxresdefault.jpg"
       },
       {
         "name": "A24",
@@ -959,6 +973,13 @@
       {
         "name": "CANAL 26 OPC 2",
         "uri": "SO7PaqFnX2XeJ1kRo1c/2lLubH7M5HtXe8JNuwGW79ZpjJZ+jYOdj9D32ClEzTSlO5ng5OI3DZx3T3I9dt9BFg==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvB1GNq6beNiuucOe0WXWM1fqaZXOEMYeAWjLjNsO4muskyFRilW7Rx4IS93S3PZxJrwpvFfig2cvHjpHOSDZTYgryvIBHTECoCdNhlKrogJcQmIAUyC9wtvn4xLgeiHjMA==",
+        "icono": "https://i.ibb.co/ScjYgWj/Logo-Canal26.jpg"
+      },
+      {
+        "name": "CANAL 26 OPC 3",
+        "uri": "u5YEICSd2gZJCyNsh/UszR0mqnPQ12OntLAnuQ5Fsr3stDNXPOwUYn7AZ6NwX2jGaeOQC5B3HMPhPFrje2g56Q==",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvB1GNq6beNiuucOe0WXWM1fqaZXOEMYeAWjLjNsO4muskyFRilW7Rx4IS93S3PZxJrwpvFfig2cvHjpHOSDZTYgryvIBHTECoCdNhlKrogJcQmIAUyC9wtvn4xLgeiHjMA==",
         "icono": "https://i.ibb.co/ScjYgWj/Logo-Canal26.jpg"
