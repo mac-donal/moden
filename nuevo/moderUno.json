@@ -1105,11 +1105,6 @@
         "icono": "https://static.wikia.nocookie.net/logopedia/images/9/93/C6ERTV_2018_2.png/revision/latest/scale-to-width-down/801?cb=20230723175732&path-prefix=es"
       },
       {
-        "name": "CADENA 3 ARGENTINA ",
-        "uri": "bJQa8KiQqfpZHkZ+kOyvWtLvSmGks+2iRGjUeivBw2r7F2l10gor6/4sW6JFCLETKvlnt7FZv7zhMSKrqftbyA==",
-        "icono": "https://cdn-profiles.tunein.com/s13665/images/logog.png?t=636325"
-      },
-      {
         "name": "CANAL 3 TV Pública Pampeana",
         "uri": "ilOZEuHGYrlxc4gD7mvcvcbIST1xsL8MhDizsot7tta6NSMkSiQud9vBXgFGuMpmhll36AwW7dM5WpVM64AYEPv3zQSGGXjtwGkuOLFpgqU=",
         "icono": "https://static.wixstatic.com/media/4e4f43_4ebd7771d0b847dd8c2679e2d396b38e~mv2.jpg/v1/fill/w_980,h_551,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/4e4f43_4ebd7771d0b847dd8c2679e2d396b38e~mv2.jpg"
@@ -3294,6 +3289,11 @@
         "name": "la-popu",
         "uri": "1RH7vyytXEwcdihy+015TUIDrUj5tC2pEcz37IFM/AZhQeEKq1wtsoetWBxYl0yKaeOQC5B3HMPhPFrje2g56Q==",
         "icono": "https://www.lapopu.com.ar/img/logo-la-popu.png"
+      },
+      {
+        "name": "CADENA 3 ARGENTINA ",
+        "uri": "QT4DfJIQNvfUk6ETRcXmnqBiHaAavhY/zxqu4pq3hLkrnxW6o77Yipuh18/Uz1FdeaWdsj/nGW17VX+6OIp/xdovSGXbtm+a1CLIFvR9qOlYGQoU641fda/pl/8hHFPx",
+        "icono": "https://cdn-profiles.tunein.com/s13665/images/logog.png?t=636325"
       },
       {
         "name": "Rock24",
