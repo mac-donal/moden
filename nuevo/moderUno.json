@@ -287,6 +287,11 @@
     "name": "⚽ PACK FUTBOL ARGENTINA",
     "samples": [
       {
+        "name": "DirecTV Sports",
+        "uri": "0Oa5LOsxrdn3JekRuLZ1QX0WJZYWKqoL1bost2JjfESXKXNhXMdSU2AQ+w15Wqm/",
+        "icono": "https://pbs.twimg.com/profile_images/969313918727409665/mRvrSacI_400x400.jpg"
+      },
+      {
         "name": "TNT SPORT",
         "uri": "PiFoloK4zBxLo6GPf/bTShKL4AlwZXfSwZwgQmJiQ8RmXBuqeXlq3KAdZYIwvuJQYnRaiNuka+uzQB7BOkwhFncYlWgENV059oYzUoz88o+940GMpgYRJyTTarhtZ3DEaeOQC5B3HMPhPFrje2g56Q==",
         "drm_scheme": "clearkey",
