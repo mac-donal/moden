@@ -63,25 +63,13 @@
     "name": " EVENTOS INTERNACIONALES",
     "samples": [
       {
-        "name": "Nacional vs Peñarol",
-        "uri": "BnJ0Id7WKhTdTBqofrhrThXudm94XXpBJKUMZWvJvv1e8o5twOjHoCpiZuuWPigFcJ/agk6ldd0pfPqTV1yle79pIr09s9jrrzQ9mA5oeQ71Q9kWz7uFnPbzqX60ICaGEsptoRL4bdFHFFVheuWnYMldxSOknwmj+Xy1ciHz4B2TqA15StkIRUWTo407Tyod154dEdaUD/iDORqpGpElM/MyBlXKwklkCeuSZnPkX/O33KLruSLmYvihT12j/uxU8tY56yITbs4rcfhpyqmmEZNAnhMpYCZtqeWRBiit+JDG/lBjQCQxYz3nSDesnCgPicevUupkY5PCU7/WeJVECwPB8ISxGga4l6gXeVslBOs=",
-        "drm_scheme": "widevine",
-        "drm_license_uri": "yrLqYCHSIZVAWe4urMZwb+IcW5yYtyMR7flp+hRHFBkWyOlcPU80FK7brrFIvw8qA7ybYk6XDTefEBb5Jx7IbQ==",
-        "icono": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfGFvrHkTdFGqz77hYWFoMnUs-gE2XD-6v9MvDtms2mhyUSBv3HW4gt6vfYEw6UT7dFTh3ZOuEFipWm05L1TDnD-tW71lFWrNsNQlZGCJgTa9307xfvw4xnsjWGIzGveZBaOOC3NGITzk0NSzlMo_Mumji62MG1dZVBhFgmAaYWLKBtkSwvhaIZORysD0/s1600/Nacional%20X%20Pe%C3%B1arol.jpg"
-     },
-      {
-        "name": "Nacional vs Peñarol opc 2 ",
-        "uri": "1f2CSXaOvwHIeDRauiR0xSgjiwRgROEOonwcZHCxt7tML7Bgw6Hs2Ga/qqFSSmdB9ym+gLfg9GMQ/aif6e1EFvb3p7CRrEyF/+L8unFOx58atL9oN9tYPFZAJ+F46LiGRWmAY0i7J8DP+2YbrCgLL1q+yEfnVor1MGZ0gPvqHs4=",
-        "icono": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfGFvrHkTdFGqz77hYWFoMnUs-gE2XD-6v9MvDtms2mhyUSBv3HW4gt6vfYEw6UT7dFTh3ZOuEFipWm05L1TDnD-tW71lFWrNsNQlZGCJgTa9307xfvw4xnsjWGIzGveZBaOOC3NGITzk0NSzlMo_Mumji62MG1dZVBhFgmAaYWLKBtkSwvhaIZORysD0/s1600/Nacional%20X%20Pe%C3%B1arol.jpg" 
-     },
-      {
-        "name": "Nacional vs Peñarol opc 3 ",
-        "uri": "C0w2dmzisI5tfRWq+vrq5gIpMIvWUb4N2wSScPg71t8bwtSTAXvbkv917C8XkUm2OcO3sh0V7n2gBoNQAnTWuw==",
-        "icono": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfGFvrHkTdFGqz77hYWFoMnUs-gE2XD-6v9MvDtms2mhyUSBv3HW4gt6vfYEw6UT7dFTh3ZOuEFipWm05L1TDnD-tW71lFWrNsNQlZGCJgTa9307xfvw4xnsjWGIzGveZBaOOC3NGITzk0NSzlMo_Mumji62MG1dZVBhFgmAaYWLKBtkSwvhaIZORysD0/s1600/Nacional%20X%20Pe%C3%B1arol.jpg"
+        "name": "LIGA URUGUAYA",
+        "uri": "Riv7u0opSQq4BSIFEeSVymSU7NYpethjtBKsmWkyZQNF3on0c3PwVYauBSztCZmyrwF2P/FXQNzaZMtNYKnfLw==",
+        "icono": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1592.png"
       },
       {
         "name": "LIGA URUGUAYA",
-        "uri": "Riv7u0opSQq4BSIFEeSVymSU7NYpethjtBKsmWkyZQNF3on0c3PwVYauBSztCZmyrwF2P/FXQNzaZMtNYKnfLw==",
+        "uri": "ROpi3mBS+c3ggLYq5frQcCkPPQdawzpGOUrNl9AO00v8G9hONIjWTZ6cnPdGKtX7FAzfqyJqG1Xl82opnjKyRw==",
         "icono": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1592.png"
       },
       {
