@@ -40,6 +40,31 @@
     ]
   },
   {
+    "name": "🎬El Buki",
+    "samples": [
+      {
+        "name": "🎬 parte 1 ",
+        "uri": "lggBnl0XTtHptPlOcLxmCs+0Clw2GKU03RaDUi+tlQEPVlNAulnDDM8oEJdf1D7PJDWloEW+7W1PXotfKNrJp6nxczyjpkoGkAL9xX6pp9vuEYXQtnmIT/nlDyIr7pop",
+        "icono": "https://www.chicagotribune.com/wp-content/uploads/migration/2023/01/31/P3ZT6YI7TJDLPLSB6UZZ2GLUHY.png"
+      },
+      {
+        "name": "🎬 parte 2",
+        "uri": "lggBnl0XTtHptPlOcLxmCs+0Clw2GKU03RaDUi+tlQEPVlNAulnDDM8oEJdf1D7PJDWloEW+7W1PXotfKNrJp3QvxjEbomW03xouycDkX1nuEYXQtnmIT/nlDyIr7pop",
+        "icono": "https://www.chicagotribune.com/wp-content/uploads/migration/2023/01/31/P3ZT6YI7TJDLPLSB6UZZ2GLUHY.png"
+      },
+      {
+        "name": "🎬 parte 3",
+        "uri": "lggBnl0XTtHptPlOcLxmCs+0Clw2GKU03RaDUi+tlQEPVlNAulnDDM8oEJdf1D7PJDWloEW+7W1PXotfKNrJp/4Ev0HXGmv5Ky4UbosGyt7uEYXQtnmIT/nlDyIr7pop",
+        "icono": "https://www.chicagotribune.com/wp-content/uploads/migration/2023/01/31/P3ZT6YI7TJDLPLSB6UZZ2GLUHY.png"
+      },
+      {
+        "name": "🎬 parte 4",
+        "uri": "lggBnl0XTtHptPlOcLxmCs+0Clw2GKU03RaDUi+tlQEPVlNAulnDDM8oEJdf1D7PJDWloEW+7W1PXotfKNrJpw/WyzQ0st4XCGBPYHVriHHuEYXQtnmIT/nlDyIr7pop",
+        "icono": "https://www.chicagotribune.com/wp-content/uploads/migration/2023/01/31/P3ZT6YI7TJDLPLSB6UZZ2GLUHY.png"
+      }
+    ]
+  },
+  {
     "name": "🎬Pedro el escamoso",
     "samples": [
       {
