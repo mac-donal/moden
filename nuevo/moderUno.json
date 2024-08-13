@@ -287,11 +287,6 @@
     "name": "⚽ PACK FUTBOL ARGENTINA",
     "samples": [
       {
-        "name": "DirecTV Sports",
-        "uri": "0Oa5LOsxrdn3JekRuLZ1QX0WJZYWKqoL1bost2JjfESXKXNhXMdSU2AQ+w15Wqm/",
-        "icono": "https://pbs.twimg.com/profile_images/969313918727409665/mRvrSacI_400x400.jpg"
-      },
-      {
         "name": "TNT SPORT",
         "uri": "PiFoloK4zBxLo6GPf/bTShKL4AlwZXfSwZwgQmJiQ8RmXBuqeXlq3KAdZYIwvuJQYnRaiNuka+uzQB7BOkwhFncYlWgENV059oYzUoz88o+940GMpgYRJyTTarhtZ3DEaeOQC5B3HMPhPFrje2g56Q==",
         "drm_scheme": "clearkey",
@@ -590,11 +585,6 @@
         "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg"
       },
       {
-        "name": "TUDN",
-        "uri": "LKY06lOhOyBwZjSJvWMZ1AsA7Uy0zo1tZ0fQJ1ituZ4eCwhGcUdLLnmE9NG3j0v6aeOQC5B3HMPhPFrje2g56Q==",
-        "icono": "https://corporate.univision.com/wp-content/uploads/2019/05/TUDN_LOGO_COLOR.png"
-      },
-      {
         "name": "BEIN SPORTSÑ",
         "uri": "xLOgpGXCDjOjgkBZs/Gv+Wbx1JuJWhSp0VE7Nd3Y8oJ6Tl1SbJYJQ1fSJddRAKxgO2caNdJ+5ajs+2qSgC0qlSi2DrI7Yst+20nzb45kcXxNvvjRi3hPtZxqqKC56uftNzFMFQ8+PgCQX64YnJDJTQG7hO53kKosv31ngyhsY9EiE98oXZdic35SrWuDNoQX",
         "icono": "https://i.ibb.co/gJ9z814/o-h-1-895-bein-sports-xtra-1.png"
@@ -608,13 +598,6 @@
         "name": "BEIN SPORTS EXTRA 2",
         "uri": "+9TpcUU3jJLN9QFf4xYLhpHY2/3xWlSePNXfC++pm3clNsfOXGgBrmJWLMCgSYMvIhPfKF2XYnN+Uq1rgzaEFw==",
         "icono": "https://i.ibb.co/gJ9z814/o-h-1-895-bein-sports-xtra-1.png"
-      },
-      {
-        "name": "CLARO SPORTS",
-        "uri": "At33rBmLbsQ8r1xsklrRUAlQaQsm5nYrQg39iWHK5lXFhPN4xKpBshTPsJn3J5CabkRKN4REMzeE4ubd+Ldp8s8vla0FywcLb1Vy5U0FQ2fW/sIlAt1VCgugWqb2biq9HsQM8qzTcGQEIPMKK62MUxkwSpVkiZjVNoGTnmdzNTAbgnM9JaJEVyQbBAqHmFysJdW/GhogusLsBP/o7QCdD1ObbwpOpq4Lh6D++YiW6hMlq04N3gBzti7P56q72zyblJlANS6c6TaxIwJ8ZmIP93i1VulK4qvakxxU2S26KKWtanRDQ1kwH6ao0Np6lefF",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvGfDPC3NTn9Vs8/ZonizU6kShZ2pWTH5hUVvFytyE7hrxaiREvbSl/JoJ/c4uoa8FkQKSroQ20KvQUYUNOzIvNN/zEgUapONeOLgHvDHYExy/cBDmcl7SJftQeiatqt+/g==",
-        "icono": "http://78.47.174.211/logos/clarosports.png"
       },
       {
         "name": "REAL MADRID TV",
