@@ -64,6 +64,11 @@
     "samples": [
       {
         "name": "LIGA URUGUAYA",
+        "uri": "UKliFVUYLD+/jRyc1Xu0l5ZGq8VlXivcnRaY19h0XcgsXmVRU7CtduDg5f1S8ycu",
+        "icono": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1592.png"
+      },
+      {
+        "name": "LIGA URUGUAYA",
         "uri": "5NS0G0hRHDKgCsRFe2Ntk4JUXLRNC5IA3im9ttdk7ukLYT/+rZwc6XDfUaAA1uYw",
         "icono": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1592.png"
       },
