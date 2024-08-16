@@ -49,7 +49,7 @@
       },
       {
         "name": "⚽️MLS",
-        "uri": "Riv7u0opSQq4BSIFEeSVymSU7NYpethjtBKsmWkyZQN16ODJjhGBBIgCMtrtXnj96VDUD9KefoiiSs9RyVfdwg==",
+        "uri": "BwCt2YL2jA0p6g5tNuk+JI8gp8UyG5/4mFWQAmiZwewYwoEuByBg9kTt6YnZ4VbDqicw61Wrzy/2K5ad0jRJNQ==",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/MLS_crest_logo_RGB_-_Inter_Miami_CF.svg/969px-MLS_crest_logo_RGB_-_Inter_Miami_CF.svg.png"
       },
       {
@@ -63,8 +63,8 @@
     "name": " EVENTOS INTERNACIONALES",
     "samples": [
       {
-        "name": "LIGA URUGUAYA",
-        "uri": "1f2CSXaOvwHIeDRauiR0xSgjiwRgROEOonwcZHCxt7tML7Bgw6Hs2Ga/qqFSSmdB9ym+gLfg9GMQ/aif6e1EFvb3p7CRrEyF/+L8unFOx58atL9oN9tYPFZAJ+F46LiGRWmAY0i7J8DP+2YbrCgLL1q+yEfnVor1MGZ0gPvqHs4=",
+        "name": "LIGA URUGUAYA NICO",
+        "uri": "BwCt2YL2jA0p6g5tNuk+JI8gp8UyG5/4mFWQAmiZwewYwoEuByBg9kTt6YnZ4VbDqicw61Wrzy/2K5ad0jRJNQ==",
         "icono": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1592.png"
       },
       {
@@ -291,47 +291,6 @@
   {
     "name": "⚽ PACK FUTBOL ARGENTINA",
     "samples": [
-      {
-        "name": "Boca Juniors vs. Cruzeiro",
-        "uri": "uVDxTPhO0I22wwSdrJvbj70E7Ek7Vs1oxRFdA4CqLFTwW+jVPgacr2wJGkMLVfPzpAhMfAPAVhP2yoDTUPW8GJW5SO0RoHo05ayJmuQCQ8o=",
-        "icono": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4K233fJd22qAwlektpwnpl6lv5s3WEQGoto_mdGjwFMJq5ZY0XFxZv8qeP6zxT2bQ6fXOmroJ2Qw8CP1rELpZ9MW0aSXYJAAODz6Q7DC5btCll93dCfHUZnql8tIKOpGPGUitZx6wAd_P6w8XdtQc00jXP_1IclI-IexkT5V_2JC6xS-ilWYEeisstt0/s1600/Boca%20Juniors%20X%20Cruzeiro.jpg"
-      },
-      {
-        "name": "Boca Juniors vs. Cruzeiro opc 2",
-        "uri": "uVDxTPhO0I22wwSdrJvbj70E7Ek7Vs1oxRFdA4CqLFTwW+jVPgacr2wJGkMLVfPzpAhMfAPAVhP2yoDTUPW8GJW5SO0RoHo05ayJmuQCQ8o=",
-        "icono": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4K233fJd22qAwlektpwnpl6lv5s3WEQGoto_mdGjwFMJq5ZY0XFxZv8qeP6zxT2bQ6fXOmroJ2Qw8CP1rELpZ9MW0aSXYJAAODz6Q7DC5btCll93dCfHUZnql8tIKOpGPGUitZx6wAd_P6w8XdtQc00jXP_1IclI-IexkT5V_2JC6xS-ilWYEeisstt0/s1600/Boca%20Juniors%20X%20Cruzeiro.jpg"
-      },
-      {
-        "name": "Boca Juniors vs. Cruzeiro opc 3",
-        "uri": "q1izLWWq05I79vWo9I+CpAO+YTf4VkfGIdymVx9baJhgryQSjV0mx/uVVdqIj8049LaEckFGOEEOAJqd+35uHdyjTEBIZ4/tP2diF0FVJg5XC+MvxUUkpdZ9Jp2weWvB",
-        "icono": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4K233fJd22qAwlektpwnpl6lv5s3WEQGoto_mdGjwFMJq5ZY0XFxZv8qeP6zxT2bQ6fXOmroJ2Qw8CP1rELpZ9MW0aSXYJAAODz6Q7DC5btCll93dCfHUZnql8tIKOpGPGUitZx6wAd_P6w8XdtQc00jXP_1IclI-IexkT5V_2JC6xS-ilWYEeisstt0/s1600/Boca%20Juniors%20X%20Cruzeiro.jpg"
-      },
-      {
-        "name": "Boca Juniors vs. Cruzeiro opc 4",
-        "uri": "H/6DU7jZ0tLE5RwXeJ/HDptZPrVdiZSjvLwHfN1myzMCQplgr4NgaMFOakc/of9X6qDXJyg2PE6xKMcBXUNUF+sJr+w3wQHCMaQU58Y+eywZmrDhqHT1s2GbgSmRX+Xs",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvCUd5Lo5sR6MsVn3g+hJ8LdDdo8ulkhJhNYUxnRg2JEaXxD9viC/FYC9312U1ellyplXY2ASD3JNSyNv2+UF9J6jHBsoJgawP5dvGHJrn+tXDL8SJaXG4DS6J5woDkah0w==",
-        "icono": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4K233fJd22qAwlektpwnpl6lv5s3WEQGoto_mdGjwFMJq5ZY0XFxZv8qeP6zxT2bQ6fXOmroJ2Qw8CP1rELpZ9MW0aSXYJAAODz6Q7DC5btCll93dCfHUZnql8tIKOpGPGUitZx6wAd_P6w8XdtQc00jXP_1IclI-IexkT5V_2JC6xS-ilWYEeisstt0/s1600/Boca%20Juniors%20X%20Cruzeiro.jpg"
-      },
-      {
-        "name": "Athletico-PR vs. Belgrano opc 4",
-        "uri": "uVDxTPhO0I22wwSdrJvbj70E7Ek7Vs1oxRFdA4CqLFTwW+jVPgacr2wJGkMLVfPzpAhMfAPAVhP2yoDTUPW8GJW5SO0RoHo05ayJmuQCQ8o=",
-        "icono": "https://www.ole.com.ar/images/2024/08/14/YMlnY93c8_860x575__1.jpg"
-      },
-      {
-        "name": "Talleres Córdoba vs. River Plate opc 2",
-        "uri": "Rb4ZuWKPje6gNxaJOqrvSLrHJd2xKYB1SwDoOtvizPmwJ4c26r9gSsttgTXUexb6oIJeVRhjtC7Dwe0dzVEh1g==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvLONh0M/lqoZYybYbSMhF+ou4bXYB+i+EEy0wl0UCExjJgntE2Dyb497L3ken9jGiqGPnXqMdf00utpJRMl0v2lBa1m9PZXGv4JxlLGvN63IueiLb5gmFo57xqeIioeQEA==",
-        "icono": "https://www.ole.com.ar/2024/08/12/19bwhqE-p_1290x650__1.jpg"
-      },
-      {
-        "name": "Talleres Córdoba vs. River Plate opc 3",
-        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmIYBVFmQl2oSVaclARVvU72qFg1SDWXWnezHyZkilPJ2Vo4ZeffaLUqA3S4Agk8awiMJsskEhpTV72EG6tsMNNB",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvKdac3GmfGcWq4swPhlGiWGNE1mUAbefL4YopnM7OhKU4MH7g6+rzboBB1RbuOtKz+YmDyaynkbZwDvK4AbfxqcmJVKveF+NNZpzUBHc3cSLFU6viS9GkGMpwi8GW4UB0g==",
-        "icono": "https://www.ole.com.ar/2024/08/12/19bwhqE-p_1290x650__1.jpg"
-      },
       {
         "name": "TNT SPORT",
         "uri": "PiFoloK4zBxLo6GPf/bTShKL4AlwZXfSwZwgQmJiQ8RmXBuqeXlq3KAdZYIwvuJQYnRaiNuka+uzQB7BOkwhFncYlWgENV059oYzUoz88o+940GMpgYRJyTTarhtZ3DEaeOQC5B3HMPhPFrje2g56Q==",
