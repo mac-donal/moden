@@ -26,18 +26,16 @@
     ]
   },
   {
-    "name": "🏆 EVENTOS EN VIVO",
+    "name": "🏆 EVENTtyOS EN VIVO",
     "samples": [
       {
-  "name": "Telefe FullHD",
-  "icon": "https://i.imgur.com/gDvf2Tz.png",
-  "uri": "https://cdn.trimi.com.ar/live/sm-live/AE/sa_live_dash/AE.mpd",
-  "drm_scheme": "widevine",
-  "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c1b8d5859d4a4f33b80b24184cc1da91&key=020cd87890a23b81535bd72bc275648f",
-  "headers": {
-    "User-Agent": "Dalvik/2.1.0 (Linux; U; Android 13; Pixel 7 Build/TD1A.220804.031",
-    "Referer": "https://player.sensa.com.ar/"
-      }},
+      "name": "Tele  fe FullHD",
+      "icon": "https://i.imgur.com/gDvf2Tz.png",
+      "uri": "ww4WalZcgFaP2DCaYawE/ozZwLISOIwaA+2rYb5y+oRhonxcM6KORqIUj1UVJ+20tyMAF22U4G9TtLRGfa5uiw==",
+      "drm_scheme": "clearkey",
+      "drm_license_url": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvE3O0/avG9UGruemxfIsudbto0xZnFfjKJ9dwE0ILZw6+X5TFiMwEboJXsXL3GGTOSHF/K6efiIc8WztZ+eSGAGtf/DGHjg2F1FKPS0XVGkQ2KrgZGg8VDomaB53NjkRTA=="
+      "icono": "https://pbs.twimg.com/profile_images/450290479574167553/zuArPE05_400x400.jpeg"
+      },
       {
         "name": "EVENTOS PY 2",
         "uri": "8zIAeOD0ye5XEpHsKGNLKnjoCi85EMDjH2GhXSGrGu1lhNyer51R1E580x2n4yyl",
