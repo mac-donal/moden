@@ -1087,6 +1087,16 @@
     "name": "🇦🇷 INTERIOR DE ARGENTINA",
     "samples": [
       {
+        "name": "Neo Tv Digital",
+        "uri": "BwCt2YL2jA0p6g5tNuk+JI8gp8UyG5/4mFWQAmiZwezat8fNh1ivVCm4CR6vgF2QVtgf1iObwHCmljmm77SWFSglPR2wBkpnsB3z1+vW62A=",
+        "icono": "https:/neotvdigital.com.ar/imagenes/banner.png"
+      },
+      {
+        "name": "Bayres TV | Canal 41",
+        "uri": "vDs01QovHT6z6DugBfrx5xyDhKRsACjLzKE5m0dq9X2b2OSnx5pw6g2vR2ORzFcKvPSaHK3lnKfUr6oitnCV+w==",
+        "icono": "https://bayrestv.com.ar/assets/logo-bayres-tv.png"
+      },
+      {
         "name": "ELONCE Paraná",
         "uri": "bJQa8KiQqfpZHkZ+kOyvWtLvSmGks+2iRGjUeivBw2p4e02Ixs8BiAk4B6f28DLGjPMX1GfXAbeIx6vcK8Ms0g==",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Logo_ELONCE_Paran%C3%A1.png/800px-Logo_ELONCE_Paran%C3%A1.png"
