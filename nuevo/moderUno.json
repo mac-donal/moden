@@ -1092,6 +1092,11 @@
     "name": "🇦🇷 INTERIOR DE ARGENTINA",
     "samples": [
       {
+        "name": "Canal 10 roca",
+        "uri": "e4BhnnaTNmnl73dzCNh9z5CCNDj2pB3v92iDCNHwWuS7bPx8pnKGo0/bfzLE7hnRnPsavr7DHnBP+pi0ywsA+psKuLEANXv1jj66GCW5iJ4=",
+        "icono": "https://diario10.com.ar/wp-content/uploads/2024/04/LOGO-DIARIO10-2020-OK_544-X-180.png"
+      },
+      {
         "name": "Neo Tv Digital",
         "uri": "BwCt2YL2jA0p6g5tNuk+JI8gp8UyG5/4mFWQAmiZwezat8fNh1ivVCm4CR6vgF2QVtgf1iObwHCmljmm77SWFSglPR2wBkpnsB3z1+vW62A=",
         "icono": "https:/neotvdigital.com.ar/imagenes/banner.png"
