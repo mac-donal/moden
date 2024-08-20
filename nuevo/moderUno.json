@@ -292,6 +292,26 @@
     "name": "⚽ PACK FUTBOL ARGENTINA",
     "samples": [
       {
+        "name": "Racing Club vs. Huachipato",
+        "uri": "1Zqb1oYb6Zp22rXdsM0UhzqbYmWgHu79u7UjYb+2RjjRakKoJcRQ1yU0t8fJWwtTlGAZIFHr7s0sPW7rsNoYIw==",
+        "icono": "https://i.ytimg.com/vi/QJ7f9Pu_TGo/hq720_live.jpg?sqp=CNiIkLYG-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB45fwcAZRPeyU5chxQyKdCtDP0EQ"
+      },
+      {
+        "name": "Racing Club vs. Huachipato OPC 2",
+        "uri": "28ztcqkG8bS/HMjVB3vilzq+tv26EWEkMumqN2Mgu1qTF4qYoBijfDkKK+t7Z6qp",
+        "icono": "https://i.ytimg.com/vi/QJ7f9Pu_TGo/hq720_live.jpg?sqp=CNiIkLYG-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB45fwcAZRPeyU5chxQyKdCtDP0EQ"
+      },
+      {
+        "name": "Racing Club vs. Huachipato OPC 3",
+        "uri": "uVDxTPhO0I22wwSdrJvbj70E7Ek7Vs1oxRFdA4CqLFTwW+jVPgacr2wJGkMLVfPzpAhMfAPAVhP2yoDTUPW8GJW5SO0RoHo05ayJmuQCQ8o=",
+        "icono": "https://i.ytimg.com/vi/QJ7f9Pu_TGo/hq720_live.jpg?sqp=CNiIkLYG-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB45fwcAZRPeyU5chxQyKdCtDP0EQ"
+      },
+      {
+        "name": "Racing Club vs. Huachipato NICO",
+        "uri": "BwCt2YL2jA0p6g5tNuk+JI8gp8UyG5/4mFWQAmiZwewYwoEuByBg9kTt6YnZ4VbDqicw61Wrzy/2K5ad0jRJNQ==",
+        "icono": "https://i.ytimg.com/vi/QJ7f9Pu_TGo/hq720_live.jpg?sqp=CNiIkLYG-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB45fwcAZRPeyU5chxQyKdCtDP0EQ"
+      },
+      {
         "name": "TNT SPORT",
         "uri": "PiFoloK4zBxLo6GPf/bTShKL4AlwZXfSwZwgQmJiQ8RmXBuqeXlq3KAdZYIwvuJQYnRaiNuka+uzQB7BOkwhFncYlWgENV059oYzUoz88o+940GMpgYRJyTTarhtZ3DEaeOQC5B3HMPhPFrje2g56Q==",
         "drm_scheme": "clearkey",
