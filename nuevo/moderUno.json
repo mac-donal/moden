@@ -402,6 +402,21 @@
     "name": "⚽ DEPORTES",
     "samples": [
       {
+        "name": "DSPORTS",
+        "uri": "wV32FVzLcjfrjGqmdCfCsgl/U7U2Z6Uszf/5VLa73uHqj6lQIQTafibcuQ4/RgV7F6tKSc/vXzPCZ+DGku9N+Q==",
+        "icono": "https://pbs.twimg.com/profile_images/969313918727409665/mRvrSacI_400x400.jpg"
+      },
+      {
+        "name": "DSPORTS 2",
+        "uri": "wV32FVzLcjfrjGqmdCfCsgl/U7U2Z6Uszf/5VLa73uHqj6lQIQTafibcuQ4/RgV7wIbZk8lKMpKG0UPXlUnnrA==",
+        "icono": "https://pbs.twimg.com/profile_images/969313918727409665/mRvrSacI_400x400.jpg"
+      },
+      {
+        "name": "DSPORTS 3",
+        "uri": "wV32FVzLcjfrjGqmdCfCsgl/U7U2Z6Uszf/5VLa73uHqj6lQIQTafibcuQ4/RgV7ixT6cSmrx/5eS4USWSTLkA==",
+        "icono": "https://pbs.twimg.com/profile_images/969313918727409665/mRvrSacI_400x400.jpg"
+      },
+      {
         "name": "Show Sports (Córdoba)",
         "uri": "PiFoloK4zBxLo6GPf/bTSqkzMwvOytGAGi5TMmNihSURz0Yc1yaaNNBESsSEf/mk4pYGqnQgvp1p8aQqQGLS8ug1c66ypqo9nLpdPsipS3ujysCvMKgfoJjSwvFYrVwz",
         "drm_scheme": "clearkey",
