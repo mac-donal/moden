@@ -3,6 +3,16 @@
     "name": "🎬PELICULAS RECIEN AGREGADAS",
     "samples": [
       {
+	"name": "🍿 Presa (2024)",
+        "uri": "eRgCDdmZzaSr5ntMHOvaBuXrWJ4MCJZ4jOL5Vn6Zcn1DY1TFuHVBct8XfQ2rboCunmmYm/3LGpj0ZobZvLL6FuHznzJOrGhhVp0KMprQd3s0lUpvjv+nlQpO87GbF67fto6kwi7zMZJrH9DGcEglfhbdtWukz+P+ob1jfHjgdeGzp24zyjlvc7c77VylXTUXJu1vuHI+ZMMq7e3ZeokEGwpFzR5X99jdxLx+aWD7gyxp45ALkHccw+E8WuN7aDnp",
+        "icono": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT5d-TSQ6WcoPYSIeU3fm2nvjFREcZ9XxUl0Pu2dmadXwZyEmYU"
+      },
+      {
+        "name": "🎬 Presa (2024) OPC 2",
+        "uri": "e3DRxA0SeYh8rk33tSVR0kWKHILgduvuCCNbDvQmO3Gg24mguM0rpGfKR8rlton6o2yRoB8ZTHZpcnRRL6qNdA==",
+        "icono": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT5d-TSQ6WcoPYSIeU3fm2nvjFREcZ9XxUl0Pu2dmadXwZyEmYU"
+      },
+      {  
         "name": "🍿Perro y gata (2024)",
         "uri": "eRgCDdmZzaSr5ntMHOvaBuXrWJ4MCJZ4jOL5Vn6Zcn1DY1TFuHVBct8XfQ2rboCunmmYm/3LGpj0ZobZvLL6FuHznzJOrGhhVp0KMprQd3s0lUpvjv+nlQpO87GbF67fto6kwi7zMZJrH9DGcEglfnrhqbnlFzWy/phNM3ijR95V20c6eRv+sTj8SI1Enu66/HQQfCpcbDln3lHXH3pSwfm6vadY+d4sxCHBGfVbRqKPIOUINxJHbKfEw3WD+iU5",
         "icono": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT7j5rfmY1SUFM_j-HbY58GHOY9-NkQou9YlKpmblGFdE6DxzMg"
@@ -161,11 +171,6 @@
         "name": "🎬MaXXXine (2024)",
         "uri": "Bxiz1sRKa8YTnDJ4REA2XNTGZL9Jn0zI/k+Nfdqg5ypDMJ3XQRTDtmATsnu1HpIDvE+D8ggshgqqXGt864L0m5liRyhIi29k6jJNjrlV1a0UIcUR+1rH/257YxN31iSqQ4rRCxrUHoB1X6ni78f5esD+8QNqqXIddaFqSUhQRGGiJawMPvN6h02t8bPVvIr5ikQawCD6912wSvJGsenkQSbdb6YjjWDSIxk76PplcJb0hgYqQ+IimoGzjOrxaTtgxB8uujYdptVQSPnt23ea4w==",
         "icono": "https://img-tomatazos.buscafs.com/439359/439359.png"
-      },
-      {
-        "name": "🎬 Presa (2024)",
-        "uri": "e3DRxA0SeYh8rk33tSVR0kWKHILgduvuCCNbDvQmO3Gg24mguM0rpGfKR8rlton6o2yRoB8ZTHZpcnRRL6qNdA==",
-        "icono": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT5d-TSQ6WcoPYSIeU3fm2nvjFREcZ9XxUl0Pu2dmadXwZyEmYU"
       },
       {
         "name": "🎬Al rescate de Fondo de Bikini (2024)",
