@@ -2,7 +2,12 @@
   {
     "name": "🎬PELICULAS RECIEN AGREGADAS",
     "samples": [
-      { 
+      {        
+	"name": "🍿el ministerio de la guerra(2024)",
+        "uri": "eRgCDdmZzaSr5ntMHOvaBuXrWJ4MCJZ4jOL5Vn6Zcn1DY1TFuHVBct8XfQ2rboCunmmYm/3LGpj0ZobZvLL6FuHznzJOrGhhVp0KMprQd3s0lUpvjv+nlQpO87GbF67fto6kwi7zMZJrH9DGcEglfp9ZyY74SPMI+ru7/2+SS6nHwtTKw+KQqUCH4NQglXggytYdX1aKM7tf1s78YTfL9Lf0N7jZlAijtMAYasuoT91gt+XZzg8y3wA1fbGBLqJaml1YqSaF2l+OWqXrlHTJag==",
+        "icono": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2024/4/w1280/1GD96U4q3cWYg6vVyLY5AMBmyH7.jpg"
+      },
+      {  
         "name": "🍿Dañado (2024)",
         "uri": "eRgCDdmZzaSr5ntMHOvaBuXrWJ4MCJZ4jOL5Vn6Zcn1DY1TFuHVBct8XfQ2rboCunmmYm/3LGpj0ZobZvLL6FuHznzJOrGhhVp0KMprQd3s0lUpvjv+nlQpO87GbF67fto6kwi7zMZJrH9DGcEglfhbdtWukz+P+ob1jfHjgdeEvOUJv4tYTMbUM2qHL+4jx2Z7hqUOL2JPD1IWkwqFN+Ba2eMbPHnma5HNFOCFmlD+qOIwN1L1MhkmapycogMeN",
         "icono": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRbP_XYk69zpuB1GI7mHLya2V5Ny767h6D5864gyER0OPsKRkF7"
