@@ -292,35 +292,13 @@
     "name": "⚽PACK FUTBOL ARGENTINA",
     "samples": [
       {
-        "name": "Cruzeiro vs. Boca Juniors",
-        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmLiXRhB6As37Tr551IbxBSZHP6HyROJeWBxubQseJGrtZCd789/cVAX8Q+2DXbpFdTLqRGdipAmdVUEYSz87+0n",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvEBs+hrZq9jIsnP8jkwsuili0rrfchksnTvqYRmHjaKhw2DghBQyLpsCf6esBCRDXZmvNMH7kRQ0TR7aZbJ/yri5cxcw3KlKQspfL/TFPefCMESFQDBJFybL/91IAmO8RQ==",
-        "icono": "https://www.eldiez.com.pe/wp-content/uploads/2024/08/Cruzeiro-vs-boca-juniors-en-vivo-por-copa-sudamericana.jpg"
-      },
-      {
-        "name": "Cruzeiro vs. Boca Juniors NICO",
-        "uri": "BwCt2YL2jA0p6g5tNuk+JI8gp8UyG5/4mFWQAmiZwewYwoEuByBg9kTt6YnZ4VbDqicw61Wrzy/2K5ad0jRJNQ==",
-        "icono": "https://www.eldiez.com.pe/wp-content/uploads/2024/08/Cruzeiro-vs-boca-juniors-en-vivo-por-copa-sudamericana.jpg"
-      },
-      {
-        "name": "Cruzeiro vs. Boca Juniors OPC 2",
-        "uri": "xLOgpGXCDjOjgkBZs/Gv+Wbx1JuJWhSp0VE7Nd3Y8oJ6Tl1SbJYJQ1fSJddRAKxgO2caNdJ+5ajs+2qSgC0qlSi2DrI7Yst+20nzb45kcXxNvvjRi3hPtZxqqKC56uftNzFMFQ8+PgCQX64YnJDJTQG7hO53kKosv31ngyhsY9EiE98oXZdic35SrWuDNoQX",
-        "icono": "https://www.eldiez.com.pe/wp-content/uploads/2024/08/Cruzeiro-vs-boca-juniors-en-vivo-por-copa-sudamericana.jpg"
-    },
-      {
-        "name": "Cruzeiro vs. Boca Juniors OPC 3",
-        "uri": "uVDxTPhO0I22wwSdrJvbj70E7Ek7Vs1oxRFdA4CqLFTwW+jVPgacr2wJGkMLVfPzpAhMfAPAVhP2yoDTUPW8GJW5SO0RoHo05ayJmuQCQ8o=",
-        "icono": "https://www.eldiez.com.pe/wp-content/uploads/2024/08/Cruzeiro-vs-boca-juniors-en-vivo-por-copa-sudamericana.jpg"
-      },
-      {
         "name": "DSPORTS",
         "uri": "1Zqb1oYb6Zp22rXdsM0UhzqbYmWgHu79u7UjYb+2RjjRakKoJcRQ1yU0t8fJWwtTlGAZIFHr7s0sPW7rsNoYIw==",
         "icono": "https://pbs.twimg.com/profile_images/969313918727409665/mRvrSacI_400x400.jpg"
       },
       {
-        "name": "DSPORTS OPC 2",
-        "uri": "28ztcqkG8bS/HMjVB3vilzq+tv26EWEkMumqN2Mgu1qTF4qYoBijfDkKK+t7Z6qp",
+        "name": "DSPORTS 2",
+        "uri": "FtwgtQwxt+ZbcC8STkwKSeIuAWVns2TTTUSUjbPvRa1qFu+Vn1c1NVQMoImwc5YVbQ4QcOt/PVPsb5YLy3UJcuj4iurQV0CEeHh1fdMLr0c=",
         "icono": "https://pbs.twimg.com/profile_images/969313918727409665/mRvrSacI_400x400.jpg"
       },
       {
@@ -425,12 +403,12 @@
     "samples": [
       {
         "name": "DSPORTS",
-        "uri": "2FgIluPfFGiE1eWyReKs1dqMkibio0WIlVOvnT/YKw/tRjgWarH16VEJMI2jHPLwmTCcSyEycSaJaxqs3L54GA==",
+        "uri": "FtwgtQwxt+ZbcC8STkwKSeIuAWVns2TTTUSUjbPvRa1qFu+Vn1c1NVQMoImwc5YVmI88Y+VM0SXoc5lZUOIYpzf5+kK0AmCcQ8jLgo8TVBk=",
         "icono": "https://pbs.twimg.com/profile_images/969313918727409665/mRvrSacI_400x400.jpg"
       },
       {
         "name": "DSPORTS 2",
-        "uri": "wV32FVzLcjfrjGqmdCfCsgl/U7U2Z6Uszf/5VLa73uHqj6lQIQTafibcuQ4/RgV7wIbZk8lKMpKG0UPXlUnnrA==",
+        "uri": "FtwgtQwxt+ZbcC8STkwKSeIuAWVns2TTTUSUjbPvRa1qFu+Vn1c1NVQMoImwc5YVbQ4QcOt/PVPsb5YLy3UJcuj4iurQV0CEeHh1fdMLr0c=",
         "icono": "https://pbs.twimg.com/profile_images/969313918727409665/mRvrSacI_400x400.jpg"
       },
       {
