@@ -2,7 +2,12 @@
   {
     "name": "🎬PELICULAS RECIEN AGREGADAS",
     "samples": [
-      {  
+      { 
+	"name": "🍿BEETLEJUICE 2 (2024)",
+        "uri": "V6C7KmqznTYslGBVxz9Z9Ce/NdUu+IElu3z1eXF5J9Z+Bo7dmzb4kph3p/3DPowJ4HDufofw2cH4aOv1mwaGSBqFBRDE7aKqvTRodx4Gg+MkvQ5IwzSuCZM6N6rbxsFEUl4cTSUxSgaZMV3aaDCZ8EitMyq3oP4zXtux5m32Pn5XfWjvGqvKVGWTbMStx41dekcBiDCJGl3HYdZIQ1+rh2NGZHPVxRUm9KVwwJb/d0khFlrF5LvwMGIFARyoX/jw3Mmft0cjh1fZ7E2fGBnkbXE2sBRG8C7N4yHFFfYP1AHL78B0JPoouIOm4oJgo3Ly4D4VdzcAF1XPAPSbxwydtdAbKqC4p6XpdCnjKO32rA8A38r/S4a2TalvAQKpdsK/rdqfcwaEhfZq5kZbufQk47BNBO1Zv3j51GxgN+ZgrRUns9gwexjitowLY8uQpY3DF+8HiBRaQlq9gWzwKhk2sdn7u9iBTB0kCXjhaIgVuAJYTVygpCKbNrEzd+q85zM3UmgXBlTLTw2utlEZ0kZfew==",
+        "icono": "https://m.media-amazon.com/images/M/MV5BYmRlYzE3ZTYtNjIyZi00MWYyLWEzZDItOWI5NzM1Yjc0NmI5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+      },
+      {         
         "name": "🍿LA VENGANZA DEL DRAGON (2024)",
         "uri": "90M5U8e80PDttrY8OVv52FNp+0dAi/dnJbAs5fDbrTaTSYeaeNtOs7aa/pYYaOye",
         "icono": "https://intervez.com/wp-content/uploads/2024/01/La-Venganza-del-Dragon-1.jpg"
