@@ -159,18 +159,6 @@
         "name": "Tríos",
         "uri": "x8PKB2q3mMKurxq1afhjS+Ym+OdlW6Y5CGLJM2xu0xWdzt6md9whIUlcjZpEw9Tm",
         "icono": "https://media.istockphoto.com/id/1350885528/vector/under-18-sign-warning-symbol-over-18-only-censored-eighteen-age-older-forbidden-adult.webp?b=1&s=612x612&w=0&k=20&c=s6or2m0d_Vk2AIs1-umCFZ-WXnqdg4y8cHONfmNyaHY="
-      },
-       {
-        "icon": "",
-        "name": "A24",
-        "uri": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/A24/live_dash_cld/A24.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
-        "header": {
-          "user-agent": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-3)",
-          "Origin": "",
-          "referer": "https://player.sensa.com.ar"
-        }   
       }
     ]
   }
