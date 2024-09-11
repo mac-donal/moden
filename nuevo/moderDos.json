@@ -3,7 +3,12 @@
     "name": "🎬PELICULAS RECIEN AGREGADAS",
     "samples": [
       {
-        "name": "🍿solo una noche de juegos 2024",
+        "name": "🍿el precio de la novia (2024)",
+        "uri": "TQSPBT5fFAmrHLJIeXbfeR3zS+KqnH51rWrTQpqdsN4DPtLhayaiz48U3hlMpPGKBrpdxrQiNgoaWbL+UugNDrFfgOUomXFFk/oUaiNqcaeRRj8KRT19UEunvmry3bDSPMt1g6PHomBwbtxd5Xth/Z55MAJon6lOaoZOR8mhMec=",
+        "icono": "https://media.themoviedb.org/t/p/w220_and_h330_face/9QusyGRq3X8zmbrqGM1ynGuPFB5.jpg"
+      },
+      { 
+        "name": "🍿solo una noche de juegos (2024)",
         "uri": "TQSPBT5fFAmrHLJIeXbfeRCMY7N52TzC+rYrLOIYnvNxQVRMFtet6QQDgjDDsVUXRgtUGMXRfd0QWCXXONWHDvVJ9TLTkg+JKjGIKZj9QnEY4MLNv5mvXdRNXtLJncvlChIHykBRZz54p9BLqTTSRQCXx91tYFe8UgiypoqL22I=",
         "icono": "https://media.themoviedb.org/t/p/w220_and_h330_face/d6mQAufyjfqGhRcvqTKAmUV6QRo.jpg"
       },
