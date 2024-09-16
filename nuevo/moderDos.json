@@ -2,7 +2,12 @@
   {
     "name": "🎬PELICULAS RECIEN AGREGADAS",
     "samples": [
-      {	       
+      {	
+	"name": "🍿La Bruja de Hielo (2024)",
+        "uri": "V6C7KmqznTYslGBVxz9Z9Ce/NdUu+IElu3z1eXF5J9Z+Bo7dmzb4kph3p/3DPowJMd47LNAfln5T4/lLCl5hPEWgx5z8GGLKq8xXG5xXUIYkvQ5IwzSuCZM6N6rbxsFEReus6DYmBFqa76Yp06PNFuYgombIism8I5BLN7pNpGbPew2LPYzoEipn/UHMz0AHg04XpbHHq+DLw98dmdd98tWyKPeP5XmL2S3AXK6uW/PPBmkzOBLL4sl2CWWmm8p53Mmft0cjh1fZ7E2fGBnkbXE2sBRG8C7N4yHFFfYP1AHrV90zNN7Encc+kP49+gtlArSZnOUdsLqG5n/hwd13c2y3PzFeV3h8cwnIw3/MT+ySFKq7/t6NzFyLHfVbsXRODE51rRe9cQoql6IQNq1p9VKUeCYjfF4UCHgxVAW775872jjx74rg2iiB1nKOFUnxF+8HiBRaQlq9gWzwKhk2sdn7u9iBTB0kCXjhaIgVuAJYTVygpCKbNrEzd+q85zM3UmgXBlTLTw2utlEZ0kZfew==",
+        "icono": "https://m.media-amazon.com/images/S/pv-target-images/b3acc759330808772ae621fa3031c4bba02620c670216353e9fa382148605149.jpg"
+      },
+      {       
        "name": "🍿Esperando La Carroza",
         "uri": "Bxiz1sRKa8YTnDJ4REA2XLCzbHMh+Rvhz0yIQKyXzzBKun8UR4t5ZZ27UmfHIUctmM3IoLfN1keG5e9sxiiWuQ==",
         "icono": "https://s3-sa-east-1.amazonaws.com/zibilia/eventos/cover/950x/2101.jpg?1412742241"
