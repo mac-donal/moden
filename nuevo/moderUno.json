@@ -287,16 +287,6 @@
     "name": "⚽PACK FUTBOL ARGENTINA",
     "samples": [
       {
-        "name": "DSPORTS",
-        "uri": "1Zqb1oYb6Zp22rXdsM0UhzqbYmWgHu79u7UjYb+2RjjRakKoJcRQ1yU0t8fJWwtTlGAZIFHr7s0sPW7rsNoYIw==",
-        "icono": "https://pbs.twimg.com/profile_images/969313918727409665/mRvrSacI_400x400.jpg"
-      },
-      {
-        "name": "DSPORTS 2",
-        "uri": "FtwgtQwxt+ZbcC8STkwKSeIuAWVns2TTTUSUjbPvRa1qFu+Vn1c1NVQMoImwc5YVbQ4QcOt/PVPsb5YLy3UJcuj4iurQV0CEeHh1fdMLr0c=",
-        "icono": "https://pbs.twimg.com/profile_images/969313918727409665/mRvrSacI_400x400.jpg"
-      },
-      {
         "name": "TNT SPORT",
         "uri": "PiFoloK4zBxLo6GPf/bTShKL4AlwZXfSwZwgQmJiQ8RmXBuqeXlq3KAdZYIwvuJQYnRaiNuka+uzQB7BOkwhFncYlWgENV059oYzUoz88o+940GMpgYRJyTTarhtZ3DEaeOQC5B3HMPhPFrje2g56Q==",
         "drm_scheme": "clearkey",
@@ -396,21 +386,6 @@
   {
     "name": "⚽ DEPORTES",
     "samples": [
-      {
-        "name": "DSPORTS",
-        "uri": "FtwgtQwxt+ZbcC8STkwKSeIuAWVns2TTTUSUjbPvRa1qFu+Vn1c1NVQMoImwc5YVmI88Y+VM0SXoc5lZUOIYpzf5+kK0AmCcQ8jLgo8TVBk=",
-        "icono": "https://pbs.twimg.com/profile_images/969313918727409665/mRvrSacI_400x400.jpg"
-      },
-      {
-        "name": "DSPORTS 2",
-        "uri": "FtwgtQwxt+ZbcC8STkwKSeIuAWVns2TTTUSUjbPvRa1qFu+Vn1c1NVQMoImwc5YVbQ4QcOt/PVPsb5YLy3UJcuj4iurQV0CEeHh1fdMLr0c=",
-        "icono": "https://pbs.twimg.com/profile_images/969313918727409665/mRvrSacI_400x400.jpg"
-      },
-      {
-        "name": "DSPORTS 3",
-        "uri": "wV32FVzLcjfrjGqmdCfCsgl/U7U2Z6Uszf/5VLa73uHqj6lQIQTafibcuQ4/RgV7ixT6cSmrx/5eS4USWSTLkA==",
-        "icono": "https://pbs.twimg.com/profile_images/969313918727409665/mRvrSacI_400x400.jpg"
-      },
       {
         "name": "Show Sports (Córdoba)",
         "uri": "PiFoloK4zBxLo6GPf/bTSqkzMwvOytGAGi5TMmNihSURz0Yc1yaaNNBESsSEf/mk4pYGqnQgvp1p8aQqQGLS8ug1c66ypqo9nLpdPsipS3ujysCvMKgfoJjSwvFYrVwz",
