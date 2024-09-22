@@ -3,7 +3,7 @@
     "name": "🎬PELICULAS RECIEN AGREGADAS",
     "samples": [
       {
-	"name": "🍿boxeador 2024",
+	 "name": "🍿boxeador 2024",
         "uri": "V6C7KmqznTYslGBVxz9Z9Ce/NdUu+IElu3z1eXF5J9Z+Bo7dmzb4kph3p/3DPowJMd47LNAfln5T4/lLCl5hPDlspCI3ou5RN1zbYpO+uEMkvQ5IwzSuCZM6N6rbxsFEArtqu8TfET257WbPtFJoj3MN6gmMuG331ZwS9yQD+zhKdoWAXG6PY+q3FBuHjZGMMSGTvZnXJ3cvPXtlY5XpLX1AHiVQdkbmQj467dcZC1zgHYBH8BG5VVyc8e5lQuzPBWRxqcBSTU8Z+5yI72Uo/uUndLQg37At5fgCpAwXjNMJoYcDuwQKf+pSa6JC9gy+T+gaRf/0fo2o17ksFmFJWelBaM+adOcd6jrTxN97xKJWbDnCsJQGLCy0bn9wo4Y5Hb8qNwBjGg1jFJLxzaR+L6dOBryKO1WdteGg3ROryBXk1Zg+bA2VRsgak5CREyXOUaBkySRH1CH5CWE5GPz7HhIw5eP0SsKGntLGBlHOjWidYgJ2CG60XfiPVLVUaKkgOFus9r1e3IA+RNQUeBn4hg==",
         "icono": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2024/9/w1280/ejGvY8gVc8J9Hjln0xWRV94CqMk.jpg"
       },
@@ -12,7 +12,12 @@
         "uri": "V6C7KmqznTYslGBVxz9Z9Ce/NdUu+IElu3z1eXF5J9Z+Bo7dmzb4kph3p/3DPowJwuJsYUYietpGJb2OX/D/1dHsnYPGy2bIL8TwLt/B8xIkvQ5IwzSuCZM6N6rbxsFEMHaf84SjeazzafKC/hS4Ttlm5DfsLbNOo9Z8RFb7mltKdoWAXG6PY+q3FBuHjZGMMSGTvZnXJ3cvPXtlY5XpLX1AHiVQdkbmQj467dcZC1zgHYBH8BG5VVyc8e5lQuzPh9RheRkKCrUQMBuRM5SPPr38ZR4Zt5D8QWHxv0Ui72uLp5FxcCY9dqFAODo1qyKFxvmAi+hIcDmeFaRQurV/TlnzKj3JEcPjezGByMraFuSeRXW1JfDVwQ3AuxAxdbJjMftFtfj0pn9JefEBMstmpqlHPzZaKjTrw6JClfwoZcg2Qg2IaTFCb4W014PukPZzdHcmOIeqTo6DUJ4UTk/WZWwtCCoLbKsWiy5P/Uk350dp6TiTzF+bKtKxRNUFeA0yi/iZSvf0S+L1nl/e/zgj8lGgZMkkR9Qh+QlhORj8+x4SMOXj9ErChp7SxgZRzo1onWICdghutF34j1S1VGipIDhbrPa9XtyAPkTUFHgZ+IY=",
         "icono": "https://m.media-amazon.com/images/M/MV5BZTA1NDc0ZTQtYjEyZS00NDE3LTk2ZmYtYTFmN2FiMjI0NTc3XkEyXkFqcGc@._V1_.jpg"
       },
-      {  
+      {      
+	"name": "🍿Erase_Una_Vez_En_México",
+        "uri": "V6C7KmqznTYslGBVxz9Z9Ce/NdUu+IElu3z1eXF5J9Z+Bo7dmzb4kph3p/3DPowJfxcGbozw0JuKcJQvsTuilgq/SPn82cqYn8PuET7At5aDVWYfW3qZvSQZqz7mXZi3z9//W8HORVuwWAI9q8ZRNGN8TM14dq7xlklypTogjysKwh5xeASh+u/81/x5LJw2Msss/J5X87XoO0gfGKwKZy4wlDalHKyV1cV9Q3yTUIokLhFflxdj55Z75+/09w0YhddvkF7HhVB9J+orrBLN3lKouKUubwjEqOUEdOEsI7ZO7UH+FZnvJyNzPgOgnGgbE/0DcMadv7nR3wk8rehQxlFlgiJrz3IKZwZNFz1hXi+brAsKT0k6AqHw8dAs++U4GiS8t9TXMd4dsq4SGryZoQDgcZ4AL8mQiuJU8SUzBq5A4d/hXcgopfDxkdz1XXAwEEFyJkjQhXUagnlrorIWvQQfTWqYSWcie0VeUwONm7G3dxnPPchppEoHJX/K7sCXH/hGbDBjhwGv+m+8ajT7AbPIFBS6wLc76tIj9rsmtBqbCsPC0Nr5nVB6A83hCi/bfyONJ8W+3b3YCO8x2uBu/DzBghtqiuYHxkrsReYY7vOp5BhFpHLRaAmyPzVGYWQl",
+        "icono": "https://m.media-amazon.com/images/S/pv-target-images/8d4f1604b840c943b87c5f397518a9f0dc583e9edea1f3996795ab513eb0a4b6.jpg"
+      },
+      { 
 	"name": "🍿Out of Darkness (2024)",
         "uri": "V6C7KmqznTYslGBVxz9Z9Ce/NdUu+IElu3z1eXF5J9Z+Bo7dmzb4kph3p/3DPowJWXePcLMhvD02z0jKjtyYlA1YUzfsQ07a7od2hn7Uwd8kvQ5IwzSuCZM6N6rbxsFEgld4zmM1V86QbAMxGbuTsFpwtWr6NgoApmWIsSMPzpVKdoWAXG6PY+q3FBuHjZGMMSGTvZnXJ3cvPXtlY5XpLbPoHvkiXisiwHV+kPAJv+Fsqd/9ZNBu2dVmLWAfimTqBFL6yo4ACD476SrWRuuBn8jxHM2GpfvOPvMmRkwbWSug1GNPips88KRrJPAJ8wo6DbggO8OCrAQfv+nxIqjt2+46sNc6wQ+lsZFvHConoFwRFGwQPiCh2OwrzUbsscOjOnomQpUZ2rVWyAnX2nsUlBOA+Eynq6xQ2s40j49P4hTWB/SyQSQhCQar4XgPn12es8gUFLrAtzvq0iP2uya0GpsKw8LQ2vmdUHoDzeEKL9t/I40nxb7dvdgI7zHa4G78vohjZQYExOkql5TxGpvUDQ==",
         "icono": "https://static.wikia.nocookie.net/hammerhouseofhorror/images/1/17/House_of_Darkness_%282022%29.jpg/revision/latest?cb=20230213013601"
