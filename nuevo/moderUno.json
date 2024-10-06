@@ -2956,6 +2956,16 @@
     "name": "🇺🇾 URUGUAY",
     "samples": [
       {
+	"name": "Nacional vs. Peñarol",
+        "uri": "Riv7u0opSQq4BSIFEeSVymSU7NYpethjtBKsmWkyZQPy+D6RTDJpaZ0xTiJe6VTYfAK/aCMVD51heOx6Mfw84A==",
+        "icono": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1592.png"
+      },
+      {
+        "name": "Nacional vs. Peñarol",
+        "uri": "212dZVnCSIHOHhSAzrFydNB4ytWYq7ossSSNrUq4dTK773SBSR0ZNZGHkj8KfuGNjCbLJBIaU1e9hBurbDDTQQ==",
+        "icono": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1592.png"
+	  },
+      { 
         "name": "CANAL 10",
         "uri": "EkaIwYvYUQmdu8f0KwsOZaLchbLKSm8ry8p59CEOqa0vXm/Xu4wiB4n1Yl3QMZ4t/Q56QdC/UO9op1RfpJ4wzz6lqpwQQ9q78MY4JHn5C6ToQSYwh1SO9ziplweY+qwJ",
         "drm_scheme": "clearkey",
