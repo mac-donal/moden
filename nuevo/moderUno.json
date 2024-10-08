@@ -2,14 +2,7 @@
   {
     "name": "🏆 EVENTOS EN VIVO",
     "samples": [
-      {
-       "name": "LIGA URUGUAYA",
-        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmIYBVFmQl2oSVaclARVvU72qFg1SDWXWnezHyZkilPJ2Vo4ZeffaLUqA3S4Agk8awiMJsskEhpTV72EG6tsMNNB",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvKdac3GmfGcWq4swPhlGiWGNE1mUAbefL4YopnM7OhKU4MH7g6+rzboBB1RbuOtKz+YmDyaynkbZwDvK4AbfxqcmJVKveF+NNZpzUBHc3cSLFU6viS9GkGMpwi8GW4UB0g==",
-        "icono": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1592.png"
-      },
-      {   
+      { 
         "name": "EVENTOS PYY",
         "uri": "YTKdSjaYD2hefdhHBlHrFmydItq8bQ2+MOTBfkXcR5K+DIMSujq5ucXbV3HobMTtb49oFkibyCgf7df9g04LvYYg7Rci/elCQhHrKYNA23HUNaYg6guQVuvgKP3ithPV+/fNBIYZeO3AaS44sWmCpQ==",
         "icono": "https://pbs.twimg.com/profile_images/450290479574167553/zuArPE05_400x400.jpeg"
