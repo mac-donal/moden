@@ -38,6 +38,11 @@
     "name": " EVENTOS INTERNACIONALES",
     "samples": [
       {  
+        "name": "LaLiga: Real Madrid vs. Barcelona",
+        "uri": "Riv7u0opSQq4BSIFEeSVymSU7NYpethjtBKsmWkyZQPXyyWlnAwvYISqkd+hlO2Eef5ph2YwaENFonSWVlUciA==",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0JfoERWqFm1l586GVVuiTAZfiKAUXX6q6AQ&s"
+      },
+      {
         "name": "LIGA URUGUAYA NICO",
         "uri": "Riv7u0opSQq4BSIFEeSVymSU7NYpethjtBKsmWkyZQNWSm0IYwo26FwqORHUPDxg7OOXkndZg21jYZSSCbEJJQ==",
         "icono": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1592.png"
