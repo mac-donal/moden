@@ -13,11 +13,6 @@
         "icono": "https://pbs.twimg.com/profile_images/450290479574167553/zuArPE05_400x400.jpeg"
       },
       {
-        "name": "EVENTOS PY 3",
-        "uri": "Riv7u0opSQq4BSIFEeSVymSU7NYpethjtBKsmWkyZQMQOiYCNM5fmEwvybPD4NbbIB/cKp1uX0JILCPSRWF8Uw==",
-        "icono": "https://pbs.twimg.com/profile_images/450290479574167553/zuArPE05_400x400.jpeg"
-      },
-      {
 	"name": "⚽️MLS",
         "uri": "g16wHU9pRJEtaPMztekjMRkBkTXgtOGl1rgABzUwEsg2TurXojsv2pnpB3XQLDhecggr5nDhg6h0F07e8MHLrg07ofG+B8mbD/CQwC2Fm5A5BAJGc4dqNv31s88q1YSXwdH7LVnzrk+6l+eVRxLjKpRgGSBR6+7NLD1u67DaGCM=",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/MLS_crest_logo_RGB_-_Inter_Miami_CF.svg/969px-MLS_crest_logo_RGB_-_Inter_Miami_CF.svg.png"
@@ -39,7 +34,7 @@
     "samples": [
       {  
         "name": "LIGA URUGUAYA NICO",
-        "uri": "oC+KO8kIZeQvw/NXafyWMdf90NmcrSFfou7xCXCcpIia0mUorR0y8JU8G6Af6EGTtzF2WSWmiA5k74ooLfTYqpKhwFu8VDG024ZbBvoD32pUIixka1HYy1VfbzY3fkAR3wxSkTE5TReYdnj+weY1ZpQnukwgA9gpPfMHRxDnvwIxGaGTDpDhYfA2oG1wlJWpVMdYBWB3lk/5M/L4iBdMHf+hJYZS9UshwMoQ1CtyMVHAHu3NTg6kVt/IRW3qSuSQ",
+        "uri": "Riv7u0opSQq4BSIFEeSVymSU7NYpethjtBKsmWkyZQPXyyWlnAwvYISqkd+hlO2Eef5ph2YwaENFonSWVlUciA==",
         "icono": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1592.png"
       },
       {
@@ -1057,7 +1052,7 @@
       },
       {
         "name": "TEATRIX TV HD ",
-        "uri": "HalLAosBent0p3KQrDUagKbmnSNU4COz1SFiCmiahjS53eLQ7DDeGVyPrufC4Aa0TEq5SUTqXcu53MTSyqmByj8WsWyAK7+PKz7iNlI0Qj1S/+57icU2xffvcF0tk+9Q3wxSkTE5TReYdnj+weY1ZsSsC3Q5U9Z1B5hfuKcgUzExGaGTDpDhYfA2oG1wlJWpVMdYBWB3lk/5M/L4iBdMHRHfCETwkYaPGhxgS0E7vbHrPcG3L0vd3lzCuu09Kv9P",
+        "uri": "Riv7u0opSQq4BSIFEeSVymSU7NYpethjtBKsmWkyZQMQOiYCNM5fmEwvybPD4NbbIB/cKp1uX0JILCPSRWF8Uw==",
         "drm_scheme": "clearkey",
         "drm_license_uri": "Hoq/0lvHV+XwCDj/Xp/oHDzm3JAuic0pF9zxJoh2JsT3epD6MQyG+UkAJNverCwtMkL3xeYr0C3JkKGWMgfLSLz/pkSnds6wyQtXnYbk/8M0JosQNZygogQmOs0Q19koSKVnkPgX2Up0Kq9OnI8wzfmpf/tm3k/qOEpnghz8JgotNU2DZrvsjfFVJTUjW8sxnkorAolbpBfEGtTAQ6YRuA==",
         "icono": "https://i.ibb.co/3kwD39S/descarga-4.jpg"
@@ -1067,28 +1062,6 @@
         "uri": "Riv7u0opSQq4BSIFEeSVymSU7NYpethjtBKsmWkyZQMQOiYCNM5fmEwvybPD4NbbIB/cKp1uX0JILCPSRWF8Uw==",
         "drm_scheme": "clearkey",
         "drm_license_uri": "pz8OoReJiHM+1Z9fn7DVoLArdQ3FGV03aIcvwJrd5EdNRr73gxIsJyOJ7eYLIHY1/zFOx37XHsVF27A/YhBNGenxqukJjOXQfZYPtFL+e3EyZsAJ9QBz87kT/1KMNIa2Wr9NlxYEVM7iAOQ3CN7Ko3O19XZEgMR06eGKYQUCTfylEwpMe5c2AUGLAirkYh/Kp3lzG4Vva2nyGAQP6nbftQ==",
-        "icono": "https://i.ibb.co/3kwD39S/descarga-4.jpg"
-      },
-      {
-        "name": "TEATRIX TV H3 ",
-        "uri": "Riv7u0opSQq4BSIFEeSVymSU7NYpethjtBKsmWkyZQMQOiYCNM5fmEwvybPD4NbbIB/cKp1uX0JILCPSRWF8Uw==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "Hoq/0lvHV+XwCDj/Xp/oHDzm3JAuic0pF9zxJoh2JsT3epD6MQyG+UkAJNverCwtMkL3xeYr0C3JkKGWMgfLSJTgy2eYYTj+/ms8A/O58gZOE0cmpA6WOp4uFRqHjkpi8dJpa46o87Ns8SK6PG1MLdFHaSw7973fOgPAvy9kvGIQ5m8sTm1rw6I6GrWWebyLntZ0KvoNFxURJwKknOpCxQ==",
-        "icono": "https://i.ibb.co/3kwD39S/descarga-4.jpg"
-      },
-      {
-        "name": "TEATRIX TV  1",
-        "uri": "ygw/uSYkA0F94LkK2wXIKXGTxw491w1f1bWzC3gnw9H7UfcMSx7J+TeCC09Lqd+LK6RtpyLxHdzMnELb1e9a0JRgGSBR6+7NLD1u67DaGCM=",
-        "icono": "https://i.ibb.co/3kwD39S/descarga-4.jpg"
-      },
-      {
-        "name": "TEATRIX TV 2",
-        "uri": "Riv7u0opSQq4BSIFEeSVymSU7NYpethjtBKsmWkyZQNMfk9boLEzcJGptSXjcrAsQ2lBro8XJamo2rPPrkSfFg==",
-        "icono": "https://i.ibb.co/3kwD39S/descarga-4.jpg"
-      },
-      {
-        "name": "TEATRIX TV 3",
-        "uri": "Riv7u0opSQq4BSIFEeSVymSU7NYpethjtBKsmWkyZQMu2cM86hTp6entln10lseHy+aq3o8ROASPtSH/4UZF+w==",
         "icono": "https://i.ibb.co/3kwD39S/descarga-4.jpg"
       }
     ]
