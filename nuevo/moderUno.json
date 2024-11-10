@@ -2,7 +2,7 @@
   {
     "name": "🏆 EVENTOS EN VIVO",
     "samples": [
-      { 
+      {
         "name": "EVENTOS PY",
         "uri": "TVo8KgKY05kP594rn+KvSnal7ZXHnO3IduBqH84N2Ym+H+sdXWUt0k6V+gad9+EgcRFpDfRDLKVfL00F2JYzaN9gFAkhA5ANe41X/skUa4rBQ5gHzQ5t8QCHpHwfoxApAhAzfcRwLEg6GIkDVlWy6GnjkAuQdxzD4Txa43toOek=",
         "drm_scheme": "clearkey",
@@ -24,7 +24,7 @@
         "icono": "https://pbs.twimg.com/profile_images/450290479574167553/zuArPE05_400x400.jpeg"
       },
       {
-	"name": "⚽️MLS",
+        "name": "⚽️MLS",
         "uri": "Ioh+Ex/BW2ipLKuIHcy7QsHg0rDQpIaK4nGzdX1ah1U2TurXojsv2pnpB3XQLDhecggr5nDhg6h0F07e8MHLrirMIlZur7/MIhN3C/TZ0tIjrd621BLBNNfbAaz6+Vy6tIZEIzRDmuswypNdEFeSFZRgGSBR6+7NLD1u67DaGCM=",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/MLS_crest_logo_RGB_-_Inter_Miami_CF.svg/969px-MLS_crest_logo_RGB_-_Inter_Miami_CF.svg.png"
       },
@@ -43,7 +43,7 @@
   {
     "name": " EVENTOS INTERNACIONALES",
     "samples": [
-      {  
+      {
         "name": "LIGA URUGUAYA NICO",
         "uri": "Riv7u0opSQq4BSIFEeSVymSU7NYpethjtBKsmWkyZQPXyyWlnAwvYISqkd+hlO2Eef5ph2YwaENFonSWVlUciA==",
         "icono": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1592.png"
@@ -277,7 +277,7 @@
         "drm_license_uri": "TQSPBT5fFAmrHLJIeXbfeTq3bc2hVH5xNxMAc/RruqY4Fan3a2iiP4ZgevpS11Vg/ZNYpQD9HWg7WDsXVvLGOOVneZ4XOeFECxdY6zHiSx+V70Sixl/pibqaiXR6LhCm6oy5xsvsDE4rtRCuSDROxg==",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_logo_2021.png"
       },
-      { 
+      {
         "name": "TYC SPORTS INTERNACIONAL",
         "uri": "KusJ5ShfomSLrFIJxHev/j5By7uj1sKtBL7rUGi+Xwx6mJt29B/oqSANh0rphCn6ZIrnuq9Ke0gyYcnsPl7Bd4YBPnwojVIsrDxzpDvjYlxfA9NNh7eJB+1Dz0f1aj+2eS8QlDTlLc3JF/Hp1qzL6g==",
         "drm_scheme": "clearkey",
@@ -393,12 +393,12 @@
       },
       {
         "name": "TNT SPORT ARGENTINA HD OPC 2",
-        "uri": "https://edge-mix05-coe.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_Live_dash_enc_2A/TNT_Sports_HD.mpd",
+        "uri": "PiFoloK4zBxLo6GPf/bTSp//4hMA/s5vZ8ukRJ6cNlV6mJt29B/oqSANh0rphCn6YnRaiNuka+uzQB7BOkwhFv8jwjXa0B9lyFoovQxZnvSEeteIB9WckdA7ERLxAy/vy6kRnYqQJnVVBGEs/O/tJw==",
         "drm_scheme": "clearkey",
         "drm_license_uri": "TQSPBT5fFAmrHLJIeXbfeTq3bc2hVH5xNxMAc/RruqY4Fan3a2iiP4ZgevpS11Vg/ZNYpQD9HWg7WDsXVvLGOOVneZ4XOeFECxdY6zHiSx+V70Sixl/pibqaiXR6LhCm6oy5xsvsDE4rtRCuSDROxg==",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_logo_2021.png"
       },
-      { 
+      {
         "name": "TYC SPORTS INTERNACIONAL",
         "uri": "PiFoloK4zBxLo6GPf/bTSp//4hMA/s5vZ8ukRJ6cNlWXfymEfZKVjJaXPcutg/lMs21F52baVBXi8QF6PC/+kxvMAFHCNmuEDNE4NUhwq1wiVinniuQWjjXEOBxzaNXG",
         "drm_scheme": "clearkey",
@@ -987,7 +987,7 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvPgpUVkJPIfYdLhHlazjK372ZlbeLwZNxiIlq/XgRaCCqCKVjlWop721LJ7jCNDA5jHf86CDpl77i4XXJrwXAjWWRuKbB8YfXf737V5Tmye9xL3D3Q2XT9ZSyjnHcBijAA==",
         "icono": "https://i.ibb.co/vvptksh/maxresdefault.jpg"
-       },
+      },
       {
         "name": "CRONICA TV OPC 2",
         "uri": "u5YEICSd2gZJCyNsh/UszR0mqnPQ12OntLAnuQ5Fsr3Ly9v6B+SwnReMVakP8xstaeOQC5B3HMPhPFrje2g56Q==",
@@ -1130,7 +1130,7 @@
         "uri": "l1mJtEXecCc6S/aXDju6XBIsE1Dho8O2hxb19fN3CRH9ZrxSPoSgiJ2aOzUi5awqVIuvMDpOXrAiL6PwKGGJqQ==",
         "icono": "https://yt3.googleusercontent.com/qwv7I6E9EFa62G51wiyk-RyuYY1kSFc6P_37Z8Fv-BIihloEq0csBPzbvryY7FMNQw9ICKVuNQ=s900-c-k-c0x00ffffff-no-rj"
       },
-      {       
+      {
         "name": "Canal 10 roca",
         "uri": "e4BhnnaTNmnl73dzCNh9z5CCNDj2pB3v92iDCNHwWuS7bPx8pnKGo0/bfzLE7hnRnPsavr7DHnBP+pi0ywsA+psKuLEANXv1jj66GCW5iJ4=",
         "icono": "https://static.wikia.nocookie.net/logopedia/images/8/84/Canal_10_General_Roca_%28Logo_2016_-_2%29.png/revision/latest/scale-to-width-down/250?cb=20210823130814&path-prefix=es"
@@ -1147,7 +1147,7 @@
       },
       {
         "name": "América Tucumán",
-          "uri": "x/xWkNrovMYmGeIV76G4pOWzEePFvZC2/a11JIOm1xJtZdKWbF5XkSXH+JPqmMY76evlwlei5bh9+HcBppiHu/AXRpIBb9TH9XvZOyZnPslbAfGQtQfM6KC/HLsv/Y95",
+        "uri": "x/xWkNrovMYmGeIV76G4pOWzEePFvZC2/a11JIOm1xJtZdKWbF5XkSXH+JPqmMY76evlwlei5bh9+HcBppiHu/AXRpIBb9TH9XvZOyZnPslbAfGQtQfM6KC/HLsv/Y95",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvEa7KPSyr8K2pFj9mQkrBz0s9MccUMKm5i2Ka7U0p6iLzs4KVtChwLPq1o+1DIxHQvVOyXN9W0xMa3ACrAYSrBI1k7HryQe20IOjIobqAIPSROpOak9iaUpfpNHOkTqIZQ==",
         "icono": "https://i.imgur.com/TJmzwv9.png"
