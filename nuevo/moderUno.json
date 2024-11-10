@@ -244,6 +244,16 @@
     "name": "⚽PACK FUTBOL ARGENTINA",
     "samples": [
       {
+        "name": "River Plate vs. Barracas Central",
+        "uri": "eZX726nGjwo9FTrMVtz+sDMZDgDT/znqWuhRWVymeuya0mUorR0y8JU8G6Af6EGT4N0Vdt81j3mBXtajCl/Z9JRd6Obkzt7WOOauFhuhw4R0Fu1Dxb45GRQs2dvyJro52e1mVvVaxjlZBJU8JOclxAmGoevTd9OfINDq6Lej/h4xGaGTDpDhYfA2oG1wlJWpVMdYBWB3lk/5M/L4iBdMHf+hJYZS9UshwMoQ1CtyMVHrPcG3L0vd3lzCuu09Kv9P",
+        "icono": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1592.png"
+      },
+      { 
+        "name": "River Plate vs. Barracas Central",
+        "uri": "Riv7u0opSQq4BSIFEeSVymSU7NYpethjtBKsmWkyZQPXyyWlnAwvYISqkd+hlO2Eef5ph2YwaENFonSWVlUciA==",
+        "icono": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1592.png"
+      },
+      {
         "name": "TNT SPORT ARGENTINA HD",
         "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmIW7c8B26HWtij6f1QtNAQwx2Z3Q5zoy6wLRE4bfFkEwc+BWJwadd12eITdRn3e1z4qCbexk8uxiMbYWn28FniL",
         "drm_scheme": "clearkey",
