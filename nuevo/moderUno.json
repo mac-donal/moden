@@ -2927,13 +2927,8 @@
     "name": "🇺🇾 URUGUAY",
     "samples": [
       {
-        "name": "LIGA URUGUAY",
-        "uri": "Riv7u0opSQq4BSIFEeSVymSU7NYpethjtBKsmWkyZQPy+D6RTDJpaZ0xTiJe6VTYfAK/aCMVD51heOx6Mfw84A==",
-        "icono": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1592.png"
-      },
-      {
-        "name": "LIGA URUGUAY",
-        "uri": "Riv7u0opSQq4BSIFEeSVymSU7NYpethjtBKsmWkyZQPkOWGw2dlMvqTOM5SqokryTP441pX2ERvmr4l3AinznQ==",
+        "name": "LIGA URUGUAY NICO",
+        "uri": "FqN4WThG9YsY/riTlGPozYBxLJ9rhKH8DSTFCHCi9PLogVUqptVC1/FvopWaRN3Dnrq3ROTQsSLlMlE4I2oVyi6GnhX/bHcsCxptY36k9cI=",
         "icono": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1592.png"
       },
       {
@@ -3015,6 +3010,11 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvFbIXodTyoNAbg8LfuXapt/NloTLDvPnXZbNfSiZDW+RV3H4YLZwTqot8iZWh8QWu24LXqd5mXSMdNyjwJxIz7R+e5DJOOIQnpNwRvm8ctI/qsS5kWZsuIgWLDLpUrTfIg==",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/1/16/Logo_VTV_nuevo.png"
+      },
+      {
+        "name": "VTV PLUS internacional",
+        "uri": "n0mcKxQj81zmr804BzMPhOETehc3+LAqO3lpuAtzIbZxMRcw6nNysHv2WC/2YaScOteEayulMgE6k/4r+OeJ3nYFOZgBrRBITsHBqhgqnUA=",
+        "icono": "https://elcascotenews.com/wp-content/uploads/2020/10/IMG-20201023-WA0080.jpg"
       },
       {
         "name": "VTV PLUS",
