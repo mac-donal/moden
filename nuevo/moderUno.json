@@ -1,6 +1,6 @@
 [
   {
-    "name": "EVENTOS EN VIVO ACTIVOS SOLO CUANDO HAY EVENTOS ⚽",
+    "name": "⚽ CANALES EN VIVO (Solo cuando hay partidos",
     "samples": [
       {
         "name": " EVENTOS URUGUAY OPC 2  🇺🇾",
@@ -59,7 +59,7 @@
     ]
   },
   {
-    "name": " NOTICIAS 🌎",
+    "name": "🌎 CANALES DE NOTICIAS",
     "samples": [
       {
         "name": "ETB BASQUE",
@@ -211,7 +211,7 @@
     ]
   },
   {
-    "name": "ARGENTINA 🇦🇷",
+    "name": "🇦🇷 CANALES DE ARGENTINA",
     "samples": [
       {
         "name": "MIX TV",
@@ -478,7 +478,7 @@
     ]
   },
   {
-    "name": "INTERIOR DE ARGENTINA 🇦🇷",
+    "name": "🇦🇷 INTERIOR DE ARGENTINA",
     "samples": [
       {
         "name": "TEVEOCHO LA RIOJA",
@@ -969,7 +969,7 @@
     ]
   },
   {
-    "name": "PACK FUTBOL ARGENTINA  🇦🇷",
+    "name": "🇦🇷 PACK FUTBOL DE ARGENTINA",
     "samples": [
       {
         "name": "EVENTOS 1 FLOW .AR",
@@ -1133,7 +1133,7 @@
     ]
   },
   {
-    "name": "DEPORTES 🇦🇷",
+    "name": "🇦🇷 DEPORTES DE ARGENTINA",
     "samples": [
       {
         "name": "DIRECTV SPORTS",
@@ -1462,7 +1462,7 @@
     ]
   },
   {
-    "name": "DEPORTES BRASIL 🇧🇷",
+    "name": "🇧🇷 DEPORTES DE BRASIL",
     "samples": [
       {
         "name": "BAND",
@@ -1533,7 +1533,7 @@
     ]
   },
   {
-    "name": "DAZN ⚽",
+    "name": "⚽ DEPORTES DE DAZN",
     "samples": [
       {
         "name": "DAZN  LIGA ESPAÑOLA",
@@ -1594,7 +1594,7 @@
     ]
   },
   {
-    "name": "PACK HBO 🍿",
+    "name": "🎥 PACK HBO",
     "samples": [
       {
         "name": "HBO",
@@ -1706,7 +1706,7 @@
     ]
   },
   {
-    "name": "PACK UNIVERSAL 🎥",
+    "name": "📽️ PACK UNIVERSAL",
     "samples": [
       {
         "name": "UNIVERSAL TV",
@@ -1783,7 +1783,7 @@
     ]
   },
   {
-    "name": "CINE & SERIES 🎥",
+    "name": "🎬 CANALES CINE & SERIES",
     "samples": [
       {
         "name": "Imagen Televisión",
@@ -2161,7 +2161,7 @@
     ]
   },
   {
-    "name": "INFANTILES 👨‍👩‍👦",
+    "name": "👫 CANALES INFANTILES",
     "samples": [
       {
         "name": "ZooMoo",
@@ -2289,7 +2289,7 @@
     ]
   },
   {
-    "name": "SERIES ANIMADAS 24/7 👨‍👩‍👦",
+    "name": "👫 SERIES ANIMADAS",
     "samples": [
       {
         "name": "LOS PITUFOS",
@@ -2512,7 +2512,7 @@
     ]
   },
   {
-    "name": "CULTURA 🐢",
+    "name": "🐢 CANALES CULTURALES",
     "samples": [
       {
         "name": "Más Chic",
@@ -2702,7 +2702,7 @@
     ]
   },
   {
-    "name": "NOVELAS 🎥",
+    "name": "🎞️ CANALES DE NOVELAS",
     "samples": [
       {
         "name": "TL NOVELAS",
@@ -2763,7 +2763,7 @@
     ]
   },
   {
-    "name": "CANALES CRISTIANOS 🙏",
+    "name": "🙏 CANALES CRISTIANOS",
     "samples": [
       {
         "name": "Canal Cine Dios",
@@ -2845,7 +2845,7 @@
     ]
   },
   {
-    "name": "PLUTO 🎥",
+    "name": "📷 CANALES PLUTO TV",
     "samples": [
       {
         "name": "Guía de canales",
@@ -3065,7 +3065,7 @@
     ]
   },
   {
-    "name": "PARAGUAY 🇵🇾",
+    "name": "🇳🇱 CANALES DE PARAGUAY",
     "samples": [
       {
         "name": "SNT",
@@ -3303,7 +3303,7 @@
     ]
   },
   {
-    "name": "URUGUAY 🇺🇾",
+    "name": "🇺🇾 CANALES DE URUGUAY",
     "samples": [
       {
         "name": "VTV",
@@ -3376,7 +3376,7 @@
     ]
   },
   {
-    "name": "BRASIL 🇧🇷",
+    "name": "🇧🇷 CANALES DE BRASIL",
     "samples": [
       {
         "name": "GLOBO TV",
@@ -3461,7 +3461,7 @@
     ]
   },
   {
-    "name": "CHILE 🇨🇱",
+    "name": "🇨🇱 CANALES DE CHILE",
     "samples": [
       {
         "name": "MEGA",
@@ -3511,7 +3511,7 @@
     ]
   },
   {
-    "name": "PERÙ 🇵🇪",
+    "name": "🇵🇪 CANALES DE PERU",
     "samples": [
       {
         "name": "América Televisión peru",
@@ -3561,7 +3561,7 @@
     ]
   },
   {
-    "name": "( BOLIVIA 🇧🇴)",
+    "name": "🇧🇴 CANALES DE BOLIVIA",
     "samples": [
       {
         "name": "RedADvenir Bolivia",
@@ -3586,7 +3586,7 @@
     ]
   },
   {
-    "name": "MUSICA & RADIOS 🔊",
+    "name": "🎵 CANALES DE MUSICA & RADIOS",
     "samples": [
       {
         "name": "FLOW MUSIC",
