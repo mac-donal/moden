@@ -2457,20 +2457,20 @@
         "drm_data": "TxhB4tbqedDrVXi+VDvd6GUg8FzLNzEjupD/6Wlb+dMNv2VHTkOgF30x2HvAheX1x7vg2KmF2YcB2bWbf8TYMU/VwJlqJhxjUliOufZXq9HlnQEnMN4wPulcbODhSvHmeIcJ69WYnS1RQWlpm+H9lGapYWcjyK1AGVkLMkkxMK3sF4HwoKH8xLOBAATosgydnz2g+zupGVeZvWq+JXDCVz0tloFMj8XJs6YMcTwVCHOS9vj4EgoqMiNI21/xrxXNS7/k9AkdGIdVFBDwOgpWwj8ntWCmi/NK3htTvoA/i+o3GsvSTjxaACKnI3fPgh4Z0fy4R7tX86wW4redDsB0nCNNai4wmHDdVWDzEkqSi0Si/2kRAI9aND9YQLmYIten"
       },
       {
+        "name": "Dragon Ball",
+        "icono": "https://m.media-amazon.com/images/S/pv-target-images/db3e5296e42861d8b2d7626a2a9ab9d3ce21848cc4ebe9f92cfd621837755c9d.jpg",
+        "uri": "WaI57VB80PbWPyTqBvuR4pbNb9tOf9PJK5hbi2uY1QGepmLbPOTv5uH9HayRkSSy",
+        "drm_data": "1WFIw1Hn1dpe9SshlqSq5DN9zp8VehlKxRokvdzi26z8Y/3YTGWCR7ZEI8lxy20CH/+aPtm60Fw/Yef0xl691+kFBlPsIYPVxlKzqJltsg3sG3s4v+Ox9knIVXcCw5lDcONsHXRPVK1curgU/UeK/5e/CFoN45d444Y8w7H3Qwg3TnX4XzP2T6FO15Tn0F27yviS3elXuNBVHWEF44ZMybvbl2gFwnB6fbwIpxRlkWd4kdOdSl9KCZlVHyZhfAkXnh94YhNkOaN8RQkIEJfXBH9GtYZCabwu9Vg45ikDtPPfaTpNbvCUgnOmtG2UNL1OaeOQC5B3HMPhPFrje2g56Q=="
+      },
+      {
         "name": "Dragon Ball Super",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/2/22/Dragon_Ball_Super.png",
         "uri": "Vcp+Ll3k92ppQu9R1R+6WPSCgRhN41uqpZiJESm1FEivF1HQ/8vj0dAdP5iZwM4ejGPzFS1BSBYPXa56PewwAuYETQYD95LcSLF4N/YALkVVA/q+TShage3UG3ixztHnRkEsD2Bhv6fIpPJsby8KKdkM3t1BMIdYX6EUTYr1tPI=",
         "drm_data": "1gwchRkLEVbXQAh0hPQziR03pQU5uRKIUJvo0Z1t/oVXxOsrzGW3fHgvEZ45UE7o99uDjLOA/dyFh1AninLJy3G5ZbZ+matv8H1Uqv60ZGeEu5uJCqqWQxLANou6THNtNt4vFjvuYZsVvEO9xN/HEsXVVwFZB+uR6Ipp6KkKfmsNdcpQPNnlsArRk2NN3nYAqcxBANdjROP4vKgkZ9tF6USHfUDE0016AgJA1aWpxPoAr+ouLMdgFFcsU2uTXLSNXSvi5QJ8f4XDcLfs+qjqS3Iz2zqRxLn/thEMtdfQmcm9k6nduTmfuo+8p321WbdvzZ3ukm4n/bprB8CBoc/LqvqMA5im9Z5/HHq+4dtHcj4pJKLjyYA6YipAaD9hsqP2"
       },
       {
-        "name": "prueba",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/2/22/Dragon_Ball_Super.png",
-        "uri": "WaI57VB80PbWPyTqBvuR4pbNb9tOf9PJK5hbi2uY1QGepmLbPOTv5uH9HayRkSSy",
-        "drm_data": "1WFIw1Hn1dpe9SshlqSq5DN9zp8VehlKxRokvdzi26z8Y/3YTGWCR7ZEI8lxy20CH/+aPtm60Fw/Yef0xl691+kFBlPsIYPVxlKzqJltsg3sG3s4v+Ox9knIVXcCw5lDcONsHXRPVK1curgU/UeK/5e/CFoN45d444Y8w7H3Qwg3TnX4XzP2T6FO15Tn0F27yviS3elXuNBVHWEF44ZMybvbl2gFwnB6fbwIpxRlkWd4kdOdSl9KCZlVHyZhfAkXnh94YhNkOaN8RQkIEJfXBH9GtYZCabwu9Vg45ikDtPPfaTpNbvCUgnOmtG2UNL1OaeOQC5B3HMPhPFrje2g56Q=="
-      },
-      {
-        "name": "prueba 2",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/2/22/Dragon_Ball_Super.png",
+        "name": "Dragon Ball GT",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Dragon_Ball_GT_logo.png/1200px-Dragon_Ball_GT_logo.png",
         "uri": "WaI57VB80PbWPyTqBvuR4uMP8Ig+l8BoMe4hOw7DmG5Osio8dW1H7zMlmWG7euAN",
         "drm_data": "1WFIw1Hn1dpe9SshlqSq5DN9zp8VehlKxRokvdzi26z8Y/3YTGWCR7ZEI8lxy20CH/+aPtm60Fw/Yef0xl691+kFBlPsIYPVxlKzqJltsg3sG3s4v+Ox9knIVXcCw5lDcONsHXRPVK1curgU/UeK/5e/CFoN45d444Y8w7H3Qwg3TnX4XzP2T6FO15Tn0F27yviS3elXuNBVHWEF44ZMybvbl2gFwnB6fbwIpxRlkWd4kdOdSl9KCZlVHyZhfAkXnh94YhNkOaN8RQkIEJfXBH9GtYZCabwu9Vg45ikDtPPfaTpNbvCUgnOmtG2UNL1OaeOQC5B3HMPhPFrje2g56Q=="
       },
