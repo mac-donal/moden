@@ -4,12 +4,12 @@
     "samples": [
       {
         "name": "(TIGO🔥) PRUEBA DRM_DATA",
-       "icono": "https://pbs.twimg.com/profile_images/450290479574167553/zuArPE05_400x400.jpeg",
-       "uri": "jdEzGPS0CrSZ9qtJ6ihx5DpnCrR2yjnJ3SDCKhC/VekM5jhWGWEZFqv08ynLnaD8+6bBIhdI8dw1lp/aZNqKJoFqpLP0mDjRyi+tOG8dlT42vUNZwct/S/SJzQiALIa9Av+CWtwg5uMrPnmRnorDChwzD40VtBQDru7aGtNkPaHutTQp3n9k2td6gyYrUakE",
-       "drm_data": "dIflPEXJmCF1FQDdF9pL3CFBKzlm4T6uyaFFLR0TDyX6/OQnI0NFr+OaL+N9f9peSLCIQdYI0gpZQXVrpG021Q=="
+        "icono": "https://pbs.twimg.com/profile_images/450290479574167553/zuArPE05_400x400.jpeg",
+        "uri": "jdEzGPS0CrSZ9qtJ6ihx5DpnCrR2yjnJ3SDCKhC/VekM5jhWGWEZFqv08ynLnaD8+6bBIhdI8dw1lp/aZNqKJoFqpLP0mDjRyi+tOG8dlT42vUNZwct/S/SJzQiALIa9Av+CWtwg5uMrPnmRnorDChwzD40VtBQDru7aGtNkPaHutTQp3n9k2td6gyYrUakE",
+        "drm_data": "dIflPEXJmCF1FQDdF9pL3CFBKzlm4T6uyaFFLR0TDyX6/OQnI0NFr+OaL+N9f9peSLCIQdYI0gpZQXVrpG021Q=="
       },
       {
-       "name": "GH 11",
+        "name": "GH 11",
         "icono": "https://github.com/portedev/algo/releases/download/Cultur4l3ss/L0ve.N4tur3.png",
         "uri": "79FeaXt4xRaH3cn6OoqUr9ZOM5Gq0YjNgkuUYvJVgmZDlFa8OwPZpidvjNI1NGFewc1prmpV3kNa0KT/p+NdVQ==",
         "drm_scheme": "clearkey",
@@ -17,7 +17,7 @@
         "drm_data": "RjuufPywXjIgqQzDS3LnU0lONh2vaQpHAjpmi27AF74nIfrBXS/bFyVKDTCnqK4tExTNqQwN7Gz4/i5Dc10QJ0Ep28r2GnZdYpi0fe5uHBDrc38lJpqJg7JNRXtJGWGkpc/VuqKgSEiwBzVpZ7S9Qt2FbARFfgZET0UFCNk6TnAHqxp4QLQpRSj8LBhYv0rLf+dJeN7C13/+TjepqkhSbA=="
       },
       {
-       "name": "LOVEEEEEE NATURE PRUEBA DRM_DATA",
+        "name": "LOVEEEEEE NATURE PRUEBA DRM_DATA",
         "icono": "https://github.com/portedev/algo/releases/download/Cultur4l3ss/L0ve.N4tur3.png",
         "uri": "zjglrEZRxLpazV0OZN+WkF0a34m7YP6Urhra+cDSLSsz6epOB0TDvBzA0nBcxdFqBEJbBoRn6SNBM3wGjdb9Wfmx8GSwlmbmJYqV0J2a+o0=",
         "drm_scheme": "clearkey",
@@ -25,54 +25,54 @@
         "drm_data": "L3ZQfP1HVXBAPjIT0Yvq28bMCrDz+LE+Q82TWraMZgSKRvbz3dkfQNBDJf7n2pUupu6er1nMNXQJKRUDHVwYQ4Fh+ANRGNv4Nwy/lNZdZaPFQCOBLUrjvXlCzgPwBt9zRTUDDGYPmjNF4rpQIuWfj07ywcaROQWdtEDAeo0fSY1qR1M0bQf8aIdVBeyaKhUuREm4viza+lQbfhSggl1nnEY0O7Zlh+DfoJQgcgT32C6rLFY/S1JuXLjZL873jRMFhyQu7V0j7EZoaXpo1YUCos7c0a7qqTmmyrZ9NxtPj4SEg3MHguuX1moGECYXgKvwJeLwOdrqQ1YO/xPnRYVMa8MaJ/pxdBYiUMwmqGeR4sk="
       },
       {
-       "name": "claro PRUEBA DRM_DATA ",
+        "name": "claro PRUEBA DRM_DATA ",
         "icono": "https://github.com/portedev/algo/releases/download/Cultur4l3ss/L0ve.N4tur3.png",
         "uri": "HisDhulg00Cqy8631r1sfvRETbdotp7s3oAnX3EzopKC7xmZhbnr1tiTJzSMIbkDdjEl56OorGWC2yXYUOjDHsvCoQtgdKtr4V9Jib8f4lkRFHXuaotR8zPbXNBBK68Qf7wGmJVT9RfJrC43HX9XGeRS4Di3ZsiTEWvBXK0hB3Y=",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvLNbp60Nt8UBu00ZSiJfIS7YlSkJqtix61KwtkYJDM4L/+fAV/LO3g3wiNX7cTayBOvD2mWFHn193qKf5oQTuGlCk8Er30AV9HCD/+SojfQ0KR0qVq5Zj6v4gglcl5tucQ==",
         "drm_data": "dIflPEXJmCF1FQDdF9pL3MShODkf16c5ByfYynCrIAXB26NUffm+mO7wciB5Q9NiML/bfEKEvOxcGpj1Dpig7vAeqbv4/D18yGnLCj1Yr3fo6x3sghtW3zV+JRv8AZ3Q"
-       },
-      {
-      "name": "GH",
-      "icono": "https://github.com/portedev/algo/releases/download/Cultur4l3ss/L0ve.N4tur3.png",
-      "uri": "79FeaXt4xRaH3cn6OoqUr19O+1rrRbAKJOB4Xa0vMaOHT8SBA/wDCcsmT0ueFAe/gmvUmr3fFTQ7+LZ9BduN/PW3HQJfridCKSYOF7cQVZUVZggfL2ikuRQDMx2HqEOl7aujevuEGFjrYpPG4hHMdA==",
-      "drm_data": "RjuufPywXjIgqQzDS3LnU0lONh2vaQpHAjpmi27AF74nIfrBXS/bFyVKDTCnqK4tExTNqQwN7Gz4/i5Dc10QJ0Ep28r2GnZdYpi0fe5uHBDrc38lJpqJg7JNRXtJGWGkpc/VuqKgSEiwBzVpZ7S9Qt2FbARFfgZET0UFCNk6TnAHqxp4QLQpRSj8LBhYv0rLf+dJeN7C13/+TjepqkhSbA=="
-       },
-      {
-      "name": "CHAVO",
-      "icono": "https://github.com/portedev/algo/releases/download/Cultur4l3ss/L0ve.N4tur3.png",
-      "uri": "B2RVJu0iUQxnFTKYr9heAK3ScJoT8uuAntEQnvBn/Py7g85RMFyGqrX5z48tAre82bH5QHo5bRKGfhQ6zLnaZjIbu/6bulx+KIIC4oJcyRmKqsEw/+0a5A35o4O6Rd5YRUpInjSGUBwr4b6Kub3f/JNdM8t40gCXOPxES+JUJolnXUADjtLS+R1vqipQeX/IxV3geKiKAaAwMznBl5uW9cK9K+ZZX+75dfrrN/Vc2WMANwAm87f28uHXWJkZ8B74pqVNzsfmB/2/f6/VY2WIlHYFOZgBrRBITsHBqhgqnUA=",
-      "drm_data": "t7oEDObBFtUpMRrG11kSfSO2pvwVijxCp9knJtUGJJHn9K2IxnacYtvt6VKTeUAaHII58NXFG6WLTy0VAdpsXzjUgvN7EWvDSJucz/Q8cH4fmYUSLkiYju5rS4CvxcjcTNMGiA5jbGaxs5yW5T65h7dr4yX82dTVheZRGyqEVTFhm/AxmbxWeaMR8vYQYywK5uAuND7X/coZPJGkzjm4GTxxKB3vw2rOplUqQ1cPnG0d3ahwKeeEIFBWQDisdAgsnmANj3+9XnoH1WMRL5pDVxsBfuPAFn7Yet0m4tTBzYHTJWa8UPJjTJaTbRZNOyeEdaI7faw6Bxm293W90kNz5iWCwySGRnHxZnp7dCUUtEW9MKxEY6wQKn+ZBk7mlQyFUtwHGqxUIuxH+ylfg0oRbQ6kXlkMZlejw4OQCUqtrcyBkTQ9RwhEHLBXAzeCNpbzxpvg09S49UUeFdWNh61VsOuOCzznJ9p6zddAedZxucrgi02W0OfnxyVcSbrgEEbbAc2JkaOExgGZELWWrz0AxQ=="
       },
       {
-       "name": "LOVE NATURE 1 PRUEBA DRM_DATA ",
-       "icono": "https://github.com/portedev/algo/releases/download/Cultur4l3ss/L0ve.N4tur3.png",
-       "uri": "P9Np4CVctw3KYx/ERJWrJchsrlVbU8iW+7afm0QpNgKeO2T96gpl138DdnyJU3bYBl2ImjTImikJgTzsJCpJMw==",
-       "drm_data": "VlAKKeCphRpJFMkTJEoTSN9TLyEbalIvToeIPUvYcbDjprYrFM/1Bhi6pYQTdQSKJfFX0cu86AMVwVDP+EuBZmWoy5Ewc+91IZS8NqgS3ag4CHOooQBruQEVjKsSBc4RGA7q2EA6uwxrEt1IsiytHppcckV4sw9YI6BfEnaz527MIM55gKy5aT0B743LKGZ/5b1TdqwxRt7bEV6Mwh6By9K2orSC6l7I9Z7TXfq473IeVXB6IJsjGIpQhhmF8LnDIhOWGKfwUnfJXyaPKaze5MquTHTKLWNHVw0RUkobsKiNQRd11q1xfgvf8PBmo52RIFAHb6HunexJ1YhmVedKBwnEtkyoIEVj5yRNqN+x97s="
+        "name": "GH",
+        "icono": "https://github.com/portedev/algo/releases/download/Cultur4l3ss/L0ve.N4tur3.png",
+        "uri": "79FeaXt4xRaH3cn6OoqUr19O+1rrRbAKJOB4Xa0vMaOHT8SBA/wDCcsmT0ueFAe/gmvUmr3fFTQ7+LZ9BduN/PW3HQJfridCKSYOF7cQVZUVZggfL2ikuRQDMx2HqEOl7aujevuEGFjrYpPG4hHMdA==",
+        "drm_data": "RjuufPywXjIgqQzDS3LnU0lONh2vaQpHAjpmi27AF74nIfrBXS/bFyVKDTCnqK4tExTNqQwN7Gz4/i5Dc10QJ0Ep28r2GnZdYpi0fe5uHBDrc38lJpqJg7JNRXtJGWGkpc/VuqKgSEiwBzVpZ7S9Qt2FbARFfgZET0UFCNk6TnAHqxp4QLQpRSj8LBhYv0rLf+dJeN7C13/+TjepqkhSbA=="
       },
       {
-       "name": "sportv22 PRUEBA DRM_DATA",
-       "icono": "https://github.com/portedev/algo/releases/download/Cultur4l3ss/L0ve.N4tur3.png",
-       "uri": "VyuOVK5d4xl0yJabEG7TaEVY7c3bl7KVlmYbLZMJNcri0db6+laOrE5lXD9ZF4wKv9RHMIB/CKeokmwqb4EVsA==",
-       "drm_data": "dIflPEXJmCF1FQDdF9pL3EqnGRRNOw6XNuDz38WvMo9kAbOgeoSElZqFzIYIqwutaeOQC5B3HMPhPFrje2g56Q=="
-        },
-      {
-       "name": "dsports 11  magma",
-       "icono": "https://github.com/portedev/algo/releases/download/Cultur4l3ss/L0ve.N4tur3.png",
-       "uri": "Vcp+Ll3k92ppQu9R1R+6WPSCgRhN41uqpZiJESm1FEhuiPkflj4VIoqqfEM/PzV3tZc0z1bD83dVx25AmOhoLORNxQ5IXhMZACJOFi7BIVwszzfWpcbGr5zlv4udycn0",
-       "drm_data": "t7oEDObBFtUpMRrG11kSfU4APpqQWIS4w66YiKhsbGm8ejm7BQy799cBjXN2sLEixkvyZZxNullSO6J9dMl5TyAq9vYI6uEUfKrtE/GXlkFG9E4lGMOr1GaW71QfPc0bcjA2lZd1zaDAPwgnXoagBGr88WZm3ZKh2nEgo5SO08BDLcxko2Oux3sXjmZeUjT6WV3uAo54D59DUd9almmEiSJFju/aOWEkjj2HjSPyLKBPyf8cW86W5W5ptl/IDZKVdVihK927oZByHCuNe2hi6JQqnFJl8ufzqngftGYG/CYbXsxZStj8KSPXtZRG1NSb4ItNltDn58clXEm64BBG277ZjERgGd7ijKh39oa0wiSNpfx0UimLwQjTnAQfF/AY"
-        },
-      {
-       "name": "cine romanticoeee PRUEBA DRM_DATA",
-       "icono": "https://github.com/portedev/algo/releases/download/Cultur4l3ss/L0ve.N4tur3.png",
-       "uri": "kkV39QA++u5LAnS3kj7MzreqZu6Gj5lRMdVDar1gusGYEio+yKA4j7ZRxWoD8d2mOB4WjBDIl+uxcJ6Dsc/XQDJ1lQ6VBmkU17/rgzCMZIyxZjugphmfIfXFzugzRqatfOl3hpuzKTrdzQRu4cIuDtr7DkvUEMUI33SrvUGJtLo=",
-       "drm_data": "t7oEDObBFtUpMRrG11kSfU4APpqQWIS4w66YiKhsbGm8ejm7BQy799cBjXN2sLEixkvyZZxNullSO6J9dMl5TyAq9vYI6uEUfKrtE/GXlkFG9E4lGMOr1GaW71QfPc0bcjA2lZd1zaDAPwgnXoagBGr88WZm3ZKh2nEgo5SO08BDLcxko2Oux3sXjmZeUjT6WV3uAo54D59DUd9almmEiSJFju/aOWEkjj2HjSPyLKBPyf8cW86W5W5ptl/IDZKVdVihK927oZByHCuNe2hi6JQqnFJl8ufzqngftGYG/CYbXsxZStj8KSPXtZRG1NSb4ItNltDn58clXEm64BBG277ZjERgGd7ijKh39oa0wiSNpfx0UimLwQjTnAQfF/AY"
+        "name": "CHAVO",
+        "icono": "https://github.com/portedev/algo/releases/download/Cultur4l3ss/L0ve.N4tur3.png",
+        "uri": "B2RVJu0iUQxnFTKYr9heAK3ScJoT8uuAntEQnvBn/Py7g85RMFyGqrX5z48tAre82bH5QHo5bRKGfhQ6zLnaZjIbu/6bulx+KIIC4oJcyRmKqsEw/+0a5A35o4O6Rd5YRUpInjSGUBwr4b6Kub3f/JNdM8t40gCXOPxES+JUJolnXUADjtLS+R1vqipQeX/IxV3geKiKAaAwMznBl5uW9cK9K+ZZX+75dfrrN/Vc2WMANwAm87f28uHXWJkZ8B74pqVNzsfmB/2/f6/VY2WIlHYFOZgBrRBITsHBqhgqnUA=",
+        "drm_data": "t7oEDObBFtUpMRrG11kSfSO2pvwVijxCp9knJtUGJJHn9K2IxnacYtvt6VKTeUAaHII58NXFG6WLTy0VAdpsXzjUgvN7EWvDSJucz/Q8cH4fmYUSLkiYju5rS4CvxcjcTNMGiA5jbGaxs5yW5T65h7dr4yX82dTVheZRGyqEVTFhm/AxmbxWeaMR8vYQYywK5uAuND7X/coZPJGkzjm4GTxxKB3vw2rOplUqQ1cPnG0d3ahwKeeEIFBWQDisdAgsnmANj3+9XnoH1WMRL5pDVxsBfuPAFn7Yet0m4tTBzYHTJWa8UPJjTJaTbRZNOyeEdaI7faw6Bxm293W90kNz5iWCwySGRnHxZnp7dCUUtEW9MKxEY6wQKn+ZBk7mlQyFUtwHGqxUIuxH+ylfg0oRbQ6kXlkMZlejw4OQCUqtrcyBkTQ9RwhEHLBXAzeCNpbzxpvg09S49UUeFdWNh61VsOuOCzznJ9p6zddAedZxucrgi02W0OfnxyVcSbrgEEbbAc2JkaOExgGZELWWrz0AxQ=="
       },
       {
-       "name": "Cine247_Ficcion PRUEBA DRM_DATA",
-       "icono": "https://github.com/portedev/algo/releases/download/Cultur4l3ss/L0ve.N4tur3.png",
-       "uri": "B2RVJu0iUQxnFTKYr9heAK3ScJoT8uuAntEQnvBn/PwZZxcmo5XW58jUiTcOX1oQ1ak93lOm0PKkXZ6Q2/3KXsFCPecbDIaYqXS9mLXwl/z3hPnAY0SmX0Fh7ZNIzTpuuId4+0cFujyPwLQIA8bdgUoY3PtlAkKEOBu9eCkIoKMF79rOuFIzVRhkP0gPupRn8k8kjFqcKjPD/AZoJkNmbgHbuKvklLoiZz3pnR4F+Q/cDaU8s2sGWF3ctaD93ZWlASV8EiT7Xji4NqI0RuN+byIT3yhdl2JzflKta4M2hBc=",
-       "drm_data": "t7oEDObBFtUpMRrG11kSfSO2pvwVijxCp9knJtUGJJHn9K2IxnacYtvt6VKTeUAaHII58NXFG6WLTy0VAdpsXzjUgvN7EWvDSJucz/Q8cH4fmYUSLkiYju5rS4CvxcjcTNMGiA5jbGaxs5yW5T65h7dr4yX82dTVheZRGyqEVTFhm/AxmbxWeaMR8vYQYywK5uAuND7X/coZPJGkzjm4GTxxKB3vw2rOplUqQ1cPnG0d3ahwKeeEIFBWQDisdAgsnmANj3+9XnoH1WMRL5pDVxsBfuPAFn7Yet0m4tTBzYHTJWa8UPJjTJaTbRZNOyeEdaI7faw6Bxm293W90kNz5iWCwySGRnHxZnp7dCUUtEW9MKxEY6wQKn+ZBk7mlQyFUtwHGqxUIuxH+ylfg0oRbQ6kXlkMZlejw4OQCUqtrcyBkTQ9RwhEHLBXAzeCNpbzxpvg09S49UUeFdWNh61VsOuOCzznJ9p6zddAedZxucq3KNNPitfaXCUI1pKolvakGFQRs2hoQ4MyAcenVsKlSw=="
+        "name": "LOVE NATURE 1 PRUEBA DRM_DATA ",
+        "icono": "https://github.com/portedev/algo/releases/download/Cultur4l3ss/L0ve.N4tur3.png",
+        "uri": "P9Np4CVctw3KYx/ERJWrJchsrlVbU8iW+7afm0QpNgKeO2T96gpl138DdnyJU3bYBl2ImjTImikJgTzsJCpJMw==",
+        "drm_data": "VlAKKeCphRpJFMkTJEoTSN9TLyEbalIvToeIPUvYcbDjprYrFM/1Bhi6pYQTdQSKJfFX0cu86AMVwVDP+EuBZmWoy5Ewc+91IZS8NqgS3ag4CHOooQBruQEVjKsSBc4RGA7q2EA6uwxrEt1IsiytHppcckV4sw9YI6BfEnaz527MIM55gKy5aT0B743LKGZ/5b1TdqwxRt7bEV6Mwh6By9K2orSC6l7I9Z7TXfq473IeVXB6IJsjGIpQhhmF8LnDIhOWGKfwUnfJXyaPKaze5MquTHTKLWNHVw0RUkobsKiNQRd11q1xfgvf8PBmo52RIFAHb6HunexJ1YhmVedKBwnEtkyoIEVj5yRNqN+x97s="
+      },
+      {
+        "name": "sportv22 PRUEBA DRM_DATA",
+        "icono": "https://github.com/portedev/algo/releases/download/Cultur4l3ss/L0ve.N4tur3.png",
+        "uri": "VyuOVK5d4xl0yJabEG7TaEVY7c3bl7KVlmYbLZMJNcri0db6+laOrE5lXD9ZF4wKv9RHMIB/CKeokmwqb4EVsA==",
+        "drm_data": "dIflPEXJmCF1FQDdF9pL3EqnGRRNOw6XNuDz38WvMo9kAbOgeoSElZqFzIYIqwutaeOQC5B3HMPhPFrje2g56Q=="
+      },
+      {
+        "name": "dsports 11  magma",
+        "icono": "https://github.com/portedev/algo/releases/download/Cultur4l3ss/L0ve.N4tur3.png",
+        "uri": "Vcp+Ll3k92ppQu9R1R+6WPSCgRhN41uqpZiJESm1FEhuiPkflj4VIoqqfEM/PzV3tZc0z1bD83dVx25AmOhoLORNxQ5IXhMZACJOFi7BIVwszzfWpcbGr5zlv4udycn0",
+        "drm_data": "t7oEDObBFtUpMRrG11kSfU4APpqQWIS4w66YiKhsbGm8ejm7BQy799cBjXN2sLEixkvyZZxNullSO6J9dMl5TyAq9vYI6uEUfKrtE/GXlkFG9E4lGMOr1GaW71QfPc0bcjA2lZd1zaDAPwgnXoagBGr88WZm3ZKh2nEgo5SO08BDLcxko2Oux3sXjmZeUjT6WV3uAo54D59DUd9almmEiSJFju/aOWEkjj2HjSPyLKBPyf8cW86W5W5ptl/IDZKVdVihK927oZByHCuNe2hi6JQqnFJl8ufzqngftGYG/CYbXsxZStj8KSPXtZRG1NSb4ItNltDn58clXEm64BBG277ZjERgGd7ijKh39oa0wiSNpfx0UimLwQjTnAQfF/AY"
+      },
+      {
+        "name": "cine romanticoeee PRUEBA DRM_DATA",
+        "icono": "https://github.com/portedev/algo/releases/download/Cultur4l3ss/L0ve.N4tur3.png",
+        "uri": "kkV39QA++u5LAnS3kj7MzreqZu6Gj5lRMdVDar1gusGYEio+yKA4j7ZRxWoD8d2mOB4WjBDIl+uxcJ6Dsc/XQDJ1lQ6VBmkU17/rgzCMZIyxZjugphmfIfXFzugzRqatfOl3hpuzKTrdzQRu4cIuDtr7DkvUEMUI33SrvUGJtLo=",
+        "drm_data": "t7oEDObBFtUpMRrG11kSfU4APpqQWIS4w66YiKhsbGm8ejm7BQy799cBjXN2sLEixkvyZZxNullSO6J9dMl5TyAq9vYI6uEUfKrtE/GXlkFG9E4lGMOr1GaW71QfPc0bcjA2lZd1zaDAPwgnXoagBGr88WZm3ZKh2nEgo5SO08BDLcxko2Oux3sXjmZeUjT6WV3uAo54D59DUd9almmEiSJFju/aOWEkjj2HjSPyLKBPyf8cW86W5W5ptl/IDZKVdVihK927oZByHCuNe2hi6JQqnFJl8ufzqngftGYG/CYbXsxZStj8KSPXtZRG1NSb4ItNltDn58clXEm64BBG277ZjERgGd7ijKh39oa0wiSNpfx0UimLwQjTnAQfF/AY"
+      },
+      {
+        "name": "Cine247_Ficcion PRUEBA DRM_DATA",
+        "icono": "https://github.com/portedev/algo/releases/download/Cultur4l3ss/L0ve.N4tur3.png",
+        "uri": "B2RVJu0iUQxnFTKYr9heAK3ScJoT8uuAntEQnvBn/PwZZxcmo5XW58jUiTcOX1oQ1ak93lOm0PKkXZ6Q2/3KXsFCPecbDIaYqXS9mLXwl/z3hPnAY0SmX0Fh7ZNIzTpuuId4+0cFujyPwLQIA8bdgUoY3PtlAkKEOBu9eCkIoKMF79rOuFIzVRhkP0gPupRn8k8kjFqcKjPD/AZoJkNmbgHbuKvklLoiZz3pnR4F+Q/cDaU8s2sGWF3ctaD93ZWlASV8EiT7Xji4NqI0RuN+byIT3yhdl2JzflKta4M2hBc=",
+        "drm_data": "t7oEDObBFtUpMRrG11kSfSO2pvwVijxCp9knJtUGJJHn9K2IxnacYtvt6VKTeUAaHII58NXFG6WLTy0VAdpsXzjUgvN7EWvDSJucz/Q8cH4fmYUSLkiYju5rS4CvxcjcTNMGiA5jbGaxs5yW5T65h7dr4yX82dTVheZRGyqEVTFhm/AxmbxWeaMR8vYQYywK5uAuND7X/coZPJGkzjm4GTxxKB3vw2rOplUqQ1cPnG0d3ahwKeeEIFBWQDisdAgsnmANj3+9XnoH1WMRL5pDVxsBfuPAFn7Yet0m4tTBzYHTJWa8UPJjTJaTbRZNOyeEdaI7faw6Bxm293W90kNz5iWCwySGRnHxZnp7dCUUtEW9MKxEY6wQKn+ZBk7mlQyFUtwHGqxUIuxH+ylfg0oRbQ6kXlkMZlejw4OQCUqtrcyBkTQ9RwhEHLBXAzeCNpbzxpvg09S49UUeFdWNh61VsOuOCzznJ9p6zddAedZxucq3KNNPitfaXCUI1pKolvakGFQRs2hoQ4MyAcenVsKlSw=="
       },
       {
         "name": "(🇺🇾 EVENTOS URUGUAY 🔥)",
@@ -98,7 +98,7 @@
         "name": "(🇬🇹 Tigo Sports (Guatemala) 🔥)",
         "uri": "VlEb1jIn877klm0DSmhB5mFQc4P/7OPhjZPPqHWz2VQN1L8AzBazuPz2k9SDfuxwg0BFWhBaZtstR4UyaActrw==",
         "icono": "https://i.ibb.co/Q3S4NkL9/230x0w.webp"
-       },
+      },
       {
         "name": "(🇬🇹 Tigo Sports (Guatemala) 🔥)",
         "uri": "VlEb1jIn877klm0DSmhB5mFQc4P/7OPhjZPPqHWz2VQN1L8AzBazuPz2k9SDfuxwg0BFWhBaZtstR4UyaActrw==",
@@ -1359,23 +1359,23 @@
     "name": "(🇦🇷 ⚽ DEPORTES 🔥)",
     "samples": [
       {
-       "name": "DIRECTV SPORTS",
-       "icono": "https://sumarium.info/wp-content/uploads/2022/02/DirecTV-Sports.jpg",
-       "uri": "Vcp+Ll3k92ppQu9R1R+6WPSCgRhN41uqpZiJESm1FEhuiPkflj4VIoqqfEM/PzV3tZc0z1bD83dVx25AmOhoLORNxQ5IXhMZACJOFi7BIVwszzfWpcbGr5zlv4udycn0",
-       "drm_data": "t7oEDObBFtUpMRrG11kSfU4APpqQWIS4w66YiKhsbGm8ejm7BQy799cBjXN2sLEixkvyZZxNullSO6J9dMl5TyAq9vYI6uEUfKrtE/GXlkFG9E4lGMOr1GaW71QfPc0bcjA2lZd1zaDAPwgnXoagBGr88WZm3ZKh2nEgo5SO08BDLcxko2Oux3sXjmZeUjT6WV3uAo54D59DUd9almmEiSJFju/aOWEkjj2HjSPyLKBPyf8cW86W5W5ptl/IDZKVdVihK927oZByHCuNe2hi6JQqnFJl8ufzqngftGYG/CYbXsxZStj8KSPXtZRG1NSb4ItNltDn58clXEm64BBG277ZjERgGd7ijKh39oa0wiSNpfx0UimLwQjTnAQfF/AY"
-           },
+        "name": "DIRECTV SPORTS",
+        "icono": "https://sumarium.info/wp-content/uploads/2022/02/DirecTV-Sports.jpg",
+        "uri": "Vcp+Ll3k92ppQu9R1R+6WPSCgRhN41uqpZiJESm1FEhuiPkflj4VIoqqfEM/PzV3tZc0z1bD83dVx25AmOhoLORNxQ5IXhMZACJOFi7BIVwszzfWpcbGr5zlv4udycn0",
+        "drm_data": "t7oEDObBFtUpMRrG11kSfU4APpqQWIS4w66YiKhsbGm8ejm7BQy799cBjXN2sLEixkvyZZxNullSO6J9dMl5TyAq9vYI6uEUfKrtE/GXlkFG9E4lGMOr1GaW71QfPc0bcjA2lZd1zaDAPwgnXoagBGr88WZm3ZKh2nEgo5SO08BDLcxko2Oux3sXjmZeUjT6WV3uAo54D59DUd9almmEiSJFju/aOWEkjj2HjSPyLKBPyf8cW86W5W5ptl/IDZKVdVihK927oZByHCuNe2hi6JQqnFJl8ufzqngftGYG/CYbXsxZStj8KSPXtZRG1NSb4ItNltDn58clXEm64BBG277ZjERgGd7ijKh39oa0wiSNpfx0UimLwQjTnAQfF/AY"
+      },
       {
-       "name": "DIRECTV SPORTS 2",
-       "icono": "https://sumarium.info/wp-content/uploads/2022/02/DirecTV-Sports.jpg",
-       "uri": "Vcp+Ll3k92ppQu9R1R+6WHJbJ0i5dki+lVoROz47lNmo7R2m5LVBHtF2ijc+zM6tPhRoOX0XBXLBhyisNX6z2/DVPbMhWAVFslXD2mR+Gfk=",
-       "drm_data": "t7oEDObBFtUpMRrG11kSfU4APpqQWIS4w66YiKhsbGm8ejm7BQy799cBjXN2sLEixkvyZZxNullSO6J9dMl5TyAq9vYI6uEUfKrtE/GXlkFG9E4lGMOr1GaW71QfPc0bcjA2lZd1zaDAPwgnXoagBGr88WZm3ZKh2nEgo5SO08BDLcxko2Oux3sXjmZeUjT6WV3uAo54D59DUd9almmEiSJFju/aOWEkjj2HjSPyLKBPyf8cW86W5W5ptl/IDZKVdVihK927oZByHCuNe2hi6JQqnFJl8ufzqngftGYG/CYbXsxZStj8KSPXtZRG1NSb4ItNltDn58clXEm64BBG277ZjERgGd7ijKh39oa0wiSNpfx0UimLwQjTnAQfF/AY"
-        },
+        "name": "DIRECTV SPORTS 2",
+        "icono": "https://sumarium.info/wp-content/uploads/2022/02/DirecTV-Sports.jpg",
+        "uri": "Vcp+Ll3k92ppQu9R1R+6WHJbJ0i5dki+lVoROz47lNmo7R2m5LVBHtF2ijc+zM6tPhRoOX0XBXLBhyisNX6z2/DVPbMhWAVFslXD2mR+Gfk=",
+        "drm_data": "t7oEDObBFtUpMRrG11kSfU4APpqQWIS4w66YiKhsbGm8ejm7BQy799cBjXN2sLEixkvyZZxNullSO6J9dMl5TyAq9vYI6uEUfKrtE/GXlkFG9E4lGMOr1GaW71QfPc0bcjA2lZd1zaDAPwgnXoagBGr88WZm3ZKh2nEgo5SO08BDLcxko2Oux3sXjmZeUjT6WV3uAo54D59DUd9almmEiSJFju/aOWEkjj2HjSPyLKBPyf8cW86W5W5ptl/IDZKVdVihK927oZByHCuNe2hi6JQqnFJl8ufzqngftGYG/CYbXsxZStj8KSPXtZRG1NSb4ItNltDn58clXEm64BBG277ZjERgGd7ijKh39oa0wiSNpfx0UimLwQjTnAQfF/AY"
+      },
       {
-       "name": "DIRECTV SPORTS PLUS",
-       "icono": "https://sumarium.info/wp-content/uploads/2022/02/DirecTV-Sports.jpg",
-       "uri": "Vcp+Ll3k92ppQu9R1R+6WPSCgRhN41uqpZiJESm1FEjb/PGKuOw8K376emL1dx3EtZc0z1bD83dVx25AmOhoLM/qcuuqH+NAs0fOVBGnExUszzfWpcbGr5zlv4udycn0",
-       "drm_data": "t7oEDObBFtUpMRrG11kSfU4APpqQWIS4w66YiKhsbGm8ejm7BQy799cBjXN2sLEixkvyZZxNullSO6J9dMl5TyAq9vYI6uEUfKrtE/GXlkFG9E4lGMOr1GaW71QfPc0bcjA2lZd1zaDAPwgnXoagBGr88WZm3ZKh2nEgo5SO08BDLcxko2Oux3sXjmZeUjT6WV3uAo54D59DUd9almmEiSJFju/aOWEkjj2HjSPyLKBPyf8cW86W5W5ptl/IDZKVdVihK927oZByHCuNe2hi6JQqnFJl8ufzqngftGYG/CYbXsxZStj8KSPXtZRG1NSb4ItNltDn58clXEm64BBG277ZjERgGd7ijKh39oa0wiSNpfx0UimLwQjTnAQfF/AY"
-        },
+        "name": "DIRECTV SPORTS PLUS",
+        "icono": "https://sumarium.info/wp-content/uploads/2022/02/DirecTV-Sports.jpg",
+        "uri": "Vcp+Ll3k92ppQu9R1R+6WPSCgRhN41uqpZiJESm1FEjb/PGKuOw8K376emL1dx3EtZc0z1bD83dVx25AmOhoLM/qcuuqH+NAs0fOVBGnExUszzfWpcbGr5zlv4udycn0",
+        "drm_data": "t7oEDObBFtUpMRrG11kSfU4APpqQWIS4w66YiKhsbGm8ejm7BQy799cBjXN2sLEixkvyZZxNullSO6J9dMl5TyAq9vYI6uEUfKrtE/GXlkFG9E4lGMOr1GaW71QfPc0bcjA2lZd1zaDAPwgnXoagBGr88WZm3ZKh2nEgo5SO08BDLcxko2Oux3sXjmZeUjT6WV3uAo54D59DUd9almmEiSJFju/aOWEkjj2HjSPyLKBPyf8cW86W5W5ptl/IDZKVdVihK927oZByHCuNe2hi6JQqnFJl8ufzqngftGYG/CYbXsxZStj8KSPXtZRG1NSb4ItNltDn58clXEm64BBG277ZjERgGd7ijKh39oa0wiSNpfx0UimLwQjTnAQfF/AY"
+      },
       {
         "name": "Show Sports (Córdoba)",
         "icono": "https://www.dz-techs.com/wp-content/uploads/2017/01/showsport-logo.png",
@@ -2535,8 +2535,9 @@
       },
       {
         "name": "El Chavo del 8",
-        "uri": "mkYdbUcrYeGsa8N3BZLz0qUB/nbstirLfS5+mrS+BeRtyHcB48QQ0rykObXT0ZDg",
-        "icono": "https://raw.githubusercontent.com/portedev/algo/2847ba407fd552d6da740a35ef239c16f1332404/chavodel8.jpg"
+        "icono": "https://raw.githubusercontent.com/portedev/algo/2847ba407fd552d6da740a35ef239c16f1332404/chavodel8.jpg",
+        "uri": "B2RVJu0iUQxnFTKYr9heAK3ScJoT8uuAntEQnvBn/Py7g85RMFyGqrX5z48tAre82bH5QHo5bRKGfhQ6zLnaZjIbu/6bulx+KIIC4oJcyRmKqsEw/+0a5A35o4O6Rd5YRUpInjSGUBwr4b6Kub3f/JNdM8t40gCXOPxES+JUJolnXUADjtLS+R1vqipQeX/IxV3geKiKAaAwMznBl5uW9cK9K+ZZX+75dfrrN/Vc2WMANwAm87f28uHXWJkZ8B74pqVNzsfmB/2/f6/VY2WIlHYFOZgBrRBITsHBqhgqnUA=",
+        "drm_data": "t7oEDObBFtUpMRrG11kSfSO2pvwVijxCp9knJtUGJJHn9K2IxnacYtvt6VKTeUAaHII58NXFG6WLTy0VAdpsXzjUgvN7EWvDSJucz/Q8cH4fmYUSLkiYju5rS4CvxcjcTNMGiA5jbGaxs5yW5T65h7dr4yX82dTVheZRGyqEVTFhm/AxmbxWeaMR8vYQYywK5uAuND7X/coZPJGkzjm4GTxxKB3vw2rOplUqQ1cPnG0d3ahwKeeEIFBWQDisdAgsnmANj3+9XnoH1WMRL5pDVxsBfuPAFn7Yet0m4tTBzYHTJWa8UPJjTJaTbRZNOyeEdaI7faw6Bxm293W90kNz5iWCwySGRnHxZnp7dCUUtEW9MKxEY6wQKn+ZBk7mlQyFUtwHGqxUIuxH+ylfg0oRbQ6kXlkMZlejw4OQCUqtrcyBkTQ9RwhEHLBXAzeCNpbzxpvg09S49UUeFdWNh61VsOuOCzznJ9p6zddAedZxucrgi02W0OfnxyVcSbrgEEbbAc2JkaOExgGZELWWrz0AxQ=="
       },
       {
         "name": "El Chapulin colorado",
