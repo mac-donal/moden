@@ -1830,9 +1830,28 @@
     "name": "🎬 CANALES DE CINE & SERIES",
     "samples": [
       {
-        "name": "Imagen Televisión",
-        "uri": "GuwZpSXsBEyBCHM+iX1A1ud4ydezKiqCZdBClm53RtRWfiBy2qer3OxHjQ2tog8M1c90mOG/nLfBncpp88wWoxs50dupjeF+tf6nEPjBBdMdG7o6Wu0ZDk/J3YNpiqD5",
-        "icono": "https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx/imagen_tv.png"
+        "name": "CINE PREMIUM",
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/1807/CH_LOGO/160/160/0/0/30781400075257.png",
+        "uri": "u4ZWz+4IwMVIZ0G3/rGFJuiUakMw5sn+TQ42Ug80glulnKC0fbPCsuyRC5lZcu038GljMz1kNB85SUGIaM3DsTqmWLWShihWSeFnUetoUxc=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "mMO6kxQwFdt1i0bAIoHMD1UIEiNFRa0Q9CkmAz4VSQKFSB6zile/kl1zwDXGgbqKcx+vDw1+dREXSPr1mzEsKpA7K7GYz6wp/EqtUEoYpP7qXGNNNc8NwFQapICj9RwnMBd2rWXivb+brXf1P4/4ut2VY8ILIhgQAwXFHSg7vcqAgfGVoKAZ7iHv/+VJdsfD",
+        "drm_data": "L3ZQfP1HVXBAPjIT0Yvq28bMCrDz+LE+Q82TWraMZgSKRvbz3dkfQNBDJf7n2pUupu6er1nMNXQJKRUDHVwYQ4Fh+ANRGNv4Nwy/lNZdZaPFQCOBLUrjvXlCzgPwBt9zRTUDDGYPmjNF4rpQIuWfj07ywcaROQWdtEDAeo0fSY1qR1M0bQf8aIdVBeyaKhUuREm4viza+lQbfhSggl1nnEY0O7Zlh+DfoJQgcgT32C6rLFY/S1JuXLjZL873jRMFhyQu7V0j7EZoaXpo1YUCos7c0a7qqTmmyrZ9NxtPj4SEg3MHguuX1moGECYXgKvwJeLwOdrqQ1YO/xPnRYVMa1jObnEN/h8t+NG38VewxIM="
+      },
+      {
+        "name": "CINE FAMILIAR",
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/1805/CH_LOGO/160/160/0/0/38183247075481.png",
+        "uri": "u4ZWz+4IwMVIZ0G3/rGFJuiUakMw5sn+TQ42Ug80glsNwhFppwYTDR4sb+SNdbM9nlVJJhKZEaWKwki3poWEau+rCCs2D2J8S4tVA0QGv4U=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "mMO6kxQwFdt1i0bAIoHMD1UIEiNFRa0Q9CkmAz4VSQKFSB6zile/kl1zwDXGgbqKRBGNgfi6vkF4QyQ/zN9BS8ygN8x63Lm4zylTcXBNeeNZYpr4VaYUH2jBC/9RnZKXnhgalCQRPYQ+UWgZtbA57xCAh6IRXxi0Vh3hYEJsciYYnc3lqxnvj96RH6dgnS0k",
+        "drm_data": "L3ZQfP1HVXBAPjIT0Yvq28bMCrDz+LE+Q82TWraMZgSKRvbz3dkfQNBDJf7n2pUupu6er1nMNXQJKRUDHVwYQ4Fh+ANRGNv4Nwy/lNZdZaPFQCOBLUrjvXlCzgPwBt9zRTUDDGYPmjNF4rpQIuWfj07ywcaROQWdtEDAeo0fSY1qR1M0bQf8aIdVBeyaKhUuREm4viza+lQbfhSggl1nnEY0O7Zlh+DfoJQgcgT32C6rLFY/S1JuXLjZL873jRMFhyQu7V0j7EZoaXpo1YUCos7c0a7qqTmmyrZ9NxtPj4SEg3MHguuX1moGECYXgKvwJeLwOdrqQ1YO/xPnRYVMa1jObnEN/h8t+NG38VewxIM="
+      },
+      {
+        "name": "CINE HISPANO",
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/1806/CH_LOGO/160/160/0/0/47205068074564.png",
+        "uri": "u4ZWz+4IwMVIZ0G3/rGFJuiUakMw5sn+TQ42Ug80gltC3CYj7kYFmc4pBjkWxhbA8GljMz1kNB85SUGIaM3DsVubonh8nTSg56nx+26h3FA=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "mMO6kxQwFdt1i0bAIoHMD1UIEiNFRa0Q9CkmAz4VSQKFSB6zile/kl1zwDXGgbqKTXf1NigPiRwP/6rnsL2aL0rqVyuCDr2rqWw+t3/r5Ph22f9GdJoRN6aw9wHQkAbuE5aaPlUEy8TD7BWTqcXM19dxQeHPj/UZGXOux+R2kO0fJUwlw0jgiUAJyJlTH46b",
+        "drm_data": "L3ZQfP1HVXBAPjIT0Yvq28bMCrDz+LE+Q82TWraMZgSKRvbz3dkfQNBDJf7n2pUupu6er1nMNXQJKRUDHVwYQ4Fh+ANRGNv4Nwy/lNZdZaPFQCOBLUrjvXlCzgPwBt9zRTUDDGYPmjNF4rpQIuWfj07ywcaROQWdtEDAeo0fSY1qR1M0bQf8aIdVBeyaKhUuREm4viza+lQbfhSggl1nnEY0O7Zlh+DfoJQgcgT32C6rLFY/S1JuXLjZL873jRMFhyQu7V0j7EZoaXpo1YUCos7c0a7qqTmmyrZ9NxtPj4SEg3MHguuX1moGECYXgKvwJeLwOdrqQ1YO/xPnRYVMa1jObnEN/h8t+NG38VewxIM="
       },
       {
         "name": "Wtv",
